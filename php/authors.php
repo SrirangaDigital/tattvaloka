@@ -3,7 +3,7 @@
 		<div class="cd-scrolling-bg cd-color-2">
 			<div class="cd-container">
 				<h1 class="clr1">Archive &gt; Authors</h1>
-				<div class="alphabet gapBelowSmall gapAboveSmall">
+<!-- 				<div class="alphabet gapBelowSmall gapAboveSmall">
 					<span class="letter"><a href="authors.php?letter=A">A</a></span>
 					<span class="letter"><a href="authors.php?letter=B">B</a></span>
 					<span class="letter"><a href="authors.php?letter=C">C</a></span>
@@ -30,35 +30,36 @@
 					<span class="letter"><a href="authors.php?letter=X">X</a></span>
 					<span class="letter"><a href="authors.php?letter=Y">Y</a></span>
 					<span class="letter"><a href="authors.php?letter=Z">Z</a></span>
-				</div>
+				</div> -->
 <?php
 
 include("connect.php");
 require_once("common.php");
 
-if(isset($_GET['letter']))
-{
-	$letter=$_GET['letter'];
+// if(isset($_GET['letter']))
+// {
+// 	$letter=$_GET['letter'];
 	
-	if(!(isValidLetter($letter)))
-	{
-		echo '<span class="aFeature clr2">Invalid URL</span>';
-		echo '</div> <!-- cd-container -->';
-		echo '</div> <!-- cd-scrolling-bg -->';
-		echo '</main> <!-- cd-main-content -->';
-		include("include_footer.php");
+// 	if(!(isValidLetter($letter)))
+// 	{
+// 		echo '<span class="aFeature clr2">Invalid URL</span>';
+// 		echo '</div> <!-- cd-container -->';
+// 		echo '</div> <!-- cd-scrolling-bg -->';
+// 		echo '</main> <!-- cd-main-content -->';
+// 		include("include_footer.php");
 
-        exit(1);
-	}
+//         exit(1);
+// 	}
 	
-	($letter == '') ? $letter = 'A' : $letter = $letter;
-}
-else
-{
-	$letter = 'A';
-}
+// 	($letter == '') ? $letter = 'A' : $letter = $letter;
+// }
+// else
+// {
+// 	$letter = 'A';
+// }
 
-$query = 'select * from author where authorname like \'' . $letter . '%\' order by authorname';
+// $query = 'select * from author where authorname like \'' . $letter . '%\' order by authorname';
+$query = 'select * from author order by authorname';
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
