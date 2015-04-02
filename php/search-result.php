@@ -140,7 +140,6 @@ elseif($text!='')
 
 $result = $db->query($query); 
 $num_results = $result ? $result->num_rows : 0;
-mysql_set_charset("utf8");
 
 if ($num_results > 0)
 {
