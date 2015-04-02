@@ -7,7 +7,7 @@ $pwd = $ARGV[3];
 
 use DBI();
 
-open(IN,"tattvaaloka.xml") or die "can't open tattvaaloka.xml\n";
+open(IN,"tattvaloka.xml") or die "can't open tattvaaloka.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 

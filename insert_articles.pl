@@ -8,7 +8,7 @@ $pwd = $ARGV[3];
 use DBI();
 @ids=();
 
-open(IN,"tattvaaloka.xml") or die "can't open tattvaaloka.xml\n";
+open(IN,"<:utf8","tattvaloka.xml") or die "can't open tattvaloka.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 
@@ -25,7 +25,7 @@ $sth11d->finish();
 $sth11r=$dbh->prepare("CREATE TABLE article(title varchar(500), 
 authid varchar(200),
 authorname varchar(1000),
-featid varchar(10),
+featid varchar(100),
 page varchar(10), 
 page_end varchar(10), 
 volume varchar(3),
@@ -69,11 +69,11 @@ while($line)
 		if($pages eq $prev_pages)
 		{
 			$count++;
-			$id = "vk_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_" . $count; 
+			$id = "tl_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_" . $count; 
 		}
 		else
 		{
-			$id = "vk_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_0";
+			$id = "tl_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_0";
 			$count = 0;		
 		}
 		$prev_pages = $pages;
