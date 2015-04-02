@@ -13,7 +13,6 @@ $sth11=$dbh->prepare("drop table if exists testocr");;
 $sth11->execute();
 $sth11->finish();
 
-
 $sth11=$dbh->prepare("CREATE TABLE testocr(volume varchar(3),
 part varchar(6),
 cur_page varchar(10),

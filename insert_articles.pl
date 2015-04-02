@@ -18,9 +18,9 @@ $sth11d=$dbh->prepare("DROP TABLE IF EXISTS article");
 $sth11d->execute();
 $sth11d->finish();
 
-#~ $sth_enc=$dbh->prepare("set names utf8");
-#~ $sth_enc->execute();
-#~ $sth_enc->finish();
+$sth_enc=$dbh->prepare("set names utf8");
+$sth_enc->execute();
+$sth_enc->finish();
 
 $sth11r=$dbh->prepare("CREATE TABLE article(title varchar(500), 
 authid varchar(200),

@@ -5,7 +5,7 @@ db="tattvaloka"
 usr="root"
 pwd='mysql'
 
-echo "drop database if exists $db; create database $db charset utf8 collate utf8_general_ci;" | /usr/bin/mysql -uroot -p$pwd
+echo "CREATE DATABASE IF NOT EXISTS $db CHARACTER SET utf8 COLLATE utf8_general_ci;" | /usr/bin/mysql -uroot -p$pwd
 
 perl insert_author.pl $host $db $usr $pwd
 perl insert_feat.pl $host $db $usr $pwd
