@@ -25,11 +25,11 @@
 		</div>
 		<nav class="cd-main-nav">
 			<ul>
-				<li><a href="../index.html#home">Home</a></li>
-				<li><a href="../index.html#about">About</a></li>
-				<li><a href="../index.html#editors">Editors</a></li>
-				<li><a href="../index.html#archive">Archive</a> | <a href="volumes.php">Years</a></li>
-				<li><a href="php/help.php">Help</a></li>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Editors</a></li>
+				<li><a href="volumes.php">Archive</a> | <a href="volumes.php">Years</a></li>
+				<li><a href="#">Help</a></li>
 			</ul>
 		</nav> <!-- cd-main-nav -->
 
