@@ -1,6 +1,1090 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tattvaaloka SYSTEM  "tattvaaloka.dtd">
 <tattvaaloka>
+	<volume vnum="001">
+		<part pnum="01" month="04" year="1978">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>"Ourselves"</title>
+				<feature>Editorial</feature>
+				<page>0003-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sankara-His Life and Works</title>
+				<feature></feature>
+				<page>0010-0016</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Sources of Sankara's Thought Vidyalankara</title>
+				<feature></feature>
+				<page>0017-0026</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Works of Adi Shankara</title>
+				<feature></feature>
+				<page>0027-0051</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Introduction</title>
+				<feature></feature>
+				<page>0027-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Dasasloki</title>
+				<feature></feature>
+				<page>0033-0038</page>
+				<allauthors>
+					<author>Subbaratnam K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Manisha Panchakam</title>
+				<feature></feature>
+				<page>0039-0044</page>
+				<allauthors>
+					<author>Subbaratnam K. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ekasloki</title>
+				<feature></feature>
+				<page>0045-0047</page>
+				<allauthors>
+					<author>Vimarshananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Upadeshapanchakam</title>
+				<feature></feature>
+				<page>0048-0051</page>
+				<allauthors>
+					<author>Vimarshananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Indian Arts &amp; Science in the Vedas</title>
+				<feature></feature>
+				<page>0052-0061</page>
+				<allauthors>
+					<author>Thirugnana Sambhandham P. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru - Discourses of Sri Sri Abhinava Vidyatheertha Mahaswamigal, Jagadguru of Sri Sarada Peetam, Sringeri</title>
+				<feature></feature>
+				<page>0062-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Vidyasankara Temple, Sringeri</title>
+				<feature></feature>
+				<page>0065-0070</page>
+				<allauthors>
+					<author>Srinivasan K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0071-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0078-0078</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="02" month="06" year="1978">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0004b</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0005-0008b</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sankara - His Life and Works</title>
+				<feature></feature>
+				<page>0009-0016</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vasistha's View of Bhakti</title>
+				<feature></feature>
+				<page>0017-0024</page>
+				<allauthors>
+					<author>Kuppuswamy B. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bhakti and Advaitavedanta</title>
+				<feature></feature>
+				<page>0025-0036</page>
+				<allauthors>
+					<author>Subbaramiah D. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru - Discourses of Sri Sri Abhinava Vidyatheertha Mahaswamigal, Jagadguru of Sri Sarada Peetam, Sringeri</title>
+				<feature></feature>
+				<page>0037-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Works of Adi Sankara-Brahmanuchintanam</title>
+				<feature></feature>
+				<page>0041-0051</page>
+				<allauthors>
+					<author>Vimarshananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Vidya Sankara Temple, Sringeri</title>
+				<feature></feature>
+				<page>0052-0055</page>
+				<allauthors>
+					<author>Srinivasan K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0056-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0060-0060</page>
+				<allauthors>
+					<author>Charles Johnston</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Our new Contributors</title>
+				<feature></feature>
+				<page>0061-0061</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="08" year="1978">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sankara His Life and Works</title>
+				<feature></feature>
+				<page>0005-0018</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Historical Survey of the Source - Material in Advaita</title>
+				<feature></feature>
+				<page>0019-0030</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K. Prof</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthy Stotram</title>
+				<feature></feature>
+				<page>0031-0042</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Place of Bhakti in Sri Sankara's Gita - Bhashya</title>
+				<feature></feature>
+				<page>0043-0050</page>
+				<allauthors>
+					<author>Raghavachar S. S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Sarada Temple</title>
+				<feature></feature>
+				<page>0051-0056</page>
+				<allauthors>
+					<author>Vimarsananda Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Philosophy for the Common Man</title>
+				<feature></feature>
+				<page>0057-0059</page>
+				<allauthors>
+					<author>Editor</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru</title>
+				<feature></feature>
+				<page>0060-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0062-0064</page>
+				<allauthors>
+					<author>Alain Danielon</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News &amp; Notes</title>
+				<feature></feature>
+				<page>0065-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our New Contributors</title>
+				<feature></feature>
+				<page>0070-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0071-0079</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="10" year="1978">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Sureswaracharya</title>
+				<feature></feature>
+				<page>0006-0020</page>
+				<allauthors>
+					<author>Venkataraman K. R. Sri.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedic Exegesis-A New Look</title>
+				<feature></feature>
+				<page>0021-0032</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y. Sri.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0033-0048</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vakya vs. Drik Ganita Panchangam</title>
+				<feature></feature>
+				<page>0049-0054</page>
+				<allauthors>
+					<author>Venkataramanan K. V. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0055-0061</page>
+				<allauthors>
+					<author>S. Y. K.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="12" year="1978">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Acharya Sanandana (Padma Pada)</title>
+				<feature></feature>
+				<page>0004-0011</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Padmapada on Namassivaya Mantra</title>
+				<feature></feature>
+				<page>0012-0018</page>
+				<allauthors>
+					<author>Editor</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Padmapada's Panchapadika</title>
+				<feature></feature>
+				<page>0019-0023</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedic Exegesis-A New Look</title>
+				<feature></feature>
+				<page>0024-0030</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y. Sri.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0031-0038</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Philosophy for the Common Man</title>
+				<feature></feature>
+				<page>0039-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0041-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru</title>
+				<feature></feature>
+				<page>0044-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0048-0054</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and notes</title>
+				<feature></feature>
+				<page>0055-0059</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="02" year="1979">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Totakacharya</title>
+				<feature></feature>
+				<page>0003-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Totakashtakam</title>
+				<feature></feature>
+				<page>0005-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Totaka's Philosophical Work</title>
+				<feature></feature>
+				<page>0008-0011</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0012-0013</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0014-0020</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Bhagavadgita and Mysticism</title>
+				<feature></feature>
+				<page>0025-0030</page>
+				<allauthors>
+					<author>Krishnamoorthy K. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Philosophy for the Common Man</title>
+				<feature></feature>
+				<page>0031-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sankara on Buddhistic Metaphysics</title>
+				<feature></feature>
+				<page>0033-0047</page>
+				<allauthors>
+					<author>Raghavachar S. S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0048-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0054-0056</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="002">
+		<part pnum="01" month="04" year="1979">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0004e</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Silver Jubilee of the Peetarohanam of his Holiness Sri Sri Abhinava Vidyatheertha Mahaswamiji</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Hastamalaka</title>
+				<feature></feature>
+				<page>0006-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Hastamalakiyam</title>
+				<feature></feature>
+				<page>0011-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0015-0015</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Srividya : A Synoptic Exposition</title>
+				<feature></feature>
+				<page>0016-0021</page>
+				<allauthors>
+					<author>Sathyanarayana R. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Krishna Karnamrita</title>
+				<feature></feature>
+				<page>0022-0022</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Philosophy for the Common Man</title>
+				<feature></feature>
+				<page>0023-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru</title>
+				<feature></feature>
+				<page>0033-0033</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Eastern Mysticism and Modern Science</title>
+				<feature></feature>
+				<page>0034-0042</page>
+				<allauthors>
+					<author>Swami Amritananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Byways of Wisdom</title>
+				<feature></feature>
+				<page>0043-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Valmiki's Presentation of Manthara, Kaikeyi and Ravana</title>
+				<feature></feature>
+				<page>0046-0061</page>
+				<allauthors>
+					<author>Vimarshananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0062-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0068-0071</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="02" month="06" year="1979">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Nityabodha Ghanacharya</title>
+				<feature></feature>
+				<page>0003-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>A note on Samkshepa Sariraka</title>
+				<feature></feature>
+				<page>0008-0012</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Place of Reason in Advaita</title>
+				<feature></feature>
+				<page>0013-0024</page>
+				<allauthors>
+					<author>Gaghavachar S. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Philosophy for the Common Man</title>
+				<feature></feature>
+				<page>0025-0026</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Religion of Kalidasa</title>
+				<feature></feature>
+				<page>0027-0032</page>
+				<allauthors>
+					<author>Krishnamoorthy K. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Byways of Wisdom</title>
+				<feature></feature>
+				<page>0033-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Srividya : A Synoptic Exposition</title>
+				<feature></feature>
+				<page>0036-0045</page>
+				<allauthors>
+					<author>Sathyanarayana R. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru</title>
+				<feature></feature>
+				<page>0046-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0047-0054</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0055-0055</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0056-0058b</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0059-0065</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="08" year="1979">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Jnanaghana Acharya</title>
+				<feature></feature>
+				<page>0003-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Tattvasuddhi and Subjectivism</title>
+				<feature></feature>
+				<page>0004-0009</page>
+				<allauthors>
+					<author>Late Suryanarayana Sastry S. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Place of Reason in Advaita</title>
+				<feature></feature>
+				<page>0010-0023</page>
+				<allauthors>
+					<author>Raghavachar S. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0024-0025</page>
+				<allauthors>
+					<author>Max Muller</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Birth as a Human Being</title>
+				<feature></feature>
+				<page>0026-0038</page>
+				<allauthors>
+					<author>Jagadguru Sri Chandrashekara Bharati Mahaswamigal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Paramaguru</title>
+				<feature></feature>
+				<page>0039-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Shrividya : A Synoptic Exposition</title>
+				<feature></feature>
+				<page>0044-0057</page>
+				<allauthors>
+					<author>Sathyanarayana R. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Byways of Wisdom</title>
+				<feature></feature>
+				<page>0058-0060</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0061-0068</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Philosophy for the Common Man</title>
+				<feature></feature>
+				<page>0069-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0071-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="10" year="1979">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Jnanottama Acharya</title>
+				<feature></feature>
+				<page>0004-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sankara and Lalitadvaita</title>
+				<feature></feature>
+				<page>0008-0012</page>
+				<allauthors>
+					<author>Mahadevan T. M. P. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Guha-Protrait by Valmiki and Kambar</title>
+				<feature></feature>
+				<page>0013-0022</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Byways of Wisdom</title>
+				<feature></feature>
+				<page>0023-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Paramestiguru</title>
+				<feature></feature>
+				<page>0033-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Poetic Beauty and Devotional Fervour in Sankara's works</title>
+				<feature></feature>
+				<page>0036-0046</page>
+				<allauthors>
+					<author>Thirugnanasambandham P. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Philosophy for the Common Man</title>
+				<feature></feature>
+				<page>0047-0048</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0049-0051</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" month="12" year="1979">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Four Great Acharyas</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sankara and Lalitadvaita</title>
+				<feature></feature>
+				<page>0006-0011</page>
+				<allauthors>
+					<author>Mahadevan T. M. P. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Byways of Wisdom</title>
+				<feature></feature>
+				<page>0012-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Modern Civilisation and the Vedanta</title>
+				<feature></feature>
+				<page>0015-0021</page>
+				<allauthors>
+					<author>Rajam Iyer B. R. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru</title>
+				<feature></feature>
+				<page>0022-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Na Karmana ( न कर्मणा ) Verses</title>
+				<feature></feature>
+				<page>0033-0036</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Conception of Saraswati</title>
+				<feature></feature>
+				<page>0037-0046</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0047-0048</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature></feature>
+				<page>0049-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0054-0059</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="02" year="1980">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta and Modern Life</title>
+				<feature></feature>
+				<page>0004-0013</page>
+				<allauthors>
+					<author>Ramakrishna Rao K. B. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Hindu Dharma</title>
+				<feature></feature>
+				<page>0014-0018</page>
+				<allauthors>
+					<author>Ramaprasada Rao T. Sri Justice</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Byways of Wisdom</title>
+				<feature></feature>
+				<page>0019-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Shankara and World-Thought</title>
+				<feature></feature>
+				<page>0021-0027</page>
+				<allauthors>
+					<author>Raghavachar S. S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Karuna Rasa in Samskrita</title>
+				<feature></feature>
+				<page>0029-0036</page>
+				<allauthors>
+					<author>Ramachandra Sastri S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Thou Art That</title>
+				<feature></feature>
+				<page>0037-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0039-0046</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>As others see us</title>
+				<feature></feature>
+				<page>0047-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0048-0061</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="003">
+		<part pnum="01" month="04" year="1980">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Sadasivendra Pancharatna Stotram</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Sadasivendra Sarasvati</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Balasubramanyam T. K. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Brahmatattvaprakasika of Sri Sadasivendra Sarasvati</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Note on Atmavidyavilasa</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Dakshina Murthy N. S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Kirtanas of Sri Sadasiva Brahmendra</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Krishnaswamy S. Y. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Sadasiva Brahmam and The Jagadgurus of Sringeri</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Sivasubramaniyam N. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Yogasutravritti</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>"Karunarasa" In English Literature</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Ramaswamy S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Karunarasa in Samskritha</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Ramachandra Sastry S. Sri</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
 	<volume vnum="004">
 		<part pnum="02" month="06" year="1981">
 			<entry>
