@@ -1938,23 +1938,19 @@
 			<entry>
 				<title>Prayer</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<page>0001-0001</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>जगन्नाथाष्टकम्</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<page>0002-0003</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>What is Yoga</title>
 				<feature></feature>
-				<page></page>
+				<page>0004-0014</page>
 				<allauthors>
 					<author>Adidevananda Swami Sri</author>
 				</allauthors>
@@ -1962,258 +1958,150 @@
 			<entry>
 				<title>Karma in Vedanta and Bhagavadgita</title>
 				<feature></feature>
-				<page></page>
+				<page>0015-0025</page>
 				<allauthors>
 					<author>Sethu Bai C. Smt.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>A Note on Vacaspati Misra</title>
 				<feature></feature>
-				<page></page>
+				<page>0026-0033</page>
 				<allauthors>
-					<author></author>
+					<author>Seshagiri Rao V. N. Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Science, An Ally and Not a Rival to Religion - Part I</title>
 				<feature></feature>
-				<page></page>
+				<page>0034-0039</page>
 				<allauthors>
-					<author></author>
+					<author>Chandrashekarayya U. Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Hiriyanna's Indian Aesthetics</title>
 				<feature></feature>
-				<page></page>
+				<page>0040-0045</page>
 				<allauthors>
-					<author></author>
+					<author>Rama Swamy S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Sayings of Sadguru</title>
 				<feature></feature>
-				<page></page>
+				<page>0046-0048</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0049-0056</page>
 				<allauthors>
-					<author></author>
+					<author>Subbaramaiya D. S. Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>The Knowledge of Brahman</title>
 				<feature></feature>
-				<page></page>
+				<page>0057-0057</page>
 				<allauthors>
-					<author></author>
+					<author>Nambi S. Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Book Review</title>
 				<feature></feature>
-				<page></page>
+				<page>0058-0058</page>
 				<allauthors>
-					<author></author>
+					<author>Balasubrahmanya N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>News and Notes</title>
 				<feature></feature>
-				<page></page>
+				<page>0059-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="02" year="1982">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>धन्याष्टकम्</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Purport of the Brahmasutras</title>
+				<feature></feature>
+				<page>0004-0007</page>
 				<allauthors>
-					<author></author>
+					<author>Sastri S. S. Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>The Philosophy of Sri Ramana</title>
 				<feature></feature>
-				<page></page>
+				<page>0008-0018</page>
 				<allauthors>
-					<author></author>
+					<author>Ramakrishna Rao K. B. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>The Epilogues of Kalidasa</title>
 				<feature></feature>
-				<page></page>
+				<page>0019-0029</page>
 				<allauthors>
-					<author></author>
+					<author>Balasubrahmanya N. Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Science, An All and Not a Rival to Religion</title>
 				<feature></feature>
-				<page></page>
+				<page>0030-0036</page>
 				<allauthors>
-					<author></author>
+					<author>Chandrashekarayya U. Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Sayings of Sadguru</title>
 				<feature></feature>
-				<page></page>
+				<page>0037-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0041-0048</page>
 				<allauthors>
-					<author></author>
+					<author>Subbaramaiya D. S. Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Book Review</title>
 				<feature></feature>
-				<page></page>
+				<page>0049-0050</page>
 				<allauthors>
-					<author></author>
+					<author>Krishnamurthy T. S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Our Contributors</title>
 				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<page>0051-0051</page>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
@@ -2296,8 +2184,554 @@
 				<allauthors />
 			</entry>
 		</part>
+		<part pnum="02" month="06" year="1982">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>गणेशपञ्चरत्नम्</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Padmapadacharya</title>
+				<feature></feature>
+				<page>0004-0005</page>
+				<allauthors>
+					<author>Sastry S. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Isavasya Upanishat</title>
+				<feature></feature>
+				<page>0006-0010</page>
+				<allauthors>
+					<author>Achalananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Shankaracharya and National Integration</title>
+				<feature></feature>
+				<page>0011-0016</page>
+				<allauthors>
+					<author>Amritananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Emerson's "Brahma" in the Light of his Sanskrit Verses</title>
+				<feature></feature>
+				<page>0017-0024</page>
+				<allauthors>
+					<author>Ramaswamy S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Murthi Stotram</title>
+				<feature></feature>
+				<page>0025-0040</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0041-0042</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Surrender (Poem)</title>
+				<feature></feature>
+				<page>0043-0043</page>
+				<allauthors>
+					<author>Nambi S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0044-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0046-0054</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0055-0055</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="08" year="1982">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>साधनपञ्चरत्नम्</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Suresvara and his Works</title>
+				<feature></feature>
+				<page>0004-0014</page>
+				<allauthors>
+					<author>Sastry S. S. Panditaraja Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Peacemaking - Its Spiritual Aspects</title>
+				<feature></feature>
+				<page>0015-0021</page>
+				<allauthors>
+					<author>Satchidananda Murthy K. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Portrait of Yajnavalkya - The Philosopher Par Excellence of the Upanishads</title>
+				<feature></feature>
+				<page>0022-0025</page>
+				<allauthors>
+					<author>Patil D. L. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Experience of Poetry in the Eyes of Vedantins</title>
+				<feature></feature>
+				<page>0026-0030</page>
+				<allauthors>
+					<author>Krishnamoorthy K. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0031-0034</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0035-0042</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Note on the Samudramathana Champu</title>
+				<feature></feature>
+				<page>0043-0049</page>
+				<allauthors>
+					<author>Datta K. S. R. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Cosmic Rhythm (Poem)</title>
+				<feature></feature>
+				<page>0050-0050</page>
+				<allauthors>
+					<author>Nambi S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="10" year="1982">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>गग्डांष्टकम्</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Mandana Misra and Brahma Siddhi</title>
+				<feature></feature>
+				<page>0004-0007</page>
+				<allauthors>
+					<author>Sastry S. S. Panditaraja Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Tantrik Poem on Sri Sarada of Sringeri</title>
+				<feature></feature>
+				<page>0008-0012</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K. Vidyalankara Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The "Self" in New Zealand Poetry - An Advaitic Approach</title>
+				<feature></feature>
+				<page>0013-0027</page>
+				<allauthors>
+					<author>Ramaswamy S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bhagavad Gita and Kalidasa : Blake and Arnold</title>
+				<feature></feature>
+				<page>0028-0044</page>
+				<allauthors>
+					<author>Sastri P. S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0045-0052</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0053-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0058-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0065-0065</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" month="12" year="1982">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीमीनाक्षीस्तोत्रम् </title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Vacaspathi Misra</title>
+				<feature></feature>
+				<page>0004-0010</page>
+				<allauthors>
+					<author>Sastry S. S. Panditaraja Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Hermeneutics in Samkara's Advaitism</title>
+				<feature></feature>
+				<page>0011-0019</page>
+				<allauthors>
+					<author>Dubey S. P. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bhagavad Gita and Kalidasa : Blake and Arnold</title>
+				<feature></feature>
+				<page>0020-0036</page>
+				<allauthors>
+					<author>Sastry P. S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0037-0044</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0045-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Waiting for the Sankaracharyas</title>
+				<feature></feature>
+				<page>0047-0051</page>
+				<allauthors>
+					<author>Rajendra Verma Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0052-0056</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0057-0057</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="02" year="1983">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>मणिकर्णिकाष्टकम्</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Sankara's Theory of Truth</title>
+				<feature></feature>
+				<page>0005-0012</page>
+				<allauthors>
+					<author>Ramakrishna Rao K. B. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Glory and Sublimity of Gita</title>
+				<feature></feature>
+				<page>0013-0021</page>
+				<allauthors>
+					<author>Nagaraja Rao P. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मनोनियमनम्</title>
+				<feature></feature>
+				<page>0022-0024</page>
+				<allauthors>
+					<author>Achalananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0025-0032</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bhagavad Gita and Kalidasa : Blake and Arnold</title>
+				<feature></feature>
+				<page>0033-0046</page>
+				<allauthors>
+					<author>Sastri P. S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0047-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0053-0053</page>
+				<allauthors />
+			</entry>
+		</part>
 	</volume>
 	<volume vnum="006">
+		<part pnum="01" month="04" year="1983">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>मनीषापञ्चकम्</title>
+				<feature></feature>
+				<page>0002-0003</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Advaita</title>
+				<feature></feature>
+				<page>0004-0010</page>
+				<allauthors>
+					<author>Sastry S. S. Panditaraja</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Concept of the Saksin</title>
+				<feature></feature>
+				<page>0011-0021</page>
+				<allauthors>
+					<author>Sundaram P. K. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>India and France in Raja Rao's "The Serpent and The Rope"</title>
+				<feature></feature>
+				<page>0022-0027</page>
+				<allauthors>
+					<author>Ramaswamy S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Portrait of Yajnavalkya</title>
+				<feature></feature>
+				<page>0028-0034</page>
+				<allauthors>
+					<author>Patil D. L. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0035-0038b</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0039-0046</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0047-0052</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Obituary</title>
+				<feature></feature>
+				<page>0053-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0054-0054</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="02" month="06" year="1983">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>दशत्र्लोकी</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Philosophical Prose Style of Sankara</title>
+				<feature></feature>
+				<page>0005-0019</page>
+				<allauthors>
+					<author>Balasubramanian R. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mulavidya According to Bhashya and Vartika</title>
+				<feature></feature>
+				<page>0020-0028</page>
+				<allauthors>
+					<author>Krishna Jois K. Vidwan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Theory of Ahimsa in the World Context</title>
+				<feature></feature>
+				<page>0029-0034</page>
+				<allauthors>
+					<author>Graciela de la Lama Professor Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0035-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Kalidasa as a World Author</title>
+				<feature></feature>
+				<page>0039-0044</page>
+				<allauthors>
+					<author>Krishnamoorthy K. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0045-0052</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Review</title>
+				<feature></feature>
+				<page>0053-0055</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0056-0056</page>
+				<allauthors />
+			</entry>
+		</part>
 		<part pnum="03" month="08" year="1983">
 			<entry>
 				<title>Prayer</title>
@@ -2609,6 +3043,204 @@
 			</entry>
 		</part>
 	</volume>
+	<volume vnum="007">
+		<part pnum="01" month="04" year="1984">
+			<entry>
+				<title>Editorial</title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author>Editors</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Devotion</title>
+				<feature></feature>
+				<page>0001-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Greatness of H. H. Chandrasekhara Bharathi Mahaswamigal</title>
+				<feature></feature>
+				<page>0007-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Parables of our Acharyal</title>
+				<feature></feature>
+				<page>0010-0014</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Human Birth</title>
+				<feature></feature>
+				<page>0015-0018</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Incidents relating to our Acharyal</title>
+				<feature></feature>
+				<page>0019-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The qualities of Sri Rama</title>
+				<feature></feature>
+				<page>0021-0025</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Analogies and stories of Yoga Vasista</title>
+				<feature></feature>
+				<page>0026-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Does science provide shortcuts to meditation?</title>
+				<feature></feature>
+				<page>0030-0033</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Quiz</title>
+				<feature></feature>
+				<page>0034-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0036-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0039-0042</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page>0043-0046</page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0047-0050</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04-05-06" month="0" year="1984-1985">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>साम्बदशत्र्लोकी स्तुतिः</title>
+				<feature></feature>
+				<page>0002-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Kumbhabhishekam Celebrations of Sri Bhavani Malahanikareswara Temple at Sringeri</title>
+				<feature></feature>
+				<page>0005-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The 35th Vardhanti of His Holiness Sri Sannidhanam</title>
+				<feature></feature>
+				<page>0020-0020</page>
+				<allauthors>
+					<author>Sastry M. P. L. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0021-0044</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Advaita</title>
+				<feature></feature>
+				<page>0045-0051</page>
+				<allauthors>
+					<author>Subramanya Sastry S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Philosophy of Rig Veda</title>
+				<feature></feature>
+				<page>0052-0060</page>
+				<allauthors>
+					<author>Ranganath S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Importance of "Bhakti Marga" or the Path of Devotion in attaining "Moksha"</title>
+				<feature></feature>
+				<page>0061-0067</page>
+				<allauthors>
+					<author>Sankaran K. K. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Unique Bhana</title>
+				<feature></feature>
+				<page>0068-0071</page>
+				<allauthors>
+					<author>Datta K. S. R. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Laukika Nyayas or Popular Maxims in Sanskrit</title>
+				<feature></feature>
+				<page>0072-0086</page>
+				<allauthors>
+					<author>Sreelakshmi B. G. Smt.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>India and Oxford - A Tribute to Monier-Williams</title>
+				<feature></feature>
+				<page>0087-0100</page>
+				<allauthors>
+					<author>Ramaswamy S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0101-0103</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Manoniyamanam of Sadasivendra</title>
+				<feature></feature>
+				<page>0104-0105</page>
+				<allauthors>
+					<author>Achalananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0106-0106</page>
+				<allauthors />
+			</entry>
+		</part>
+	</volume>
 	<volume vnum="008">
 		<part pnum="01-02" month="04-06" year="1985">
 			<entry>
@@ -2704,6 +3336,612 @@
 				<feature>Our Contributors</feature>
 				<page>0085-0085</page>
 				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="08" year="1985">
+			<entry>
+				<title>Prayer</title>
+				<feature></feature>
+				<page>0001-0001</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अनात्मश्रीविगहर्णम्</title>
+				<feature></feature>
+				<page>0002-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Seminar on "Visayapratyaksha or Perception in Science and Darshana Sastras"</title>
+				<feature></feature>
+				<page>0006-0016</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Dakshinamurthi Stotram</title>
+				<feature></feature>
+				<page>0017-0032</page>
+				<allauthors>
+					<author>Subbaramaiya D. S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Samkara's Advaita Philosophy</title>
+				<feature></feature>
+				<page>0033-0037</page>
+				<allauthors>
+					<author>Nyshadham Prabhakara Rao Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Theme of Self in Modern Writing in English in the Light of Adi Shankaracharya's 'Hastamalakiyam'</title>
+				<feature></feature>
+				<page>0038-0046</page>
+				<allauthors>
+					<author>Ramaswamy S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sisupalavadha as a Mahakavya</title>
+				<feature></feature>
+				<page>0047-0052</page>
+				<allauthors>
+					<author>Ranganath S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Temple Worship</title>
+				<feature></feature>
+				<page>0053-0058</page>
+				<allauthors>
+					<author>Nambi S. Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of Sadguru</title>
+				<feature></feature>
+				<page>0059-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Notes</title>
+				<feature></feature>
+				<page>0064-0065</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book-Review</title>
+				<feature></feature>
+				<page>0066-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature></feature>
+				<page>0068-0068</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="10" year="1985">
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<page></page>
+				<allauthors>
+					<author></author>
+				</allauthors>
 			</entry>
 		</part>
 	</volume>
