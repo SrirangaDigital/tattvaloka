@@ -4159,7 +4159,7 @@
 		<part pnum="01" month="04/05" year="1987">
 			<entry>
 				<title>Preface</title>
-				<feature></feature>
+				<feature>Preface</feature>
 				<page>0005-0008</page>
 				<allauthors />
 			</entry>
@@ -4170,14 +4170,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Part One - Adi Sankara : His Personality</title>
-				<feature></feature>
-				<page>0011-0030</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Sankara Lives Today</title>
-				<feature></feature>
+				<feature>Adi Sankara : His Personality</feature>
 				<page>0013-0014</page>
 				<allauthors>
 					<author>Swaminathan K. Prof.</author>
@@ -4185,7 +4179,7 @@
 			</entry>
 			<entry>
 				<title>Relevance of Adi Sankara to Modern Times</title>
-				<feature></feature>
+				<feature>Adi Sankara : His Personality</feature>
 				<page>0015-0018</page>
 				<allauthors>
 					<author>Ramaswamy A.</author>
@@ -4193,7 +4187,7 @@
 			</entry>
 			<entry>
 				<title>Face to Face with Sankara</title>
-				<feature></feature>
+				<feature>Adi Sankara : His Personality</feature>
 				<page>0019-0022</page>
 				<allauthors>
 					<author>Suryanarayan V.</author>
@@ -4201,7 +4195,7 @@
 			</entry>
 			<entry>
 				<title>Sankara and Western Spiritual Tradition</title>
-				<feature></feature>
+				<feature>Adi Sankara : His Personality</feature>
 				<page>0023-0026</page>
 				<allauthors>
 					<author>Ramaswami S.</author>
@@ -4209,21 +4203,15 @@
 			</entry>
 			<entry>
 				<title>Sringeri and Sankara</title>
-				<feature></feature>
+				<feature>Adi Sankara : His Personality</feature>
 				<page>0027-0030</page>
 				<allauthors>
 					<author>Sethuram E. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Part Two - Philosophy and Works</title>
-				<feature></feature>
-				<page>0031-0050</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Is Sankara's Philosophy Modern?</title>
-				<feature></feature>
+				<feature>Philosophy and Works</feature>
 				<page>0033-0038</page>
 				<allauthors>
 					<author>Subrahmania Iyer V.</author>
@@ -4231,7 +4219,7 @@
 			</entry>
 			<entry>
 				<title>Viveka Chudamani</title>
-				<feature></feature>
+				<feature>Philosophy and Works</feature>
 				<page>0039-0042</page>
 				<allauthors>
 					<author>Bhagavan Sri Ramana Maharshi</author>
@@ -4239,7 +4227,7 @@
 			</entry>
 			<entry>
 				<title>Bhagavatpada's Commentary on the Gita - Some Unique Features</title>
-				<feature></feature>
+				<feature>Philosophy and Works</feature>
 				<page>0043-0046</page>
 				<allauthors>
 					<author>Swami Tryambakeswarananda</author>
@@ -4247,75 +4235,63 @@
 			</entry>
 			<entry>
 				<title>Avinayam Apanaya Vishno!</title>
-				<feature></feature>
+				<feature>Philosophy and Works</feature>
 				<page>0047-0050</page>
 				<allauthors>
 					<author>Anantharamaseshan T. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Part Three - Acharya's Hymns</title>
-				<feature></feature>
-				<page>0051-0070</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Sri Ganesa</title>
-				<feature></feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0053-0053</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Siva</title>
-				<feature></feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0054-0055</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Tripurasundari</title>
-				<feature></feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0056-0059</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Lakshmi Nrisimha</title>
-				<feature></feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0060-0061</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Surya Narayana</title>
-				<feature></feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0062-0062</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Rama</title>
-				<feature></feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0063-0064</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Krishna</title>
-				<feature></feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0065-0066</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Kartikeya</title>
-				<feature></feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0067-0070</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Part Four - Vedanta in Daily Life</title>
-				<feature></feature>
-				<page>0071-0096</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>An Upanishadic Convocation</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0073-0076</page>
 				<allauthors>
 					<author>Diwakar R. R.</author>
@@ -4323,7 +4299,7 @@
 			</entry>
 			<entry>
 				<title>Thou Art That</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0077-0078</page>
 				<allauthors>
 					<author>Jayadeva Yogendra Dr.</author>
@@ -4331,7 +4307,7 @@
 			</entry>
 			<entry>
 				<title>How Well Do You Know Adi Sankara?</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0079-0080</page>
 				<allauthors>
 					<author>Eswaran B. V.</author>
@@ -4339,7 +4315,7 @@
 			</entry>
 			<entry>
 				<title>The Art of Relaxation</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0081-0086</page>
 				<allauthors>
 					<author>Hansa Jayadeva</author>
@@ -4347,13 +4323,13 @@
 			</entry>
 			<entry>
 				<title>The Yogi and the Housewife - A Puranic Short Story</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0087-0089</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Is Pilgrimage a Necessary Sadhana?</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0090-0092</page>
 				<allauthors>
 					<author>Swami (Devi) Vasantananda</author>
@@ -4375,7 +4351,7 @@
 		<part pnum="02" month="06/07" year="1987">
 			<entry>
 				<title>Preface</title>
-				<feature></feature>
+				<feature>Preface</feature>
 				<page>0005-0006</page>
 				<allauthors />
 			</entry>
@@ -4386,14 +4362,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Part One - What is Jivanmukti?</title>
-				<feature></feature>
-				<page>0009-0030</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Attributes of a Jivanmukta</title>
-				<feature></feature>
+				<feature>What is Jivanmukti?</feature>
 				<page>0011-0016</page>
 				<allauthors>
 					<author>Sri Maha Sannidhanam</author>
@@ -4401,7 +4371,7 @@
 			</entry>
 			<entry>
 				<title>Ever in Awareness</title>
-				<feature></feature>
+				<feature>What is Jivanmukti?</feature>
 				<page>0017-0018</page>
 				<allauthors>
 					<author>Ramathirtha H. N.</author>
@@ -4409,7 +4379,7 @@
 			</entry>
 			<entry>
 				<title>Dattatreya's Jivanmukta Gita</title>
-				<feature></feature>
+				<feature>What is Jivanmukti?</feature>
 				<page>0019-0022</page>
 				<allauthors>
 					<author>"Haran"</author>
@@ -4417,7 +4387,7 @@
 			</entry>
 			<entry>
 				<title>Bharat Self-Luminous</title>
-				<feature></feature>
+				<feature>What is Jivanmukti?</feature>
 				<page>0023-0024</page>
 				<allauthors>
 					<author>Ramakrishnan C. L.</author>
@@ -4425,27 +4395,21 @@
 			</entry>
 			<entry>
 				<title>Vidyaranya's Way to Jivanmukti</title>
-				<feature></feature>
+				<feature>What is Jivanmukti?</feature>
 				<page>0025-0030</page>
 				<allauthors>
 					<author>Swami Tryambakeswarananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Part Two - Saints and Their Sayings</title>
-				<feature></feature>
-				<page>0031-0058</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>The Guru Parampara of Sringeri Matha From "Punarnava", Stroudsburg, USA</title>
-				<feature></feature>
+				<feature>Saints and Their Sayings</feature>
 				<page>0033-0044</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Homage to the Master</title>
-				<feature></feature>
+				<feature>Saints and Their Sayings</feature>
 				<page>0045-0045</page>
 				<allauthors>
 					<author>Satyanarayana V.</author>
@@ -4453,13 +4417,13 @@
 			</entry>
 			<entry>
 				<title>Influence of Chandrasekhara Bharati Recalled Devotees</title>
-				<feature></feature>
+				<feature>Saints and Their Sayings</feature>
 				<page>0046-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Are you a Believer?</title>
-				<feature></feature>
+				<feature>Saints and Their Sayings</feature>
 				<page>0049-0052</page>
 				<allauthors>
 					<author>Chandrasekhara Bharati Swami Sri</author>
@@ -4467,7 +4431,7 @@
 			</entry>
 			<entry>
 				<title>Suka : A Jivanmukta Par Excellence</title>
-				<feature></feature>
+				<feature>Saints and Their Sayings</feature>
 				<page>0053-0055</page>
 				<allauthors>
 					<author>Suryanarayan V.</author>
@@ -4475,29 +4439,23 @@
 			</entry>
 			<entry>
 				<title>Meaning of Life</title>
-				<feature></feature>
+				<feature>Saints and Their Sayings</feature>
 				<page>0056-0058</page>
 				<allauthors>
 					<author>Ramaswami S. Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Part Three - Atma Vidya Vilasa</title>
+				<title>Atma Vidya Vilasa</title>
 				<feature></feature>
-				<page>0059-0076</page>
+				<page>0061-0076</page>
 				<allauthors>
 					<author>Sadasiva Brahmendra Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Part Four - Vedanta in Daily Life</title>
-				<feature></feature>
-				<page>0077-0099</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Gayatri Mahima</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0079-0084</page>
 				<allauthors>
 					<author>Hariharan N.</author>
@@ -4505,7 +4463,7 @@
 			</entry>
 			<entry>
 				<title>Seed of Brahma Jnana</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0085-0087</page>
 				<allauthors>
 					<author>Suryanarayana H. S.</author>
@@ -4513,7 +4471,7 @@
 			</entry>
 			<entry>
 				<title>Sandhya Worship</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0088-0088</page>
 				<allauthors>
 					<author>Krishnaswami Aiyar R.</author>
@@ -4521,7 +4479,7 @@
 			</entry>
 			<entry>
 				<title>Quiz on Jivanmuktas</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0089-0090</page>
 				<allauthors>
 					<author>Eswaran B. V.</author>
@@ -4529,7 +4487,7 @@
 			</entry>
 			<entry>
 				<title>Fifteen Steps to Realisation</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0091-0095</page>
 				<allauthors>
 					<author>Sastri S. N.</author>
@@ -4545,7 +4503,7 @@
 		<part pnum="03" month="08/09" year="1987">
 			<entry>
 				<title>Preface</title>
-				<feature></feature>
+				<feature>Preface</feature>
 				<page>0005-0006</page>
 				<allauthors />
 			</entry>
@@ -4556,14 +4514,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Part One - Nadopasana</title>
-				<feature></feature>
-				<page>0009-0030</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Worship of Nada Brahman</title>
-				<feature></feature>
+				<feature>Nadopasana</feature>
 				<page>0011-0014</page>
 				<allauthors>
 					<author>Parthasarathy T. S.</author>
@@ -4571,7 +4523,7 @@
 			</entry>
 			<entry>
 				<title>Nada - The Legendary Reality</title>
-				<feature></feature>
+				<feature>Nadopasana</feature>
 				<page>0015-0019</page>
 				<allauthors>
 					<author>Suryanarayan V.</author>
@@ -4579,7 +4531,7 @@
 			</entry>
 			<entry>
 				<title>Knowing Truth Through Music</title>
-				<feature></feature>
+				<feature>Nadopasana</feature>
 				<page>0020-0024</page>
 				<allauthors>
 					<author>Tryambakeswarananda</author>
@@ -4587,7 +4539,7 @@
 			</entry>
 			<entry>
 				<title>Elevating Effect of Veena</title>
-				<feature></feature>
+				<feature>Nadopasana</feature>
 				<page>0025-0027</page>
 				<allauthors>
 					<author>Geeta Raja</author>
@@ -4595,21 +4547,15 @@
 			</entry>
 			<entry>
 				<title>Aesthetics and Spirituality</title>
-				<feature></feature>
+				<feature>Nadopasana</feature>
 				<page>0028-0030</page>
 				<allauthors>
 					<author>Hariharan N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Part Two - Lives of Nadopasakas</title>
-				<feature></feature>
-				<page>0031-0060</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Tyagaraja and Nada Brahmam</title>
-				<feature></feature>
+				<feature>Lives of Nadopasakas</feature>
 				<page>0033-0036</page>
 				<allauthors>
 					<author>Sundaram S. P.</author>
@@ -4617,7 +4563,7 @@
 			</entry>
 			<entry>
 				<title>Syama Sastry - The Devi-bhakta</title>
-				<feature></feature>
+				<feature>Lives of Nadopasakas</feature>
 				<page>0037-0042</page>
 				<allauthors>
 					<author>Vidya Shankar Smt.</author>
@@ -4625,7 +4571,7 @@
 			</entry>
 			<entry>
 				<title>Muthuswamy Dikshitar</title>
-				<feature></feature>
+				<feature>Lives of Nadopasakas</feature>
 				<page>0043-0046</page>
 				<allauthors>
 					<author>Venkataraman T. L.</author>
@@ -4633,7 +4579,7 @@
 			</entry>
 			<entry>
 				<title>Pancharatna Haripath</title>
-				<feature></feature>
+				<feature>Lives of Nadopasakas</feature>
 				<page>0047-0050</page>
 				<allauthors>
 					<author>Srinivasan S. Dr.</author>
@@ -4641,7 +4587,7 @@
 			</entry>
 			<entry>
 				<title>The Krishna Theme in Music</title>
-				<feature></feature>
+				<feature>Lives of Nadopasakas</feature>
 				<page>0051-0056</page>
 				<allauthors>
 					<author>Sugandha Raman Mrs.</author>
@@ -4649,21 +4595,15 @@
 			</entry>
 			<entry>
 				<title>Counsel through Songs</title>
-				<feature></feature>
+				<feature>Lives of Nadopasakas</feature>
 				<page>0057-0060</page>
 				<allauthors>
 					<author>Mani G. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Part Three - Songs of Saints</title>
-				<feature></feature>
-				<page>0061-0076</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Sri Venkateswara Karavalamba Stotra</title>
-				<feature></feature>
+				<feature>Songs of Saints</feature>
 				<page>0062-0063</page>
 				<allauthors>
 					<author>Sri Sivabhinava Nrisimha Bharati H. H.</author>
@@ -4671,7 +4611,7 @@
 			</entry>
 			<entry>
 				<title>Sri Rama Geetam</title>
-				<feature></feature>
+				<feature>Songs of Saints</feature>
 				<page>0064-0064</page>
 				<allauthors>
 					<author>Sri Chandrasekhara Bharati H. H.</author>
@@ -4679,7 +4619,7 @@
 			</entry>
 			<entry>
 				<title>Sri Sarada Geetam</title>
-				<feature></feature>
+				<feature>Songs of Saints</feature>
 				<page>0065-0066</page>
 				<allauthors>
 					<author>Sri Chandrasekhara Bharati H. H.</author>
@@ -4687,7 +4627,7 @@
 			</entry>
 			<entry>
 				<title>Manasa Sancharare</title>
-				<feature></feature>
+				<feature>Songs of Saints</feature>
 				<page>0067-0067</page>
 				<allauthors>
 					<author>Sri Sadasiva Brahmendra</author>
@@ -4695,7 +4635,7 @@
 			</entry>
 			<entry>
 				<title>Pibare Rama Rasam</title>
-				<feature></feature>
+				<feature>Songs of Saints</feature>
 				<page>0068-0068</page>
 				<allauthors>
 					<author>Sri Sadasiva Brahmendra</author>
@@ -4703,21 +4643,15 @@
 			</entry>
 			<entry>
 				<title>Nada Thanumanism</title>
-				<feature></feature>
+				<feature>Songs of Saints</feature>
 				<page>0069-0076</page>
 				<allauthors>
 					<author>Saint Tyagaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Part Four - Vedanta in Daily Life</title>
-				<feature></feature>
-				<page>0077-0096</page>
-				<allauthors />
-			</entry>
-			<entry>
 				<title>Avinayam Apanaya Vishno! Apanaya - II</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0079-0082</page>
 				<allauthors>
 					<author>Anantharamaseshan T. V.</author>
@@ -4725,7 +4659,7 @@
 			</entry>
 			<entry>
 				<title>Hastamalaka</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0083-0084</page>
 				<allauthors>
 					<author>Padma Ramachandran</author>
@@ -4733,7 +4667,7 @@
 			</entry>
 			<entry>
 				<title>How Well Do You Know about Music?</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0085-0086</page>
 				<allauthors>
 					<author>Eswaran B. V.</author>
@@ -4741,7 +4675,7 @@
 			</entry>
 			<entry>
 				<title>The Yoga Educated Person</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0087-0090</page>
 				<allauthors>
 					<author>Hansa Jayadeva</author>
@@ -4749,7 +4683,7 @@
 			</entry>
 			<entry>
 				<title>Thus Spake Yajnavalkya</title>
-				<feature></feature>
+				<feature>Vedanta in Daily Life</feature>
 				<page>0091-0093</page>
 				<allauthors>
 					<author>Diwakar R. R.</author>
@@ -4762,542 +4696,1160 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" month="10/11" year="">
+		<part pnum="04" month="10/11" year="1987">
 			<entry>
-				<title></title>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Introduction - His Holisness Speaks...</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Creation Formula</title>
+				<feature>Sri Chakra Upasana</feature>
+				<page>0011-0011</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Saraswati Devyashram</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>The Evolution of Sri Chakra</title>
+				<feature>Sri Chakra Upasana</feature>
+				<page>0012-0014</page>
 				<allauthors>
-					<author></author>
+					<author>Srinivasan S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sakti and Sankara</title>
+				<feature>Sri Chakra Upasana</feature>
+				<page>0015-0018</page>
 				<allauthors>
-					<author></author>
+					<author>Ramalingeswara Rao T.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>An Abstract Worship with Tangible Benefits</title>
+				<feature>Sri Chakra Upasana</feature>
+				<page>0019-0023</page>
 				<allauthors>
-					<author></author>
+					<author>Anna Subramanian N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>How to Draw Sri Chakra</title>
+				<feature>Sri Chakra Upasana</feature>
+				<page>0024-0026</page>
 				<allauthors>
-					<author></author>
+					<author>"Lakshmidhara"</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>The Legacy of Bhaskara Raya</title>
+				<feature>The Treasures</feature>
+				<page>0029-0034</page>
 				<allauthors>
-					<author></author>
+					<author>Sankaranarayanan S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Bhavanopanishad</title>
+				<feature>The Treasures</feature>
+				<page>0035-0037</page>
 				<allauthors>
-					<author></author>
+					<author>"S. S."</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>The Path of Sri Vidya</title>
+				<feature>The Treasures</feature>
+				<page>0038-0042</page>
 				<allauthors>
-					<author></author>
+					<author>Hariharan N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Navavarana Kirtanas</title>
+				<feature>The Treasures</feature>
+				<page>0043-0047</page>
 				<allauthors>
-					<author></author>
+					<author>Rajam Aiyar B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Lalita Sahasranama</title>
+				<feature>The Treasures</feature>
+				<page>0048-0052</page>
 				<allauthors>
-					<author></author>
+					<author>"Anna"</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sri Vagisi-stava</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0055-0059</page>
 				<allauthors>
-					<author></author>
+					<author>Sankara Bhagavatpada</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Kalyana Vrishti-stava</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0060-0066</page>
 				<allauthors>
-					<author></author>
+					<author>Sankara Bhagavatpada</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Kamalaja Dayitashtaka</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0067-0070</page>
 				<allauthors>
-					<author></author>
+					<author>Sacchidananda Sivabhinava Nrisimha Bharati H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Panchadasi</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0071-0074</page>
 				<allauthors>
-					<author></author>
+					<author>Chandrasekhara Bharati H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Reunion with Mother</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0077-0077</page>
 				<allauthors>
-					<author></author>
+					<author>Subba Rao B. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>When is a Mantra Effective?</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0078-0079</page>
 				<allauthors>
-					<author></author>
+					<author>Sri Jnanananda Bharati</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>How Well do you Know Sakti?</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0080-0081</page>
 				<allauthors>
-					<author></author>
+					<author>Eswaran B. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Grace of Mookambika</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0082-0084</page>
 				<allauthors>
-					<author></author>
+					<author>Sugavaneswaran A. V.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0085-0090</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="05" month="12/01" year="1988">
+			<entry>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0005-0006</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>Introduction - His Holisness Speaks...</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Message of the Gita</title>
+				<feature>The Bhagavad Gita</feature>
+				<page>0011-0015</page>
 				<allauthors>
-					<author></author>
+					<author>Ananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Karma Yoga for Human Well-being</title>
+				<feature>The Bhagavad Gita</feature>
+				<page>0016-0018</page>
 				<allauthors>
-					<author></author>
+					<author>Ramaswami S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Bhakti Yoga</title>
+				<feature>The Bhagavad Gita</feature>
+				<page>0019-0021</page>
 				<allauthors>
-					<author></author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>The Path of Wisdom</title>
+				<feature>The Bhagavad Gita</feature>
+				<page>0022-0024</page>
 				<allauthors>
-					<author></author>
+					<author>Anna Subramanian N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Concept of Avatara in Gita</title>
+				<feature>The Bhagavad Gita</feature>
+				<page>0025-0028</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Tryambakeswarananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Gandhi on Universal Gita</title>
+				<feature>Eminent Views</feature>
+				<page>0031-0036</page>
 				<allauthors>
-					<author></author>
+					<author>Hariharan N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>An Ethical Dilemma</title>
+				<feature>Eminent Views</feature>
+				<page>0037-0042</page>
 				<allauthors>
-					<author></author>
+					<author>Richard Lannoy</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Ramana Maharshi's Epitome of Gita</title>
+				<feature>Eminent Views</feature>
+				<page>0043-0046</page>
 				<allauthors>
-					<author></author>
+					<author>Swaminathan K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Jnaneswari and Gita : A Maharashtrian Perspective</title>
+				<feature>Eminent Views</feature>
+				<page>0047-0051</page>
 				<allauthors>
-					<author></author>
+					<author>Srinivasan S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sri Aurobindo's Gospel of Life</title>
+				<feature>Eminent Views</feature>
+				<page>0052-0054</page>
 				<allauthors>
-					<author></author>
+					<author>Pandit M. P.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Attributes of a Perfect Man</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0057-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Viswa-rupa (Universal Form)</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0058-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Direct Means to Immortality</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0060-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Disposition - Spiritual Vs. Materialistic</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0062-0065</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Three Kinds : Food</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0066-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Worship</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0067-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Penance</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0067-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Gift</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0068-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Renunciation</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0069-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Pleasure</title>
+				<feature>Gita Hymns - A Selection</feature>
+				<page>0070-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Inaction in Action</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0073-0077</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Jyotirmayananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Avinayam Apanaya Vishno! - III</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0078-0082</page>
 				<allauthors>
-					<author></author>
+					<author>Anantaramaseshan T. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Don't Be Nervous</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0083-0088</page>
 				<allauthors>
-					<author></author>
+					<author>Trevor Leggett</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0089-0096</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="06" month="02/03" year="1988">
+			<entry>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Introduction - His Holisness Speaks...</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Holy Night of Siva</title>
+				<feature>Siva The Great</feature>
+				<page>0011-0013</page>
 				<allauthors>
-					<author></author>
+					<author>Ratna Ma Navaratnam</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Siva Panchakshari - Mantra Bhashya</title>
+				<feature>Siva The Great</feature>
+				<page>0014-0017</page>
 				<allauthors>
-					<author></author>
+					<author>Ramalingeswara Rao T.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Pasupatinath and other Icons in Nepal</title>
+				<feature>Siva The Great</feature>
+				<page>0018-0022</page>
 				<allauthors>
-					<author></author>
+					<author>Srinivasan S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Siva Mahima : A Poetic View</title>
+				<feature>Siva The Great</feature>
+				<page>0023-0026</page>
 				<allauthors>
-					<author></author>
+					<author>Subramanian K. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Fourfold Path of Saivite Saints</title>
+				<feature>Siva The Great</feature>
+				<page>0027-0032</page>
 				<allauthors>
-					<author></author>
+					<author>Srinivasan M. S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>The Dancing God of Chidambaram</title>
+				<feature>Dance of Siva</feature>
+				<page>0035-0039</page>
 				<allauthors>
-					<author></author>
+					<author>Ganapati Ra.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sandhya Tandava</title>
+				<feature>Dance of Siva</feature>
+				<page>0040-0048</page>
 				<allauthors>
-					<author></author>
+					<author>Sulochana Rajendran Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Glory of Siva's Forms-A Pictorial Presentation</title>
+				<feature>Dance of Siva</feature>
+				<page>0049-0060</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Ardhanariswara</title>
+				<feature>Dance of Siva</feature>
+				<page>0061-0063</page>
 				<allauthors>
-					<author></author>
+					<author>Sankaranarayanan S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Siva No Destroyer</title>
+				<feature>Dance of Siva</feature>
+				<page>0064-0067</page>
 				<allauthors>
-					<author></author>
+					<author>Ramachandran S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Subhashitas-A Banter</title>
+				<feature>Dance of Siva</feature>
+				<page>0068-0070</page>
 				<allauthors>
-					<author></author>
+					<author>Ayer V. A. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Hymn to Siva</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0073-0076</page>
 				<allauthors>
-					<author></author>
+					<author>Adi Sankaracharya</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Siva Panchakshara Stotra</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0077-0078</page>
 				<allauthors>
-					<author></author>
+					<author>Adi Sankaracharya</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Siva Bhujanga Stotra</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0079-0082</page>
 				<allauthors>
-					<author></author>
+					<author>Adi Sankaracharya</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Siva Nava Ratna Mala Stava</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0083-0085</page>
 				<allauthors>
-					<author></author>
+					<author>Sri Sacchidananda Sivabhinava Nrisimha Bharati H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sri Chandramouliswara Varnamala Stava</title>
+				<feature>Acharyas' Hymns</feature>
+				<page>0086-0088</page>
 				<allauthors>
-					<author></author>
+					<author>Sri Chandrasekhara Bharati H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sri Rudra : The Mantra Non-Pareil</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0091-0092</page>
 				<allauthors>
-					<author></author>
+					<author>Ayer V. A. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>The Spark of Siva</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0093-0093</page>
 				<allauthors>
-					<author></author>
+					<author>Swaminathan K. Prof.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>The Twelve Jyotir-Lingas</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0094-0097</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0098-0100</page>
+				<allauthors />
 			</entry>
+		</part>
+	</volume>
+	<volume vnum="011">
+		<part pnum="01" month="04/05" year="1988">
 			<entry>
-				<title></title>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Introduction - His Holisness Speaks...</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Sankara Bhagavatpada - Commentator Par Excellence</title>
+				<feature>Sankara Jayanti</feature>
+				<page>0010-0020</page>
 				<allauthors>
-					<author></author>
+					<author>Sri Bharati Teertha Sannidhanam H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sankara : The Proto-Einstein</title>
+				<feature>Sankara Jayanti</feature>
+				<page>0021-0023</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Mukhyananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sankara's Criticism of Sankhya</title>
+				<feature>Sankara Jayanti</feature>
+				<page>0024-0029</page>
 				<allauthors>
-					<author></author>
+					<author>"Punarnava"</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Anubhava of Advaita</title>
+				<feature>Sankara Jayanti</feature>
+				<page>0030-0033</page>
 				<allauthors>
-					<author></author>
+					<author>Krishnamoorthy K. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Search for Reality</title>
+				<feature>Sankara Jayanti</feature>
+				<page>0034-0037</page>
 				<allauthors>
-					<author></author>
+					<author>Hariharan N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>The Unique Teaching of Sankara</title>
+				<feature>Sankara Jayanti</feature>
+				<page>0038-0040</page>
 				<allauthors>
-					<author></author>
+					<author>Mukhopadhyaya G. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sureshwaracharya - Sankara's Offering to Saradamba</title>
+				<feature>Sankara's Works</feature>
+				<page>0042-0045</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Tryambakeswarananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sankara's Times - and Ours</title>
+				<feature>Sankara's Works</feature>
+				<page>0046-0049</page>
 				<allauthors>
-					<author></author>
+					<author>Ramaswamy H. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Atmabodha - Its Relevance to Modern Times</title>
+				<feature>Sankara's Works</feature>
+				<page>0050-0055</page>
 				<allauthors>
-					<author></author>
+					<author>Srinivasan S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>The Vishnu Sahasranama Bhashya</title>
+				<feature>Sankara's Works</feature>
+				<page>0056-0060</page>
 				<allauthors>
-					<author></author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Avinayam Apanaya Vishno! - IV</title>
+				<feature>Sankara's Works</feature>
+				<page>0061-0064</page>
 				<allauthors>
-					<author></author>
+					<author>Anantaramaseshan T. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sivanandalahari</title>
+				<feature>Sankara's Works</feature>
+				<page>0065-0068</page>
 				<allauthors>
-					<author></author>
+					<author>Anna Subramanian N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Totakashtakam</title>
+				<feature>Hymns on Sankara</feature>
+				<page>0073-0074</page>
 				<allauthors>
-					<author></author>
+					<author>Padmapadacharya Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Acharya Suvarnamala Stava</title>
+				<feature>Hymns on Sankara</feature>
+				<page>0075-0076</page>
 				<allauthors>
-					<author></author>
+					<author>Sri Sacchidananda Sivabhinava Nrisimha Bharati H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Sri Sankaracharya Bhujanga Prayata Stotra</title>
+				<feature>Hymns on Sankara</feature>
+				<page>0077-0080</page>
 				<allauthors>
-					<author></author>
+					<author>Sri Sacchidananda Sivabhinava Nrisimha Bharati H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
-				<feature></feature>
-				<page></page>
+				<title>Acharya Padavalambana Stuti</title>
+				<feature>Hymns on Sankara</feature>
+				<page>0081-0084</page>
 				<allauthors>
-					<author></author>
+					<author>Sri Chandrasekhara Bharati H. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Beneficence of Great Souls</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0088-0090</page>
+				<allauthors>
+					<author>Srinivasa Sharma S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Shower of Gold</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0091-0093</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0094-0096</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Sannidhanam</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0097-0103</page>
+				<allauthors>
+					<author>Ramalingeswara Rao T.</author>
 				</allauthors>
+			</entry>
+		</part>
+		<part pnum="02" month="06/07" year="1988">			
+			<entry>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0005-0006</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>Introduction - His Holisness Speaks...</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Greatness of Veda Vyasa</title>
+				<feature>Bhagavan Veda Vyasa - Personality and Achievements</feature>
+				<page>0011-0014</page>
+				<allauthors>
+					<author>Ramaswami S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Beaconlight of Indian Culture</title>
+				<feature>Bhagavan Veda Vyasa - Personality and Achievements</feature>
+				<page>0015-0018</page>
+				<allauthors>
+					<author>Narendranath Patil B. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Inimitable Poet of Mahabharata</title>
+				<feature>Bhagavan Veda Vyasa - Personality and Achievements</feature>
+				<page>0019-0021</page>
+				<allauthors>
+					<author>Sankaranarayanan S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sage Vyasa and Lord Ganesa</title>
+				<feature>Bhagavan Veda Vyasa - Personality and Achievements</feature>
+				<page>0022-0023</page>
+				<allauthors>
+					<author>Sundaresan M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vyasa-Sankara Encounter : A Clash of Titans</title>
+				<feature>Bhagavan Veda Vyasa - Personality and Achievements</feature>
+				<page>0024-0030</page>
+				<allauthors>
+					<author>Srinivasan S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Brahma Sutra</title>
+				<feature>Outstanding Works</feature>
+				<page>0033-0040</page>
+				<allauthors>
+					<author>"S. S."</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vyasa and Raja Yoga</title>
+				<feature>Outstanding Works</feature>
+				<page>0041-0044</page>
+				<allauthors>
+					<author>Subramanian K. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vyasa's Precepts for Purity of Mind</title>
+				<feature>Outstanding Works</feature>
+				<page>0045-0048</page>
+				<allauthors>
+					<author>Srinivasan M. S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Srimad Bhagavata : Vyasa's Epitome of Advaita</title>
+				<feature>Outstanding Works</feature>
+				<page>0049-0052</page>
+				<allauthors>
+					<author>Ramasubramania Sarma M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Veda Vyasa's Legendary Achievements</title>
+				<feature>Outstanding Works</feature>
+				<page>0053-0056</page>
+				<allauthors>
+					<author>Sharma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Adoration of Veda Vyasa</title>
+				<feature>Poems in Praise</feature>
+				<page>0058-0061</page>
+				<allauthors>
+					<author>Adi Sankaracharya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Eulogy on Sri Vyasa</title>
+				<feature>Poems in Praise</feature>
+				<page>0062-0063</page>
 				<allauthors>
 					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Viswanathashtakam</title>
+				<feature>Poems in Praise</feature>
+				<page>0064-0066</page>
+				<allauthors>
+					<author>Bhagavan Veda Vyasa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0069-0082</page>
+				<allauthors>
+					<author>Correspondents</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Right Conduct Essential</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0083-0084</page>
+				<allauthors>
+					<author>Sannidhanam Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Celestial Court Case</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0085-0088</page>
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Reviews</title>
+				<feature>Book Reviews</feature>
+				<page>0089-0094</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Index of Articles in Tattvaloka (1987-88)</title>
+				<feature></feature>
+				<page>0095-0100</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="03" month="08/09" year="1988">		
+			<entry>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0005-0006</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>Introduction - His Holisness Speaks...</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sri Vidyaranya</title>
+				<feature>Saint Vidyaranya</feature>
+				<page>0011-0013</page>
 				<allauthors>
-					<author></author>
+					<author>Ramaswami S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vidyaranya and Upanishadic Philosophy</title>
+				<feature>Saint Vidyaranya</feature>
+				<page>0014-0016</page>
+				<allauthors>
+					<author>Haramohan Mishra Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Architect of an Integrated Culture</title>
+				<feature>Saint Vidyaranya</feature>
+				<page>0017-0019</page>
+				<allauthors>
+					<author>Sharma K. L. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sage and Empire Builder</title>
+				<feature>Saint Vidyaranya</feature>
+				<page>0020-0023</page>
+				<allauthors>
+					<author>Narayanan S. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vidyaranya's Horoscope</title>
+				<feature>Saint Vidyaranya</feature>
+				<page>0024-0030</page>
+				<allauthors>
+					<author>Raman B. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vidyaranya and His Works</title>
+				<feature>Outstanding Works</feature>
+				<page>0033-0037</page>
+				<allauthors>
+					<author>Anantha Rangachar N. S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Panchadasi</title>
+				<feature>Outstanding Works</feature>
+				<page>0038-0039</page>
+				<allauthors>
+					<author>Patel N. B. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Jivanmukti Viveka</title>
+				<feature>Outstanding Works</feature>
+				<page>0040-0044</page>
+				<allauthors>
+					<author>Srinivasan S. Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Adi Sankara - A Pictorial Biography (From Madhaveeya Sankara Vijaya - Part 1.)</title>
+				<feature>Outstanding Works</feature>
+				<page>0045-0048</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sayana and Rig Veda Padapatha</title>
+				<feature>Outstanding Works</feature>
+				<page>0049-0055</page>
+				<allauthors>
+					<author>Jha V. N. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Road to Enlightenment</title>
+				<feature>Outstanding Works</feature>
+				<page>0056-0062</page>
+				<allauthors>
+					<author>Vidyaranya Sri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Vidyaranya Ashtottara Sata Nama Stotram</title>
+				<feature>Verses For Recitation</feature>
+				<page>0064-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Prabodha Sudhakara (Book Section -1)</title>
+				<feature>Verses For Recitation</feature>
+				<page>0073-0080</page>
+				<allauthors>
+					<author>Adi Sankaracharya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Avinayam Apanaya Vishno - V</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0083-0085</page>
+				<allauthors>
+					<author>Anantaramaseshan T. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Namasmarana for Health</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0086-0088</page>
+				<allauthors>
+					<author>Rajesh Vishwanathan Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>How much Do you Remember the Gita?</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0089-0090</page>
+				<allauthors>
+					<author>Eswaran B. V.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0091-0100</page>
+				<allauthors />
+			</entry>
+		</part>
+		<part pnum="04" month="10/11" year="1988">			
+			<entry>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0005-0006</page>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>Introduction - His Holisness Speaks...</title>
 				<feature></feature>
-				<page></page>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Glory of the Goddess</title>
+				<feature>Devi Mahatmyam</feature>
+				<page>0010-0019</page>
 				<allauthors>
-					<author></author>
+					<author>Brahmasri Kapali Sastriar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Worship of Sakti</title>
+				<feature>Devi Mahatmyam</feature>
+				<page>0020-0022</page>
+				<allauthors>
+					<author>Sankaranarayanan S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Battle of Life</title>
+				<feature>Devi Mahatmyam</feature>
+				<page>0023-0027</page>
+				<allauthors>
+					<author>"S. S."</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Two Paths towards Godhead</title>
+				<feature>Devi Mahatmyam</feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>"S. S."</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Devi Sukta and Rig Veda</title>
+				<feature>Devi Mahatmyam</feature>
+				<page>0030-0033</page>
+				<allauthors>
+					<author>"S. S."</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Three Secrets</title>
+				<feature>Devi Mahatmyam</feature>
+				<page>0034-0036</page>
+				<allauthors>
+					<author>"S. S."</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Adi Sankara's Life History-A Pictorial Biography-Part Two</title>
+				<feature>Devi Mahatmyam</feature>
+				<page>0037-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Devi Bhagavatam</title>
+				<feature>Devi Bhagavatam</feature>
+				<page>0042-0044</page>
+				<allauthors>
+					<author>Ramaswami S. Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mother Bhuvaneswari</title>
+				<feature>Devi Bhagavatam</feature>
+				<page>0045-0046</page>
+				<allauthors>
+					<author>Ayer V. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Essence of Vedas</title>
+				<feature>Devi Bhagavatam</feature>
+				<page>0047-0048</page>
+				<allauthors>
+					<author>Goda Venkateswara Sastri Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Suta and Sakti Puja</title>
+				<feature>Devi Bhagavatam</feature>
+				<page>0049-0050</page>
+				<allauthors>
+					<author>Subramanian K. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Forms of Sakti</title>
+				<feature>Devi Bhagavatam</feature>
+				<page>0051-0056</page>
+				<allauthors>
+					<author>Janaki S. S. Dr.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Visveswari Suktam (Devi Mahatmyam First Chapter)</title>
+				<feature>Devi Stuti</feature>
+				<page>0058-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Mahishantakari Suktam (Devi Mahatmyam Fourth Chapter)</title>
+				<feature>Devi Stuti</feature>
+				<page>0062-0069</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Narayani Suktam (Devi Mahatmyam Eleventh Chapter)</title>
+				<feature>Devi Stuti</feature>
+				<page>0070-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Devi Sarada</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0081-0084</page>
+				<allauthors>
+					<author>Venkataraman K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Gayatri</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0085-0092</page>
+				<allauthors>
+					<author>Anna Subramanian N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0093-0094</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Saaktam, The Worship of Sakti</title>
+				<feature>Vedanta in Daily Life</feature>
+				<page>0095-0100</page>
+				<allauthors>
+					<author>Srinivasan M. S. Dr.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="05" month="0" year="">			
+			<entry>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Introduction - His Holisness Speaks...</title>
+				<feature></feature>
+				<page>0007-0008</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
