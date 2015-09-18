@@ -22222,6 +22222,137 @@
 				</allauthors>
 			</entry>
 		</part>
+		<part pnum="0" month="0" year="">
+			<entry>
+				<title>It Talks, It Thinks, It Can Drive Itself</title>
+				<feature></feature>
+				<page>0004-0033</page>
+				<allauthors>
+					<author>Michelle Krebs</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Power Up Your Home Computer</title>
+				<feature></feature>
+				<page>0034-0058</page>
+				<allauthors>
+					<author>Dhiram Shah</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Unforgettable Albert Einstein</title>
+				<feature></feature>
+				<page>0059-0064</page>
+				<allauthors>
+					<author>Banesh Hoffmann</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>What Makes Sony Run</title>
+				<feature></feature>
+				<page>0065-0069</page>
+				<allauthors>
+					<author>Christopher Lucas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>10 Ways to Be a Power Surfer</title>
+				<feature></feature>
+				<page>0070-0072</page>
+				<allauthors>
+					<author>Mohan Sivanand</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ramanujan: The Man</title>
+				<feature></feature>
+				<page>0073-0079</page>
+				<allauthors>
+					<author>Sundaresan P.</author>
+					<author>Padmavijayam R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Fascinating World of Twins</title>
+				<feature></feature>
+				<page>0080-0084</page>
+				<allauthors>
+					<author>Sandra Blakeslee</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Cry for Help on the Internet</title>
+				<feature></feature>
+				<page>0085-0089</page>
+				<allauthors>
+					<author>Malcolm McConnell</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sleuths of Our Seas</title>
+				<feature></feature>
+				<page>0090-0096</page>
+				<allauthors>
+					<author>Mohan Sivanand</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Astronauts in Inner Space</title>
+				<feature></feature>
+				<page>0097-0103</page>
+				<allauthors>
+					<author>John Dyson</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Inside the Mind of a Genius</title>
+				<feature></feature>
+				<page>0104-0109</page>
+				<allauthors>
+					<author>John Boslough</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Eat What You Want</title>
+				<feature></feature>
+				<page>0110-0113</page>
+				<allauthors>
+					<author>Joseph K. Vetter</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Robot in the Kitchen</title>
+				<feature></feature>
+				<page>0114-0117</page>
+				<allauthors>
+					<author>Joseph K. Vetter</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Saga of the Shroud</title>
+				<feature></feature>
+				<page>0118-0123</page>
+				<allauthors>
+					<author>Ernest Hauser</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Humanity's Debt to Louis Pasteur</title>
+				<feature></feature>
+				<page>0124-0135</page>
+				<allauthors>
+					<author>Michel Rodet</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>High-Tech Conquers Kidney Stones</title>
+				<feature></feature>
+				<page>0136-0160</page>
+				<allauthors>
+					<author>Stanley Englebardt</author>
+				</allauthors>
+			</entry>
+		</part>
 	</volume>
 	<volume vnum="030">
 		<part pnum="01" month="04" year="2007">
@@ -30323,7 +30454,7 @@
 				<feature></feature>
 				<page>0012-0015</page>
 				<allauthors>
-					<author></author>
+					<author>Lalita Ramakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30331,7 +30462,7 @@
 				<feature></feature>
 				<page>0016-0018</page>
 				<allauthors>
-					<author></author>
+					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30339,7 +30470,7 @@
 				<feature></feature>
 				<page>0019-0023</page>
 				<allauthors>
-					<author></author>
+					<author>Viswanathan P.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30347,7 +30478,7 @@
 				<feature></feature>
 				<page>0024-0029</page>
 				<allauthors>
-					<author></author>
+					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30355,7 +30486,7 @@
 				<feature></feature>
 				<page>0030-0035</page>
 				<allauthors>
-					<author></author>
+					<author>Mrityunjaya Athreya Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30363,7 +30494,7 @@
 				<feature></feature>
 				<page>0036-0038</page>
 				<allauthors>
-					<author></author>
+					<author>Ramamurthy N. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30371,23 +30502,21 @@
 				<feature></feature>
 				<page>0039-0042</page>
 				<allauthors>
-					<author></author>
+					<author>Sarala Panchapakesan</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Events</title>
 				<feature>News and Events</feature>
 				<page>0043-0048</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>The Amazing Potency of Vishnu Sahasranama</title>
 				<feature></feature>
 				<page>0049-0051</page>
 				<allauthors>
-					<author></author>
+					<author>Eswaran B. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30395,7 +30524,7 @@
 				<feature></feature>
 				<page>0052-0054</page>
 				<allauthors>
-					<author></author>
+					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30403,7 +30532,7 @@
 				<feature></feature>
 				<page>0055-0058</page>
 				<allauthors>
-					<author></author>
+					<author>Rajesh Vishwanathan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30411,7 +30540,7 @@
 				<feature>Book Review</feature>
 				<page>0059-0060</page>
 				<allauthors>
-					<author></author>
+					<author>Rishi</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30419,402 +30548,517 @@
 				<feature></feature>
 				<page>0061-0078</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Paramananda</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Children's Treasure</title>
 				<feature></feature>
-				<page>0079-00</page>
+				<page>0079-0090</page>
 				<allauthors>
-					<author></author>
+					<author>Narayana Swamy T. S. Dr.</author>
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="0" month="0" year="">
+		<part pnum="10" month="01" year="2015">
 			<entry>
-				<title></title>
+				<title>Jagadguru Speaks...</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0005-0006</page>
 				<allauthors>
-					<author></author>
+					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Sadachara (Seven Healthy Habits)</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0007-0010</page>
 				<allauthors>
-					<author></author>
+					<author>Athreya R. B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Many Forms of Siva--33</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0011-0014</page>
 				<allauthors>
-					<author></author>
+					<author>Lalita Ramakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>When Will My Bad Time End?</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0015-0017</page>
 				<allauthors>
-					<author></author>
+					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Professional Dharma--8</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0018-0023</page>
 				<allauthors>
-					<author></author>
+					<author>Hema Gopal</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>The Mystic Power of Sun-god</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0024-0027</page>
 				<allauthors>
-					<author></author>
+					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Youth Forum--14</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0028-0033</page>
 				<allauthors>
-					<author></author>
+					<author>Mrityunjaya Athreya Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Indology Quiz--19</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0034-0036</page>
 				<allauthors>
-					<author></author>
+					<author>Ramamurthy N. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Arundhati-Vasishtha: The Gazing Ritual of Hindu Marriage</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0037-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Events</title>
+				<feature></feature>
+				<page>0041-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>True Happiness</title>
+				<feature></feature>
+				<page>0047-0051</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Sivananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Holistic Culinary Art--54</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0052-0054</page>
 				<allauthors>
-					<author></author>
+					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Complementary Therapy--23</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0055-0056</page>
 				<allauthors>
-					<author></author>
+					<author>Rajesh Vishwanathan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Sadhanas from Upadesa Saram</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0057-0078</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Shantananda Puri</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Children's Treasure</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0079-0090</page>
 				<allauthors>
-					<author></author>
+					<author>Narayana Swamy T. S. Dr.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="11" month="02" year="2015">
+			<entry>
+				<title>Jagadguru Speaks...</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Liberation--Two Concepts (Dvivida Moksha)</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0007-0010</page>
 				<allauthors>
-					<author></author>
+					<author>Athreya R. B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Siva as Kalyana Sundara</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0011-0014</page>
 				<allauthors>
-					<author></author>
+					<author>Lalita Ramakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Three Principles of Handling Criticism</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0015-0018</page>
 				<allauthors>
-					<author></author>
+					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Success Mantras for Start-ups</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0019-0023</page>
 				<allauthors>
-					<author></author>
+					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Youth Forum--15: Be A Yoga Ambassador</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0024-0029</page>
 				<allauthors>
-					<author></author>
+					<author>Mrityunjaya Athreya Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Indology Quiz</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0030-0032</page>
 				<allauthors>
-					<author></author>
+					<author>Ramamurthy N. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>The Livermore Temple, USA</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0033-0037</page>
 				<allauthors>
-					<author></author>
+					<author>Sharada Chityala</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Hindu Marriage Vows: Complementary, Not One-sided</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0038-0042</page>
 				<allauthors>
-					<author></author>
+					<author>Aditi Banerjee</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>News and Events: His Holiness Nominates Successor-designate</title>
+				<feature>News and Events</feature>
+				<page>0043-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Holistic Culinary Art</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0054-0056</page>
 				<allauthors>
-					<author></author>
+					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Complementary Therapy</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0057-0058</page>
 				<allauthors>
-					<author></author>
+					<author>Rajesh Vishwanathan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Sacred Plants of India</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0059-0078</page>
 				<allauthors>
-					<author></author>
+					<author>Nanditha Krishna</author>
+					<author>Amirthalingam M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Children's Treasure</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0079-0090</page>
 				<allauthors>
-					<author></author>
+					<author>Narayana Swamy T. S. Dr.</author>
+				</allauthors>
+			</entry>
+		</part>
+		<part pnum="12" month="03" year="2015">
+			<entry>
+				<title>Jagadguru Speaks...</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Role of Sraddha in Vedic Way of Life</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0007-0010</page>
 				<allauthors>
-					<author></author>
+					<author>Athreya R. B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Many Forms of Siva--35</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0011-0013</page>
 				<allauthors>
-					<author></author>
+					<author>Lalita Ramakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>What Type of a Meditator Are You?</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0014-0017</page>
 				<allauthors>
-					<author></author>
+					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>How to Ensure Successful Succession</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0018-0022</page>
 				<allauthors>
-					<author></author>
+					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Siva and Vishnu in Sri Rama</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0023-0028</page>
 				<allauthors>
-					<author></author>
+					<author>Ananth Krishnan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Youth Forum--16</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0029-0033</page>
 				<allauthors>
-					<author></author>
+					<author>Mrityunjaya Athreya Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Indology Quiz--21</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0034-0036</page>
 				<allauthors>
-					<author></author>
+					<author>Ramamurthy N. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0037-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Holistic Culinary Art--56</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0054-0057</page>
 				<allauthors>
-					<author></author>
+					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Complementary Therapy--25</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0058-0058</page>
 				<allauthors>
-					<author></author>
+					<author>Rajesh Vishwanathan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Book Condensation--Vedanta in Practice</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0059-0078</page>
 				<allauthors>
-					<author></author>
+					<author>Swami Paramananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Children's Treasure</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0079-0090</page>
 				<allauthors>
-					<author></author>
+					<author>Narayana Swamy T. S. Dr.</author>
+				</allauthors>
+			</entry>
+		</part>
+	</volume>
+	<volume vnum="038">
+		<part pnum="01" month="04" year="2015">
+			<entry>
+				<title>Jagadguru Speaks</title>
+				<feature></feature>
+				<page>0006-0007</page>
+				<allauthors>
+					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Value of Acceptance</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0008-0011</page>
 				<allauthors>
-					<author></author>
+					<author>Athreya R. B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Siva as Tripurantaka</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0012-0014</page>
 				<allauthors>
-					<author></author>
+					<author>Lalita Ramakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Gifted or Flawed</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0015-0015</page>
 				<allauthors>
-					<author></author>
+					<author>Jsmita Candon</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Subhashitani</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0016-0016</page>
 				<allauthors>
-					<author></author>
+					<author>Rajagopala Ganapadigal V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Spiritual Quote</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0017-0017</page>
 				<allauthors>
-					<author></author>
+					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>What Are You Made of?</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0018-0021</page>
 				<allauthors>
-					<author></author>
+					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Lessons from Sri Rama</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0022-0025</page>
 				<allauthors>
-					<author></author>
+					<author>Mrityunjaya Athreya Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Hard Way, Easy Way</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0026-0029</page>
 				<allauthors>
-					<author></author>
+					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Tickles: Humour in Spirituality</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0030-0031</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Youth Vox</title>
+				<feature></feature>
+				<page>0032-0035</page>
 				<allauthors>
-					<author></author>
+					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>The Wellness Sense</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0036-0042</page>
 				<allauthors>
-					<author></author>
+					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Yoga Posture of the Month</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0043-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Plums</title>
+				<feature></feature>
+				<page>0044-0047</page>
 				<allauthors>
-					<author></author>
+					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Home Remedies for Honey Bee Sting</title>
 				<feature></feature>
-				<page>00</page>
+				<page>0048-0049</page>
 				<allauthors>
-					<author></author>
+					<author>Rajesh Vishwanathan Dr.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events</title>
+				<feature>News and Events</feature>
+				<page>0050-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Condensation</title>
+				<feature></feature>
+				<page>0058-0082</page>
+				<allauthors>
+					<author>Nochur Venkataraman</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Did You Know?</title>
+				<feature></feature>
+				<page>0083-0084</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Tricky Riddles</title>
+				<feature></feature>
+				<page>0085-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Indology Quiz-22</title>
+				<feature></feature>
+				<page>0086-0087</page>
+				<allauthors>
+					<author>Ramamurthy N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mathematics Is Fun</title>
+				<feature></feature>
+				<page>0088-0089</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Jai Ho Bharat: Brahma Sarovar Temple</title>
+				<feature></feature>
+				<page>0090-0090</page>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
