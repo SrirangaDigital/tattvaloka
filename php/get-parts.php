@@ -22,7 +22,8 @@ if($num_rows > 0)
 	while($row = $result->fetch_assoc())
 	{
 		echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
-		echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . '</a></div>';
+		$monthdetails = getMonth($row['month']);
+		echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">Issue ' . getIssue($row['part']) . '</a></div>';
 		$isFirst = 0;
 	}
 }

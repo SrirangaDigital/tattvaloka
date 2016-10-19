@@ -146,6 +146,12 @@ function getYear($volume)
 	}
 }
 
+function getIssue($part)
+{
+	$part = preg_replace('/0/', '', $part);
+	return $part;
+}
+
 function getMonth($month)
 {
 	$month = preg_replace('/01/', 'January', $month);
