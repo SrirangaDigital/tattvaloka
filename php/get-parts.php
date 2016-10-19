@@ -10,7 +10,7 @@ if(!(isValidVolume($volume)))
 	exit(1);
 }
 
-$query = "select distinct part,month from article where volume='$volume' order by part";
+$query = "select distinct part,month,year from article where volume='$volume' order by part";
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 
@@ -22,8 +22,8 @@ if($num_rows > 0)
 	while($row = $result->fetch_assoc())
 	{
 		echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
-		$monthdetails = getMonth($row['month']);
-		echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '">Issue ' . getIssue($row['part']) . '</a></div>';
+		$monthdetails = getMonth($row['month']) . ", " . $row['year'];
+		echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">Issue ' . getIssue($row['part']) . '</a></div>';
 		$isFirst = 0;
 	}
 }
