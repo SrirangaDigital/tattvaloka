@@ -1639,9 +1639,7 @@
 				<title>Sayings of Sadguru</title>
 				<feature></feature>
 				<page>0065-0067</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Hinduism of India - EK Bhagavan</title>
@@ -3114,19 +3112,18 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>ஆச்சார்யாளுடன் உரையாடல்</title>
 				<feature></feature>
 				<page>0039-0042</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
-				<title></title>
+				<title>கணாதிபபஞ்சரத்னம்</title>
 				<feature></feature>
 				<page>0043-0046</page>
 				<allauthors>
-					<author></author>
+					<author>ந்ருஸிம்ஹ பாரதி சுவாமி</author>
+					<author>குருசுவாமி சாஸ்திரி V. S. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5489,9 +5486,7 @@
 				<title>Eulogy on Sri Vyasa</title>
 				<feature>Poems in Praise</feature>
 				<page>0062-0063</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Sri Viswanathashtakam</title>
@@ -6001,81 +5996,61 @@
 				<title>Parentage and Early Life</title>
 				<feature></feature>
 				<page>0009-0010</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>The Greatness of his Guru, Sannyasa and Tutelage</title>
 				<feature></feature>
 				<page>0011-0017</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Early Years of Ministry</title>
 				<feature></feature>
 				<page>0018-0019</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>First Independent Tour</title>
 				<feature></feature>
 				<page>0020-0022</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>The Second Tour</title>
 				<feature></feature>
 				<page>0023-00</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>At Sringeri</title>
 				<feature>Great Achievements</feature>
 				<page>0031-0040</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Preparation for the Kaladi Consecration</title>
 				<feature>Great Achievements</feature>
 				<page>0041-0043</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>On the Way to Kaladi</title>
 				<feature>Great Achievements</feature>
 				<page>0044-0045</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>The Great Consecration at Kaladi</title>
 				<feature>Great Achievements</feature>
 				<page>0046-0049</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>The Closing Days</title>
 				<feature>Great Achievements</feature>
 				<page>0050-00</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Sri Guru Suvarnamala Stotra</title>
@@ -6121,17 +6096,13 @@
 				<title>Adi Sankara's Life History- A Pictorial Biography--Part Four</title>
 				<feature>Vedanta in Daily Life</feature>
 				<page>0075-0090</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>News and Events</title>
 				<feature>News and Events</feature>
 				<page>0091-0095</page>
-				<allauthors>
-					<author></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Children's Corner</title>
@@ -20810,7 +20781,6 @@
 				<page>0047-0051</page>
 				<allauthors>
 					<author>Ramaswamy Iyer S. Prof.</author>
-					<author></author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22222,7 +22192,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="0" month="0" year="">
+		<part pnum="99" month="0" year="">
 			<entry>
 				<title>It Talks, It Thinks, It Can Drive Itself</title>
 				<feature></feature>
