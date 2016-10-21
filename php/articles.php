@@ -3,7 +3,7 @@
 		<div class="cd-scrolling-bg cd-color-2">
 			<div class="cd-container">
 				<h1 class="clr1">Archive &gt; Titles</h1>
-<!-- 				<div class="alphabet gapBelowSmall gapAboveSmall">
+				<div class="alphabet gapBelowSmall gapAboveSmall">
 					<span class="letter"><a href="articles.php?letter=A">A</a></span>
 					<span class="letter"><a href="articles.php?letter=B">B</a></span>
 					<span class="letter"><a href="articles.php?letter=C">C</a></span>
@@ -30,36 +30,42 @@
 					<span class="letter"><a href="articles.php?letter=X">X</a></span>
 					<span class="letter"><a href="articles.php?letter=Y">Y</a></span>
 					<span class="letter"><a href="articles.php?letter=Z">Z</a></span>
-				</div> -->
+					<span class="letter"><a href="articles.php?letter=Special">#</a></span>
+				</div>
 <?php
 
 include("connect.php");
 require_once("common.php");
 
-// if(isset($_GET['letter']))
-// {
-// 	$letter=$_GET['letter'];
+if(isset($_GET['letter']))
+{
+	$letter=$_GET['letter'];
 	
-// 	if(!(isValidLetter($letter)))
-// 	{
-// 		echo '<span class="aFeature clr2">Invalid URL</span>';
-// 		echo '</div> <!-- cd-container -->';
-// 		echo '</div> <!-- cd-scrolling-bg -->';
-// 		echo '</main> <!-- cd-main-content -->';
-// 		include("include_footer.php");
+	if(!(isValidLetter($letter)))
+	{
+		echo '<span class="aFeature clr2">Invalid URL</span>';
+		echo '</div> <!-- cd-container -->';
+		echo '</div> <!-- cd-scrolling-bg -->';
+		echo '</main> <!-- cd-main-content -->';
+		include("include_footer.php");
 
-//         exit(1);
-// 	}
+        exit(1);
+	}
 	
-// 	($letter == '') ? $letter = 'A' : $letter = $letter;
-// }
-// else
-// {
-// 	$letter = 'A';
-// }
-
-// $query = 'select * from article where title like \'' . $letter . '%\' order by title, volume, part, page';
-$query = 'select * from article order by title, volume, part, page';
+	($letter == '') ? $letter = 'A' : $letter = $letter;
+}
+else
+{
+	$letter = 'A';
+}
+if($letter == 'Special')
+{
+	$query = "select * from article where title not regexp '^[a-z]|^\'[a-z]|^\"[a-z]|^<|^\"<' order by title";
+}
+else
+{
+	$query = "select * from article where title like '$letter%' union select * from article where title like '\"$letter%' union select * from article where title like '\'$letter%' order by TRIM(BOTH '\'' FROM TRIM(BOTH '\"' FROM title))";
+}
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
@@ -80,9 +86,17 @@ if($num_rows > 0)
 		echo '<div class="article">';
 		echo '	<div class="gapBelowSmall">';
 		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span> | ' : '';
-		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . ' ' . $row['year'] . '  (Volume ' . intval($row['volume']) . ', Issue ' . $dpart . ')</a></span>';
+		if($row['part'] == '99')
+		{
+			echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">(Volume ' . intval($row['volume']) . ', Special Issue ' . ')</a></span>';
+		}
+		else
+		{
+			echo '<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . ' ' . $row['year'] . '  (Volume ' . intval($row['volume']) . ', Issue ' . $dpart . ')</a></span>';
+		}
 		echo '	</div>';
-		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+		$part = ($row['part'] == '99') ? 'SpecialIssue' : $row['part'];
+		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $part . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
 		if($row['authid'] != 0) {
 
 			echo '	<span class="aAuthor itl">by ';
@@ -102,7 +116,7 @@ if($num_rows > 0)
 }
 else
 {
-	echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in The Vedanta Kesari</span>';
+	echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in Tattvaloka</span>';
 }
 
 if($result){$result->free();}
