@@ -148,7 +148,7 @@ function getYear($volume)
 
 function getIssue($part)
 {
-	$part = preg_replace('/0/', '', $part);
+	$part = preg_replace('/^[0]/', '', $part);
 	return $part;
 }
 
@@ -166,6 +166,7 @@ function getMonth($month)
 	$month = preg_replace('/10/', 'October', $month);
 	$month = preg_replace('/11/', 'November', $month);
 	$month = preg_replace('/12/', 'December', $month);
+	$month = preg_replace('/^0$/', '', $month);
 	
 	return $month;
 }

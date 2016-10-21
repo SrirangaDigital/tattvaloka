@@ -14,8 +14,14 @@ $dpart = preg_replace("/^0/", "", $part);
 $dpart = preg_replace("/\-0/", "-", $dpart);
 
 $yearMonth = getYearMonth($volume, $part);
-
-echo '<h1 class="clr1 gapBelowSmall">Archive &gt; ' . getMonth($yearMonth['month']) . ' ' . $yearMonth['year'] . ' (Volume ' . intval($volume) . ', Issue ' . $dpart . ')</h1>';
+if($part == '99')
+{
+	echo '<h1 class="clr1 gapBelowSmall">Archive &gt; Special Issue' . ' (Volume ' . intval($volume) . ')</h1>';
+}
+else
+{
+	echo '<h1 class="clr1 gapBelowSmall">Archive &gt; ' . getMonth($yearMonth['month']) . ' ' . $yearMonth['year'] . ' (Volume ' . intval($volume) . ', Issue ' . $dpart . ')</h1>';
+}
 
 if(!(isValidVolume($volume) && isValidPart($part)))
 {
@@ -44,12 +50,12 @@ if($num_rows > 0)
 		
 		$dpart = preg_replace("/^0/", "", $row['part']);
 		$dpart = preg_replace("/\-0/", "-", $dpart);
-		
 		if($result3){$result3->free();}
 
 		echo '<div class="article">';
 		echo ($row3['feat_name'] != '') ? '<div class="gapBelowSmall"><span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span></div>' : '';
-		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+		$part = ($row['part'] == '99') ? 'SpecialIssue' : $row['part'];
+		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $part . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
 		if($row['authid'] != 0) {
 
 			echo '	<span class="aAuthor itl">by ';

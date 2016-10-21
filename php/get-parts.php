@@ -21,9 +21,20 @@ if($num_rows > 0)
 	$isFirst = 1;
 	while($row = $result->fetch_assoc())
 	{
+		$part = $row['part'];
+		$dpart = preg_replace("/^0/", "", $part);
+		$dpart = preg_replace("/\-0/", "-", $dpart);
 		echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
 		$monthdetails = getMonth($row['month']) . ", " . $row['year'];
-		echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">Issue ' . getIssue($row['part']) . '</a></div>';
+		$monthdetails = preg_replace('/^,/', '', $monthdetails);
+		if($row['part'] == '99')
+		{
+			echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title=Special Issue>Special Issue</a></div>';
+		}
+		else
+		{
+			echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">Issue ' . $dpart . '</a></div>';
+		}
 		$isFirst = 0;
 	}
 }
