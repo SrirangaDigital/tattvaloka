@@ -202,7 +202,7 @@
 				<feature></feature>
 				<page>0005-0018</page>
 				<allauthors>
-					<author>Krishnaswamy S. Y. Sri</author>
+					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -218,7 +218,7 @@
 				<feature></feature>
 				<page>0031-0042</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -234,16 +234,14 @@
 				<feature></feature>
 				<page>0051-0056</page>
 				<allauthors>
-					<author>Vimarsananda Sri</author>
+					<author>Vimarsananda</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Philosophy for the Common Man</title>
-				<feature></feature>
+				<feature>Editorial</feature>
 				<page>0057-0059</page>
-				<allauthors>
-					<author>Editor</author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Sayings of the Sadguru</title>
@@ -290,7 +288,7 @@
 				<feature></feature>
 				<page>0006-0020</page>
 				<allauthors>
-					<author>Venkataraman K. R. Sri.</author>
+					<author>Venkataraman K. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -298,7 +296,7 @@
 				<feature></feature>
 				<page>0021-0032</page>
 				<allauthors>
-					<author>Krishnaswamy S. Y. Sri.</author>
+					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -306,7 +304,7 @@
 				<feature></feature>
 				<page>0033-0048</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -314,7 +312,7 @@
 				<feature></feature>
 				<page>0049-0054</page>
 				<allauthors>
-					<author>Venkataramanan K. V. Sri</author>
+					<author>Venkataramanan K. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -341,11 +339,9 @@
 			</entry>
 			<entry>
 				<title>Padmapada on Namassivaya Mantra</title>
-				<feature></feature>
+				<feature>Editorial</feature>
 				<page>0012-0018</page>
-				<allauthors>
-					<author>Editor</author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Padmapada's Panchapadika</title>
@@ -360,7 +356,7 @@
 				<feature></feature>
 				<page>0024-0030</page>
 				<allauthors>
-					<author>Krishnaswamy S. Y. Sri.</author>
+					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -368,7 +364,7 @@
 				<feature></feature>
 				<page>0031-0038</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -440,7 +436,7 @@
 				<feature></feature>
 				<page>0014-0020</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -522,7 +518,7 @@
 				<feature></feature>
 				<page>0016-0021</page>
 				<allauthors>
-					<author>Sathyanarayana R. Sri</author>
+					<author>Sathyanarayana R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -542,7 +538,7 @@
 				<feature></feature>
 				<page>0025-0032</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -556,7 +552,7 @@
 				<feature></feature>
 				<page>0034-0042</page>
 				<allauthors>
-					<author>Swami Amritananda</author>
+					<author>Amritananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -612,7 +608,7 @@
 				<feature></feature>
 				<page>0013-0024</page>
 				<allauthors>
-					<author>Gaghavachar S. S. Sri</author>
+					<author>Gaghavachar S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -640,7 +636,7 @@
 				<feature></feature>
 				<page>0036-0045</page>
 				<allauthors>
-					<author>Sathyanarayana R. Sri</author>
+					<author>Sathyanarayana R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -654,7 +650,7 @@
 				<feature></feature>
 				<page>0047-0054</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -702,7 +698,7 @@
 				<feature></feature>
 				<page>0010-0023</page>
 				<allauthors>
-					<author>Raghavachar S. S. Sri</author>
+					<author>Raghavachar S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -718,7 +714,7 @@
 				<feature></feature>
 				<page>0026-0038</page>
 				<allauthors>
-					<author>Jagadguru Sri Chandrashekara Bharati Mahaswamigal</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -732,7 +728,7 @@
 				<feature></feature>
 				<page>0044-0057</page>
 				<allauthors>
-					<author>Sathyanarayana R. Sri</author>
+					<author>Sathyanarayana R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -746,7 +742,7 @@
 				<feature></feature>
 				<page>0061-0068</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -786,7 +782,7 @@
 				<feature></feature>
 				<page>0008-0012</page>
 				<allauthors>
-					<author>Mahadevan T. M. P. Sri</author>
+					<author>Mahadevan T. M. P.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -794,7 +790,7 @@
 				<feature></feature>
 				<page>0013-0022</page>
 				<allauthors>
-					<author>Krishnaswamy S. Y. Sri</author>
+					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -808,7 +804,7 @@
 				<feature></feature>
 				<page>0025-0032</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -856,7 +852,7 @@
 				<feature></feature>
 				<page>0006-0011</page>
 				<allauthors>
-					<author>Mahadevan T. M. P. Sri</author>
+					<author>Mahadevan T. M. P.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -870,7 +866,7 @@
 				<feature></feature>
 				<page>0015-0021</page>
 				<allauthors>
-					<author>Rajam Iyer B. R. Sri</author>
+					<author>Rajam Iyer B. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -884,7 +880,7 @@
 				<feature></feature>
 				<page>0025-0032</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -892,7 +888,7 @@
 				<feature></feature>
 				<page>0033-0036</page>
 				<allauthors>
-					<author>Krishnaswamy S. Y. Sri</author>
+					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -970,7 +966,7 @@
 				<feature></feature>
 				<page>0029-0036</page>
 				<allauthors>
-					<author>Ramachandra Sastri S. Sri</author>
+					<author>Ramachandra Sastri S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -984,7 +980,7 @@
 				<feature></feature>
 				<page>0039-0046</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1020,7 +1016,7 @@
 				<feature></feature>
 				<page>0003-0014</page>
 				<allauthors>
-					<author>Balasubramanyam T. K. Sri</author>
+					<author>Balasubrahmanyam T. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1044,7 +1040,7 @@
 				<feature></feature>
 				<page>0027-0030b</page>
 				<allauthors>
-					<author>Krishnaswamy S. Y. Sri</author>
+					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1052,7 +1048,7 @@
 				<feature></feature>
 				<page>0031-0032</page>
 				<allauthors>
-					<author>Sivasubramaniyam N. S. Sri</author>
+					<author>Sivasubramaniyam N. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1060,7 +1056,7 @@
 				<feature></feature>
 				<page>0033-0038</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1076,7 +1072,7 @@
 				<feature></feature>
 				<page>0049-0056</page>
 				<allauthors>
-					<author>Ramachandra Sastry S. Sri</author>
+					<author>Ramachandra Sastry S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1084,7 +1080,7 @@
 				<feature></feature>
 				<page>0057-0064</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1130,7 +1126,7 @@
 				<feature></feature>
 				<page>0003-0010</page>
 				<allauthors>
-					<author>Srithandaveswara Sri</author>
+					<author>Srithandaveswara</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1138,7 +1134,7 @@
 				<feature></feature>
 				<page>0011-0024</page>
 				<allauthors>
-					<author>Srinivasan K. R. Sri</author>
+					<author>Srinivasan K. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1154,7 +1150,7 @@
 				<feature></feature>
 				<page>0029-0036</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1222,7 +1218,7 @@
 				<feature></feature>
 				<page>0004-0004</page>
 				<allauthors>
-					<author>Sri Jagadguru Sri Bharathi Teertha Swamigal</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1268,7 +1264,7 @@
 				<feature></feature>
 				<page>0037-0044</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1324,7 +1320,7 @@
 				<feature></feature>
 				<page>0013-0017</page>
 				<allauthors>
-					<author>Seshagiri Rao V. N. Sri</author>
+					<author>Seshagiri Rao V. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1332,7 +1328,7 @@
 				<feature></feature>
 				<page>0018-0020</page>
 				<allauthors>
-					<author>Natarajan A. R. Sri</author>
+					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1340,7 +1336,7 @@
 				<feature></feature>
 				<page>0021-0031</page>
 				<allauthors>
-					<author>Balasubramanya N. Sri</author>
+					<author>Balasubrahmanya N.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1354,7 +1350,7 @@
 				<feature></feature>
 				<page>0034-0040d</page>
 				<allauthors>
-					<author>Venkatarama Sastri T. Sri</author>
+					<author>Venkatarama Sastri T.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1362,7 +1358,7 @@
 				<feature></feature>
 				<page>0041-0048</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1442,7 +1438,7 @@
 				<feature></feature>
 				<page>0033-0040</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1450,7 +1446,7 @@
 				<feature></feature>
 				<page>0041-0045</page>
 				<allauthors>
-					<author>Srithandaveswara Sri</author>
+					<author>Srithandaveswara</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1498,7 +1494,7 @@
 				<feature></feature>
 				<page>0010-0015</page>
 				<allauthors>
-					<author>Swami Achalananda</author>
+					<author>Achalananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1506,7 +1502,7 @@
 				<feature></feature>
 				<page>0016-0027</page>
 				<allauthors>
-					<author>Srinivasan K. R. Sri</author>
+					<author>Srinivasan K. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1528,7 +1524,7 @@
 				<feature></feature>
 				<page>0041-0048</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1570,7 +1566,7 @@
 				<feature></feature>
 				<page>0008-0018</page>
 				<allauthors>
-					<author>Balasubrahmanyam T. K. Sri</author>
+					<author>Balasubrahmanyam T. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1578,7 +1574,7 @@
 				<feature></feature>
 				<page>0019-0027</page>
 				<allauthors>
-					<author>Balasubrahmanya N. Sri</author>
+					<author>Balasubrahmanya N.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1586,7 +1582,7 @@
 				<feature></feature>
 				<page>0028-0033</page>
 				<allauthors>
-					<author>Krishna Swamy S. Y. Sri</author>
+					<author>Krishna Swamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1602,7 +1598,7 @@
 				<feature></feature>
 				<page>0041-0043</page>
 				<allauthors>
-					<author>Seshagiri Rao V. N. Sri</author>
+					<author>Seshagiri Rao V. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1632,7 +1628,7 @@
 				<feature></feature>
 				<page>0057-0064</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1668,7 +1664,7 @@
 				<feature></feature>
 				<page>0078-0079</page>
 				<allauthors>
-					<author>Chandrasekhara H. L. Sri</author>
+					<author>Chandrasekhara H. L.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1756,7 +1752,7 @@
 				<feature></feature>
 				<page>0043-0050</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1806,7 +1802,7 @@
 				<feature></feature>
 				<page>0032-0036</page>
 				<allauthors>
-					<author>Chandrasekharayya U. Sri</author>
+					<author>Chandrashekarayya U.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1814,7 +1810,7 @@
 				<feature></feature>
 				<page>0037-0044</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1880,7 +1876,7 @@
 				<feature></feature>
 				<page>0021-0030</page>
 				<allauthors>
-					<author>Amritananda Swami Sri</author>
+					<author>Amritananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1902,7 +1898,7 @@
 				<feature></feature>
 				<page>0037-0044</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1910,7 +1906,7 @@
 				<feature></feature>
 				<page>0045-0048f</page>
 				<allauthors>
-					<author>Subramaniam P. S. Sri</author>
+					<author>Subramaniam P. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1950,7 +1946,7 @@
 				<feature></feature>
 				<page>0004-0014</page>
 				<allauthors>
-					<author>Adidevananda Swami Sri</author>
+					<author>Adidevananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1958,7 +1954,7 @@
 				<feature></feature>
 				<page>0015-0025</page>
 				<allauthors>
-					<author>Sethu Bai C. Smt.</author>
+					<author>Sethu Bai C.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1966,7 +1962,7 @@
 				<feature></feature>
 				<page>0026-0033</page>
 				<allauthors>
-					<author>Seshagiri Rao V. N. Sri</author>
+					<author>Seshagiri Rao V. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1974,7 +1970,7 @@
 				<feature></feature>
 				<page>0034-0039</page>
 				<allauthors>
-					<author>Chandrashekarayya U. Sri</author>
+					<author>Chandrashekarayya U.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1996,7 +1992,7 @@
 				<feature></feature>
 				<page>0049-0056</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2004,7 +2000,7 @@
 				<feature></feature>
 				<page>0057-0057</page>
 				<allauthors>
-					<author>Nambi S. Sri</author>
+					<author>Nambi S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2046,7 +2042,7 @@
 				<feature></feature>
 				<page>0004-0007</page>
 				<allauthors>
-					<author>Sastri S. S. Sri</author>
+					<author>Sastri S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2062,7 +2058,7 @@
 				<feature></feature>
 				<page>0019-0029</page>
 				<allauthors>
-					<author>Balasubrahmanya N. Sri</author>
+					<author>Balasubrahmanya N.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2070,7 +2066,7 @@
 				<feature></feature>
 				<page>0030-0036</page>
 				<allauthors>
-					<author>Chandrashekarayya U. Sri</author>
+					<author>Chandrashekarayya U.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2084,7 +2080,7 @@
 				<feature></feature>
 				<page>0041-0048</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2160,7 +2156,7 @@
 				<feature></feature>
 				<page>0041-0048</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2200,7 +2196,7 @@
 				<feature></feature>
 				<page>0004-0005</page>
 				<allauthors>
-					<author>Sastry S. S. Sri</author>
+					<author>Sastry S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2232,7 +2228,7 @@
 				<feature></feature>
 				<page>0025-0040</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2246,7 +2242,7 @@
 				<feature></feature>
 				<page>0043-0043</page>
 				<allauthors>
-					<author>Nambi S. Sri</author>
+					<author>Nambi S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2286,7 +2282,7 @@
 				<feature></feature>
 				<page>0004-0014</page>
 				<allauthors>
-					<author>Sastry S. S. Panditaraja Sri</author>
+					<author>Sastry S. S. Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2324,7 +2320,7 @@
 				<feature></feature>
 				<page>0035-0042</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2340,7 +2336,7 @@
 				<feature></feature>
 				<page>0050-0050</page>
 				<allauthors>
-					<author>Nambi S. Sri</author>
+					<author>Nambi S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2368,7 +2364,7 @@
 				<feature></feature>
 				<page>0004-0007</page>
 				<allauthors>
-					<author>Sastry S. S. Panditaraja Sri</author>
+					<author>Sastry S. S. Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2400,7 +2396,7 @@
 				<feature></feature>
 				<page>0045-0052</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2446,7 +2442,7 @@
 				<feature></feature>
 				<page>0004-0010</page>
 				<allauthors>
-					<author>Sastry S. S. Panditaraja Sri</author>
+					<author>Sastry S. S. Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2470,7 +2466,7 @@
 				<feature></feature>
 				<page>0037-0044</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2542,7 +2538,7 @@
 				<feature></feature>
 				<page>0025-0032</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2636,7 +2632,7 @@
 				<feature></feature>
 				<page>0039-0046</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2692,7 +2688,7 @@
 				<feature></feature>
 				<page>0029-0034</page>
 				<allauthors>
-					<author>Graciela de la Lama Professor Dr.</author>
+					<author>Graciela de la Lama Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2714,7 +2710,7 @@
 				<feature></feature>
 				<page>0045-0052</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2788,7 +2784,7 @@
 				<feature></feature>
 				<page>0034-0037</page>
 				<allauthors>
-					<author>Govind Narain Sri</author>
+					<author>Govind Narain</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2802,7 +2798,7 @@
 				<feature></feature>
 				<page>0041-0048</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2880,7 +2876,7 @@
 				<feature></feature>
 				<page>0041-0048</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2888,7 +2884,7 @@
 				<feature></feature>
 				<page>0049-0049</page>
 				<allauthors>
-					<author>Mahalinga Padmanabhan Sri</author>
+					<author>Mahalinga Padmanabhan</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2952,7 +2948,7 @@
 				<feature></feature>
 				<page>0040-0040</page>
 				<allauthors>
-					<author>Nambi S. Sri</author>
+					<author>Nambi S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2960,7 +2956,7 @@
 				<feature></feature>
 				<page>0041-0048</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3018,7 +3014,7 @@
 				<feature></feature>
 				<page>0037-0049</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3045,11 +3041,9 @@
 		<part pnum="01" month="04" year="1984-1985">
 			<entry>
 				<title>Editorial</title>
-				<feature></feature>
-				<page></page>
-				<allauthors>
-					<author>Editors</author>
-				</allauthors>
+				<feature>Editorial</feature>
+				<page>0000g-0000g</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Devotion</title>
@@ -3165,7 +3159,7 @@
 				<feature></feature>
 				<page>0021-0044</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3173,7 +3167,7 @@
 				<feature></feature>
 				<page>0045-0051</page>
 				<allauthors>
-					<author>Subramanya Sastry S. Sri</author>
+					<author>Subramanya Sastry S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3181,7 +3175,7 @@
 				<feature></feature>
 				<page>0052-0060</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3189,7 +3183,7 @@
 				<feature></feature>
 				<page>0061-0067</page>
 				<allauthors>
-					<author>Sankaran K. K. Sri</author>
+					<author>Sankaran K. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3205,7 +3199,7 @@
 				<feature></feature>
 				<page>0072-0086</page>
 				<allauthors>
-					<author>Sreelakshmi B. G. Smt.</author>
+					<author>Sreelakshmi B. G.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3257,7 +3251,7 @@
 				<feature></feature>
 				<page>0005-0028</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3281,7 +3275,7 @@
 				<feature></feature>
 				<page>0044-0048</page>
 				<allauthors>
-					<author>Seshachalasarma Sri</author>
+					<author>Seshachalasarma</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3289,7 +3283,7 @@
 				<feature></feature>
 				<page>0049-0052</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3359,7 +3353,7 @@
 				<feature></feature>
 				<page>0017-0032</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3383,7 +3377,7 @@
 				<feature></feature>
 				<page>0047-0052</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3391,7 +3385,7 @@
 				<feature></feature>
 				<page>0053-0058</page>
 				<allauthors>
-					<author>Nambi S. Sri</author>
+					<author>Nambi S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3437,7 +3431,7 @@
 				<feature></feature>
 				<page>0005-0020</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3477,7 +3471,7 @@
 				<feature></feature>
 				<page>0051-0055</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3485,7 +3479,7 @@
 				<feature></feature>
 				<page>0056-0058</page>
 				<allauthors>
-					<author>Guruswami S. Sri</author>
+					<author>Guruswami S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3519,7 +3513,7 @@
 				<feature></feature>
 				<page>0005-0016</page>
 				<allauthors>
-					<author>Sankaran K. K. Sri</author>
+					<author>Sankaran K. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3527,7 +3521,7 @@
 				<feature></feature>
 				<page>0017-0032</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3535,7 +3529,7 @@
 				<feature></feature>
 				<page>0033-0037</page>
 				<allauthors>
-					<author>Pattabhi Raman C. R. Sri</author>
+					<author>Pattabhi Raman C. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3543,7 +3537,7 @@
 				<feature></feature>
 				<page>0038-0041</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3615,7 +3609,7 @@
 				<feature></feature>
 				<page>0009-0024</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3631,7 +3625,7 @@
 				<feature></feature>
 				<page>0039-0041</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3639,7 +3633,7 @@
 				<feature></feature>
 				<page>0042-0050</page>
 				<allauthors>
-					<author>Suryanarayana Rao M. K. Sri</author>
+					<author>Suryanarayana Rao M. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3681,7 +3675,7 @@
 				<feature></feature>
 				<page>0007-0022</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3689,7 +3683,7 @@
 				<feature></feature>
 				<page>0023-0025</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3745,7 +3739,7 @@
 				<feature></feature>
 				<page>0007-0022</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3753,7 +3747,7 @@
 				<feature></feature>
 				<page>0023-0024</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3777,7 +3771,7 @@
 				<feature></feature>
 				<page>0037-0044</page>
 				<allauthors>
-					<author>Ramanathan C. Sri</author>
+					<author>Ramanathan C.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3823,7 +3817,7 @@
 				<feature></feature>
 				<page>0007-0022</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3839,7 +3833,7 @@
 				<feature></feature>
 				<page>0028-0030</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3847,7 +3841,7 @@
 				<feature></feature>
 				<page>0031-0044</page>
 				<allauthors>
-					<author>Leela S. R. Smt.</author>
+					<author>Leela S. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3901,7 +3895,7 @@
 				<feature></feature>
 				<page>0005-0020</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3933,7 +3927,7 @@
 				<feature></feature>
 				<page>0044-0045</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3949,7 +3943,7 @@
 				<feature></feature>
 				<page>0051-0055</page>
 				<allauthors>
-					<author>Sankaran K. K. Sri</author>
+					<author>Sankaran K. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4001,7 +3995,7 @@
 				<feature></feature>
 				<page>0005-0028</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4033,7 +4027,7 @@
 				<feature></feature>
 				<page>0057-0058</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4041,7 +4035,7 @@
 				<feature></feature>
 				<page>0059-0063</page>
 				<allauthors>
-					<author>Sridhar M. K. Sri</author>
+					<author>Sridhar M. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4049,7 +4043,7 @@
 				<feature></feature>
 				<page>0064-0071</page>
 				<allauthors>
-					<author>Sreelakshmi B. G. Smt.</author>
+					<author>Sreelakshmi B. G.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4089,7 +4083,7 @@
 				<feature></feature>
 				<page>0005-0032</page>
 				<allauthors>
-					<author>Subbaramaiya D. S. Sri</author>
+					<author>Subbaramaiya D. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4105,7 +4099,7 @@
 				<feature></feature>
 				<page>0036-0050</page>
 				<allauthors>
-					<author>Suryanarayana Rao M. K. Sri</author>
+					<author>Suryanarayana Rao M. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4121,7 +4115,7 @@
 				<feature></feature>
 				<page>0064-0067</page>
 				<allauthors>
-					<author>Ranganath S. Sri</author>
+					<author>Ranganath S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4227,7 +4221,7 @@
 				<feature>Philosophy and Works</feature>
 				<page>0043-0046</page>
 				<allauthors>
-					<author>Swami Tryambakeswarananda</author>
+					<author>Tryambakeswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4291,7 +4285,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0073-0076</page>
 				<allauthors>
-					<author>Diwakar R. R.</author>
+					<author>Diwakar R. R. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4329,7 +4323,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0090-0092</page>
 				<allauthors>
-					<author>Swami (Devi) Vasantananda</author>
+					<author>(Devi) Vasantananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4379,7 +4373,7 @@
 				<feature>What is Jivanmukti?</feature>
 				<page>0019-0022</page>
 				<allauthors>
-					<author>"Haran"</author>
+					<author>Haran</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4395,7 +4389,7 @@
 				<feature>What is Jivanmukti?</feature>
 				<page>0025-0030</page>
 				<allauthors>
-					<author>Swami Tryambakeswarananda</author>
+					<author>Tryambakeswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4423,7 +4417,7 @@
 				<feature>Saints and Their Sayings</feature>
 				<page>0049-0052</page>
 				<allauthors>
-					<author>Chandrasekhara Bharati Swami Sri</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4447,7 +4441,7 @@
 				<feature></feature>
 				<page>0061-0076</page>
 				<allauthors>
-					<author>Sadasiva Brahmendra Sri</author>
+					<author>Sadasiva Brahmendra</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4563,7 +4557,7 @@
 				<feature>Lives of Nadopasakas</feature>
 				<page>0037-0042</page>
 				<allauthors>
-					<author>Vidya Shankar Smt.</author>
+					<author>Vidya Shankar</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4611,7 +4605,7 @@
 				<feature>Songs of Saints</feature>
 				<page>0064-0064</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4619,7 +4613,7 @@
 				<feature>Songs of Saints</feature>
 				<page>0065-0066</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4683,7 +4677,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0091-0093</page>
 				<allauthors>
-					<author>Diwakar R. R.</author>
+					<author>Diwakar R. R. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4711,7 +4705,7 @@
 				<feature>Sri Chakra Upasana</feature>
 				<page>0011-0011</page>
 				<allauthors>
-					<author>Swami Sarasvati Devyashram</author>
+					<author>Sarasvati Devyashram Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4743,7 +4737,7 @@
 				<feature>Sri Chakra Upasana</feature>
 				<page>0024-0026</page>
 				<allauthors>
-					<author>"Lakshmidhara"</author>
+					<author>Lakshmidhara</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4759,7 +4753,7 @@
 				<feature>The Treasures</feature>
 				<page>0035-0037</page>
 				<allauthors>
-					<author>"S. S."</author>
+					<author>S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4783,7 +4777,7 @@
 				<feature>The Treasures</feature>
 				<page>0048-0052</page>
 				<allauthors>
-					<author>"Anna"</author>
+					<author>Anna</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4815,7 +4809,7 @@
 				<feature>Acharyas' Hymns</feature>
 				<page>0071-0074</page>
 				<allauthors>
-					<author>Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4831,7 +4825,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0078-0079</page>
 				<allauthors>
-					<author>Sri Jnanananda Bharati</author>
+					<author>Jnanananda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4907,7 +4901,7 @@
 				<feature>The Bhagavad Gita</feature>
 				<page>0025-0028</page>
 				<allauthors>
-					<author>Swami Tryambakeswarananda</author>
+					<author>Tryambakeswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5015,7 +5009,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0073-0077</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5177,7 +5171,7 @@
 				<feature>Acharyas' Hymns</feature>
 				<page>0086-0088</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5229,7 +5223,7 @@
 				<feature>Sankara Jayanti</feature>
 				<page>0010-0020</page>
 				<allauthors>
-					<author>Sri Bharati Teertha Sannidhanam H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5237,7 +5231,7 @@
 				<feature>Sankara Jayanti</feature>
 				<page>0021-0023</page>
 				<allauthors>
-					<author>Swami Mukhyananda</author>
+					<author>Mukhyananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5245,7 +5239,7 @@
 				<feature>Sankara Jayanti</feature>
 				<page>0024-0029</page>
 				<allauthors>
-					<author>"Punarnava"</author>
+					<author>Punarnava</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5277,7 +5271,7 @@
 				<feature>Sankara's Works</feature>
 				<page>0042-0045</page>
 				<allauthors>
-					<author>Swami Tryambakeswarananda</author>
+					<author>Tryambakeswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5325,7 +5319,7 @@
 				<feature>Hymns on Sankara</feature>
 				<page>0073-0074</page>
 				<allauthors>
-					<author>Padmapadacharya Sri</author>
+					<author>Padmapadacharya</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5349,7 +5343,7 @@
 				<feature>Hymns on Sankara</feature>
 				<page>0081-0084</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5439,7 +5433,7 @@
 				<feature>Outstanding Works</feature>
 				<page>0033-0040</page>
 				<allauthors>
-					<author>"S. S."</author>
+					<author>S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5500,16 +5494,14 @@
 				<title>News and Events</title>
 				<feature>News and Events</feature>
 				<page>0069-0082</page>
-				<allauthors>
-					<author>Correspondents</author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Right Conduct Essential</title>
 				<feature>Vedanta in Daily Life</feature>
 				<page>0083-0084</page>
 				<allauthors>
-					<author>Sannidhanam Sri</author>
+					<author>Sannidhanam</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5629,7 +5621,7 @@
 				<feature>Outstanding Works</feature>
 				<page>0056-0062</page>
 				<allauthors>
-					<author>Vidyaranya Sri</author>
+					<author>Vidyaranya</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5711,7 +5703,7 @@
 				<feature>Devi Mahatmyam</feature>
 				<page>0023-0027</page>
 				<allauthors>
-					<author>"S. S."</author>
+					<author>S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5719,7 +5711,7 @@
 				<feature>Devi Mahatmyam</feature>
 				<page>0028-0029</page>
 				<allauthors>
-					<author>"S. S."</author>
+					<author>S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5727,7 +5719,7 @@
 				<feature>Devi Mahatmyam</feature>
 				<page>0030-0033</page>
 				<allauthors>
-					<author>"S. S."</author>
+					<author>S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5735,7 +5727,7 @@
 				<feature>Devi Mahatmyam</feature>
 				<page>0034-0036</page>
 				<allauthors>
-					<author>"S. S."</author>
+					<author>S. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5929,7 +5921,7 @@
 				<feature>Verses</feature>
 				<page>0048-0049</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5953,7 +5945,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0060-0066</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Sannidhanam H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5967,7 +5959,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0077-0081</page>
 				<allauthors>
-					<author>Swami Dayananda Sarasvati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6057,7 +6049,7 @@
 				<feature>Verses</feature>
 				<page>0055-0059</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati Swami H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6149,7 +6141,7 @@
 				<feature>Sri Rama--Hero of the Epic</feature>
 				<page>0014-0018</page>
 				<allauthors>
-					<author>Swami Swahananda</author>
+					<author>Swahananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6205,7 +6197,7 @@
 				<feature>Far Reaching Influence</feature>
 				<page>0043-0045</page>
 				<allauthors>
-					<author>Swami Adwayananda Bharati</author>
+					<author>Adwayananda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6249,7 +6241,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0072-0075</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6305,7 +6297,7 @@
 				<feature>Sri Krishna-The Purna Avatar</feature>
 				<page>0011-0015</page>
 				<allauthors>
-					<author>Swami Swahananda</author>
+					<author>Swahananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6385,7 +6377,7 @@
 				<feature>Glory of the Lord</feature>
 				<page>0059-0062</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6427,7 +6419,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0087-0090</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6435,7 +6427,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0091-0092</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6617,7 +6609,7 @@
 				<feature>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality</feature>
 				<page>0010-0023</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Sannidhanam H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6657,7 +6649,7 @@
 				<feature>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality</feature>
 				<page>0051-0053</page>
 				<allauthors>
-					<author>Swami Adwayananda Bharati</author>
+					<author>Adwayananda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6703,7 +6695,7 @@
 				<feature>Guru Stuti</feature>
 				<page>0079-0081</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Sannidhanam H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6711,7 +6703,7 @@
 				<feature>Guru Stuti</feature>
 				<page>0082-0083</page>
 				<allauthors>
-					<author>Bhashya Swami Sri</author>
+					<author>Bhashya Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6727,7 +6719,7 @@
 				<feature>Guru Stuti</feature>
 				<page>0086-0087</page>
 				<allauthors>
-					<author>Bhashya Swami Sri</author>
+					<author>Bhashya Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6763,7 +6755,7 @@
 				<feature>Coronation of H. H. Sri Bharati Tirtha Sannidhanam</feature>
 				<page>0103-0112</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Sannidhanam H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -6871,7 +6863,7 @@
 				<feature>Verses for Worship</feature>
 				<page>0064-0069</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7223,7 +7215,7 @@
 				<feature>Gayatri, The Supreme Mother</feature>
 				<page>0024-0026</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7239,7 +7231,7 @@
 				<feature>Gayatri, The Supreme Mother</feature>
 				<page>0031-0033</page>
 				<allauthors>
-					<author>Prabhu Ashrit Swamiji Sri</author>
+					<author>Prabhu Ashrit Swamiji</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7425,7 +7417,7 @@
 				<feature>Lalita Stuti</feature>
 				<page>0059-0081</page>
 				<allauthors>
-					<author>Jagadguru Sri Bharati Tirtha Mahaswami H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7489,7 +7481,7 @@
 				<feature>The Goddess Ganga</feature>
 				<page>0020-0022</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7497,7 +7489,7 @@
 				<feature>The Goddess Ganga</feature>
 				<page>0023-0025</page>
 				<allauthors>
-					<author>Swami Akhandananda</author>
+					<author>Akhandananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7527,7 +7519,7 @@
 				<feature>The Mystical Ganga</feature>
 				<page>0037-0039</page>
 				<allauthors>
-					<author>Swami Ishwarananda Giri</author>
+					<author>Ishwarananda Giri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7565,7 +7557,7 @@
 				<feature>Verses on Ganga</feature>
 				<page>0062-0062</page>
 				<allauthors>
-					<author>Swami Lalitananda</author>
+					<author>Lalitananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7589,7 +7581,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0073-0080</page>
 				<allauthors>
-					<author>Swami Tapovanam</author>
+					<author>Tapovanam Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7763,7 +7755,7 @@
 				<feature>Sankara's Life</feature>
 				<page>0015-0020</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7803,7 +7795,7 @@
 				<feature>Sankara's Teachings</feature>
 				<page>0037-0041</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7827,7 +7819,7 @@
 				<feature>Sankara's Teachings</feature>
 				<page>0053-0054</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7843,7 +7835,7 @@
 				<feature>Sankara Stotras</feature>
 				<page>0057-0064b</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8071,7 +8063,7 @@
 				<feature>Principles of Yoga</feature>
 				<page>0023-0026</page>
 				<allauthors>
-					<author>Sri Abhinava Vidyatirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8087,7 +8079,7 @@
 				<feature>Yoga Sadhana</feature>
 				<page>0033-0036</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8095,7 +8087,7 @@
 				<feature>Yoga Sadhana</feature>
 				<page>0037-0038</page>
 				<allauthors>
-					<author>Swami Gitananda Dr.</author>
+					<author>Gitananda Dr. Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8111,7 +8103,7 @@
 				<feature>Yoga Sadhana</feature>
 				<page>0042-0045</page>
 				<allauthors>
-					<author>Sri Abhinava Vidyatirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8119,7 +8111,7 @@
 				<feature>Yoga Sadhana</feature>
 				<page>0046-0053</page>
 				<allauthors>
-					<author>Sri Abhinava Vidyatirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8281,7 +8273,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0067-0071</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8611,7 +8603,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0088-0088</page>
 				<allauthors>
-					<author>Swami Iswarananda Giri</author>
+					<author>Ishwarananda Giri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8651,7 +8643,7 @@
 				<feature>Spiritual Leadership</feature>
 				<page>0013-0016</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8675,7 +8667,7 @@
 				<feature>Spiritual Leadership</feature>
 				<page>0022-0024</page>
 				<allauthors>
-					<author>Swami Chinmayananda</author>
+					<author>Chinmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8691,7 +8683,7 @@
 				<feature>Management and Leadership</feature>
 				<page>0030-0034</page>
 				<allauthors>
-					<author>Swami Someswarananda</author>
+					<author>Someswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8833,7 +8825,7 @@
 				<feature>Images of Narasimha</feature>
 				<page>0023-0027</page>
 				<allauthors>
-					<author>Indira Aiyar S. Mrs.</author>
+					<author>Indira Aiyar S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8943,7 +8935,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Jagadguru Sri Chandrasekhara Bharati</title>
+				<title>Jagadguru Sri Chandrasekhara Bharati Mahaswami</title>
 				<feature>Personality of Jagadguru</feature>
 				<page>0009-0018</page>
 				<allauthors>
@@ -8955,7 +8947,7 @@
 				<feature>Personality of Jagadguru</feature>
 				<page>0019-0023</page>
 				<allauthors>
-					<author>Sri Abhinava Vidyatirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9029,7 +9021,7 @@
 				<feature>In Praise of the Jagadguru</feature>
 				<page>0066-0067</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswaminah H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9037,7 +9029,7 @@
 				<feature>In Praise of the Jagadguru</feature>
 				<page>0068-0070</page>
 				<allauthors>
-					<author>Krishnaswami Aiyar R. Sri</author>
+					<author>Krishnaswami Aiyar R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9105,7 +9097,7 @@
 				<feature>Sarasvati in Scriptures</feature>
 				<page>0007-0010</page>
 				<allauthors>
-					<author>Indira Aiyar S.</author>
+					<author>Indira Aiyar S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9113,7 +9105,7 @@
 				<feature>Sarasvati in Scriptures</feature>
 				<page>0011-0013</page>
 				<allauthors>
-					<author>Indira Aiyar S.</author>
+					<author>Indira Aiyar S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9207,7 +9199,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0068-0072</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9479,7 +9471,7 @@
 				<feature>Aspects of Siva</feature>
 				<page>0028-0028</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9631,7 +9623,7 @@
 				<feature>Personality of Sankara</feature>
 				<page>0008-0010</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9655,7 +9647,7 @@
 				<feature>Personality of Sankara</feature>
 				<page>0020-0023</page>
 				<allauthors>
-					<author>Swami Sridananda</author>
+					<author>Sridananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9671,7 +9663,7 @@
 				<feature>Teachings</feature>
 				<page>0027-0030</page>
 				<allauthors>
-					<author>Jagadguru Shri Bharati Tirtha Mahaswamigal</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9695,7 +9687,7 @@
 				<feature>Teachings</feature>
 				<page>0036-0038</page>
 				<allauthors>
-					<author>Anantharangachar N. S. Dr.</author>
+					<author>Anantha Rangachar N. S. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -9741,7 +9733,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0073-0074</page>
 				<allauthors>
-					<author>Swami Paramarthananda</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10057,7 +10049,7 @@
 				<feature>Episodes</feature>
 				<page>0051-0064</page>
 				<allauthors>
-					<author>Swami Prabhavananda</author>
+					<author>Prabhavananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10175,7 +10167,7 @@
 				<feature>Kali--The Significance</feature>
 				<page>0012-0016</page>
 				<allauthors>
-					<author>Swami Tathagatananda</author>
+					<author>Tathagatananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10403,7 +10395,7 @@
 				<feature>A Tribute to Sasta</feature>
 				<page>0048-0049</page>
 				<allauthors>
-					<author>Jagadguru Sri Bharati Tirtha Mahaswamigal</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10479,7 +10471,7 @@
 				<feature>Importance of Surya</feature>
 				<page>0015-0018</page>
 				<allauthors>
-					<author>Swami Veda Bharati</author>
+					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10721,7 +10713,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0075-0079</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10729,7 +10721,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0080-0084</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10781,7 +10773,7 @@
 				<feature>Major Samskaras</feature>
 				<page>0017-0022</page>
 				<allauthors>
-					<author>Swami Paramarthananda</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10805,7 +10797,7 @@
 				<feature>Major Samskaras</feature>
 				<page>0035-0044</page>
 				<allauthors>
-					<author>Swami Veda Bharati</author>
+					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10845,7 +10837,7 @@
 				<feature>Minor Samskaras</feature>
 				<page>0059-0060</page>
 				<allauthors>
-					<author>Gopalakrishnan .P</author>
+					<author>Gopalakrishnan P.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10887,7 +10879,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0079-0086</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11045,7 +11037,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0075-0078</page>
 				<allauthors>
-					<author>'Srikant'</author>
+					<author>Srikant</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11074,7 +11066,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="05" month="12/01" year="1995">			
+		<part pnum="05" month="12/01" year="1995">
 			<entry>
 				<title>Preface</title>
 				<feature>Preface</feature>
@@ -11092,7 +11084,7 @@
 				<feature>What is Meditation?</feature>
 				<page>0007-0009</page>
 				<allauthors>
-					<author>Swami Yogananda</author>
+					<author>Yogananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11100,7 +11092,7 @@
 				<feature>What is Meditation?</feature>
 				<page>0010-0013</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11116,7 +11108,7 @@
 				<feature>What is Meditation?</feature>
 				<page>0017-0020</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11124,7 +11116,7 @@
 				<feature>What is Meditation?</feature>
 				<page>0021-0028</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11156,7 +11148,7 @@
 				<feature>Meditation in Upanishads</feature>
 				<page>0042-0049</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11164,7 +11156,7 @@
 				<feature>Meditation in Upanishads</feature>
 				<page>0050-0055</page>
 				<allauthors>
-					<author>Swami Paramarthananda</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11180,7 +11172,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0063-0070</page>
 				<allauthors>
-					<author>Swami Veda Bharati</author>
+					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11188,7 +11180,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0071-0078</page>
 				<allauthors>
-					<author>Swami Satchidananda</author>
+					<author>Satchidananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11196,7 +11188,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0079-0080</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11267,7 +11259,7 @@
 				<feature>Personality of Hanuman</feature>
 				<page>0014-0017</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11391,7 +11383,7 @@
 				<feature>The Essentials</feature>
 				<page>0008-0009</page>
 				<allauthors>
-					<author>Jagadguru Sri Abhinava Vidyatirtha</author>
+					<author>Jagadguru Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11407,7 +11399,7 @@
 				<feature>The Essentials</feature>
 				<page>0016-0022</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11551,7 +11543,7 @@
 				<feature>General Introduction</feature>
 				<page>0007-0012</page>
 				<allauthors>
-					<author>Swami Vivekananda</author>
+					<author>Vivekananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11559,7 +11551,7 @@
 				<feature>General Introduction</feature>
 				<page>0013-0020</page>
 				<allauthors>
-					<author>Swami Lokeswarananda</author>
+					<author>Lokeswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11591,7 +11583,7 @@
 				<feature>Dynamics of Rebirth</feature>
 				<page>0039-0048</page>
 				<allauthors>
-					<author>Swami Abhedananda</author>
+					<author>Abhedananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11615,7 +11607,7 @@
 				<feature>Dynamics of Rebirth</feature>
 				<page>0061-0063</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11623,7 +11615,7 @@
 				<feature>Dynamics of Rebirth</feature>
 				<page>0064-0068</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11699,7 +11691,7 @@
 				<feature>Supremacy of Pranava</feature>
 				<page>0011-0013</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11763,7 +11755,7 @@
 				<feature>Om as Symbol</feature>
 				<page>0044-0045</page>
 				<allauthors>
-					<author>Swami Lokeswarananda</author>
+					<author>Lokeswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11783,7 +11775,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0064-0076</page>
 				<allauthors>
-					<author>Swami Mukhyananda</author>
+					<author>Mukhyananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11810,7 +11802,7 @@
 				<feature></feature>
 				<page>0004-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11834,7 +11826,7 @@
 				<feature></feature>
 				<page>0013-0019</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11858,7 +11850,7 @@
 				<feature></feature>
 				<page>0031-0037</page>
 				<allauthors>
-					<author>Swami Sankaradevananda</author>
+					<author>Sankaradevananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11908,7 +11900,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11924,7 +11916,7 @@
 				<feature></feature>
 				<page>0009-0012</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12014,7 +12006,7 @@
 				<feature></feature>
 				<page>0002-0002</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamiji H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12060,7 +12052,7 @@
 				<feature></feature>
 				<page>0021-0028</page>
 				<allauthors>
-					<author>Diwakar R. R.</author>
+					<author>Diwakar R. R. Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12122,7 +12114,7 @@
 				<feature></feature>
 				<page>0005-0009</page>
 				<allauthors>
-					<author>Sri Abhinava Vidyatirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12200,7 +12192,7 @@
 				<feature></feature>
 				<page>0061-0065</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12258,7 +12250,7 @@
 				<feature></feature>
 				<page>0014-0018</page>
 				<allauthors>
-					<author>Swami Shraddhananda</author>
+					<author>Shraddhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12293,7 +12285,7 @@
 			</entry>
 			<entry>
 				<title>Book Review</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0044-0048</page>
 				<allauthors>
 					<author>Patil N. B. Dr.</author>
@@ -12324,7 +12316,7 @@
 				<feature></feature>
 				<page>0004-0006</page>
 				<allauthors>
-					<author>Abhinava Vidyatirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12332,7 +12324,7 @@
 				<feature></feature>
 				<page>0007-0012</page>
 				<allauthors>
-					<author>Swami Smaranananda</author>
+					<author>Smaranananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12396,7 +12388,7 @@
 				<feature></feature>
 				<page>0053-0056</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12430,7 +12422,7 @@
 				<feature></feature>
 				<page>0004-0008</page>
 				<allauthors>
-					<author>Jagadguru Sri Chandrasekhara Bharati</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12438,7 +12430,7 @@
 				<feature></feature>
 				<page>0009-0014</page>
 				<allauthors>
-					<author>Swami Swahananda</author>
+					<author>Swahananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12454,7 +12446,7 @@
 				<feature></feature>
 				<page>0018-0028</page>
 				<allauthors>
-					<author>Swami Yatiswarananda</author>
+					<author>Yatiswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12512,7 +12504,7 @@
 				<feature></feature>
 				<page>0003-0007</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12520,7 +12512,7 @@
 				<feature></feature>
 				<page>0008-0012</page>
 				<allauthors>
-					<author>Swami Swahananda</author>
+					<author>Swahananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12542,7 +12534,7 @@
 				<feature></feature>
 				<page>0022-0028</page>
 				<allauthors>
-					<author>Swami Prabhavananda</author>
+					<author>Prabhavananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12612,7 +12604,7 @@
 				<feature></feature>
 				<page>0004-0010</page>
 				<allauthors>
-					<author>Sri Abhinava Vidyateertha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12620,7 +12612,7 @@
 				<feature></feature>
 				<page>0011-0014</page>
 				<allauthors>
-					<author>Swami Prabhavananda</author>
+					<author>Prabhavananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12648,7 +12640,7 @@
 				<feature></feature>
 				<page>0029-0032</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12672,7 +12664,7 @@
 				<feature></feature>
 				<page>0042-0048</page>
 				<allauthors>
-					<author>Swami Suddha Chaitanya</author>
+					<author>Suddha Chaitanya Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12732,7 +12724,7 @@
 				<feature></feature>
 				<page>0015-0020</page>
 				<allauthors>
-					<author>Swami (Devi) Vasantananda</author>
+					<author>(Devi) Vasantananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12764,7 +12756,7 @@
 				<feature></feature>
 				<page>0039-0043</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12866,7 +12858,7 @@
 				<feature></feature>
 				<page>0037-0048</page>
 				<allauthors>
-					<author>Guru Dutt K.</author>
+					<author>Gurudutt K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12904,7 +12896,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12920,7 +12912,7 @@
 				<feature></feature>
 				<page>0007-0007</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12986,7 +12978,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13154,7 +13146,7 @@
 				<feature></feature>
 				<page>0004-0007</page>
 				<allauthors>
-					<author>Swami Tejomayananda</author>
+					<author>Tejomayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13478,7 +13470,7 @@
 				<feature></feature>
 				<page>0014-0019</page>
 				<allauthors>
-					<author>Swami Harshananda</author>
+					<author>Harshananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13540,7 +13532,7 @@
 				<feature></feature>
 				<page>0004-0013</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13578,7 +13570,7 @@
 				<feature></feature>
 				<page>0032-0033</page>
 				<allauthors>
-					<author>Jagadish Ayyar P. V.</author>
+					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13606,7 +13598,7 @@
 				<feature></feature>
 				<page>0047-0084</page>
 				<allauthors>
-					<author>Swami Suddhananda</author>
+					<author>Suddhananda Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -13642,7 +13634,7 @@
 				<feature></feature>
 				<page>0019-0024</page>
 				<allauthors>
-					<author>Jagadisa Ayyar P. V.</author>
+					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13712,7 +13704,7 @@
 				<feature></feature>
 				<page>0019-0024</page>
 				<allauthors>
-					<author>Jagadish Ayyar P. V.</author>
+					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13906,7 +13898,7 @@
 				<feature></feature>
 				<page>0045-0047</page>
 				<allauthors>
-					<author>Jagadisa Ayyar P. V.</author>
+					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13928,7 +13920,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Swami Suddhananda</author>
+					<author>Suddhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13960,7 +13952,7 @@
 				<feature></feature>
 				<page>0024-0025</page>
 				<allauthors>
-					<author>Jagadisa Ayyar P. V.</author>
+					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14001,7 +13993,7 @@
 			</entry>
 			<entry>
 				<title>Book Review</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0051-0058</page>
 				<allauthors />
 			</entry>
@@ -14083,7 +14075,7 @@
 			</entry>
 			<entry>
 				<title>Book Review</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0043-0044</page>
 				<allauthors />
 			</entry>
@@ -14126,7 +14118,7 @@
 				<feature></feature>
 				<page>0014-0020</page>
 				<allauthors>
-					<author>Swami Yatisvarananda</author>
+					<author>Yatisvarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14142,7 +14134,7 @@
 				<feature></feature>
 				<page>0026-0032</page>
 				<allauthors>
-					<author>Jagadisa Aiyar P. V.</author>
+					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14232,7 +14224,7 @@
 				<feature></feature>
 				<page>0041-0045</page>
 				<allauthors>
-					<author>Swami Suddhananda</author>
+					<author>Suddhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14313,7 +14305,7 @@
 				<feature></feature>
 				<page>0037-0042</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14335,7 +14327,7 @@
 				<feature></feature>
 				<page>0053-0084</page>
 				<allauthors>
-					<author>Swami Suddhananda</author>
+					<author>Suddhananda Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -14359,7 +14351,7 @@
 				<feature></feature>
 				<page>0008-0013</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14453,7 +14445,7 @@
 				<feature></feature>
 				<page>0016-0025</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14545,7 +14537,7 @@
 				<feature></feature>
 				<page>0018-0025</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14587,7 +14579,7 @@
 				<feature></feature>
 				<page>0059-0084</page>
 				<allauthors>
-					<author>Swami Budhananda</author>
+					<author>Budhananda Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -14619,7 +14611,7 @@
 				<feature></feature>
 				<page>0014-0017</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14691,7 +14683,7 @@
 				<feature></feature>
 				<page>0065-0084</page>
 				<allauthors>
-					<author>Swami Veda Bharati</author>
+					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -14707,7 +14699,7 @@
 				<feature></feature>
 				<page>0005-0008</page>
 				<allauthors>
-					<author>Swami Satprakashananda</author>
+					<author>Satprakashananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14737,7 +14729,7 @@
 				<feature></feature>
 				<page>0022-0029</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14811,7 +14803,7 @@
 				<feature></feature>
 				<page>0005-0008</page>
 				<allauthors>
-					<author>Swami Jnanananda Bharati</author>
+					<author>Jnanananda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14871,7 +14863,7 @@
 				<feature></feature>
 				<page>0043-0048</page>
 				<allauthors>
-					<author>Swami Pavitrananda</author>
+					<author>Pavitrananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14900,7 +14892,7 @@
 				<feature></feature>
 				<page>0059-0084</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -15014,7 +15006,7 @@
 				<feature></feature>
 				<page>0065-0084</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -15230,7 +15222,7 @@
 				<feature></feature>
 				<page>0060-0084</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -15242,7 +15234,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15266,7 +15258,7 @@
 				<feature></feature>
 				<page>0012-0014</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15312,7 +15304,7 @@
 				<feature></feature>
 				<page>0041-0046</page>
 				<allauthors>
-					<author>Susheela Patil Dr. Smt.</author>
+					<author>Susheela Patil Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15328,7 +15320,7 @@
 				<feature></feature>
 				<page>0051-0058</page>
 				<allauthors>
-					<author>Swami Budhananda</author>
+					<author>Budhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15360,7 +15352,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15384,7 +15376,7 @@
 				<feature></feature>
 				<page>0011-0013</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15490,7 +15482,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15498,7 +15490,7 @@
 				<feature></feature>
 				<page>0004-0006</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15590,7 +15582,7 @@
 				<feature></feature>
 				<page>0062-0084</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -15600,7 +15592,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15608,7 +15600,7 @@
 				<feature></feature>
 				<page>0004-0006</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15662,7 +15654,7 @@
 				<feature></feature>
 				<page>0034-0036</page>
 				<allauthors>
-					<author>Swami Tatwananda</author>
+					<author>Tatwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15724,7 +15716,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15732,7 +15724,7 @@
 				<feature></feature>
 				<page>0004-0006</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15778,7 +15770,7 @@
 				<feature></feature>
 				<page>0029-0033</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15832,7 +15824,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15840,7 +15832,7 @@
 				<feature></feature>
 				<page>0004-0006</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15886,7 +15878,7 @@
 				<feature></feature>
 				<page>0032-0037</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15902,7 +15894,7 @@
 				<feature></feature>
 				<page>0045-0049</page>
 				<allauthors>
-					<author>Swami Tattwananda</author>
+					<author>Tattwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15940,7 +15932,7 @@
 				<feature></feature>
 				<page>0063-0084</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -15950,7 +15942,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15958,7 +15950,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati Mahaswami H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16004,7 +15996,7 @@
 				<feature></feature>
 				<page>0026-0029</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16020,7 +16012,7 @@
 				<feature></feature>
 				<page>0036-0038</page>
 				<allauthors>
-					<author>Swami Tattwananda</author>
+					<author>Tattwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16066,7 +16058,7 @@
 				<feature></feature>
 				<page>0058-0084</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -16076,7 +16068,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16092,7 +16084,7 @@
 				<feature></feature>
 				<page>0008-0009</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati Mahaswami H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16122,7 +16114,7 @@
 				<feature></feature>
 				<page>0023-0027</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16138,7 +16130,7 @@
 				<feature></feature>
 				<page>0034-0035</page>
 				<allauthors>
-					<author>Swami Tattwananda</author>
+					<author>Tattwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16192,7 +16184,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16208,7 +16200,7 @@
 				<feature></feature>
 				<page>0009-0012</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati Mahaswami H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16266,7 +16258,7 @@
 				<feature></feature>
 				<page>0039-0041</page>
 				<allauthors>
-					<author>Swami Tattwananda</author>
+					<author>Tattwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16330,7 +16322,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16346,7 +16338,7 @@
 				<feature></feature>
 				<page>0008-0011</page>
 				<allauthors>
-					<author>Sri Chandrasekhara Bharati Mahaswami H. H.</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16382,7 +16374,7 @@
 				<feature></feature>
 				<page>0024-0027</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16390,7 +16382,7 @@
 				<feature></feature>
 				<page>0028-0032</page>
 				<allauthors>
-					<author>Swami Tattwananda</author>
+					<author>Tattwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16440,7 +16432,7 @@
 				<feature></feature>
 				<page>0060-0084</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -16450,7 +16442,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16508,7 +16500,7 @@
 				<feature></feature>
 				<page>0026-0029</page>
 				<allauthors>
-					<author>Swami Tattwananda</author>
+					<author>Tattwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16560,7 +16552,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16590,7 +16582,7 @@
 				<feature></feature>
 				<page>0017-0019</page>
 				<allauthors>
-					<author>Swami Lalitananda</author>
+					<author>Lalitananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16604,7 +16596,7 @@
 				<feature></feature>
 				<page>0021-0023</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16640,7 +16632,7 @@
 				<feature></feature>
 				<page>0036-0038</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16648,7 +16640,7 @@
 				<feature></feature>
 				<page>0039-0043</page>
 				<allauthors>
-					<author>Swami Adiswarananda</author>
+					<author>Adiswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16656,7 +16648,7 @@
 				<feature></feature>
 				<page>0044-0047</page>
 				<allauthors>
-					<author>Swami Tattwananda</author>
+					<author>Tattwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16706,7 +16698,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16752,7 +16744,7 @@
 				<feature></feature>
 				<page>0024-0027</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16760,7 +16752,7 @@
 				<feature></feature>
 				<page>0028-0036</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16806,7 +16798,7 @@
 				<feature></feature>
 				<page>0056-0058</page>
 				<allauthors>
-					<author>Swami Tattwananda</author>
+					<author>Tattwananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16853,7 +16845,7 @@
 				<feature></feature>
 				<page>0083-0102</page>
 				<allauthors>
-					<author>Swami Harshanand</author>
+					<author>Harshananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16871,7 +16863,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16917,7 +16909,7 @@
 				<feature></feature>
 				<page>0022-0025</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16925,7 +16917,7 @@
 				<feature></feature>
 				<page>0026-0029</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17007,7 +16999,7 @@
 				<feature></feature>
 				<page>0068-0088</page>
 				<allauthors>
-					<author>Swami Veda Bharati</author>
+					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17025,7 +17017,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17041,7 +17033,7 @@
 				<feature></feature>
 				<page>0008-0009</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17063,7 +17055,7 @@
 				<feature></feature>
 				<page>0018-0021</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17163,7 +17155,7 @@
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17201,7 +17193,7 @@
 				<feature></feature>
 				<page>0022-0028</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17209,7 +17201,7 @@
 				<feature></feature>
 				<page>0029-0031</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17261,7 +17253,7 @@
 				<feature>Book Review</feature>
 				<page>0053-0055</page>
 				<allauthors>
-					<author>Gowri Shankar V. R.</author>
+					<author>Gowrishankar V. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17293,7 +17285,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17323,7 +17315,7 @@
 				<feature></feature>
 				<page>0015-0017</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17331,7 +17323,7 @@
 				<feature></feature>
 				<page>0018-0023</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17419,7 +17411,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17449,7 +17441,7 @@
 				<feature></feature>
 				<page>0017-0019</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17457,7 +17449,7 @@
 				<feature></feature>
 				<page>0020-0024</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17533,7 +17525,7 @@
 				<feature></feature>
 				<page>0057-0078</page>
 				<allauthors>
-					<author>Swami Iswarananda Giri</author>
+					<author>Ishwarananda Giri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17551,7 +17543,7 @@
 				<feature></feature>
 				<page>0003-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17581,7 +17573,7 @@
 				<feature></feature>
 				<page>0022-0028</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17597,7 +17589,7 @@
 				<feature></feature>
 				<page>0033-0056</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17665,7 +17657,7 @@
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17703,7 +17695,7 @@
 				<feature></feature>
 				<page>0022-0023</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17749,7 +17741,7 @@
 				<feature></feature>
 				<page>0043-0050</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17799,7 +17791,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17823,7 +17815,7 @@
 				<feature></feature>
 				<page>0015-0017</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17837,7 +17829,7 @@
 				<feature></feature>
 				<page>0022-0025</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17923,7 +17915,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17953,7 +17945,7 @@
 				<feature></feature>
 				<page>0021-0022</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17983,7 +17975,7 @@
 				<feature></feature>
 				<page>0035-0040</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18030,7 +18022,7 @@
 				<feature></feature>
 				<page>0059-0082</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18048,7 +18040,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18080,7 +18072,7 @@
 				<feature></feature>
 				<page>0017-0019</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18096,7 +18088,7 @@
 				<feature></feature>
 				<page>0025-0028</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18139,7 +18131,7 @@
 			</entry>
 			<entry>
 				<title>Book Review</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0051-0052</page>
 				<allauthors>
 					<author>Venkataraman C. N.</author>
@@ -18167,7 +18159,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18187,7 +18179,7 @@
 				<feature></feature>
 				<page>0014-0015</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18203,7 +18195,7 @@
 				<feature></feature>
 				<page>0020-0023</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18281,7 +18273,7 @@
 				<feature></feature>
 				<page>0058-0078</page>
 				<allauthors>
-					<author>Swami Veda Bharati</author>
+					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18301,7 +18293,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18407,7 +18399,7 @@
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18421,7 +18413,7 @@
 				<feature></feature>
 				<page>0012-0013</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18445,7 +18437,7 @@
 				<feature></feature>
 				<page>0022-0025</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18549,7 +18541,7 @@
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18571,7 +18563,7 @@
 				<feature></feature>
 				<page>0018-0022</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18579,7 +18571,7 @@
 				<feature></feature>
 				<page>0023-0026</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18659,7 +18651,7 @@
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18681,7 +18673,7 @@
 				<feature></feature>
 				<page>0017-0020</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18689,7 +18681,7 @@
 				<feature></feature>
 				<page>0021-0023</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18783,7 +18775,7 @@
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18805,7 +18797,7 @@
 				<feature></feature>
 				<page>0019-0021</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18813,7 +18805,7 @@
 				<feature></feature>
 				<page>0022-0025</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18887,7 +18879,7 @@
 				<feature></feature>
 				<page>0059-0080</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18905,7 +18897,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18935,7 +18927,7 @@
 				<feature></feature>
 				<page>0021-0024</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18943,7 +18935,7 @@
 				<feature></feature>
 				<page>0025-0030</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18989,7 +18981,7 @@
 				<feature></feature>
 				<page>0055-0080</page>
 				<allauthors>
-					<author>Swami Vivekananda</author>
+					<author>Vivekananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19007,7 +18999,7 @@
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19029,7 +19021,7 @@
 				<feature></feature>
 				<page>0017-0020</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19043,7 +19035,7 @@
 				<feature></feature>
 				<page>0024-0028</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19113,7 +19105,7 @@
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19143,7 +19135,7 @@
 				<feature></feature>
 				<page>0024-0028</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19207,7 +19199,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19229,7 +19221,7 @@
 				<feature></feature>
 				<page>0014-0016</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19253,7 +19245,7 @@
 				<feature></feature>
 				<page>0028-0036</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19318,7 +19310,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19340,7 +19332,7 @@
 				<feature></feature>
 				<page>0016-0018</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19348,7 +19340,7 @@
 				<feature></feature>
 				<page>0019-0024</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19402,7 +19394,7 @@
 				<feature></feature>
 				<page>0051-0053</page>
 				<allauthors>
-					<author>Swami Dayananda</author>
+					<author>Dayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19437,7 +19429,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19467,7 +19459,7 @@
 				<feature></feature>
 				<page>0016-0018</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19475,7 +19467,7 @@
 				<feature></feature>
 				<page>0019-0024</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19515,7 +19507,7 @@
 				<feature></feature>
 				<page>0037-0041</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19553,7 +19545,7 @@
 				<feature></feature>
 				<page>0058-0078</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19571,7 +19563,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19601,7 +19593,7 @@
 				<feature></feature>
 				<page>0019-0022</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19609,7 +19601,7 @@
 				<feature></feature>
 				<page>0023-0026</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19695,7 +19687,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19717,7 +19709,7 @@
 				<feature></feature>
 				<page>0014-0019</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19825,7 +19817,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19847,7 +19839,7 @@
 				<feature></feature>
 				<page>0013-0017</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19969,7 +19961,7 @@
 				<feature></feature>
 				<page>0015-0017</page>
 				<allauthors>
-					<author>Swami Gautamananda</author>
+					<author>Gautamananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19991,7 +19983,7 @@
 				<feature></feature>
 				<page>0026-0032</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20047,7 +20039,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20069,7 +20061,7 @@
 				<feature></feature>
 				<page>0014-0017</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20101,7 +20093,7 @@
 				<feature></feature>
 				<page>0034-0038</page>
 				<allauthors>
-					<author>Swami Ranganathananda</author>
+					<author>Ranganathananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20131,7 +20123,7 @@
 				<feature></feature>
 				<page>0051-0078</page>
 				<allauthors>
-					<author>Swami Dayananda</author>
+					<author>Dayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20149,7 +20141,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20165,7 +20157,7 @@
 				<feature></feature>
 				<page>0011-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20257,7 +20249,7 @@
 				<feature></feature>
 				<page>0055-0078</page>
 				<allauthors>
-					<author>Swami Dayananda</author>
+					<author>Dayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20275,7 +20267,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20291,7 +20283,7 @@
 				<feature></feature>
 				<page>0011-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20369,7 +20361,7 @@
 				<feature></feature>
 				<page>0059-0080</page>
 				<allauthors>
-					<author>Swami Ranganathananda</author>
+					<author>Ranganathananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20387,7 +20379,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20403,7 +20395,7 @@
 				<feature></feature>
 				<page>0011-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20489,7 +20481,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20505,7 +20497,7 @@
 				<feature></feature>
 				<page>0010-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20529,7 +20521,7 @@
 				<feature></feature>
 				<page>0026-0036</page>
 				<allauthors>
-					<author>Swami Suddhananda</author>
+					<author>Suddhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20592,7 +20584,7 @@
 				<feature></feature>
 				<page>0005-0008</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20608,7 +20600,7 @@
 				<feature></feature>
 				<page>0012-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20702,7 +20694,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20718,7 +20710,7 @@
 				<feature></feature>
 				<page>0011-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20766,7 +20758,7 @@
 				<feature></feature>
 				<page>0037-0042</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20807,7 +20799,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20823,7 +20815,7 @@
 				<feature></feature>
 				<page>0010-0013</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20884,7 +20876,7 @@
 			</entry>
 			<entry>
 				<title>Book Review: Ayurveda for Biginners</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0048-0048</page>
 				<allauthors>
 					<author>Subramanian C. R. </author>
@@ -20917,7 +20909,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20933,7 +20925,7 @@
 				<feature></feature>
 				<page>0011-0014</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20957,7 +20949,7 @@
 				<feature></feature>
 				<page>0026-0031</page>
 				<allauthors>
-					<author>Swami Paramarthananda</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21017,7 +21009,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21033,7 +21025,7 @@
 				<feature></feature>
 				<page>0010-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21109,7 +21101,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21125,7 +21117,7 @@
 				<feature></feature>
 				<page>0010-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21207,7 +21199,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21223,7 +21215,7 @@
 				<feature></feature>
 				<page>0010-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21282,7 +21274,7 @@
 			</entry>
 			<entry>
 				<title>Book Review: Essential Wisdom and Holy Gita, Ready Reference</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0053-0054</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
@@ -21309,7 +21301,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21325,7 +21317,7 @@
 				<feature></feature>
 				<page>0011-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21387,7 +21379,7 @@
 				<feature></feature>
 				<page>0050-0072</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21411,7 +21403,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21427,7 +21419,7 @@
 				<feature></feature>
 				<page>0011-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21506,7 +21498,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21522,7 +21514,7 @@
 				<feature></feature>
 				<page>0010-0015</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21570,7 +21562,7 @@
 				<feature></feature>
 				<page>0045-0045</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21608,7 +21600,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21678,7 +21670,7 @@
 				<feature></feature>
 				<page>0051-0051</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21686,7 +21678,7 @@
 				<feature></feature>
 				<page>0052-0080</page>
 				<allauthors>
-					<author>Swami Budhananda</author>
+					<author>Budhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21704,7 +21696,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21774,7 +21766,7 @@
 				<feature></feature>
 				<page>0052-0056</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21788,7 +21780,7 @@
 				<feature></feature>
 				<page>0060-0080</page>
 				<allauthors>
-					<author>Swami Srikantananda</author>
+					<author>Srikantananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21806,7 +21798,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21876,7 +21868,7 @@
 				<feature></feature>
 				<page>0051-0080</page>
 				<allauthors>
-					<author>Swami Budhananda</author>
+					<author>Budhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21894,7 +21886,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21998,7 +21990,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22076,7 +22068,7 @@
 				<feature></feature>
 				<page>0051-0078</page>
 				<allauthors>
-					<author>Swami Gokulananda</author>
+					<author>Gokulananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22094,7 +22086,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22331,7 +22323,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22371,7 +22363,7 @@
 				<feature></feature>
 				<page>0022-0024</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22451,7 +22443,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22499,7 +22491,7 @@
 				<feature></feature>
 				<page>0031-0034</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22507,12 +22499,12 @@
 				<feature></feature>
 				<page>0035-0036</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Book Review: Chidambaram, Home of Nataraja</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0037-0042</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
@@ -22537,7 +22529,7 @@
 				<feature></feature>
 				<page>0055-0078</page>
 				<allauthors>
-					<author>Gowri Shankar V. R.</author>
+					<author>Gowrishankar V. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22555,7 +22547,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22659,7 +22651,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22691,7 +22683,7 @@
 				<feature></feature>
 				<page>0022-0026</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22761,7 +22753,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22769,7 +22761,7 @@
 				<feature></feature>
 				<page>0007-0010</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22833,7 +22825,7 @@
 				<feature></feature>
 				<page>0048-0048</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22873,7 +22865,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22897,7 +22889,7 @@
 				<feature></feature>
 				<page>0015-0017</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastri</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22967,7 +22959,7 @@
 				<feature></feature>
 				<page>0054-0078</page>
 				<allauthors>
-					<author>Swami Virajeshwara</author>
+					<author>Virajeshwara Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22985,7 +22977,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22993,7 +22985,7 @@
 				<feature></feature>
 				<page>0007-0012</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastri</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23025,7 +23017,7 @@
 				<feature></feature>
 				<page>0027-0030</page>
 				<allauthors>
-					<author>Chithra Madhavan</author>
+					<author>Chithra Madhavan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23057,7 +23049,7 @@
 				<feature></feature>
 				<page>0055-0082</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23075,7 +23067,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23083,7 +23075,7 @@
 				<feature></feature>
 				<page>0007-0012</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastri</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23172,7 +23164,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23180,7 +23172,7 @@
 				<feature></feature>
 				<page>0007-0010</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23196,7 +23188,7 @@
 				<feature></feature>
 				<page>0016-0019</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23220,7 +23212,7 @@
 				<feature></feature>
 				<page>0032-0035</page>
 				<allauthors>
-					<author>Chithra Madhavan</author>
+					<author>Chithra Madhavan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23276,7 +23268,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23370,7 +23362,7 @@
 				<feature></feature>
 				<page>0052-0078</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23388,7 +23380,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23420,7 +23412,7 @@
 				<feature></feature>
 				<page>0028-0030</page>
 				<allauthors>
-					<author>Chithra Madhavan</author>
+					<author>Chithra Madhavan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23428,7 +23420,7 @@
 				<feature></feature>
 				<page>0031-0038</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23477,18 +23469,16 @@
 			</entry>
 			<entry>
 				<title>Editor's Note</title>
-				<feature></feature>
+				<feature>Editorial</feature>
 				<page>0070-0070</page>
-				<allauthors>
-					<author>Editor</author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>What the Tree Teaches Us</title>
 				<feature></feature>
 				<page>0071-0071</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23526,7 +23516,7 @@
 				<feature></feature>
 				<page>0092-0096</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23566,7 +23556,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23606,7 +23596,7 @@
 				<feature></feature>
 				<page>0022-0026</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23614,7 +23604,7 @@
 				<feature></feature>
 				<page>0027-0034</page>
 				<allauthors>
-					<author>Chithra Madhavan</author>
+					<author>Chithra Madhavan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23668,7 +23658,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23676,7 +23666,7 @@
 				<feature></feature>
 				<page>0007-0011</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23762,7 +23752,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23794,7 +23784,7 @@
 				<feature></feature>
 				<page>0029-0034</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23810,7 +23800,7 @@
 				<feature></feature>
 				<page>0041-0042</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23852,11 +23842,9 @@
 			</entry>
 			<entry>
 				<title>Editor's Note</title>
-				<feature></feature>
+				<feature>Editorial</feature>
 				<page>0060-0060</page>
-				<allauthors>
-					<author>Editor</author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Practical and Spiritual Values of Ayurveda</title>
@@ -23871,7 +23859,7 @@
 				<feature></feature>
 				<page>0065-0070</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry Dr.</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23943,7 +23931,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23975,7 +23963,7 @@
 				<feature></feature>
 				<page>0026-0027</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23983,7 +23971,7 @@
 				<feature></feature>
 				<page>0028-0031</page>
 				<allauthors>
-					<author>Swami Veda Bharati</author>
+					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24013,7 +24001,7 @@
 				<feature></feature>
 				<page>0049-0074</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24037,7 +24025,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24085,7 +24073,7 @@
 				<feature></feature>
 				<page>0031-0034</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24123,7 +24111,7 @@
 				<feature></feature>
 				<page>0055-0078</page>
 				<allauthors>
-					<author>Chithra Madhavan</author>
+					<author>Chithra Madhavan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24141,7 +24129,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24201,7 +24189,7 @@
 				<feature></feature>
 				<page>0056-0060</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry Dr.</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24209,7 +24197,7 @@
 				<feature></feature>
 				<page>0061-0065</page>
 				<allauthors>
-					<author>Swami (Devi) Vasantananda</author>
+					<author>(Devi) Vasantananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24251,7 +24239,7 @@
 				<feature></feature>
 				<page>0087-0091</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24277,7 +24265,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24331,7 +24319,7 @@
 				<feature></feature>
 				<page>0041-0043</page>
 				<allauthors>
-					<author>Swami Vedabharati</author>
+					<author>Vedabharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24339,7 +24327,7 @@
 				<feature></feature>
 				<page>0044-0044</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24367,7 +24355,7 @@
 				<feature></feature>
 				<page>0056-0078</page>
 				<allauthors>
-					<author>Swami Chidananda</author>
+					<author>Chidananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24385,7 +24373,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24447,7 +24435,7 @@
 				<feature></feature>
 				<page>0045-0048</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24455,7 +24443,7 @@
 				<feature>Book Review</feature>
 				<page>0049-0050</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24475,7 +24463,7 @@
 				<feature></feature>
 				<page>0058-0078</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24493,7 +24481,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24544,7 +24532,7 @@
 			</entry>
 			<entry>
 				<title>Book Review: Punya Kshetra Sringeri</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0037-0039</page>
 				<allauthors>
 					<author>Gopalakrishna V. Dr.</author>
@@ -24572,18 +24560,16 @@
 			</entry>
 			<entry>
 				<title>Editor's Note</title>
-				<feature></feature>
+				<feature>Editorial</feature>
 				<page>0056-0056</page>
-				<allauthors>
-					<author>Editor</author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>The Respect Forests Deserve</title>
 				<feature></feature>
 				<page>0057-0061</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry Dr.</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24645,7 +24631,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24677,7 +24663,7 @@
 				<feature></feature>
 				<page>0021-0025</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24715,7 +24701,7 @@
 				<feature></feature>
 				<page>0041-0046</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24768,7 +24754,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24800,7 +24786,7 @@
 				<feature></feature>
 				<page>0020-0021</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24872,7 +24858,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24904,7 +24890,7 @@
 				<feature></feature>
 				<page>0022-0023</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24953,7 +24939,7 @@
 			</entry>
 			<entry>
 				<title>Editor's Note</title>
-				<feature></feature>
+				<feature>Editorial</feature>
 				<page>0056-0056</page>
 				<allauthors />
 			</entry>
@@ -24962,7 +24948,7 @@
 				<feature></feature>
 				<page>0057-0061</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry Dr.</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24994,7 +24980,7 @@
 				<feature></feature>
 				<page>0073-0075</page>
 				<allauthors>
-					<author>Chithra Madhavan</author>
+					<author>Chithra Madhavan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25018,7 +25004,7 @@
 				<feature></feature>
 				<page>0083-0086</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -25030,7 +25016,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25070,7 +25056,7 @@
 				<feature></feature>
 				<page>0028-0029</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25086,7 +25072,7 @@
 				<feature></feature>
 				<page>0035-0038</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25142,7 +25128,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25174,7 +25160,7 @@
 				<feature></feature>
 				<page>0019-0021</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25206,7 +25192,7 @@
 				<feature></feature>
 				<page>0039-0043</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25236,7 +25222,7 @@
 				<feature></feature>
 				<page>0057-0078</page>
 				<allauthors>
-					<author>Swami Ranganathananda</author>
+					<author>Ranganathananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25254,7 +25240,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25335,11 +25321,9 @@
 			</entry>
 			<entry>
 				<title>Editor's Note</title>
-				<feature></feature>
+				<feature>Editorial</feature>
 				<page>0056-0056</page>
-				<allauthors>
-					<author>Editor</author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>The Glory of Agni in Vedas</title>
@@ -25362,7 +25346,7 @@
 				<feature></feature>
 				<page>0063-0067</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry Dr.</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25386,7 +25370,7 @@
 				<feature></feature>
 				<page>0073-0076</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25420,7 +25404,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25490,7 +25474,7 @@
 				<feature></feature>
 				<page>0045-0068</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25514,7 +25498,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25624,7 +25608,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25705,18 +25689,16 @@
 			</entry>
 			<entry>
 				<title>Editor's Note</title>
-				<feature></feature>
+				<feature>Editorial</feature>
 				<page>0060-0060</page>
-				<allauthors>
-					<author>Editor</author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Vayu Rahasya--The Secret of Vayu</title>
 				<feature></feature>
 				<page>0061-0067</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25724,7 +25706,7 @@
 				<feature></feature>
 				<page>0068-0073</page>
 				<allauthors>
-					<author>Goda Venkateswara Sastry</author>
+					<author>Goda Venkateswara Sastri Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25773,7 +25755,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25869,7 +25851,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25901,7 +25883,7 @@
 				<feature></feature>
 				<page>0021-0026</page>
 				<allauthors>
-					<author>Swami Yogananda Sarasvati</author>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25917,7 +25899,7 @@
 				<feature></feature>
 				<page>0035-0038</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -25973,7 +25955,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26075,7 +26057,7 @@
 				<feature></feature>
 				<page>0065-0086</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -26087,7 +26069,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26181,7 +26163,7 @@
 				<feature></feature>
 				<page>0055-0076</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26199,7 +26181,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26223,7 +26205,7 @@
 				<feature></feature>
 				<page>0016-0018</page>
 				<allauthors>
-					<author>Swami Omkarananda</author>
+					<author>Omkarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26319,7 +26301,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26415,7 +26397,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26501,7 +26483,7 @@
 				<feature></feature>
 				<page>0053-0078</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26525,7 +26507,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26611,7 +26593,7 @@
 				<feature></feature>
 				<page>0059-0088</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26629,7 +26611,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26677,7 +26659,7 @@
 				<feature></feature>
 				<page>0030-0034</page>
 				<allauthors>
-					<author>Swami Jyotirmayananda</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26715,7 +26697,7 @@
 				<feature></feature>
 				<page>0055-0080</page>
 				<allauthors>
-					<author>Jagadguru Sri Chandrasekhara Bharati Mahaswami</author>
+					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26733,7 +26715,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26823,7 +26805,7 @@
 				<feature></feature>
 				<page>0059-0080</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26841,7 +26823,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26966,7 +26948,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27006,7 +26988,7 @@
 				<feature></feature>
 				<page>0025-0028</page>
 				<allauthors>
-					<author>Chithra Madhavan</author>
+					<author>Chithra Madhavan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27072,7 +27054,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27136,7 +27118,7 @@
 				<feature></feature>
 				<page>0044-0047</page>
 				<allauthors>
-					<author>Chithra Madhavan</author>
+					<author>Chithra Madhavan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27158,7 +27140,7 @@
 				<feature></feature>
 				<page>0063-0082</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27176,7 +27158,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27260,7 +27242,7 @@
 				<feature></feature>
 				<page>0065-0086</page>
 				<allauthors>
-					<author>Swami Satprakashananda</author>
+					<author>Satprakashananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27278,7 +27260,7 @@
 				<feature></feature>
 				<page>0005-0009</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27376,7 +27358,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27454,7 +27436,7 @@
 				<feature></feature>
 				<page>0057-0079</page>
 				<allauthors>
-					<author>Swami Ranganathananda</author>
+					<author>Ranganathananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27478,7 +27460,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27502,7 +27484,7 @@
 				<feature></feature>
 				<page>0017-0021</page>
 				<allauthors>
-					<author>Swami Atmapriyananda</author>
+					<author>Atmapriyananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27540,7 +27522,7 @@
 				<feature></feature>
 				<page>0047-0076</page>
 				<allauthors>
-					<author>Swami Iswarananda Giri</author>
+					<author>Ishwarananda Giri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27634,7 +27616,7 @@
 				<feature></feature>
 				<page>0055-0080</page>
 				<allauthors>
-					<author>Swami Sukhabodhananda</author>
+					<author>Sukhabodhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27652,7 +27634,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27676,7 +27658,7 @@
 				<feature></feature>
 				<page>0016-0016</page>
 				<allauthors>
-					<author>Ananth Krishnan</author>
+					<author>Ananth Krishnan Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27684,7 +27666,7 @@
 				<feature></feature>
 				<page>0017-0020</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27738,7 +27720,7 @@
 				<feature></feature>
 				<page>0057-0080</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27756,7 +27738,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27794,7 +27776,7 @@
 				<feature></feature>
 				<page>0020-0020</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27864,7 +27846,7 @@
 				<feature></feature>
 				<page>0055-0080</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27882,7 +27864,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27906,7 +27888,7 @@
 				<feature></feature>
 				<page>0016-0019</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27978,7 +27960,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28090,7 +28072,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28114,7 +28096,7 @@
 				<feature></feature>
 				<page>0016-0021</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28138,7 +28120,7 @@
 				<feature></feature>
 				<page>0033-0037</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28168,7 +28150,7 @@
 				<feature></feature>
 				<page>0050-0052</page>
 				<allauthors>
-					<author>Swamy Sivananda</author>
+					<author>Sivananda Swamy</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28189,7 +28171,7 @@
 			</entry>
 			<entry>
 				<title>Book Review: Sanskrit Is Fun: Coursebook for Beginners, The Stories of Krishna, The Story of Rama</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0057-0058</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
@@ -28220,7 +28202,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28268,7 +28250,7 @@
 				<feature></feature>
 				<page>0029-0034</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28340,7 +28322,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28380,7 +28362,7 @@
 				<feature></feature>
 				<page>0024-0030</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28422,7 +28404,7 @@
 				<feature></feature>
 				<page>0057-0080</page>
 				<allauthors>
-					<author>Swami Ramsukhdas</author>
+					<author>Ramsukhdas Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28446,7 +28428,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28470,7 +28452,7 @@
 				<feature></feature>
 				<page>0016-0020</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28565,7 +28547,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28589,7 +28571,7 @@
 				<feature></feature>
 				<page>0015-0019</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28677,7 +28659,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28709,7 +28691,7 @@
 				<feature></feature>
 				<page>0022-0028</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28795,7 +28777,7 @@
 				<feature></feature>
 				<page>0061-0082</page>
 				<allauthors>
-					<author>Swami Paramananda</author>
+					<author>Paramananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28813,7 +28795,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28837,7 +28819,7 @@
 				<feature></feature>
 				<page>0016-0019</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28926,7 +28908,7 @@
 			</entry>
 			<entry>
 				<title>Book Review: Concepts, Contexts and Conflations</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0059-0060</page>
 				<allauthors>
 					<author>Srinivasan R.</author>
@@ -28955,7 +28937,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29003,7 +28985,7 @@
 				<feature></feature>
 				<page>0030-0033</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29011,7 +28993,7 @@
 				<feature></feature>
 				<page>0034-0034</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29073,7 +29055,7 @@
 				<feature></feature>
 				<page>0057-0084</page>
 				<allauthors>
-					<author>Swami Gurudasananda</author>
+					<author>Gurudasananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29091,7 +29073,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29113,7 +29095,7 @@
 				<feature></feature>
 				<page>0016-0021</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswathi</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29172,7 +29154,7 @@
 			</entry>
 			<entry>
 				<title>Book Review: View of Life--The Sanatana Way</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0056-0058</page>
 				<allauthors>
 					<author>Rishi</author>
@@ -29183,7 +29165,7 @@
 				<feature></feature>
 				<page>0059-0088</page>
 				<allauthors>
-					<author>Swami Ramsukhdas</author>
+					<author>Ramsukhdas Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29201,7 +29183,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29233,7 +29215,7 @@
 				<feature></feature>
 				<page>0020-0025</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29313,7 +29295,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29337,7 +29319,7 @@
 				<feature></feature>
 				<page>0014-0019</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29404,7 +29386,7 @@
 			</entry>
 			<entry>
 				<title>Book Review: 1. Vedic Mind, 2. Happiness @ Work</title>
-				<feature></feature>
+				<feature>Book Review</feature>
 				<page>0058-0060</page>
 				<allauthors>
 					<author>Rishi</author>
@@ -29433,7 +29415,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29501,7 +29483,7 @@
 				<feature></feature>
 				<page>0046-0047</page>
 				<allauthors>
-					<author>Gowri Shankar V. R.</author>
+					<author>Gowrishankar V. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29551,7 +29533,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29623,7 +29605,7 @@
 				<feature></feature>
 				<page>0045-0046</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29662,7 +29644,7 @@
 				<feature></feature>
 				<page>0061-0086</page>
 				<allauthors>
-					<author>Swami Paramananda</author>
+					<author>Paramananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29680,7 +29662,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29720,7 +29702,7 @@
 				<feature></feature>
 				<page>0028-0031</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29782,7 +29764,7 @@
 				<feature></feature>
 				<page>0067-0086</page>
 				<allauthors>
-					<author>Sri Jnanananda Bharathi Swamigal</author>
+					<author>Jnanananda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29800,7 +29782,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29906,7 +29888,7 @@
 				<feature></feature>
 				<page>0059-0078</page>
 				<allauthors>
-					<author>Swami Nikhileswarananda</author>
+					<author>Nikhileswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29930,7 +29912,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30016,7 +29998,7 @@
 				<feature></feature>
 				<page>0059-0080</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30034,7 +30016,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30152,7 +30134,7 @@
 				<feature></feature>
 				<page>0061-0078</page>
 				<allauthors>
-					<author>Swami Dayananda Saraswati</author>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30170,7 +30152,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30248,7 +30230,7 @@
 				<feature></feature>
 				<page>0053-0053</page>
 				<allauthors>
-					<author>David Frawley</author>
+					<author>David Frawley Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30290,7 +30272,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30408,7 +30390,7 @@
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30518,7 +30500,7 @@
 				<feature></feature>
 				<page>0061-0078</page>
 				<allauthors>
-					<author>Swami Paramananda</author>
+					<author>Paramananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30536,7 +30518,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30612,7 +30594,7 @@
 				<feature></feature>
 				<page>0047-0051</page>
 				<allauthors>
-					<author>Swami Sivananda</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30636,7 +30618,7 @@
 				<feature></feature>
 				<page>0057-0078</page>
 				<allauthors>
-					<author>Swami Shantananda Puri</author>
+					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30654,7 +30636,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30767,7 +30749,7 @@
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30853,7 +30835,7 @@
 				<feature></feature>
 				<page>0059-0078</page>
 				<allauthors>
-					<author>Swami Paramananda</author>
+					<author>Paramananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30873,7 +30855,7 @@
 				<feature></feature>
 				<page>0006-0007</page>
 				<allauthors>
-					<author>Sri Bharati Tirtha Mahaswamigal H. H.</author>
+					<author>Jagadguru Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
