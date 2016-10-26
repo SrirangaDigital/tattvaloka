@@ -258,8 +258,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News &amp; Notes</title>
-				<feature>News &amp; Notes</feature>
+				<title>News and Notes</title>
+				<feature>News and Notes</feature>
 				<page>0065-0069</page>
 				<allauthors />
 			</entry>
@@ -690,7 +690,7 @@
 				<feature></feature>
 				<page>0004-0009</page>
 				<allauthors>
-					<author>Late Suryanarayana Sastry S. S.</author>
+					<author>Suryanarayana Sastry S. S., Late</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4323,7 +4323,7 @@
 				<feature>Vedanta in Daily Life</feature>
 				<page>0090-0092</page>
 				<allauthors>
-					<author>(Devi) Vasantananda Swami</author>
+					<author>Vasantananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4782,7 +4782,7 @@
 			</entry>
 			<entry>
 				<title>Sri Vagisi-stava</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0055-0059</page>
 				<allauthors>
 					<author>Sankara Bhagavatpada</author>
@@ -4790,7 +4790,7 @@
 			</entry>
 			<entry>
 				<title>Kalyana Vrishti-stava</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0060-0066</page>
 				<allauthors>
 					<author>Sankara Bhagavatpada</author>
@@ -4798,7 +4798,7 @@
 			</entry>
 			<entry>
 				<title>Kamalaja Dayitashtaka</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0067-0070</page>
 				<allauthors>
 					<author>Sri Sacchidananda Sivabhinava Nrisimha Bharati Mahaswami</author>
@@ -4806,7 +4806,7 @@
 			</entry>
 			<entry>
 				<title>Panchadasi</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0071-0074</page>
 				<allauthors>
 					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
@@ -5136,7 +5136,7 @@
 			</entry>
 			<entry>
 				<title>Hymn to Siva</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0073-0076</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
@@ -5144,7 +5144,7 @@
 			</entry>
 			<entry>
 				<title>Siva Panchakshara Stotra</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0077-0078</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
@@ -5152,7 +5152,7 @@
 			</entry>
 			<entry>
 				<title>Siva Bhujanga Stotra</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0079-0082</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
@@ -5160,7 +5160,7 @@
 			</entry>
 			<entry>
 				<title>Siva Nava Ratna Mala Stava</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0083-0085</page>
 				<allauthors>
 					<author>Sri Sacchidananda Sivabhinava Nrisimha Bharati Mahaswami</author>
@@ -5168,7 +5168,7 @@
 			</entry>
 			<entry>
 				<title>Sri Chandramouliswara Varnamala Stava</title>
-				<feature>Acharyas' Hymns</feature>
+				<feature>Acharya's Hymns</feature>
 				<page>0086-0088</page>
 				<allauthors>
 					<author>Jagadguru Sri Chandrashekhara Bharati Mahaswami</author>
@@ -5889,7 +5889,7 @@
 				<feature>His Greatness</feature>
 				<page>0036-0038</page>
 				<allauthors>
-					<author>Srinivasa Sarma S.</author>
+					<author>Srinivasa Sharma S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7207,7 +7207,7 @@
 				<feature>Gayatri, The Supreme Mother</feature>
 				<page>0022-0023</page>
 				<allauthors>
-					<author>Sankaranarayanan S.</author>
+					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8651,7 +8651,7 @@
 				<feature>Spiritual Leadership</feature>
 				<page>0017-0018</page>
 				<allauthors>
-					<author>Sankaranarayanan S.</author>
+					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10621,7 +10621,7 @@
 		</part>
 	</volume>
 	<volume vnum="017">
-		<part pnum="01" month="04/05" year="1994">			
+		<part pnum="01" month="04/05" year="1994">
 			<entry>
 				<title>Preface</title>
 				<feature>Preface</feature>
@@ -10630,7 +10630,7 @@
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
-				<feature>Sankara Digvijaya</feature>
+				<feature></feature>
 				<page>0007-0007</page>
 				<allauthors />
 			</entry>
@@ -10723,8 +10723,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Panegyric on Sankara</title>
-				<feature>A Tribute</feature>
+				<title>A Tribute: A Panegyric on Sankara</title>
+				<feature></feature>
 				<page>0053-0064</page>
 				<allauthors>
 					<author>Madhava Vidyaranya</author>
@@ -10935,7 +10935,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="10/11" year="1994">			
+		<part pnum="04" month="10/11" year="1994">
 			<entry>
 				<title>Preface</title>
 				<feature>Preface</feature>
@@ -10944,148 +10944,148 @@
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
-				<feature>Shakti Peethas</feature>
+				<feature></feature>
 				<page>0006-0006</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Shakti Peethas--An Overview</title>
-				<feature>A Survey of Peethas</feature>
+				<title>A Survey of Peethas: Shakti Peethas--An Overview</title>
+				<feature></feature>
 				<page>0007-0011</page>
 				<allauthors>
 					<author>Thorat Y. S. P.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Adi Sankara and The Venerable Kashi Peetha</title>
-				<feature>A Survey of Peethas</feature>
+				<title>A Survey of Peethas: Adi Sankara and The Venerable Kashi Peetha</title>
+				<feature></feature>
 				<page>0012-0014</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kamakhya Peetha in Assam</title>
-				<feature>A Survey of Peethas</feature>
+				<title>A Survey of Peethas: Kamakhya Peetha in Assam</title>
+				<feature></feature>
 				<page>0015-0019</page>
 				<allauthors>
 					<author>Indira Aiyar S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti Peetha in Kanchi</title>
-				<feature>A Survey of Peethas</feature>
+				<title>A Survey of Peethas: Shakti Peetha in Kanchi</title>
+				<feature></feature>
 				<page>0020-0022</page>
 				<allauthors>
 					<author>Indira Aiyar S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti Peetha in Kanyakumari</title>
-				<feature>A Survey of Peethas</feature>
+				<title>A Survey of Peethas: Shakti Peetha in Kanyakumari</title>
+				<feature></feature>
 				<page>0023-0024</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti Peethas in Himachal Pradesh and Nepal</title>
-				<feature>A Survey of Peethas</feature>
+				<title>A Survey of Peethas: Shakti Peethas in Himachal Pradesh and Nepal</title>
+				<feature></feature>
 				<page>0025-0027</page>
 				<allauthors>
 					<author>Hareesh Raja</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti Peetha in Baluchistan</title>
-				<feature>A Survey of Peethas</feature>
+				<title>A Survey of Peethas: Shakti Peetha in Baluchistan</title>
+				<feature></feature>
 				<page>0028-0031</page>
 				<allauthors>
 					<author>Hareesh Raja</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti Peethas Emphasise India's Cultural Unity</title>
-				<feature>Shakti Through The Ages</feature>
+				<title>Shakti Through The Ages: Shakti Peethas Emphasise India's Cultural Unity</title>
+				<feature></feature>
 				<page>0032-0037</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti in Vedic Literature</title>
-				<feature>Shakti Through The Ages</feature>
+				<title>Shakti Through The Ages: Shakti in Vedic Literature</title>
+				<feature></feature>
 				<page>0038-0044</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti in Tantras and Puranas</title>
-				<feature>Shakti Through The Ages</feature>
+				<title>Shakti Through The Ages: Shakti in Tantras and Puranas</title>
+				<feature></feature>
 				<page>0045-0048</page>
 				<allauthors>
 					<author>Asha R., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Tributes to Shakti</title>
-				<feature>Shakti Through The Ages</feature>
+				<title>Shakti Through The Ages: Sankara's Tributes to Shakti</title>
+				<feature></feature>
 				<page>0049-0052</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Aspects of Shakti Worship</title>
-				<feature>Shakti Through The Ages</feature>
+				<title>Shakti Through The Ages: Aspects of Shakti Worship</title>
+				<feature></feature>
 				<page>0053-0057</page>
 				<allauthors>
 					<author>Indira Aiyar S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Bhavani Bhujangam</title>
-				<feature>Hymn on Shakti</feature>
+				<title>Hymn on Shakti: Sri Bhavani Bhujangam</title>
+				<feature></feature>
 				<page>0058-0064</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti Temples in Maharashtra</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: Shakti Temples in Maharashtra</title>
+				<feature></feature>
 				<page>0065-0070</page>
 				<allauthors>
 					<author>Tagare G. V., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti Temples in Western India</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: Shakti Temples in Western India</title>
+				<feature></feature>
 				<page>0071-0074</page>
 				<allauthors>
 					<author>Hareesh Raja</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shakti Temples in Kerala</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: Shakti Temples in Kerala</title>
+				<feature></feature>
 				<page>0075-0078</page>
 				<allauthors>
 					<author>Srikant</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Chamundeshwari in Mysore</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: Sri Chamundeshwari in Mysore</title>
+				<feature></feature>
 				<page>0079-0081</page>
 				<allauthors>
 					<author>Sumitra M. Gautama</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Vedanta in Daily Life: News and Events</title>
 				<feature>News and Events</feature>
 				<page>0082-0085</page>
 				<allauthors>
@@ -11093,7 +11093,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Vedanta in Daily Life: Book Review</title>
 				<feature>Book Review</feature>
 				<page>0086-0088</page>
 				<allauthors>
@@ -11111,132 +11111,132 @@
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
-				<feature>Dhyana / Meditation</feature>
+				<feature></feature>
 				<page>0006-0006</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>The Greatness of Meditation</title>
-				<feature>What is Meditation?</feature>
+				<title>What is Meditation?: The Greatness of Meditation</title>
+				<feature></feature>
 				<page>0007-0009</page>
 				<allauthors>
 					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga of Meditation</title>
-				<feature>What is Meditation?</feature>
+				<title>What is Meditation?: Yoga of Meditation</title>
+				<feature></feature>
 				<page>0010-0013</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Krishna on Dhyana</title>
-				<feature>What is Meditation?</feature>
+				<title>What is Meditation?: Sri Krishna on Dhyana</title>
+				<feature></feature>
 				<page>0014-0016</page>
 				<allauthors>
 					<author>Rukmini Ramamurthy</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Hymn for Dhyana</title>
-				<feature>What is Meditation?</feature>
+				<title>What is Meditation?: A Hymn for Dhyana</title>
+				<feature></feature>
 				<page>0017-0020</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Aspects of Self-Realisation</title>
-				<feature>What is Meditation?</feature>
+				<title>What is Meditation?: Aspects of Self-Realisation</title>
+				<feature></feature>
 				<page>0021-0028</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishadic Meditation</title>
-				<feature>Meditation in Upanishads</feature>
+				<title>Meditation in Upanishads: Upanishadic Meditation</title>
+				<feature></feature>
 				<page>0029-0034</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Meditation in Chandogya Upanishad</title>
-				<feature>Meditation in Upanishads</feature>
+				<title>Meditation in Upanishads: Meditation in Chandogya Upanishad</title>
+				<feature></feature>
 				<page>0035-0038</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Meditation in Ksurika Upanishad</title>
-				<feature>Meditation in Upanishads</feature>
+				<title>Meditation in Upanishads: Meditation in Ksurika Upanishad</title>
+				<feature></feature>
 				<page>0039-0041</page>
 				<allauthors>
 					<author>Meera Sharma, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedantic Meditation</title>
-				<feature>Meditation in Upanishads</feature>
+				<title>Meditation in Upanishads: Vedantic Meditation</title>
+				<feature></feature>
 				<page>0042-0049</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Meditation on Omkara</title>
-				<feature>Meditation in Upanishads</feature>
+				<title>Meditation in Upanishads: Meditation on Omkara</title>
+				<feature></feature>
 				<page>0050-0055</page>
 				<allauthors>
 					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Brahmanuchintanam</title>
-				<feature>A Hymn for Meditation</feature>
+				<title>A Hymn for Meditation: Brahmanuchintanam</title>
+				<feature></feature>
 				<page>0056-0062</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>First Step to Meditation</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: First Step to Meditation</title>
+				<feature></feature>
 				<page>0063-0070</page>
 				<allauthors>
 					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Tips on Meditation</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: Tips on Meditation</title>
+				<feature></feature>
 				<page>0071-0078</page>
 				<allauthors>
 					<author>Satchidananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Faith and Devotion</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: Faith and Devotion</title>
+				<feature></feature>
 				<page>0079-0080</page>
 				<allauthors>
 					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Meditation-The Missing Dimension of Modern Medicine</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: Meditation-The Missing Dimension of Modern Medicine</title>
+				<feature></feature>
 				<page>0081-0086</page>
 				<allauthors>
 					<author>Rajesh Vishwanathan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Vedanta in Daily Life: News and Events</title>
 				<feature>News and Events</feature>
 				<page>0087-0088</page>
 				<allauthors>
@@ -11244,7 +11244,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Vedanta in Daily Life: Book Review</title>
 				<feature>Book Review</feature>
 				<page>0089-0092</page>
 				<allauthors>
@@ -11253,8 +11253,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Vedic Peace Invocation</title>
-				<feature>Vedanta in Daily Life</feature>
+				<title>Vedanta in Daily Life: A Vedic Peace Invocation</title>
+				<feature></feature>
 				<page>0093-0096</page>
 				<allauthors>
 					<author>Das R.</author>
@@ -12760,7 +12760,7 @@
 				<feature></feature>
 				<page>0015-0020</page>
 				<allauthors>
-					<author>(Devi) Vasantananda Swami</author>
+					<author>Vasantananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24233,7 +24233,7 @@
 				<feature></feature>
 				<page>0061-0065</page>
 				<allauthors>
-					<author>(Devi) Vasantananda Swami</author>
+					<author>Vasantananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
