@@ -104,8 +104,9 @@ if($num_rows > 0)
 				$a++;
 			}
 			
-			echo '</span>';
+			echo '</span><br/>';
 		}
+		echo "<span class=\"download\"><a href=\"downloadPdf.php?titleid=" . $row['titleid'] . "\" target=\"_blank\">Download Pdf</a></span>";
 		echo '</div>';
 	}
 }

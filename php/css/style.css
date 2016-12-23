@@ -291,7 +291,10 @@ Modules - reusable parts of our design
 .article .aTitle{
   font-size: 20px;
 }
-
+.article .download{
+	font-size:15px;
+	color: #3372df;
+}
 .article .aAuthor{
   font-size: 16px;
   font-weight: 400;
