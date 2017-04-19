@@ -185,9 +185,10 @@ if($num_rows > 0)
                     echo '<a href="auth.php?authid=' . $aid . '&amp;author=' . urlencode($authornames[$a]) . '">' . $authornames[$a] . '</a> ';
                     $a++;
                 }
-
+				
                 echo '  </span>';
             }
+            echo "<br/><span class=\"download\"><a href=\"downloadPdf.php?titleid=" . $row['titleid'] . "\" target=\"_blank\">Download Pdf</a></span>";
             if($text != '')
             {
                 echo '<br /><span class="aIssue">Text match found at page(s) : </span>';
