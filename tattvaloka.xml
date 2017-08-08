@@ -17,14 +17,14 @@
 			</entry>
 			<entry>
 				<title>Sankara-His Life and Works</title>
-				<feature />
+				<feature></feature>
 				<page>0010-0016</page>
 				<allauthors>
 					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Sources of Sankara's Thought Vidyalankara</title>
+				<title>The Sources of Sankara's Thought</title>
 				<feature></feature>
 				<page>0017-0026</page>
 				<allauthors>
@@ -92,10 +92,20 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>Misconceptions about Sankara-Swamy Satchidanandendra Saraswatiji</title>
 				<feature>Book Review</feature>
-				<page>0071-0077</page>
-				<allauthors />
+				<page>0071-0074</page>
+				<allauthors>
+					<author>V. S. R. and D. S. G.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sankara - A Psychological Study-Prof. S. K. Ramachandra Rao</title>
+				<feature>Book Review</feature>
+				<page>0075-0077</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -164,7 +174,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>The World of Gurus-Vishal Mangalwadi</title>
 				<feature>Book Review</feature>
 				<page>0056-0059</page>
 				<allauthors />
@@ -264,10 +274,36 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>The Quintessence of Wisdom or The Thirty Verses of Sri Ramana- M. Ananthanarayanan</title>
 				<feature>Book Review</feature>
-				<page>0071-0079</page>
-				<allauthors />
+				<page>0071-0072</page>
+				<allauthors>
+					<author>Sankaranarayanan R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Who Am I- Prof. Seshadri</title>
+				<feature>Book Review</feature>
+				<page>0072-0073</page>
+				<allauthors>
+					<author>Sankaranarayanan R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Contemporary Indian Philosophers of History-Dr. T. M. P. Mahadevan and Cairns</title>
+				<feature>Book Review</feature>
+				<page>0073-0075</page>
+				<allauthors>
+					<author>Ramakrishna Rao K. S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Yoga and Indian Philosophy-Karel Warner</title>
+				<feature>Book Review</feature>
+				<page>0075-0076</page>
+				<allauthors>
+					<author>Ramakrishna Rao K. S., Prof.</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="10" year="1978">
@@ -375,7 +411,9 @@
 				<title>As others see us</title>
 				<feature></feature>
 				<page>0041-0043</page>
-				<allauthors />
+				<allauthors>
+					<author>Max Mueller F.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sayings of the Sadguru</title>
@@ -384,10 +422,44 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>God in Advaita-A. G. Krishna Warrier</title>
 				<feature>Book Review</feature>
-				<page>0048-0054</page>
-				<allauthors />
+				<page>0048-0051</page>
+				<allauthors>
+					<author>Ramakrishna Rao K. S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Whitehead and the Journey of Flame</title>
+				<feature>Book Review</feature>
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Ramakrishna Rao K. S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Yoga-Sutras of Patanjali-Principal M. R. Desai</title>
+				<feature>Book Review</feature>
+				<page>0053-0053</page>
+				<allauthors>
+					<author>S. K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Yoga and Science-S. Y. Krishnaswamy</title>
+				<feature>Book Review</feature>
+				<page>0053-0054</page>
+				<allauthors>
+					<author>S. K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Quintessence of Yogavasistha-Prof. B. Kuppuswamy</title>
+				<feature>Book Review</feature>
+				<page>0054-0054</page>
+				<allauthors>
+					<author>S. K. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and notes</title>
@@ -444,7 +516,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Bhagavadgita and Mysticism</title>
+				<title>Bhagavadgita and Mysticism: Abhinavagupta's View</title>
 				<feature></feature>
 				<page>0025-0030</page>
 				<allauthors>
@@ -466,10 +538,28 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>Vedic Metaphysics-Jagadguru Swamy Sri Bharati Krishna Tirthaji Maharaja</title>
 				<feature>Book Review</feature>
-				<page>0048-0053</page>
-				<allauthors />
+				<page>0048-0050</page>
+				<allauthors>
+					<author>S. Y. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Tibetan Meditation-Prof. S. K. Ramachandra Rao</title>
+				<feature>Book Review</feature>
+				<page>0050-0052</page>
+				<allauthors>
+					<author>S. Y. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Indian Studies in Philosophy-Ramachandra Pandeya</title>
+				<feature>Book Review</feature>
+				<page>0052-0053</page>
+				<allauthors>
+					<author>Satyanarayana B. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -509,7 +599,9 @@
 				<title>As others see us</title>
 				<feature></feature>
 				<page>0015-0015</page>
-				<allauthors />
+				<allauthors>
+					<author>Ralph Waldo Emerson</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Srividya : A Synoptic Exposition</title>
@@ -554,7 +646,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Byways of Wisdom</title>
+				<title>Byways of Wisdom: Yaksha Prashna</title>
 				<feature></feature>
 				<page>0043-0045</page>
 				<allauthors />
@@ -568,10 +660,28 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>Consciousness in Advaita-Prof. S. K. Ramachandra Rao</title>
 				<feature>Book Review</feature>
-				<page>0062-0067</page>
-				<allauthors />
+				<page>0062-0065</page>
+				<allauthors>
+					<author>S. Y. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Meditation and Mantras-Swami Vishnu Devananda</title>
+				<feature>Book Review</feature>
+				<page>0065-0066</page>
+				<allauthors>
+					<author>S. K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Meaning of happiness-Alan Watts</title>
+				<feature>Book Review</feature>
+				<page>0066-0067</page>
+				<allauthors>
+					<author>S. K. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -704,7 +814,7 @@
 				<feature></feature>
 				<page>0024-0025</page>
 				<allauthors>
-					<author>Max Muller</author>
+					<author>Max Mueller F.</author>
 				</allauthors>
 			</entry>
 			<entry>
