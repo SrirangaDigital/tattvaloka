@@ -74,12 +74,12 @@
 				<feature></feature>
 				<page>0052-0061</page>
 				<allauthors>
-					<author>Thirugnanasambandham P., Prof.</author>
+					<author>Thirugnanasambandhan P., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Sayings of the Sadguru - Discourses of Sri Sri Abhinava Vidyatheertha Mahaswamigal, Jagadguru of Sri Sarada Peetam, Sringeri</title>
-				<feature></feature>
+				<feature>Sayings of Sadguru</feature>
 				<page>0062-0064</page>
 				<allauthors />
 			</entry>
@@ -153,7 +153,7 @@
 			</entry>
 			<entry>
 				<title>Sayings of the Sadguru - Discourses of Sri Sri Abhinava Vidyatheertha Mahaswamigal, Jagadguru of Sri Sarada Peetam, Sringeri</title>
-				<feature></feature>
+				<feature>Sayings of Sadguru</feature>
 				<page>0037-0040</page>
 				<allauthors />
 			</entry>
@@ -248,8 +248,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sayings of the Sadguru</title>
-				<feature></feature>
+				<title>God's Name</title>
+				<feature>Sayings of Sadguru</feature>
 				<page>0060-0061</page>
 				<allauthors />
 			</entry>
@@ -416,8 +416,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of the Sadguru</title>
-				<feature></feature>
+				<title>The Path of Devotion</title>
+				<feature>Sayings of Sadguru</feature>
 				<page>0044-0047</page>
 				<allauthors />
 			</entry>
@@ -511,8 +511,14 @@
 			</entry>
 			<entry>
 				<title>Sayings of the Sadguru</title>
-				<feature></feature>
+				<feature>Sayings of Sadguru</feature>
 				<page>0021-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>A Request to the Divine Mother</title>
+				<feature></feature>
+				<page>0024-0024</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -632,8 +638,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of the Sadguru</title>
-				<feature></feature>
+				<title>Happiness</title>
+				<feature>Sayings of Sadguru</feature>
 				<page>0033-0033</page>
 				<allauthors />
 			</entry>
@@ -748,8 +754,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of the Sadguru</title>
-				<feature></feature>
+				<title>Worship</title>
+				<feature>Sayings of Sadguru</feature>
 				<page>0046-0046</page>
 				<allauthors />
 			</entry>
@@ -768,10 +774,20 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>The Samkhya-Sutras of pancasikha and the Samkhyatattva Loka-Swami Hariharananda Aranya</title>
 				<feature>Book Review</feature>
-				<page>0056-0058b</page>
-				<allauthors />
+				<page>0056-0057</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Jivanamukti in Advaita-Vidyalankara Prof. S. K. Ramachandra Rao</title>
+				<feature>Book Review</feature>
+				<page>0057-0058b</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -818,7 +834,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Birth as a Human Being</title>
+				<title>Birth as a Human Being: Its Eminence and its Duties</title>
 				<feature></feature>
 				<page>0026-0038</page>
 				<allauthors>
@@ -827,7 +843,7 @@
 			</entry>
 			<entry>
 				<title>Sayings of the Paramaguru</title>
-				<feature></feature>
+				<feature>Sayings of Sadguru</feature>
 				<page>0039-0043</page>
 				<allauthors />
 			</entry>
@@ -860,9 +876,17 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>The Indian Temple - Its Meaning-Prof. S. K. Ramachandra Rao</title>
 				<feature>Book Review</feature>
 				<page>0071-0072</page>
+				<allauthors>
+					<author>S. Y. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Krishna becomes Rama</title>
+				<feature></feature>
+				<page>0072-0072</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -894,7 +918,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Guha-Protrait by Valmiki and Kambar</title>
+				<title>Guha-Portrait by Valmiki and Kambar</title>
 				<feature></feature>
 				<page>0013-0022</page>
 				<allauthors>
@@ -916,17 +940,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of the Paramestiguru</title>
-				<feature></feature>
+				<title>Sayings of the Paramestiguru: Mantra Japa</title>
+				<feature>Sayings of Sadguru</feature>
 				<page>0033-0035</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Sacchidananda Sivabhinava Nrisimha Bharati Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Poetic Beauty and Devotional Fervour in Sankara's works</title>
 				<feature></feature>
 				<page>0036-0046</page>
 				<allauthors>
-					<author>Thirugnanasambandham P., Prof.</author>
+					<author>Thirugnanasambandhan P., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -979,7 +1005,7 @@
 			</entry>
 			<entry>
 				<title>Sayings of the Sadguru</title>
-				<feature></feature>
+				<feature>Sayings of Sadguru</feature>
 				<page>0022-0024</page>
 				<allauthors />
 			</entry>
@@ -992,7 +1018,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Na Karmana ( न कर्मणा ) Verses</title>
+				<title>The Na Karmana (न कर्मणा) Verses</title>
 				<feature></feature>
 				<page>0033-0036</page>
 				<allauthors>
@@ -1011,13 +1037,33 @@
 				<title>As others see us</title>
 				<feature></feature>
 				<page>0047-0048</page>
-				<allauthors />
+				<allauthors>
+					<author>Bu E. B. Havell</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>The Philosophy of Tulsidas-Ramdat Bharadwaj</title>
 				<feature>Book Review</feature>
-				<page>0049-0053</page>
-				<allauthors />
+				<page>0049-0051</page>
+				<allauthors>
+					<author>Ramakrishna Rao K. S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>In the Centre of Immensities-Bernard Lovell</title>
+				<feature>Book Review</feature>
+				<page>0051-0052</page>
+				<allauthors>
+					<author>S. K. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Abhinava Vidyatheertha Mahaswamigal Pattabhisheka Silver Jubilee Souvenir-P. S. Subramaniam</title>
+				<feature>Book Review</feature>
+				<page>0052-0053</page>
+				<allauthors>
+					<author>S. Y. K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -1027,6 +1073,15 @@
 			</entry>
 		</part>
 		<part pnum="06" month="02" year="1980">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0000e-0000e</page>
+				<allauthors>
+					<author>Ramakrishna Rao K. B., Prof.</author>
+					<author>Sastry M. P. L., Prof.</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>Prayer</title>
 				<feature>Prayer</feature>
@@ -1046,7 +1101,7 @@
 				<feature></feature>
 				<page>0014-0018</page>
 				<allauthors>
-					<author>Ramaprasada Rao T. Sri Justice</author>
+					<author>Ramaprasada Rao T., Justice Sri</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -1064,8 +1119,16 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of the Sadguru</title>
+				<title>The Good Life</title>
 				<feature></feature>
+				<page>0027-0027</page>
+				<allauthors>
+					<author>Bertrand Russell</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sayings of the Sadguru</title>
+				<feature>Sayings of Sadguru</feature>
 				<page>0028-0028</page>
 				<allauthors />
 			</entry>
@@ -1095,7 +1158,9 @@
 				<title>As others see us</title>
 				<feature></feature>
 				<page>0047-0047</page>
-				<allauthors />
+				<allauthors>
+					<author>Bu E. B. Havell</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -1277,7 +1342,7 @@
 			</entry>
 			<entry>
 				<title>Sayings of Jagadguru</title>
-				<feature></feature>
+				<feature>Sayings of Sadguru</feature>
 				<page>0048-0048</page>
 				<allauthors />
 			</entry>
@@ -1285,7 +1350,9 @@
 				<title>As others see us</title>
 				<feature></feature>
 				<page>0049-0050</page>
-				<allauthors />
+				<allauthors>
+					<author>Edmund Hillary</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -1294,10 +1361,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>श्रीविष्णुसहस्त्रनामस्तोत्र होममन्त्रनिरूपणम् ।, Atma-Nakshatra Mala-Dr. H. J. Achar</title>
 				<feature>Book Review</feature>
-				<page>0054-0054</page>
-				<allauthors />
+				<page>0054-0055</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -1362,10 +1431,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Jagadguru</title>
-				<feature></feature>
+				<title>Sayings of Jagadguru: The Gift of Knowledge</title>
+				<feature>Sayings of Sadguru</feature>
 				<page>0035-0036</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Dakshinamurthi Stotram</title>
@@ -1388,10 +1459,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Ananda and the Three Great Acharyas-Dr. M. Sivaram</title>
 				<feature>Book Review</feature>
 				<page>0048-0048</page>
-				<allauthors />
+				<allauthors>
+					<author>Nagaraja Rao P., Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -1402,13 +1475,21 @@
 		</part>
 		<part pnum="04" month="10" year="1980">
 			<entry>
+				<title>Homage to H. H. Late Sri Chandrasekhara Bharati Swamigal</title>
+				<feature></feature>
+				<page>0000e-0000e</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Prayer</title>
 				<feature>Prayer</feature>
 				<page>0001-0001</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sri Sambadasasloki Stutihi</title>
+				<title>Sri Sambadashasloki Stuthihi</title>
 				<feature></feature>
 				<page>0002-0004</page>
 				<allauthors>
@@ -1448,7 +1529,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Authority of the Vedas</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0032-0033</page>
 				<allauthors />
@@ -1476,7 +1557,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Review of Hinduism: Essence and Consequence-Arun Shourie</title>
 				<feature>Book Review</feature>
 				<page>0053-0055</page>
 				<allauthors>
@@ -1498,7 +1579,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Dwadasalinga Stotram</title>
+				<title>Dwadashalinga Stotram</title>
 				<feature></feature>
 				<page>0002-0003</page>
 				<allauthors />
@@ -1536,7 +1617,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Qualification for Knowledge</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0030-0032d</page>
 				<allauthors />
@@ -1564,10 +1645,36 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Stotraratnapanchakam and Balabodhinigitha-P. Sivaramakrishna Sastry</title>
 				<feature>Book Review</feature>
-				<page>0050-0052</page>
-				<allauthors />
+				<page>0050-0050</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Srimatrupanchakam: Sri Bhashyaswamibhihi Pranitam-K. K. Shankaran</title>
+				<feature>Book Review</feature>
+				<page>0050-0051</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Amarakosha: Balakridarachana</title>
+				<feature>Book Review</feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Samarudrasamhitabhashyam</title>
+				<feature>Book Review</feature>
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Sharma B. R., Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -1584,7 +1691,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Tripurasundaryasthakam</title>
+				<title>Tripurasundaryastakam</title>
 				<feature></feature>
 				<page>0002-0003</page>
 				<allauthors />
@@ -1622,7 +1729,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Necessity of a Guide</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0038-0040</page>
 				<allauthors />
@@ -4894,7 +5001,7 @@
 				<feature></feature>
 				<page>0055-0059</page>
 				<allauthors>
-					<author>Sankara Bhagavatpada</author>
+					<author>Sri Sankara Bhagavatpada</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -4902,7 +5009,7 @@
 				<feature></feature>
 				<page>0060-0066</page>
 				<allauthors>
-					<author>Sankara Bhagavatpada</author>
+					<author>Sri Sankara Bhagavatpada</author>
 				</allauthors>
 			</entry>
 			<entry>
