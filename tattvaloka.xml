@@ -1762,7 +1762,9 @@
 				<title>Prayer</title>
 				<feature>Prayer</feature>
 				<page>0001-0001</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Sacchidananda Sivabhinava Nrisimha Bharati Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>श्रीशारादाभुजङ्गप्रयातस्तुतिः</title>
@@ -1771,7 +1773,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>श्रीशङक्रार्यपदावलम्बसुवर्णमाला स्तुतिः </title>
+				<title>श्रीशङ्करार्यपदावलम्बसुवर्णमाला स्तुतिः </title>
 				<feature></feature>
 				<page>0006-0007</page>
 				<allauthors />
@@ -1847,7 +1849,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Need for Right Action</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0065-0067</page>
 				<allauthors />
@@ -1889,7 +1891,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>ब्रह्म सत्यं जगन्मिथ्या-Atma Vidya Bhushana, Vedanta Siromani V. S. V. Guruswamy Sastrigal</title>
 				<feature>Book Review</feature>
 				<page>0081-0081</page>
 				<allauthors>
@@ -1908,16 +1910,18 @@
 				<title>Prayer</title>
 				<feature>Prayer</feature>
 				<page>0001-0001</page>
-				<allauthors />
+				<allauthors>
+					<author>Kalidasa</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>मीनाक्शीपन्चरत्नम्‌</title>
+				<title>मीनाक्षीपञ्चरत्नम्‌</title>
 				<feature></feature>
 				<page>0002-0003</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Religion : As Relationship and Fulfilment</title>
+				<title>Religion: As Relationship and Fulfilment</title>
 				<feature></feature>
 				<page>0004-0011</page>
 				<allauthors>
@@ -1937,11 +1941,11 @@
 				<feature></feature>
 				<page>0019-0025</page>
 				<allauthors>
-					<author>Varadadesikacharya H. S., Prof.</author>
+					<author>Varadadesikacharya Rangapriya H. S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kalidasa's Ritusamharam and the 'Seasons' in English</title>
+				<title>Kalidasa's Ritusamharam and the 'Seasons' in English Poetry</title>
 				<feature></feature>
 				<page>0026-0034</page>
 				<allauthors>
@@ -1957,7 +1961,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Study of the Vedas</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0040-0042</page>
 				<allauthors />
@@ -1994,7 +1998,9 @@
 				<title>कनकधारा स्तोत्रम्</title>
 				<feature></feature>
 				<page>0002-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>Sri Sankara Bhagavatpada</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>A Pre-Samkara Advaita Theory Identified</title>
@@ -2039,7 +2045,7 @@
 				<feature></feature>
 				<page>0048-0051</page>
 				<allauthors>
-					<author>Varadadesikacharya H. S., Prof.</author>
+					<author>Varadadesikacharya Rangapriya H. S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -3816,7 +3822,7 @@
 				<feature></feature>
 				<page>0004-0008</page>
 				<allauthors>
-					<author>Varadadesikacharya H. S., Prof.</author>
+					<author>Varadadesikacharya Rangapriya H. S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
