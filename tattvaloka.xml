@@ -2035,7 +2035,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Mistaken Perception</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0045-0047</page>
 				<allauthors />
@@ -2049,9 +2049,33 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Linga Puranam, with the Gloss Siva-Toshini</title>
 				<feature>Book Review</feature>
-				<page>0052-0054</page>
+				<page>0052-0053</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Purport of the Gita-D. Arunachala Sastrigal</title>
+				<feature>Book Review</feature>
+				<page>0053-0054</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ten Principal Upanishads with Sankara Bhashya</title>
+				<feature>Book Review</feature>
+				<page>0054-0054</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Our Contributors</title>
+				<feature>Our Contributors</feature>
+				<page>0055-0055</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -2093,7 +2117,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Bhagavad Gita - Economic Development and Management</title>
+				<title>Bhagavad Gita - Economic Development and Management (A Review)</title>
 				<feature></feature>
 				<page>0021-0030</page>
 				<allauthors>
@@ -2109,7 +2133,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Function of the Sastras</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0034-0036</page>
 				<allauthors />
@@ -2137,10 +2161,28 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Pratyabhijnahrdayam-Jayadeva Simha</title>
 				<feature>Book Review</feature>
-				<page>0051-0053</page>
-				<allauthors />
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Balasubrahmanya N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Brahma Sutram with Samkara Bhasyam</title>
+				<feature>Book Review</feature>
+				<page>0052-0053</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Upanisatsamgrahah</title>
+				<feature>Book Review</feature>
+				<page>0053-0053</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -2150,6 +2192,14 @@
 			</entry>
 		</part>
 		<part pnum="05" month="12" year="1981">
+			<entry>
+				<title>The Sage of Sringeri</title>
+				<feature>Prayer</feature>
+				<page>0000f-0000f</page>
+				<allauthors>
+					<author>Sastry M. P. L., Prof.</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>Prayer</title>
 				<feature>Prayer</feature>
@@ -2179,7 +2229,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Note on Vacaspati Misra</title>
+				<title>A Note on Vacaspati Mishra</title>
 				<feature></feature>
 				<page>0026-0033</page>
 				<allauthors>
@@ -2203,7 +2253,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Ignorance, the Cause of Bondage</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0046-0048</page>
 				<allauthors />
@@ -2225,7 +2275,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Patanjalayogadarsanam-Srimat Swami Hariharananda Aranya</title>
 				<feature>Book Review</feature>
 				<page>0058-0058</page>
 				<allauthors>
@@ -2263,7 +2313,7 @@
 				<feature></feature>
 				<page>0004-0007</page>
 				<allauthors>
-					<author>Sastri S. S.</author>
+					<author>Sastry S. S., Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2283,7 +2333,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Science, An All and Not a Rival to Religion</title>
+				<title>Science, An Ally and Not a Rival to Religion</title>
 				<feature></feature>
 				<page>0030-0036</page>
 				<allauthors>
@@ -2291,7 +2341,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Our Urgent Duty</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0037-0040</page>
 				<allauthors />
@@ -2305,7 +2355,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Gitopasana-Swami Iswarananda Giri</title>
 				<feature>Book Review</feature>
 				<page>0049-0050</page>
 				<allauthors>
@@ -2367,7 +2417,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Devotion</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0038-0040</page>
 				<allauthors />
@@ -2381,10 +2431,20 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>संस्कृतदीपिका-I,II,III-Pandit K. S. Paramesvara Sastri</title>
 				<feature>Book Review</feature>
 				<page>0049-0051</page>
-				<allauthors />
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Brahmarshi Nachiketas-K. N. Subramanian</title>
+				<feature>Book Review</feature>
+				<page>0049-0051</page>
+				<allauthors>
+					<author>Krishnamurthy T. S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -2417,7 +2477,7 @@
 				<feature></feature>
 				<page>0004-0005</page>
 				<allauthors>
-					<author>Sastri S. S.</author>
+					<author>Sastry S. S., Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2453,7 +2513,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Three Kinds of Devotion in Action</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0041-0042</page>
 				<allauthors />
@@ -2467,10 +2527,20 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Shankara's Date-R. M. Umesh</title>
 				<feature>Book Review</feature>
 				<page>0044-0045</page>
-				<allauthors />
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Souvenir: Golden Jubilee Celebration of Sri Sringeri Mahasannidhanam's Asrama Sveekara</title>
+				<feature>Book Review</feature>
+				<page>0045-0045</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -2493,7 +2563,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>साधनपञ्चरत्नम्</title>
+				<title>साधनपञ्चकम्</title>
 				<feature></feature>
 				<page>0002-0003</page>
 				<allauthors />
@@ -2503,7 +2573,7 @@
 				<feature></feature>
 				<page>0004-0014</page>
 				<allauthors>
-					<author>Sastry S. S. Panditaraja</author>
+					<author>Sastry S. S., Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2531,7 +2601,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Self-less Service for the Lord</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0031-0034</page>
 				<allauthors />
@@ -2545,7 +2615,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Note on the Samudramathana Champu</title>
+				<title>A Note on the Samudramathana Campu</title>
 				<feature></feature>
 				<page>0043-0049</page>
 				<allauthors>
@@ -2575,7 +2645,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>गग्डांष्टकम्</title>
+				<title>गङ्गाष्टकम्</title>
 				<feature></feature>
 				<page>0002-0003</page>
 				<allauthors />
@@ -2585,7 +2655,7 @@
 				<feature></feature>
 				<page>0004-0007</page>
 				<allauthors>
-					<author>Sastry S. S. Panditaraja</author>
+					<author>Sastry S. S., Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2605,7 +2675,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Bhagavad Gita and Kalidasa : Blake and Arnold</title>
+				<title>Bhagavad Gita and Kalidasa: Blake and Arnold</title>
 				<feature></feature>
 				<page>0028-0044</page>
 				<allauthors>
@@ -2621,7 +2691,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>True Knowledge</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0053-0057</page>
 				<allauthors />
@@ -2633,10 +2703,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Isa and the Gita-K. B. Ramakrishna Rao</title>
 				<feature>Book Review</feature>
 				<page>0064-0064</page>
-				<allauthors />
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -2663,7 +2735,7 @@
 				<feature></feature>
 				<page>0004-0010</page>
 				<allauthors>
-					<author>Sastry S. S. Panditaraja</author>
+					<author>Sastry S. S., Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2691,7 +2763,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Need of Karma</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0045-0046</page>
 				<allauthors />
@@ -2705,10 +2777,36 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>संस्कृतदीपिका-IV,V-Pandit K. S. Paramesvara Sastri</title>
 				<feature>Book Review</feature>
-				<page>0052-0056</page>
-				<allauthors />
+				<page>0052-0052</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Samkaracharya: Life and Achievements-Dr. R. S. Narayan</title>
+				<feature>Book Review</feature>
+				<page>0052-0053</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Concept of Cow in Rigveda-Doris Srinivasan</title>
+				<feature>Book Review</feature>
+				<page>0053-0054</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Hindu Philosophy-Theos Bernard</title>
+				<feature>Book Review</feature>
+				<page>0055-0056</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -2771,16 +2869,18 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Bliss of the Self</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0047-0050</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>The Philosophy of Nagarjuna-Vicente Fatone</title>
 				<feature>Book Review</feature>
-				<page>0051-0051</page>
-				<allauthors />
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -2815,7 +2915,7 @@
 				<feature></feature>
 				<page>0004-0010</page>
 				<allauthors>
-					<author>Sastry S. S. Panditaraja</author>
+					<author>Sastry S. S., Panditaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -2843,7 +2943,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Means of Happiness</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0035-0038b</page>
 				<allauthors />
@@ -2857,10 +2957,20 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>History of the Dvaita School of Vedanta and its Literature-Dr. B. N. K. Sharma</title>
 				<feature>Book Review</feature>
-				<page>0047-0052</page>
-				<allauthors />
+				<page>0047-0051</page>
+				<allauthors>
+					<author>Ramachandra Sastry S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vadiraja's Refutation of Samkara's Non-Dualism-L. Stafford Betty</title>
+				<feature>Book Review</feature>
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Obituary</title>
