@@ -3722,16 +3722,18 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Adharma, the Cause of Misery</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0079-0082</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book-Review</title>
-				<feature></feature>
+				<title>Mystery of Universe (Theory and Practice)-R. N. Srivastava</title>
+				<feature>Book Review</feature>
 				<page>0083-0084</page>
-				<allauthors />
+				<allauthors>
+					<author>Ramachandra Sastry S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -3748,13 +3750,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>अनात्मश्रीविगहर्णम्</title>
+				<title>अनात्मश्रीविगर्हणम्</title>
 				<feature></feature>
 				<page>0002-0005</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Seminar on "Visayapratyaksha or Perception in Science and Darshana Sastras"</title>
+				<title>Seminar on ``Visayapratyaksha or Perception in Science and Darshana Sastras" (An Accord between Scientists and Pandits) at Shankara Math, Bangalore</title>
 				<feature></feature>
 				<page>0006-0016</page>
 				<allauthors />
@@ -3800,7 +3802,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Strive Even Here</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0059-0063</page>
 				<allauthors />
@@ -3812,10 +3814,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book-Review</title>
-				<feature></feature>
+				<title>Vedanta Darshan and the Future of Man-Dr. R. C. Badwe</title>
+				<feature>Book Review</feature>
 				<page>0066-0067</page>
-				<allauthors />
+				<allauthors>
+					<author>Ramaswamy S., Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -3894,7 +3898,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>No Effort is Ever Wasted</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0059-0063</page>
 				<allauthors />
@@ -3914,7 +3918,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>स्वरुपानुसन्धानाष्टकम्</title>
+				<title>स्वरूपानुसन्धानाष्टकम्</title>
 				<feature></feature>
 				<page>0002-0004</page>
 				<allauthors />
@@ -3960,7 +3964,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Thoughts of Jnanesvar</title>
+				<title>Thoughts of Jnanesvar (Saint of Maharashtra)</title>
 				<feature></feature>
 				<page>0053-0066</page>
 				<allauthors>
@@ -3976,7 +3980,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Conquest of Desire</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0079-0083</page>
 				<allauthors />
@@ -4002,7 +4006,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>अद्वैतपंच्चरत्नम्</title>
+				<title>अद्वैतपञ्चरत्नम्</title>
 				<feature></feature>
 				<page>0002-0003</page>
 				<allauthors />
@@ -4032,7 +4036,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Nature of Adhyasa</title>
+				<title>The Nature of <i>Adhyasa</i></title>
 				<feature></feature>
 				<page>0039-0041</page>
 				<allauthors>
@@ -4048,7 +4052,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Need for a Guru</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0051-0054</page>
 				<allauthors />
@@ -4114,7 +4118,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Extracts from the Speeches Delivered by His Holiness Sri Bharati Teertha Swamigalu of Sringeri Sri Sharada Peetham during his Stay at Hyderabad.</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0037-0044</page>
 				<allauthors />
@@ -4143,7 +4147,9 @@
 				<title>जीवन्मुक्तानन्दलहरी</title>
 				<feature></feature>
 				<page>0002-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Sri Sankara Bhagavatpada</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Dakshinamurthi Stotram</title>
@@ -4154,7 +4160,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta Sutras occupy a central position in Vedanta Thought</title>
+				<title>Vedanta Sutras Occupy a Central Position in Vedanta Thought</title>
 				<feature></feature>
 				<page>0023-0024</page>
 				<allauthors>
@@ -4178,7 +4184,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedantic Principles reflected in Kalidasa's Raghuvamsa</title>
+				<title>Vedantic Principles Reflected in Kalidasa's Raghuvamsa</title>
 				<feature></feature>
 				<page>0037-0044</page>
 				<allauthors>
@@ -4186,7 +4192,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Learning and Wealth</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0045-0046</page>
 				<allauthors />
@@ -4264,7 +4270,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Dharma Sustains the Universe</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0056-0058</page>
 				<allauthors />
@@ -4296,7 +4302,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Atman - A Self evident Entity</title>
+				<title>Atman - A Self Evident Entity</title>
 				<feature></feature>
 				<page>0004-0004</page>
 				<allauthors />
@@ -4326,7 +4332,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>On the Renunciation of the Non-self : Christopher Isherwood's "A Meeting by the River"</title>
+				<title>On the Renunciation of the Non-self: Christopher Isherwood's "A Meeting by the River"</title>
 				<feature></feature>
 				<page>0033-0043</page>
 				<allauthors>
@@ -4358,10 +4364,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Importance of Bhakthi Yoga</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0056-0057</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -4370,10 +4378,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Samakaleena Pascatya Tattvasastra (Kannada)-Prof. G. Srinivasan</title>
 				<feature>Book Review</feature>
 				<page>0064-0065</page>
-				<allauthors />
+				<allauthors>
+					<author>Mudgal S. G.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -4396,7 +4406,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>श्री विघातीर्थगुरुपच्चकम्</title>
+				<title>श्री विद्यातीर्थगुरुपञ्चकम्</title>
 				<feature></feature>
 				<page>0004-0004</page>
 				<allauthors />
@@ -4410,7 +4420,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Peace, Virtue and Socila Transformation</title>
+				<title>Peace, Virtue and Social Transformation</title>
 				<feature></feature>
 				<page>0029-0033</page>
 				<allauthors>
@@ -4426,7 +4436,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Impact of Vedanta on Aldous Huxley's 'Island'</title>
+				<title>Impact of Vedanta on Aldous Huxley's `Island'</title>
 				<feature></feature>
 				<page>0045-0056</page>
 				<allauthors>
@@ -4458,7 +4468,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>Strive Even Now</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0072-0072</page>
 				<allauthors />
@@ -4486,8 +4496,16 @@
 			<entry>
 				<title>मायापञ्चकम्</title>
 				<feature></feature>
-				<page>0002-0004d</page>
+				<page>0002-0003</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0004-0004c</page>
+				<allauthors>
+					<author>Ramaswamy S., Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Dakshinamurthi Stotram</title>
@@ -4514,7 +4532,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Pancasati of Mukavai</title>
+				<title>The Pancasati of Mukakavi</title>
 				<feature></feature>
 				<page>0051-0063</page>
 				<allauthors>
@@ -4538,7 +4556,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of Sadguru</title>
+				<title>The Human Birth</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0070-0071</page>
 				<allauthors />
@@ -4547,7 +4565,9 @@
 				<title>Obituary</title>
 				<feature>Obituary</feature>
 				<page>0072-0075</page>
-				<allauthors />
+				<allauthors>
+					<author>Hariharan P. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -15944,14 +15964,14 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Silence of Deep Sleep - Yoga Vasishstha-34</title>
-				<feature>Yoga Vasishstha</feature>
+				<title>Silence of Deep Sleep - Yoga Vasishtha-34</title>
+				<feature>Yoga Vasishtha</feature>
 				<page>0008-0010</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Science, Spiritualism and Service - Yoga Vasishstha-34</title>
-				<feature>Yoga Vasishstha</feature>
+				<title>Science, Spiritualism and Service - Yoga Vasishtha-34</title>
+				<feature>Yoga Vasishtha</feature>
 				<page>0011-0013</page>
 				<allauthors>
 					<author>Misra K. P., Dr.</author>
@@ -16069,14 +16089,14 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Why Death is No Liberation - Yoga Vasishsta-35</title>
-				<feature>Yoga Vasishsta</feature>
+				<title>Why Death is No Liberation - Yoga Vasishtha-35</title>
+				<feature>Yoga Vasishtha</feature>
 				<page>0012-0014</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Gift to a Happy Man (For the Young Readers) - Yoga Vasishsta-35</title>
-				<feature>Yoga Vasishsta</feature>
+				<title>Gift to a Happy Man (For the Young Readers)</title>
+				<feature></feature>
 				<page>0015-0018</page>
 				<allauthors>
 					<author>Navasuma</author>
@@ -16179,8 +16199,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Right Action at Right Time - Yoga Vasishsta-36</title>
-				<feature>Yoga Vasishsta</feature>
+				<title>Right Action at Right Time - Yoga Vasishtha-36</title>
+				<feature>Yoga Vasishtha</feature>
 				<page>0016-0019</page>
 				<allauthors />
 			</entry>
@@ -16309,8 +16329,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Knowledge of Self - Yoga Vasishsta-37</title>
-				<feature>Yoga Vasishsta</feature>
+				<title>The Knowledge of Self - Yoga Vasishtha-37</title>
+				<feature>Yoga Vasishtha</feature>
 				<page>0018-0020</page>
 				<allauthors />
 			</entry>
