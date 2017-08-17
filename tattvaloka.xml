@@ -4583,13 +4583,23 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
 				<feature></feature>
-				<page>0009-0010</page>
+				<page>0009-0009</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>Homage to Sankara</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors>
+					<author>Sri Sureswaracharya</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Adi Sankara : His Personality: Sankara Lives Today</title>
@@ -4712,7 +4722,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: An Upanishadic Convocation</title>
+				<title>Vedanta in Daily Life: An Upanishadic Convocation thus Spake the Guru</title>
 				<feature></feature>
 				<page>0073-0076</page>
 				<allauthors>
@@ -4764,10 +4774,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Soundaryalahari Stotra Satakam (Kannada) and Suryopasana (Kannada)-B. Bheemasena Rao</title>
 				<feature>Book Review</feature>
 				<page>0096-0096</page>
-				<allauthors />
+				<allauthors>
+					<author>Suryanarayan V.</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="02" month="06/07" year="1987">
@@ -4775,21 +4787,29 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
 				<feature></feature>
-				<page>0007-0008</page>
+				<page>0007-0007</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>What is Jivanmukti?: Attributes of a Jivanmukta</title>
 				<feature></feature>
-				<page>0011-0016</page>
+				<page>0011-0015</page>
 				<allauthors>
 					<author>Sri Maha Sannidhanam</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>What is Jivanmukti?: Prayer to a Jivanmukta</title>
+				<feature></feature>
+				<page>0016-0016</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>What is Jivanmukti?: Ever in Awareness</title>
@@ -4824,13 +4844,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Saints and Their Sayings: The Guru Parampara of Sringeri Matha From "Punarnava", Stroudsburg, USA</title>
+				<title>Saints and their Sayings: The Guru Parampara of Sringeri Matha</title>
 				<feature></feature>
 				<page>0033-0044</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Saints and Their Sayings: Homage to the Master</title>
+				<title>Saints and their Sayings: Homage to the Master</title>
 				<feature></feature>
 				<page>0045-0045</page>
 				<allauthors>
@@ -4838,13 +4858,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Saints and Their Sayings: Influence of Chandrasekhara Bharati Recalled Devotees</title>
+				<title>Saints and their Sayings: Influence of Chandrasekhara Bharati Recalled by Devotees</title>
 				<feature></feature>
 				<page>0046-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Saints and Their Sayings: Are you a Believer?</title>
+				<title>Saints and their Sayings: Are you a Believer?</title>
 				<feature></feature>
 				<page>0049-0052</page>
 				<allauthors>
@@ -4852,7 +4872,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Saints and Their Sayings: Suka : A Jivanmukta Par Excellence</title>
+				<title>Saints and their Sayings: Suka : A Jivanmukta Par Excellence</title>
 				<feature></feature>
 				<page>0053-0055</page>
 				<allauthors>
@@ -4860,7 +4880,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Saints and Their Sayings: Meaning of Life</title>
+				<title>Saints and their Sayings: The Meaning of Life</title>
 				<feature></feature>
 				<page>0056-0058</page>
 				<allauthors>
@@ -4895,7 +4915,7 @@
 			<entry>
 				<title>Vedanta in Daily Life: Sandhya Worship</title>
 				<feature></feature>
-				<page>0088-0088</page>
+				<page>0088-0088;0090-0090</page>
 				<allauthors>
 					<author>Krishnaswamy Aiyar R.</author>
 				</allauthors>
@@ -4903,7 +4923,7 @@
 			<entry>
 				<title>Vedanta in Daily Life: Quiz on Jivanmuktas</title>
 				<feature></feature>
-				<page>0089-0090</page>
+				<page>0089-0090;0095-0095</page>
 				<allauthors>
 					<author>Eswaran B. V.</author>
 				</allauthors>
@@ -4928,7 +4948,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks</title>
@@ -4953,7 +4975,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Nadopasana: Knowing Truth Through Music</title>
+				<title>Nadopasana: Knowing Truth through Music</title>
 				<feature></feature>
 				<page>0020-0024</page>
 				<allauthors>
@@ -4985,7 +5007,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Lives of Nadopasakas: Syama Sastry - The Devi-bhakta</title>
+				<title>Lives of Nadopasakas: Syama Sastry - The Devi-Bhakta</title>
 				<feature></feature>
 				<page>0037-0042</page>
 				<allauthors>
@@ -4993,11 +5015,11 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Lives of Nadopasakas: Muthuswamy Dikshitar</title>
+				<title>Lives of Nadopasakas: Muthuswami Dikshitar</title>
 				<feature></feature>
 				<page>0043-0046</page>
 				<allauthors>
-					<author>Venkataraman T. L.</author>
+					<author>Venkatarama Iyer T. L.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5025,7 +5047,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Songs of Saints: Sri Venkateswara Karavalamba Stotra</title>
+				<title>Songs of Saints: Sri Venkatesa Karavalamba Stotra</title>
 				<feature></feature>
 				<page>0062-0063</page>
 				<allauthors>
@@ -5049,7 +5071,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Songs of Saints: Manasa Sancharare</title>
+				<title>Songs of Saints: Manasa Sanchara Re</title>
 				<feature></feature>
 				<page>0067-0067</page>
 				<allauthors>
@@ -5057,7 +5079,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Songs of Saints: Pibare Rama Rasam</title>
+				<title>Songs of Saints: Piba Re... Rama Rasam</title>
 				<feature></feature>
 				<page>0068-0068</page>
 				<allauthors>
@@ -5067,13 +5089,19 @@
 			<entry>
 				<title>Songs of Saints: Nada Thanumanism</title>
 				<feature></feature>
-				<page>0069-0076</page>
+				<page>0069-0069</page>
 				<allauthors>
 					<author>Saint Tyagaraja</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Avinayam Apanaya Vishno! Apanaya - II</title>
+				<title>Songs of Saints: Music Notations</title>
+				<feature></feature>
+				<page>0070-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Avinayam Apanaya Vishno! Apanaya-II</title>
 				<feature></feature>
 				<page>0079-0082</page>
 				<allauthors>
@@ -5089,7 +5117,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: How Well Do You Know about Music?</title>
+				<title>Vedanta in Daily Life: How Well Do You know about Music?</title>
 				<feature></feature>
 				<page>0085-0086</page>
 				<allauthors>
@@ -5124,7 +5152,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
@@ -5159,7 +5189,7 @@
 			<entry>
 				<title>Sri Chakra Upasana: An Abstract Worship with Tangible Benefits</title>
 				<feature></feature>
-				<page>0019-0023</page>
+				<page>0019-0022</page>
 				<allauthors>
 					<author>Anna Subramanian N.</author>
 				</allauthors>
@@ -5213,7 +5243,23 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Acharya's Hymns: Sri Vagisi-stava</title>
+				<title>The Treasures: Story of Avatara</title>
+				<feature></feature>
+				<page>0050-0050</page>
+				<allauthors>
+					<author>Pandit M. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Treasures: Lalita's Leela</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author>Suryanarayan V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Acharya's Hymns: Sri Vagisi-Stava</title>
 				<feature></feature>
 				<page>0055-0059</page>
 				<allauthors>
@@ -5221,7 +5267,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Acharya's Hymns: Kalyana Vrishti-stava</title>
+				<title>Acharya's Hymns: Kalyanavrishti-Stava</title>
 				<feature></feature>
 				<page>0060-0066</page>
 				<allauthors>
@@ -5229,7 +5275,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Acharya's Hymns: Kamalaja Dayitashtaka</title>
+				<title>Acharya's Hymns: Kamalaja-Dayita-Ashtakam</title>
 				<feature></feature>
 				<page>0067-0070</page>
 				<allauthors>
@@ -5237,11 +5283,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Acharya's Hymns: Panchadasi</title>
+				<title>Acharya's Hymns: Panchadasi-Stava</title>
 				<feature></feature>
 				<page>0071-0074</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Anna Subramanian N.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5253,7 +5300,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: When is a Mantra Effective?</title>
+				<title>Vedanta in Daily Life: When Is a Mantra Effective?</title>
 				<feature></feature>
 				<page>0078-0079</page>
 				<allauthors>
@@ -5282,13 +5329,21 @@
 				<page>0085-0090</page>
 				<allauthors />
 			</entry>
+			<entry>
+				<title>Parasakti of the Universe: Sri Rajarajeswari</title>
+				<feature></feature>
+				<page>0092-0092</page>
+				<allauthors />
+			</entry>
 		</part>
 		<part pnum="05" month="12/01" year="1988">
 			<entry>
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
@@ -5331,7 +5386,7 @@
 			<entry>
 				<title>The Bhagavad Gita: Concept of Avatara in Gita</title>
 				<feature></feature>
-				<page>0025-0028</page>
+				<page>0025-0027</page>
 				<allauthors>
 					<author>Tryambakeswarananda Swami</author>
 				</allauthors>
@@ -5361,7 +5416,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Eminent Views: Jnaneswari and Gita : A Maharashtrian Perspective</title>
+				<title>Eminent Views: Jnaneswari and Gita: A Maharashtrian Perspective</title>
 				<feature></feature>
 				<page>0047-0051</page>
 				<allauthors>
@@ -5379,62 +5434,82 @@
 			<entry>
 				<title>Gita Hymns - A Selection: Attributes of a Perfect Man</title>
 				<feature></feature>
-				<page>0057-0057</page>
-				<allauthors />
+				<page>0057-0058</page>
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Gita Hymns - A Selection: Viswa-rupa (Universal Form)</title>
 				<feature></feature>
-				<page>0058-0059</page>
-				<allauthors />
+				<page>0058-0060</page>
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Gita Hymns - A Selection: Direct Means to Immortality</title>
 				<feature></feature>
 				<page>0060-0061</page>
-				<allauthors />
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Gita Hymns - A Selection: Disposition - Spiritual Vs. Materialistic</title>
 				<feature></feature>
 				<page>0062-0065</page>
-				<allauthors />
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Gita Hymns - A Selection: The Three Kinds : Food</title>
+				<title>Gita Hymns - A Selection: The Three Kinds: Food</title>
 				<feature></feature>
 				<page>0066-0066</page>
-				<allauthors />
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Gita Hymns - A Selection: Worship</title>
+				<title>Gita Hymns - A Selection: The Three Kinds: Worship</title>
 				<feature></feature>
 				<page>0067-0067</page>
-				<allauthors />
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Gita Hymns - A Selection: Penance</title>
+				<title>Gita Hymns - A Selection: The Three Kinds: Penance</title>
 				<feature></feature>
-				<page>0067-0067</page>
-				<allauthors />
+				<page>0067-0068</page>
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Gita Hymns - A Selection: Gift</title>
+				<title>Gita Hymns - A Selection: The Three Kinds: Gift</title>
 				<feature></feature>
-				<page>0068-0068</page>
-				<allauthors />
+				<page>0068-0069</page>
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Gita Hymns - A Selection: Renunciation</title>
+				<title>Gita Hymns - A Selection: The Three Kinds: Renunciation</title>
 				<feature></feature>
-				<page>0069-0069</page>
-				<allauthors />
+				<page>0069-0070</page>
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Gita Hymns - A Selection: Pleasure</title>
+				<title>Gita Hymns - A Selection: The Three Kinds: Sattvic Pleasure</title>
 				<feature></feature>
 				<page>0070-0070</page>
-				<allauthors />
+				<allauthors>
+					<author>Brooks F. T.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: Inaction in Action</title>
@@ -5447,13 +5522,13 @@
 			<entry>
 				<title>Vedanta in Daily Life: Avinayam Apanaya Vishno! - III</title>
 				<feature></feature>
-				<page>0078-0082</page>
+				<page>0078-0081</page>
 				<allauthors>
 					<author>Anantaramaseshan T. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Don't Be Nervous</title>
+				<title>Vedanta in Daily Life: Don't be Nervous</title>
 				<feature></feature>
 				<page>0083-0088</page>
 				<allauthors>
@@ -5472,7 +5547,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
@@ -5481,7 +5558,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Siva The Great: The Holy Night of Siva</title>
+				<title>Siva the Great: The Holy Night of Siva</title>
 				<feature></feature>
 				<page>0011-0013</page>
 				<allauthors>
@@ -5489,7 +5566,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Siva The Great: Siva Panchakshari - Mantra Bhashya</title>
+				<title>Siva the Great: Siva Panchakshari - Mantra Bhashya</title>
 				<feature></feature>
 				<page>0014-0017</page>
 				<allauthors>
@@ -5497,7 +5574,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Siva The Great: Pasupatinath and other Icons in Nepal</title>
+				<title>Siva the Great: Pasupatinath and other Icons in Nepal</title>
 				<feature></feature>
 				<page>0018-0022</page>
 				<allauthors>
@@ -5505,7 +5582,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Siva The Great: Siva Mahima : A Poetic View</title>
+				<title>Siva the Great: Siva Mahima: A Poetic View</title>
 				<feature></feature>
 				<page>0023-0026</page>
 				<allauthors>
@@ -5513,11 +5590,27 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Siva The Great: Fourfold Path of Saivite Saints</title>
+				<title>Siva the Great: Fourfold Path of Saivite Saints</title>
 				<feature></feature>
-				<page>0027-0032</page>
+				<page>0027-0031</page>
 				<allauthors>
 					<author>Srinivasan M. S., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Siva the Great: Know Siva by Heart-Saiva Siddhanta</title>
+				<feature></feature>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>Hariharan N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vision and Experience</title>
+				<feature></feature>
+				<page>0032-0032</page>
+				<allauthors>
+					<author>Trevor Leggett</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5529,18 +5622,44 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Devotees' Love</title>
+				<feature></feature>
+				<page>0039-0039</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Dance of Siva: Sandhya Tandava</title>
 				<feature></feature>
-				<page>0040-0048</page>
+				<page>0040-0047</page>
 				<allauthors>
 					<author>Sulochana Rajendran, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Dance of Siva: Glory of Siva's Forms-A Pictorial Presentation</title>
+				<title>Dance of Siva: What is Pradosha?</title>
 				<feature></feature>
-				<page>0049-0060</page>
+				<page>0046-0046</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>Dance of Siva: The Manifestation of Lord Siva</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Dance of Siva: The Glory of Siva's Forms-Vision of Transcendental Power-A Triumph of Indian Art</title>
+				<feature></feature>
+				<page>0049-0052</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Dance of Siva: The Glory of Siva's Forms-Ashtamurti Siva</title>
+				<feature></feature>
+				<page>0053-0060</page>
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Dance of Siva: Ardhanariswara</title>
@@ -5551,12 +5670,24 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Dance of Siva: Brahma's Problem</title>
+				<feature></feature>
+				<page>0063-0063</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Dance of Siva: Siva No Destroyer</title>
 				<feature></feature>
 				<page>0064-0067</page>
 				<allauthors>
 					<author>Ramachandran S.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Dance of Siva: Devotion Excels</title>
+				<feature></feature>
+				<page>0067-0067</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Dance of Siva: Subhashitas-A Banter</title>
@@ -5572,6 +5703,7 @@
 				<page>0073-0076</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
+					<author>Arthur Avalon, Sir</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -5607,9 +5739,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Sri Rudra : The Mantra Non-Pareil</title>
+				<title>Vedanta in Daily Life: Sri Rudra: The Mantra Non-Pareil</title>
 				<feature></feature>
-				<page>0091-0092</page>
+				<page>0091-0093</page>
 				<allauthors>
 					<author>Ayer V. A. K.</author>
 				</allauthors>
@@ -5624,8 +5756,14 @@
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: The Twelve Jyotir-Lingas</title>
+				<feature>Children's Corner</feature>
+				<page>0094-0095</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Siva's Cosmic Dance-108 Poses</title>
 				<feature></feature>
-				<page>0094-0097</page>
+				<page>0096-0097</page>
 				<allauthors />
 			</entry>
 			<entry>
