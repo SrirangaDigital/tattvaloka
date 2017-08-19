@@ -6518,7 +6518,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
@@ -6549,6 +6551,12 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Dattatreya - An Incarnation: Incarnations of Dattatreya</title>
+				<feature></feature>
+				<page>0021-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Dattatreya - An Incarnation: Advaita Anubhava of Dattatreya</title>
 				<feature></feature>
 				<page>0022-0026</page>
@@ -6573,6 +6581,12 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>His Greatness: The Way and the Goal</title>
+				<feature></feature>
+				<page>0035-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>His Greatness: The Greatness of Lord Dattatreya</title>
 				<feature></feature>
 				<page>0036-0038</page>
@@ -6589,6 +6603,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>His Greatness: Datta Pantha</title>
+				<feature></feature>
+				<page>0041-0041</page>
+				<allauthors>
+					<author>Sri Sri Ganapathi Sachchidanandaji</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>His Greatness: The Nature of Supreme Reality</title>
 				<feature></feature>
 				<page>0042-0044</page>
@@ -6602,6 +6624,7 @@
 				<page>0045-0046</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
+					<author>Dhere R. C.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6610,10 +6633,11 @@
 				<page>0048-0049</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Narayanan K. N. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Verses: Prabodha Sudhakara - In Dispraise of the Body (Chapter 1 continued)</title>
+				<title>Verses: Prabodha Sudhakara Chapter 1 - In Dispraise of the Body</title>
 				<feature></feature>
 				<page>0050-0053</page>
 				<allauthors>
@@ -6621,29 +6645,36 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Verses: Chapter 2 - In Dispraise of Sense Pursuits</title>
+				<title>Verses: Prabodha Sudhakara Chapter 2 - In Dispraise of Sense Pursuits</title>
 				<feature></feature>
-				<page>0054-0058</page>
+				<page>0054-0057</page>
 				<allauthors>
 					<author>Ayer V. A. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>India's Brown Revolution has some Unrecognized Champions Leading it Forward!</title>
+				<feature></feature>
+				<page>0058-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Vedanta in Daily Life: Sankara's Advaita</title>
 				<feature></feature>
-				<page>0060-0066</page>
+				<page>0060-0065</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+					<author>Umesh R. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Events</title>
 				<feature>News and Events</feature>
-				<page>0067-0076</page>
+				<page>0067-0075</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Vedanta in Stressful Life</title>
+				<title>Vedanta in Daily Life: Vedanta in a Stressful Life</title>
 				<feature></feature>
 				<page>0077-0081</page>
 				<allauthors>
@@ -6651,7 +6682,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Avinayam Apanya Vishno!-VI</title>
+				<title>Vedanta in Daily Life: Avinayam Apanaya Vishno!-VI</title>
 				<feature></feature>
 				<page>0082-0084</page>
 				<allauthors>
@@ -6664,7 +6695,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
@@ -6673,7 +6706,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: Ancestry, Parentage and Early Life</title>
+				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: Chapter 1 - Ancestry, Parentage and Early Life</title>
 				<feature></feature>
 				<page>0009-0010</page>
 				<allauthors>
@@ -6681,7 +6714,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: The Greatness of his Guru, Sannyasa and Tutelage</title>
+				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: Chapter 2 - The Greatness of his Guru, Sannyasa and Tutelage</title>
 				<feature></feature>
 				<page>0011-0017</page>
 				<allauthors>
@@ -6689,7 +6722,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: Early Years of Ministry</title>
+				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: Chapter 3 - Early Years of Ministry</title>
 				<feature></feature>
 				<page>0018-0019</page>
 				<allauthors>
@@ -6697,7 +6730,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: First Independent Tour</title>
+				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: Chapter 4 - First Independent Tour</title>
 				<feature></feature>
 				<page>0020-0022</page>
 				<allauthors>
@@ -6705,42 +6738,68 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: The Second Tour</title>
+				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: Chapter 5 - The Second Tour</title>
 				<feature></feature>
-				<page>0023-0030</page>
+				<page>0023-0028</page>
 				<allauthors>
 					<author>Kamesvara Aiyer B. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Great Achievements: At Sringeri</title>
+				<title>Bhaktisudhatarangini</title>
+				<feature></feature>
+				<page>0030-0030</page>
+				<allauthors>
+					<author>Balasubrahmanya N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Great Achievements: Chapter 6 - At Sringeri</title>
 				<feature></feature>
 				<page>0031-0040</page>
-				<allauthors />
+				<allauthors>
+					<author>Kamesvara Aiyer B. V.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Great Achievements: Preparation for the Kaladi Consecration</title>
+				<title>Great Achievements: Chapter 7 -  Preparation for the Kaladi Consecration</title>
 				<feature></feature>
 				<page>0041-0043</page>
-				<allauthors />
+				<allauthors>
+					<author>Kamesvara Aiyer B. V.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Great Achievements: On the Way to Kaladi</title>
+				<title>Great Achievements: Chapter 8 -  On the Way to Kaladi</title>
 				<feature></feature>
 				<page>0044-0045</page>
-				<allauthors />
+				<allauthors>
+					<author>Kamesvara Aiyer B. V.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Great Achievements: The Great Consecration at Kaladi</title>
+				<title>Great Achievements: Chapter 9 -  The Great Consecration at Kaladi</title>
 				<feature></feature>
 				<page>0046-0049</page>
-				<allauthors />
+				<allauthors>
+					<author>Kamesvara Aiyer B. V.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Great Achievements: The Closing Days</title>
+				<title>Great Achievements: Chapter 10 -  The Closing Days</title>
 				<feature></feature>
 				<page>0050-0054</page>
-				<allauthors />
+				<allauthors>
+					<author>Kamesvara Aiyer B. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Jagadguru: A Profile</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author>Srinivasan S., Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Verses: Sri Guru Suvarnamala Stotra</title>
@@ -6748,12 +6807,21 @@
 				<page>0055-0059</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Vedanarayanan K. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Verses: Prabodha Sudhakara</title>
+				<title>Verses: Prabodha Sudhakara - Chapter 3 - In Dispraise of the Mind</title>
 				<feature></feature>
-				<page>0060-0062</page>
+				<page>0060-0060</page>
+				<allauthors>
+					<author>Ayer V. A. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Verses: Prabodha Sudhakara - Chapter 4 - Checking Sense Pursuits</title>
+				<feature></feature>
+				<page>0061-0062</page>
 				<allauthors>
 					<author>Ayer V. A. K.</author>
 				</allauthors>
@@ -6783,7 +6851,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Adi Sankara's Life History- A Pictorial Biography--Part Four</title>
+				<title>Vedanta in Daily Life: Jagadguru Means....</title>
+				<feature></feature>
+				<page>0074-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Adi Sankara's Life History - A Pictorial Biography-Part Four</title>
 				<feature></feature>
 				<page>0075-0090</page>
 				<allauthors />
@@ -6795,9 +6869,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life:  The Nature of God (Chapter 1)</title>
 				<feature>Children's Corner</feature>
-				<page>0096-0102</page>
+				<page>0096-0100</page>
 				<allauthors>
 					<author>Vijay</author>
 				</allauthors>
@@ -6810,7 +6884,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
@@ -6819,7 +6895,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sri Rama--Hero of the Epic: Rama's Business</title>
+				<title>Sri Rama: Hero of the Epic: Rama's Business</title>
 				<feature></feature>
 				<page>0009-0010</page>
 				<allauthors>
@@ -6827,7 +6903,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Rama--Hero of the Epic: Ramayana in Vedantic Terms--An Overview</title>
+				<title>Sri Rama: Hero of the Epic: Ramayana in Vedantic Terms-An Overview</title>
 				<feature></feature>
 				<page>0011-0013</page>
 				<allauthors>
@@ -6835,7 +6911,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Rama--Hero of the Epic: Unique is Adhyatma Ramayana</title>
+				<title>Sri Rama: Hero of the Epic: Unique is Adhyatma Ramayana</title>
 				<feature></feature>
 				<page>0014-0018</page>
 				<allauthors>
@@ -6843,7 +6919,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Rama--Hero of the Epic: Rama's Great Qualities--as Seen by Kambar</title>
+				<title>Sri Rama: Hero of the Epic: Rama's Great Qualities-As Seen by Kambar</title>
 				<feature></feature>
 				<page>0019-0024</page>
 				<allauthors>
@@ -6851,7 +6927,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Rama--Hero of the Epic: Rama as Seen by Samartha Ramdas</title>
+				<title>Sri Rama: Hero of the Epic: Rama as Seen by Samartha Ramdas</title>
 				<feature></feature>
 				<page>0025-0028</page>
 				<allauthors>
@@ -6859,7 +6935,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Far Reaching Influence: Ramayana--The Fountainhead of Sanskrit Literature</title>
+				<title>Far Reaching Influence: Ramayana-The Fountainhead of Sanskrit Literature</title>
 				<feature></feature>
 				<page>0029-0033</page>
 				<allauthors>
@@ -6902,28 +6978,33 @@
 				<title>Far Reaching Influence: Ramayana in Bengal and Kerala, Nepal, Japan, Philippines and S. E. Asia</title>
 				<feature></feature>
 				<page>0046-0052</page>
-				<allauthors />
-			</entry>
-			<entry>
-				<title>Stotras: Rama Bhujanga</title>
-				<feature></feature>
-				<page>0053-0058</page>
 				<allauthors>
-					<author>Adi Sankaracharya</author>
+					<author>Srinivasan S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Stotras: Hunumat Stotra</title>
+				<title>Stotras: Sri Rama Bhujanga Prayata Stotram</title>
+				<feature></feature>
+				<page>0053-0059</page>
+				<allauthors>
+					<author>Adi Sankaracharya</author>
+					<author>Vedanarayanan K. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Stotras: Hanumat Stotra-Prayer to Hanuman</title>
 				<feature></feature>
 				<page>0059-0060</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Stotras: Yati Sarvabhowmopaharah</title>
+				<title>Stotras: Yati Sarvabhowmopaharah - Praise to the King of Ascetics</title>
 				<feature></feature>
 				<page>0061-0068</page>
 				<allauthors>
 					<author>Narakanteerava Sastri</author>
+					<author>Sampath R. M., Dr.</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6935,7 +7016,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Thine Am I</title>
+				<title>Vedanta in Daily Life: Thine am I</title>
 				<feature></feature>
 				<page>0072-0075</page>
 				<allauthors>
@@ -6943,22 +7024,27 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sankara Jayanti Celebrations)</title>
 				<feature>News and Events</feature>
 				<page>0076-0082</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: The Nature of Atma (Chapter 2)</title>
 				<feature>Children's Corner</feature>
 				<page>0083-0090</page>
-				<allauthors />
+				<allauthors>
+					<author>Vijay</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles in Tattvaloka (1988-89)</title>
+				<title>Index of Articles which Appeared in Tattvaloka April 1988 - February 1989)</title>
 				<feature></feature>
 				<page>0091-0096</page>
-				<allauthors />
+				<allauthors>
+					<author>Sarala Panchapakesan</author>
+					<author>Neelakantan M.</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="03" month="08/09" year="1989">
@@ -6966,7 +7052,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
@@ -7023,6 +7111,12 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Sri Krishna-The Purna Avatar: God's Ways are Inscrutable</title>
+				<feature></feature>
+				<page>0031-0031</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Krishna Prem and Premis: Growth of the Bhakti Cult</title>
 				<feature></feature>
 				<page>0033-0035</page>
@@ -7039,11 +7133,23 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Krishna Prem and Premis: Jayadeva's Gita Govinda</title>
+				<title>Krishna Prem and Premis: Pure Love for God</title>
+				<feature></feature>
+				<page>0038-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Krishna Prem and Premis: Krishna Outwitted</title>
+				<feature></feature>
+				<page>0039-0039</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Krishna Prem and Premis: Jayadeva's Gita-Govinda</title>
 				<feature></feature>
 				<page>0040-0042</page>
 				<allauthors>
-					<author>S. S. N.</author>
+					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7055,7 +7161,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Krishna Prem and Premis: The Keynote of Narayaneeyam</title>
+				<title>Krishna Prem and Premis: The Keynote of Narayaneeyam: A Critical Analysis</title>
 				<feature></feature>
 				<page>0048-0051</page>
 				<allauthors>
@@ -7065,38 +7171,59 @@
 			<entry>
 				<title>Krishna Prem and Premis: Rasa Krida</title>
 				<feature></feature>
-				<page>0052-0058</page>
+				<page>0052-0055</page>
 				<allauthors>
 					<author>S. S. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Glory of the Lord: An Octad to Sri Krishna</title>
+				<title>Krishna Prem and Premis: The Autumn Nights</title>
 				<feature></feature>
-				<page>0059-0062</page>
+				<page>0054-0054</page>
 				<allauthors>
-					<author>Yogananda Sarasvati Swami</author>
+					<author>Raghunathan N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Glory of the Lord: Krishnashtakam (Prayer to Sri Krishna)</title>
+				<title>Glory of the Lord: An Octad to Sri Krishna</title>
+				<feature></feature>
+				<page>0059-0061</page>
+				<allauthors>
+					<author>Yogananda Sarasvati Swami</author>
+					<author>Adi Sankaracharya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Glory of the Lord: Krishna and Kali</title>
+				<feature></feature>
+				<page>0062-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Glory of the Lord: Sri Krishnashtakam (Prayer to Sri Krishna)</title>
 				<feature></feature>
 				<page>0063-0068</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Glory of the Lord: Avatara Kata Stutih (Glory of Lord's Avatars)</title>
+				<title>Glory of the Lord: Sri Bhagavadavatara Kata Stutih (Glory to Lord's Avatars)</title>
 				<feature></feature>
 				<page>0069-0072</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Glory of the Lord: Yati Sarvabhowmopaharah</title>
+				<title>Glory of the Lord: Yati Sarvabhowmopaharah-Praise to the King of Ascetics</title>
 				<feature></feature>
-				<page>0073-0077</page>
+				<page>0073-0076</page>
 				<allauthors>
 					<author>Narakanteerava Sastri</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Glory of the Lord: Krishna the Supreme</title>
+				<feature></feature>
+				<page>0077-0077</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Glory of the Lord: In Communion with Consciousness</title>
@@ -7107,9 +7234,17 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Vyasa Puja Celebrations)</title>
+				<title>Vedanta in Daily Life: News and Events (Vyasa Puja Celebrations)</title>
 				<feature>News and Events</feature>
-				<page>0080-0086</page>
+				<page>0080-0085</page>
+				<allauthors>
+					<author>Murthy C. N. S. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: A Mother's Dilemma</title>
+				<feature>News and Events</feature>
+				<page>0086-0086</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -7129,10 +7264,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: Union of Atma with Brahman (Chapter 3)</title>
 				<feature>Children's Corner</feature>
 				<page>0093-0100</page>
-				<allauthors />
+				<allauthors>
+					<author>Vijay</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="10/11" year="1989">
@@ -7141,12 +7278,14 @@
 				<feature></feature>
 				<page>0005-0016</page>
 				<allauthors />
-			</entry>			
+			</entry>
 			<entry>
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0017-0017</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - His Holiness Speaks...</title>
@@ -7157,7 +7296,7 @@
 			<entry>
 				<title>Sakta Upanishads: Wisdom of the Upanishads</title>
 				<feature></feature>
-				<page>0019-0020</page>
+				<page>0019-0021</page>
 				<allauthors>
 					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
@@ -7165,38 +7304,50 @@
 			<entry>
 				<title>Sakta Upanishads: Bhavanopanishad</title>
 				<feature></feature>
-				<page>0021-0023</page>
-				<allauthors />
+				<page>0021-0024</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Sakta Upanishads: Bahvrichopanishad</title>
+				<title>Sakta Upanishads: The Bahvrichopanishad (A Translation)</title>
 				<feature></feature>
 				<page>0024-0025</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Sakta Upanishads: Saubhagya Lakshmi Upanishad</title>
+				<title>Sakta Upanishads: The Saubhagya Lakshmi Upanishad</title>
 				<feature></feature>
 				<page>0026-0027</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sakta Upanishads: The Tripura Upanishad</title>
 				<feature></feature>
-				<page>0028-0030</page>
-				<allauthors />
+				<page>0028-0031</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sakta Upanishads: Devi Upanishad</title>
 				<feature></feature>
 				<page>0031-0032</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sakta Upanishads: Kaulopanishad</title>
 				<feature></feature>
 				<page>0033-0036</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Temple Worship: Rationale of Temple Worship</title>
@@ -7207,34 +7358,62 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Temple Worship: Siva Linga</title>
+				<feature></feature>
+				<page>0038-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Temple Worship: The Why of Rituals</title>
 				<feature></feature>
-				<page>0039-0042</page>
+				<page>0039-0043</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Temple Worship: Naivedya</title>
+				<feature></feature>
+				<page>0042-0042</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Temple Worship: Sites for Temples</title>
 				<feature></feature>
-				<page>0043-0044</page>
+				<page>0043-0045</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Temple Worship: Why Kshetralana?</title>
+				<feature></feature>
+				<page>0044-0044</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Temple Worship: Sthala Purana</title>
 				<feature></feature>
-				<page>0045-0046</page>
-				<allauthors />
+				<page>0045-0047</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Temple Worship: Festivals</title>
 				<feature></feature>
-				<page>0047-0050</page>
-				<allauthors />
+				<page>0047-0051</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Temple Worship: Purusharthas</title>
 				<feature></feature>
 				<page>0051-0052</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Temple Worship: Temples of Sakti Cult in India</title>
@@ -7259,21 +7438,23 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Devi Stotras: Devi Atharva Sirsha</title>
+				<title>Devi Stotras: Sri Devi Atharva Sirsha</title>
 				<feature></feature>
 				<page>0076-0086</page>
-				<allauthors />
+				<allauthors>
+					<author>Hareesh Raja</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: The Benign Mother of Kavale</title>
 				<feature></feature>
-				<page>0087-0090</page>
+				<page>0087-0089</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: Who is an Enlightened being? - Part 1 (Chapter 4)</title>
 				<feature>Children's Corner</feature>
 				<page>0091-0098</page>
 				<allauthors>
@@ -7281,7 +7462,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Tirumular's Path of Bliss</title>
+				<title>Vedanta in Daily Life: Thirumular's Path of Bliss</title>
 				<feature></feature>
 				<page>0099-0104</page>
 				<allauthors>
@@ -7481,7 +7662,7 @@
 			<entry>
 				<title>Sri Ganesa-Forms and Symbols: Forms and Symbols of Ganesa</title>
 				<feature></feature>
-				<page>0013-0020</page>
+				<page>0013-0019</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -7501,20 +7682,46 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Sri Ganesa-Forms and Symbols: Ganesa in Foreign Countries</title>
+				<feature></feature>
+				<page>0029-0029</page>
+				<allauthors>
+					<author>Krishnamurthi H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Ganesa-Forms and Symbols: Ganesa: Bachelor or Married?</title>
+				<feature></feature>
+				<page>0030-0030</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Vedic and Puranic Concepts: First in the Galaxy</title>
 				<feature></feature>
 				<page>0031-0033</page>
 				<allauthors>
-					<author>S. S.</author>
+					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedic and Puranic Concepts: The Many names of Vinayaka</title>
+				<title>Vedic and Puranic Concepts: How Ganesa was Born</title>
 				<feature></feature>
-				<page>0034-0048</page>
+				<page>0032-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedic and Puranic Concepts: The many Names of Vinayaka</title>
+				<feature></feature>
+				<page>0034-0037</page>
 				<allauthors>
 					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedic and Puranic Concepts: Our Pranams to Sri Ganesa</title>
+				<feature></feature>
+				<page>0041-0048</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Vedic and Puranic Concepts: Master of the Word</title>
@@ -7530,6 +7737,7 @@
 				<page>0052-0054</page>
 				<allauthors>
 					<author>S. S.</author>
+					<author>Vasant Lad, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7538,30 +7746,40 @@
 				<page>0055-0058</page>
 				<allauthors>
 					<author>Ratna Ma Navaratnam</author>
+					<author>Swaminathan K., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Verses for Worship: Ganesa Pancha Ratnam</title>
+				<title>Vedic and Puranic Concepts: Yogic Method</title>
 				<feature></feature>
-				<page>0059-0060</page>
+				<page>0057-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Verses for Worship: Sri Ganesa Pancha Ratnam</title>
+				<feature></feature>
+				<page>0059-0061</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Verses for Worship: Ganadhipa Pancha Ratnam</title>
+				<title>Verses for Worship: Sri Ganadhipa Pancha Ratnam</title>
 				<feature></feature>
 				<page>0061-0063</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Sacchidananda Sivabhinava Nrisimha Bharati Mahaswami</author>
+					<author>Vedanarayanan K. N.</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Verses for Worship: Ganesa Stuti Manjari</title>
+				<title>Verses for Worship: Sri Ganesa Stuti Manjari</title>
 				<feature></feature>
 				<page>0064-0069</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7593,13 +7811,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Samadhi Shrine Work begins at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0083-0084</page>
-				<allauthors />
+				<allauthors>
+					<author>Marthi Subrahmanyam</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: Who is an Enlightened being? - Part 2 (Chapter 4)</title>
 				<feature>Children's Corner</feature>
 				<page>0085-0093</page>
 				<allauthors>
@@ -7610,6 +7830,12 @@
 				<title>Vedanta in Daily Life: How Ganesa Won the Mango</title>
 				<feature></feature>
 				<page>0094-0096</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Do not See the Moon on Ganesa Chaturthi Day</title>
+				<feature></feature>
+				<page>0095-0095</page>
 				<allauthors />
 			</entry>
 		</part>
