@@ -914,7 +914,7 @@
 				<feature></feature>
 				<page>0008-0012</page>
 				<allauthors>
-					<author>Mahadevan T. M. P.</author>
+					<author>Mahadevan T. M. P., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -986,7 +986,7 @@
 				<feature></feature>
 				<page>0006-0011</page>
 				<allauthors>
-					<author>Mahadevan T. M. P.</author>
+					<author>Mahadevan T. M. P., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -6373,7 +6373,7 @@
 				<feature></feature>
 				<page>0010-0020</page>
 				<allauthors>
-					<author>Brahmasri Kapali Sastriar</author>
+					<author>Kapali Sastri</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7099,7 +7099,7 @@
 				<feature></feature>
 				<page>0022-0028</page>
 				<allauthors>
-					<author>Kapali Sastriar</author>
+					<author>Kapali Sastri</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7866,24 +7866,48 @@
 				<title>Adi Sankara as a Yogi: Sankara and Yoga</title>
 				<feature></feature>
 				<page>0010-0014</page>
+				<allauthors>
+					<author>T. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Adi Sankara as a Yogi: Binding Karma</title>
+				<feature></feature>
+				<page>0014-0014</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Adi Sankara as a Yogi: Originality of the Vivarana</title>
 				<feature></feature>
 				<page>0015-0016</page>
+				<allauthors>
+					<author>T. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Adi Sankara as a Yogi: Nature of Man</title>
+				<feature></feature>
+				<page>0016-0016</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Adi Sankara as a Yogi: The Swing towards Devotion</title>
+				<title>Adi Sankara as a Yogi: The Swing towards Devotion to Lord</title>
 				<feature></feature>
 				<page>0017-0021</page>
-				<allauthors />
+				<allauthors>
+					<author>T. L.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Adi Sankara as a Yogi: The Swing towards Advaita</title>
 				<feature></feature>
-				<page>0022-0025</page>
+				<page>0022-0023</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Adi Sankara as a Yogi: Grand Teacher</title>
+				<feature></feature>
+				<page>0023-0023</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -7895,22 +7919,34 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Comments on Yoga Sutras: Yogic Powers</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Comments on Yoga Sutras: Eight Methods of Yoga and Restraints (Sutra II.29, 30)</title>
 				<feature></feature>
 				<page>0029-0031</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Comments on Yoga Sutras: The Great Vow (Sutra II.31)</title>
 				<feature></feature>
 				<page>0032-0032</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Comments on Yoga Sutras: Observances and Attainments (Sutra II.32 to 45)</title>
 				<feature></feature>
 				<page>0033-0039</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Comments on Yoga Sutras: The Sublime Path of Yoga</title>
@@ -7921,25 +7957,59 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Perfection Through Yoga: Yogataravali of Adi Sankaracharya</title>
+				<title>Perfection through Yoga: Yogataravali of Adi Sankaracharya</title>
 				<feature></feature>
 				<page>0048-0058</page>
-				<allauthors />
+				<allauthors>
+					<author>Umesh R. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Perfection through Yoga: Homage to Sankara</title>
+				<feature></feature>
+				<page>0050-0050</page>
+				<allauthors>
+					<author>Sri Sureswaracharya</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: A Shangri-La in India</title>
 				<feature></feature>
 				<page>0059-0061</page>
 				<allauthors>
-					<author>Peter Fell J.</author>
+					<author>Peter J. Fell</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Regard for Teacher</title>
+				<feature></feature>
+				<page>0061-0061</page>
+				<allauthors>
+					<author>Subramaniyam V. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: Reminiscences of a Journalist</title>
 				<feature></feature>
-				<page>0062-0064</page>
+				<page>0062-0063</page>
 				<allauthors>
 					<author>Hariharan N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Two Extremists Change their Ways</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors>
+					<author>Subramanyam P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: No Autographs, Please</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors>
+					<author>Ramachandran K. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7951,7 +8021,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (40th Vardhanti of Sri Sannidhanam)</title>
 				<feature>News and Events</feature>
 				<page>0073-0077</page>
 				<allauthors />
@@ -7965,7 +8035,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: No Alternative to Spirituality (Chapter 5)</title>
 				<feature>Children's Corner</feature>
 				<page>0080-0088</page>
 				<allauthors>
@@ -8015,6 +8085,12 @@
 				<allauthors />
 			</entry>
 			<entry>
+				<title>The Greatness of Lord Subrahmanya: Nakkirar's Tirumurugatrupadai</title>
+				<feature></feature>
+				<page>0020-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>The Greatness of Lord Subrahmanya: Tiruppugazh: The Immortal Poem</title>
 				<feature></feature>
 				<page>0021-0030</page>
@@ -8029,10 +8105,20 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedic and Puranic References: Skanda in the Upanishads</title>
+				<title>The Greatness of Lord Subrahmanya: Subrahmanya's Mantra</title>
+				<feature></feature>
+				<page>0032-0032</page>
+				<allauthors>
+					<author>Subrahmania Aiyer N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedic and Puranic References: Skanda in the Upanishad</title>
 				<feature></feature>
 				<page>0033-0035</page>
-				<allauthors />
+				<allauthors>
+					<author>Kapali Sastri</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedic and Puranic References: Skanda in the Puranas</title>
@@ -8044,20 +8130,34 @@
 				<title>Vedic and Puranic References: Skanda in the Ramayana</title>
 				<feature></feature>
 				<page>0045-0045</page>
-				<allauthors />
+				<allauthors>
+					<author>S. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedic and Puranic References: Skanda in the Mahabharata</title>
 				<feature></feature>
-				<page>0046-0048</page>
-				<allauthors />
+				<page>0046-0047</page>
+				<allauthors>
+					<author>Ratna Ma Navaratnam</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>In Praise of the Lord: Subrahmanya Bhujanga</title>
+				<title>In Praise of the Lord: Sri Subrahmanya Bhujangam</title>
 				<feature></feature>
 				<page>0049-0055</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
+					<author>Sankara Bhagavatpada</author>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>In Praise of the Lord: The Devotional Hymns</title>
+				<feature></feature>
+				<page>0049-0049</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8067,13 +8167,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Bridge Across Tunga Opened)</title>
 				<feature>News and Events</feature>
 				<page>0065-0066</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: I Remember... I Remember... An Engineer Among Engineers</title>
+				<title>Vedanta in Daily Life: I Remember... I Remember... An Engineer among Engineers</title>
 				<feature></feature>
 				<page>0067-0067</page>
 				<allauthors>
@@ -8083,7 +8183,7 @@
 			<entry>
 				<title>Vedanta in Daily Life: For Those Going Abroad</title>
 				<feature></feature>
-				<page>0068-0071</page>
+				<page>0068-0069</page>
 				<allauthors>
 					<author>Sambasivam T. S.</author>
 				</allauthors>
@@ -8091,8 +8191,20 @@
 			<entry>
 				<title>Vedanta in Daily Life: The Seashore Temple of Subrahmanya</title>
 				<feature></feature>
-				<page>0072-0075</page>
-				<allauthors />
+				<page>0072-0074</page>
+				<allauthors>
+					<author>Arvind R. Habbu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: The Faces and Hands of Shanmukha</title>
+				<feature></feature>
+				<page>0075-0075</page>
+				<allauthors>
+					<author>Nakkirar</author>
+					<author>Arunagirinathar</author>
+					<author>Kumaraguruparar</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: An Anecdote about the Danda</title>
@@ -8100,6 +8212,7 @@
 				<page>0076-0078</page>
 				<allauthors>
 					<author>Sankaranarayanan S., Prof.</author>
+					<author>Kapali Sastri</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8111,13 +8224,27 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles in Tattvaloka (1989-1990)</title>
+				<title>Index of Articles which Appeared in Tattvaloka April 1989-February 1990)</title>
 				<feature></feature>
 				<page>0081-0088</page>
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" month="08/09" year="1990">	
+		<part pnum="03" month="08/09" year="1990">
+			<entry>
+				<title>Preface</title>
+				<feature>Preface</feature>
+				<page>0003-0004</page>
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Introduction - Jagadguru Speaks...</title>
+				<feature></feature>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
 			<entry>
 				<title>Gayatri, The Supreme Mother: The Gayatri Mantra</title>
 				<feature></feature>
@@ -8135,7 +8262,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gayatri, The Supreme Mother: May He Direct our Intellects</title>
+				<title>Gayatri, The Supreme Mother: May He Direct our Intellects!</title>
 				<feature></feature>
 				<page>0024-0026</page>
 				<allauthors>
@@ -8186,7 +8313,9 @@
 				<title>Vedic Sanction: Meditation on Gayatri</title>
 				<feature></feature>
 				<page>0043-0057</page>
-				<allauthors />
+				<allauthors>
+					<author>Yashwant Thorat</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedic Sanction: Gayatri Rahasya of Jnaneshwar</title>
@@ -8197,46 +8326,58 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Verses: Gayatri Ashtottram Sata Nama Stotra</title>
+				<title>Verses: Sri Gayatri Ashtottaram Sata Nama Stotra</title>
 				<feature></feature>
 				<page>0061-0065</page>
-				<allauthors />
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Verses: Word Meaning of Gayatri</title>
 				<feature></feature>
 				<page>0066-0069</page>
-				<allauthors />
+				<allauthors>
+					<author>Tapovan Prasad</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Verses: Twelve Vedic Gayatris</title>
 				<feature></feature>
 				<page>0070-0072</page>
-				<allauthors />
+				<allauthors>
+					<author>Vimalananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: Yajnopavita</title>
 				<feature></feature>
 				<page>0073-0076</page>
-				<allauthors />
+				<allauthors>
+					<author>Prabhu Ashrit Swamiji</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: Vishwamitra, the Great Seer</title>
 				<feature></feature>
 				<page>0077-0081</page>
-				<allauthors />
+				<allauthors>
+					<author>Sadguru Sant Keshavadas</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Vedanta in Daily Life: News and Events (Lifetime Allowance for Shastra Pandits)</title>
 				<feature>News and Events</feature>
 				<page>0082-0088</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: Many Paths to God (Chapter 6)</title>
 				<feature>Children's Corner</feature>
 				<page>0089-0096</page>
-				<allauthors />
+				<allauthors>
+					<author>Vijay</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="10/11" year="1990">
@@ -8244,7 +8385,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0005-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>T. R. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -8280,7 +8423,17 @@
 				<title>Sri Lalita: Lalita Sahasranama</title>
 				<feature></feature>
 				<page>0014-0022</page>
-				<allauthors />
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Lalita: Special Features of Lalita Sahasranama</title>
+				<feature></feature>
+				<page>0016-0016</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Lalita: Lalita Sahasranama: Epilogue</title>
@@ -8288,6 +8441,14 @@
 				<page>0023-0025</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Lalita: The Power of the Name</title>
+				<feature></feature>
+				<page>0024-0024</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8309,8 +8470,16 @@
 			<entry>
 				<title>Glory of Sri Lalita: Sripura - Extracts from the Brahmanda Purana</title>
 				<feature></feature>
-				<page>0039-0044</page>
+				<page>0039-0043</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>Glory of Sri Lalita: Bhaskararaya</title>
+				<feature></feature>
+				<page>0044-0044</page>
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Glory of Sri Lalita: Lalita Trisati</title>
@@ -8323,25 +8492,28 @@
 			<entry>
 				<title>Glory of Sri Lalita: Sankara and Lalitadvaita</title>
 				<feature></feature>
-				<page>0048-0052</page>
+				<page>0048-0051</page>
 				<allauthors>
-					<author>Mahadevan T. M. P.</author>
+					<author>Mahadevan T. M. P., Dr.</author>
+					<author>Giri V. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Lalita Stuti: Mantramatruka Pushpamala</title>
+				<title>Lalita Stuti: Mantra Matruka Pushpamala Stavam</title>
 				<feature></feature>
 				<page>0053-0058</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Lalita Stuti: Sri Lalita Stotranamavali</title>
+				<title>Lalita Stuti: Sri Lalita Stotra Namavali</title>
 				<feature></feature>
-				<page>0059-0081</page>
+				<page>0059-0079</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+					<author>Goda Venkateswara Sastri, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8353,13 +8525,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Grand Navaratri at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0083-0092</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Lalita Stuti: Children's Corner</title>
+				<title>Lalita Stuti: How can Man See God? (Chapter 7)</title>
 				<feature>Children's Corner</feature>
 				<page>0093-0096</page>
 				<allauthors>
@@ -8389,7 +8561,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Goddess Ganga: Creation By Water</title>
+				<title>The Goddess Ganga: The Benefactor of Atri</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors>
+					<author>Vettam Mani</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Goddess Ganga: Creation by Water</title>
 				<feature></feature>
 				<page>0014-0017</page>
 				<allauthors />
@@ -8398,6 +8578,15 @@
 				<title>The Goddess Ganga: Mother Ganga and Bhishma</title>
 				<feature></feature>
 				<page>0018-0019</page>
+				<allauthors>
+					<author>Vettam Mani</author>
+					<author>Menon P. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Goddess Ganga: Scientific Purity</title>
+				<feature></feature>
+				<page>0019-0019</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -8427,7 +8616,7 @@
 				<feature></feature>
 				<page>0028-0034</page>
 				<allauthors>
-					<author>Swamini Sharadapriyananda</author>
+					<author>Sharadapriyananda Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8447,11 +8636,17 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>The Mystical Ganga: The Divine Sisters</title>
+				<feature></feature>
+				<page>0038-0038</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>The Mystical Ganga: A Son's Adoration</title>
 				<feature></feature>
 				<page>0040-0044</page>
 				<allauthors>
-					<author>Bhishma</author>
+					<author>Kisari Mohan Ganguli</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8461,11 +8656,20 @@
 				<allauthors />
 			</entry>
 			<entry>
+				<title>The Mystical Ganga: Gangotri</title>
+				<feature></feature>
+				<page>0046-0046</page>
+				<allauthors>
+					<author>Akhandananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Verses on Ganga: Sri Gangashtakam</title>
 				<feature></feature>
 				<page>0047-0052</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
+					<author>Patil N. B., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8474,6 +8678,7 @@
 				<page>0053-0061</page>
 				<allauthors>
 					<author>Pandit Jagannath</author>
+					<author>Patil N. B., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8509,7 +8714,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Vedanta in Daily Life: International Homage to Ganga</title>
+				<feature></feature>
+				<page>0076-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: News and Events (Sahasra Chandi Maha Yaga)</title>
 				<feature>News and Events</feature>
 				<page>0081-0082</page>
 				<allauthors />
@@ -8523,10 +8734,28 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Vedanta in Daily Life: Ganga, Symbol of Culture</title>
+				<feature></feature>
+				<page>0086-0086</page>
+				<allauthors>
+					<author>Pandit Jawaharlal Nehru</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Eternal Ganga-Jagmohan Mahajan</title>
 				<feature>Book Review</feature>
-				<page>0087-0088</page>
-				<allauthors />
+				<page>0087-0087</page>
+				<allauthors>
+					<author>Prakriti Kashyap</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ganga-C. Sivaramamurti</title>
+				<feature>Book Review</feature>
+				<page>0088-0088</page>
+				<allauthors>
+					<author>Prakriti Kashyap</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="06" month="02/03" year="1991">
@@ -8611,15 +8840,18 @@
 			<entry>
 				<title>Jyotirlingas (Continued): Ghrishneswara</title>
 				<feature></feature>
-				<page>0051-0056</page>
-				<allauthors />
+				<page>0051-0055</page>
+				<allauthors>
+					<author>Prakriti Kashyap</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Siva Stotras: Siva Mahimna Stotra</title>
+				<title>Siva Stotras: Siva Mahimna Stotras</title>
 				<feature></feature>
-				<page>0057-0068</page>
+				<page>0057-0069</page>
 				<allauthors>
 					<author>Pushpadanta</author>
+					<author>Arthur Avalon</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -8628,10 +8860,11 @@
 				<page>0069-0072</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Ashram of Veda Vyasa</title>
+				<title>Vedanta in Daily Life: The Ashram of Veda Vyasa</title>
 				<feature></feature>
 				<page>0073-0073</page>
 				<allauthors>
@@ -8645,15 +8878,23 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (His Holiness Performs Grand Sivaratri Puja)</title>
 				<feature>News and Events</feature>
 				<page>0076-0078</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: Spiritual Sadhana (Chapter 8)</title>
 				<feature>Children's Corner</feature>
-				<page>0079-0088</page>
+				<page>0079-0083</page>
+				<allauthors>
+					<author>Vijay</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Rules of Sadhana (Chapter 9)</title>
+				<feature>Children's Corner</feature>
+				<page>0084-0088</page>
 				<allauthors>
 					<author>Vijay</author>
 				</allauthors>
@@ -8662,6 +8903,14 @@
 	</volume>
 	<volume vnum="014">
 		<part pnum="01" month="04/05" year="1991">
+			<entry>
+				<title>Homage to Sankara</title>
+				<feature></feature>
+				<page>0000b-0000b</page>
+				<allauthors>
+					<author>Sri Sureswaracharya</author>
+				</allauthors>
+			</entry>
 			<entry>
 				<title>Preface</title>
 				<feature>Preface</feature>
@@ -8675,7 +8924,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sankara's Life: Sankara : His Merciful Life</title>
+				<title>Sankara's Life: Sankara: His Merciful Life</title>
 				<feature></feature>
 				<page>0015-0020</page>
 				<allauthors>
@@ -8683,7 +8932,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Life: Sankara : A Compassionate Yogi</title>
+				<title>Sankara's Life: Sankara: A Compassionate Yogi</title>
 				<feature></feature>
 				<page>0021-0023</page>
 				<allauthors>
@@ -8691,7 +8940,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Life: Sankara : The Jagadguru</title>
+				<title>Sankara's Life: Sankara: The Jagadguru</title>
 				<feature></feature>
 				<page>0024-0028</page>
 				<allauthors>
@@ -8699,7 +8948,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Life: Sankara : A Total Personality</title>
+				<title>Sankara's Life: The Mightiest Weapon</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sankara's Life: Sankara: A Total Personality</title>
 				<feature></feature>
 				<page>0029-0031</page>
 				<allauthors>
@@ -8707,15 +8964,32 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Life: Sankara : The Ocean of Compassion</title>
+				<title>Sankara's Life: Supreme Worship</title>
 				<feature></feature>
-				<page>0032-0036</page>
+				<page>0031-0031</page>
 				<allauthors>
-					<author>Varadarajan M.</author>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Teachings: Sankara : His Merciful Teachings</title>
+				<title>Sankara's Life: Sankara: The Ocean of Compassion</title>
+				<feature></feature>
+				<page>0032-0036</page>
+				<allauthors>
+					<author>Muthusamy Varadarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sankara's Life: Sankara: The Acharya at his Mother's Death-Bed</title>
+				<feature></feature>
+				<page>0036-0036</page>
+				<allauthors>
+					<author>Madhava Vidyaranya</author>
+					<author>Tapasyananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sankara's Teachings: Sankara: His Merciful Teachings</title>
 				<feature></feature>
 				<page>0037-0041</page>
 				<allauthors>
@@ -8731,7 +9005,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Teachings: Sankara : A Tribute</title>
+				<title>Sankara's Teachings: Sankara: A Tribute</title>
 				<feature></feature>
 				<page>0051-0052</page>
 				<allauthors>
@@ -8747,7 +9021,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Teachings: Acharya Sankara : A Magnanimous Teacher</title>
+				<title>Sankara's Teachings: Acharya Sankara: A Magnanimous Teacher</title>
 				<feature></feature>
 				<page>0055-0056</page>
 				<allauthors>
