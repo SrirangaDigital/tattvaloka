@@ -10268,7 +10268,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -10285,6 +10287,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>The Avatara of Narasimha: Narasimha in Kambaramayana</title>
+				<feature></feature>
+				<page>0009-0009</page>
+				<allauthors>
+					<author>Seshadri R. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>The Avatara of Narasimha: Narasimha Tattva</title>
 				<feature></feature>
 				<page>0010-0012</page>
@@ -10293,11 +10303,20 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>The Avatara of Narasimha: Simhachalam</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors>
+					<author>Vanamala Parthasarathy, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>The Avatara of Narasimha: Prahlada's Laud on Narasimha</title>
 				<feature></feature>
 				<page>0013-0016</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+					<author>Krishnaswamy Aiyar R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10309,10 +10328,20 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>The Avatara of Narasimha: Awe-Inspiring Narasimha</title>
+				<feature></feature>
+				<page>0019-0019</page>
+				<allauthors>
+					<author>Suryanarayan V.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>The Avatara of Narasimha: The Grace of Bhagavan Narasimha</title>
 				<feature></feature>
 				<page>0020-0022</page>
-				<allauthors />
+				<allauthors>
+					<author>Madhava Vidyaranya</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Images of Narasimha: Lord Narasimha: Iconography and Literature</title>
@@ -10345,6 +10374,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Images of Narasimha: The Figure of Narasimha</title>
+				<feature></feature>
+				<page>0037-0041</page>
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Images of Narasimha: The Temples of Narasimha--Tamil Nadu</title>
 				<feature></feature>
 				<page>0042-0047</page>
@@ -10353,19 +10390,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>In Praise of Narasimha: Lakshmi Narasimha Karunarasa Stotra</title>
+				<title>In Praise of Narasimha: Sri Lakshmi Narasimha Karunarasa Stotra</title>
 				<feature></feature>
 				<page>0048-0052</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>In Praise of Narasimha: Sri Narasimha Bhujanga Prayata Stotra</title>
 				<feature></feature>
-				<page>0053-0064</page>
+				<page>0053-0063</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Sacchidananda Sivabhinava Nrisimha Bharati Mahaswami</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10374,12 +10413,13 @@
 				<page>0065-0066</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: A Celestial Court Case</title>
 				<feature></feature>
-				<page>0067-0071</page>
+				<page>0067-0069</page>
 				<allauthors>
 					<author>Krishnaswamy Aiyar R.</author>
 				</allauthors>
@@ -10393,7 +10433,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (New Sarada Temple for Bombay)</title>
 				<feature>News and Events</feature>
 				<page>0074-0076</page>
 				<allauthors>
@@ -10401,18 +10441,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: Creative Powers of the Tulasi</title>
 				<feature>Children's Corner</feature>
 				<page>0077-0082</page>
 				<allauthors>
 					<author>Vijay Venkateshwar</author>
+					<author>Shakun Narain</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index to Articles 1991-92</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1991-February 1992</title>
 				<feature></feature>
 				<page>0083-0088</page>
-				<allauthors />
+				<allauthors>
+					<author>Divakara Shekhar</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="03" month="08/09" year="1992">
@@ -10420,7 +10463,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -10437,11 +10482,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Personality of Jagadguru: A Jivanmukta--Tribute to My Guru</title>
+				<title>Personality of Jagadguru: A Jivanmukta--Tribute to my Guru</title>
 				<feature></feature>
 				<page>0019-0023</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Abhinava Vidyatirtha Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Personality of Jagadguru: Atheist Converted</title>
+				<feature></feature>
+				<page>0023-0023</page>
+				<allauthors>
+					<author>Sharma M. S. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10458,7 +10511,14 @@
 				<page>0026-0028</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+					<author>Krishnaswamy Aiyar R.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Personality of Jagadguru: Guru as Ever Present Reality</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Personality of Jagadguru: An Ideal Guru</title>
@@ -10475,11 +10535,20 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>The Teachings: Prescriptions for Self Realisation</title>
+				<title>The Teachings: Prescriptions for Self-Realisation</title>
 				<feature></feature>
 				<page>0034-0037</page>
 				<allauthors>
 					<author>Rajesh Vishwanathan, Dr.</author>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Teachings: True Prophecy</title>
+				<feature></feature>
+				<page>0037-0037</page>
+				<allauthors>
+					<author>Ramesh V. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10491,6 +10560,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>The Teachings: To Sringeri</title>
+				<feature></feature>
+				<page>0041-0041</page>
+				<allauthors>
+					<author>Srinivasa Aiyengar V. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>The Teachings: Method of Teaching</title>
 				<feature></feature>
 				<page>0042-0045</page>
@@ -10499,7 +10576,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Teachings: Advaita--a Matter for Realisation</title>
+				<title>The Teachings: Advaita--A Matter for Realisation</title>
 				<feature></feature>
 				<page>0046-0053</page>
 				<allauthors />
@@ -10527,6 +10604,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>In Praise of the Jagadguru: Take Care of the `Now'</title>
+				<feature></feature>
+				<page>0070-0070</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>In Praise of the Jagadguru: The Kingly Tribute to Sadguru Paduka</title>
 				<feature></feature>
 				<page>0071-0073</page>
@@ -10543,7 +10628,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Experiences With His Holiness</title>
+				<title>Vedanta in Daily Life: Far-Sighted Vision</title>
+				<feature></feature>
+				<page>0079-0079</page>
+				<allauthors>
+					<author>Ramasubramania Sarma M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Experiences with His Holiness</title>
 				<feature></feature>
 				<page>0080-0084</page>
 				<allauthors>
@@ -10553,7 +10646,16 @@
 			<entry>
 				<title>Vedanta in Daily Life: Incidents in Jagadguru's Life</title>
 				<feature></feature>
-				<page>0085-0093</page>
+				<page>0085-0091</page>
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+					<author>Ramaswami K. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Blesses King of Nepal</title>
+				<feature></feature>
+				<page>0091-0091</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -10572,13 +10674,23 @@
 					<author>Narasimhiah S. G.</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: A Guide and Seer</title>
+				<feature></feature>
+				<page>0103-0103</page>
+				<allauthors>
+					<author>Ramaswami Iyer C. P., Dr.</author>
+				</allauthors>
+			</entry>
 		</part>
 		<part pnum="04" month="10/11" year="1992">
 			<entry>
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -10595,9 +10707,25 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Sarasvati in Scriptures: Devi Sarasvati</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors>
+					<author>Ramesh N. Jani, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Sarasvati in Scriptures: Sarasvati: Development in the Puranas</title>
 				<feature></feature>
 				<page>0011-0013</page>
+				<allauthors>
+					<author>Indira S. Aiyar, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sarasvati in Scriptures: Icons in Temples</title>
+				<feature></feature>
+				<page>0013-0013</page>
 				<allauthors>
 					<author>Indira S. Aiyar, Dr.</author>
 				</allauthors>
@@ -10611,7 +10739,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sarasvati in Scriptures: Sarasvati in Scared Literature</title>
+				<title>Sarasvati in Scriptures: Sarasvati in Sacred Literature</title>
 				<feature></feature>
 				<page>0017-0018</page>
 				<allauthors>
@@ -10621,13 +10749,21 @@
 			<entry>
 				<title>Sarasvati in Scriptures: Sarasvati Rahasya Upanishad</title>
 				<feature></feature>
-				<page>0019-0022</page>
+				<page>0019-0021</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Powers of Sarasvati: Sarasvati--The Abode of My Mind</title>
+				<title>Sarasvati in Scriptures: Power of Sarasvati</title>
+				<feature></feature>
+				<page>0021-0021</page>
+				<allauthors>
+					<author>Vanitha Krishnakumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Powers of Sarasvati: Sarasvati--The Abode of my Mind</title>
 				<feature></feature>
 				<page>0023-0025</page>
 				<allauthors>
@@ -10635,12 +10771,18 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Powers of Sarasvati: Vak in Mantra Sastras</title>
+				<title>Powers of Sarasvati: Vak in Mantra Sastra</title>
 				<feature></feature>
 				<page>0026-0028</page>
 				<allauthors>
 					<author>Kumar K.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Powers of Sarasvati: Sarasvati Symbols</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Powers of Sarasvati: Sarasvati--A Power of Brahman</title>
@@ -10651,7 +10793,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Powers of Sarasvati: The Vehicles that Carry Her</title>
+				<title>Powers of Sarasvati: The Vehicles that Carry Her....</title>
 				<feature></feature>
 				<page>0030-0037</page>
 				<allauthors>
@@ -10659,9 +10801,25 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Powers of Sarasvati: Brahma's Four Faces</title>
+				<feature></feature>
+				<page>0037-0037</page>
+				<allauthors>
+					<author>Indira S. Aiyar, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Powers of Sarasvati: Shrines for Sarasvati</title>
 				<feature></feature>
-				<page>0038-0044</page>
+				<page>0038-0043</page>
+				<allauthors>
+					<author>Vanitha Krishnakumar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Powers of Sarasvati: The Mystic Seven</title>
+				<feature></feature>
+				<page>0040-0040</page>
 				<allauthors>
 					<author>Vanitha Krishnakumar</author>
 				</allauthors>
@@ -10675,13 +10833,47 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>In Praise of Sarasvati: Five Sacred Songs</title>
+				<title>In Praise of Sarasvati: Five Sacred Songs - O Supreme Goddess!</title>
 				<feature></feature>
-				<page>0051-0064</page>
-				<allauthors />
+				<page>0051-0054</page>
+				<allauthors>
+					<author>Sant Ekanath</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>In Praise of Sarasvati: Five Sacred Songs - The Poet's Goddess!</title>
+				<feature></feature>
+				<page>0054-0056</page>
+				<allauthors>
+					<author>Subrahmanya Bharati</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>In Praise of Sarasvati: Five Sacred Songs - O Gracious-Faced One!</title>
+				<feature></feature>
+				<page>0056-0059</page>
+				<allauthors>
+					<author>Rabindranath Tagore</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>In Praise of Sarasvati: Five Sacred Songs - O Goddess of Felicity!</title>
+				<feature></feature>
+				<page>0059-0060</page>
+				<allauthors>
+					<author>Vishvabandhu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>In Praise of Sarasvati: Five Sacred Songs - O Benevolent One!</title>
+				<feature></feature>
+				<page>0060-0063</page>
+				<allauthors>
+					<author>Sant Purandaradas</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events (His Holiness' Glorious Bombay Visit Draws to a Close)</title>
 				<feature>News and Events</feature>
 				<page>0065-0067</page>
 				<allauthors>
@@ -10694,6 +10886,28 @@
 				<page>0068-0072</page>
 				<allauthors>
 					<author>David Frawley, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Sarasvati Going Underground</title>
+				<feature></feature>
+				<page>0070-0070</page>
+				<allauthors>
+					<author>Indira S. Aiyar, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: The Sarasvati and the Spinal Current</title>
+				<feature></feature>
+				<page>0071-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Sarasvati's Relationship with Lakshmi</title>
+				<feature></feature>
+				<page>0072-0072</page>
+				<allauthors>
+					<author>Lalita Kuppuswamy, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10726,7 +10940,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -10743,7 +10959,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Guidelines for Righteousness: Bhishma's Advice to Yudhishthira--I</title>
+				<title>Guidelines for Righteousness: Bhishma's Advice to Yudhishthira-I - The Dharma of a King</title>
 				<feature></feature>
 				<page>0011-0013</page>
 				<allauthors>
@@ -10751,11 +10967,27 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Guidelines for Righteousness: Bhishma's Advice to Yudhishthira--II</title>
+				<title>Guidelines for Righteousness: Dharma as Purushartha</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors>
+					<author>Kunjunni Raja K., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Guidelines for Righteousness: Bhishma's Advice to Yudhishthira-II - General Guidelines for Right Living</title>
 				<feature></feature>
 				<page>0014-0015</page>
 				<allauthors>
 					<author>Srinivasa Rao C. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Guidelines for Righteousness: Message of the Mahabharata</title>
+				<feature></feature>
+				<page>0015-0015</page>
+				<allauthors>
+					<author>Subramaniam M. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10767,7 +10999,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Guidelines for Righteousness: Conduct Before a King</title>
+				<title>Guidelines for Righteousness: Conduct before a King</title>
 				<feature></feature>
 				<page>0020-0022</page>
 				<allauthors>
@@ -10807,9 +11039,25 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>The Panorama of Characters: Choice of Krishna</title>
+				<feature></feature>
+				<page>0032-0032</page>
+				<allauthors>
+					<author>Ramesh N. Jani, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>The Panorama of Characters: Dharma of Duryodhana and Karna</title>
 				<feature></feature>
 				<page>0035-0040</page>
+				<allauthors>
+					<author>Vashista Ganapati Muni</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Panorama of Characters: Drona's Loyalty</title>
+				<feature></feature>
+				<page>0040-0040</page>
 				<allauthors>
 					<author>Vashista Ganapati Muni</author>
 				</allauthors>
@@ -10820,6 +11068,14 @@
 				<page>0041-0043</page>
 				<allauthors>
 					<author>Toyadakshi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Panorama of Characters: Property Rights</title>
+				<feature></feature>
+				<page>0042-0042</page>
+				<allauthors>
+					<author>Indira S. Aiyar, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10844,19 +11100,32 @@
 				<page>0055-0058</page>
 				<allauthors>
 					<author>Rabindranath Tagore</author>
+					<author>Shyamasree Devi</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Counsel of Wisdom: Vidura Neeti--Profound Insights</title>
 				<feature></feature>
 				<page>0059-0067</page>
-				<allauthors />
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Counsel of Wisdom: Vidura's Wisdom</title>
+				<feature></feature>
+				<page>0067-0067</page>
+				<allauthors>
+					<author>Vashista Ganapati Muni</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events (Navaratri at Kolhapur)</title>
 				<feature>News and Events</feature>
 				<page>0068-0073</page>
-				<allauthors />
+				<allauthors>
+					<author>Subba Rao</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: Dharma of Bhakti</title>
@@ -10867,11 +11136,18 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Vedanta in Daily Life: Yoga of Devotion</title>
+				<feature></feature>
+				<page>0078-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Vedanta in Daily Life: Counsel of the Swan</title>
 				<feature></feature>
 				<page>0079-0080</page>
 				<allauthors>
 					<author>Vathula Ramachandra Sarma</author>
+					<author>Mitra P. D.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10883,11 +11159,25 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Vedanta in Daily Life: The Imperishable Supreme</title>
+				<feature></feature>
+				<page>0083-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Vedanta in Daily Life: Sacrifice for Dharma</title>
 				<feature></feature>
 				<page>0084-0085</page>
 				<allauthors>
 					<author>Dhrubajyoti Sen</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Types of Dharma</title>
+				<feature></feature>
+				<page>0085-0085</page>
+				<allauthors>
+					<author>Toyadakshi</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10899,7 +11189,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Shri Bhishma Vijayam-Sri Lakshman Suri</title>
 				<feature>Book Review</feature>
 				<page>0088-0088</page>
 				<allauthors>
@@ -10912,7 +11202,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -10937,11 +11229,43 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Aspects of Siva: All this is Siva</title>
+				<feature></feature>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Aspects of Siva: Ardha Narisvara</title>
 				<feature></feature>
 				<page>0019-0022</page>
 				<allauthors>
 					<author>Hareesh Raja</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Aspects of Siva: Legend One</title>
+				<feature></feature>
+				<page>0020-0020</page>
+				<allauthors>
+					<author>Shakti Gupta</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Aspects of Siva: Legend Two</title>
+				<feature></feature>
+				<page>0021-0021</page>
+				<allauthors>
+					<author>Shakti Gupta</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Aspects of Siva: Ravana and Siva</title>
+				<feature></feature>
+				<page>0022-0022</page>
+				<allauthors>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10953,11 +11277,27 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Aspects of Siva: What is a Purana?</title>
+				<feature></feature>
+				<page>0024-0024</page>
+				<allauthors>
+					<author>Sumitra M. Gautama</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Aspects of Siva: The Five Heads of Siva</title>
 				<feature></feature>
 				<page>0025-0027</page>
 				<allauthors>
 					<author>Shakti Gupta</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Aspects of Siva: Hari and Siva, Nilakantha</title>
+				<feature></feature>
+				<page>0027-0027</page>
+				<allauthors>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10977,6 +11317,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Symbols and Legends: Panchamukha Linga</title>
+				<feature></feature>
+				<page>0036-0036</page>
+				<allauthors>
+					<author>Ramaseshan R., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Symbols and Legends: Rudraksha</title>
 				<feature></feature>
 				<page>0037-0042</page>
@@ -10985,11 +11333,20 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Symbols and Legends: On the Rudraksha</title>
+				<feature></feature>
+				<page>0039-0039</page>
+				<allauthors>
+					<author>Sumitra M. Gautama</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Symbols and Legends: The Lord Weds...</title>
 				<feature></feature>
 				<page>0043-0045</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+					<author>Krishnaswamy Aiyar R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -10998,6 +11355,14 @@
 				<page>0046-0054</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Symbols and Legends: Assets of Siva</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors>
+					<author>Vettam Mani</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11011,9 +11376,17 @@
 			<entry>
 				<title>Symbols and Legends: Pippalada, Son of Dadhici</title>
 				<feature></feature>
-				<page>0059-0061</page>
+				<page>0059-0060</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Symbols and Legends: Sin of Brahmahatya</title>
+				<feature></feature>
+				<page>0060-0060</page>
+				<allauthors>
+					<author>Vettam Mani</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11022,14 +11395,16 @@
 				<page>0062-0066</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Siva Stotras: Ardhanarisvara Stotram</title>
 				<feature></feature>
-				<page>0067-0072</page>
+				<page>0067-0071</page>
 				<allauthors>
 					<author>Adi Sankaracharya</author>
+					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11065,6 +11440,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Vedanta in Daily Life: Zodiacal Signs and Holy Rivers</title>
+				<feature></feature>
+				<page>0082-0082</page>
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Vedanta in Daily Life: What is Anugraha?</title>
 				<feature></feature>
 				<page>0083-0084</page>
@@ -11073,7 +11456,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Vijaya Yatra in Andhra Pradesh)</title>
 				<feature>News and Events</feature>
 				<page>0085-0087</page>
 				<allauthors>
@@ -11081,7 +11464,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Living with Siva, Hinduism's Nandinath Sutras-Sivaya subramuniyaswami</title>
 				<feature>Book Review</feature>
 				<page>0088-0089</page>
 				<allauthors>
@@ -11089,11 +11472,24 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Sayings of Lord Siva-Harendra Kottayam</title>
+				<feature>Book Review</feature>
+				<page>0089-0089</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Divine Ecstasy-Shobita Punja</title>
+				<feature>Book Review</feature>
+				<page>0089-0089</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: The Greatness of India</title>
 				<feature>Children's Corner</feature>
 				<page>0090-0096</page>
 				<allauthors>
 					<author>Vijay Venkateshwar</author>
+					<author>Palkhivala N. A.</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -11104,7 +11500,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -11137,6 +11535,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Personality of Sankara: Awakening from Illusion</title>
+				<feature></feature>
+				<page>0019-0019</page>
+				<allauthors>
+					<author>Yogananda Sarasvati Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Personality of Sankara: Realism in Sankara</title>
 				<feature></feature>
 				<page>0020-0023</page>
@@ -11147,17 +11553,27 @@
 			<entry>
 				<title>Personality of Sankara: Sankara, the Integrator</title>
 				<feature></feature>
-				<page>0024-0026</page>
+				<page>0024-0025</page>
 				<allauthors>
 					<author>Nanjunda Sastry N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Teachings: Sankara Bhagavatpada--Commentator Par Excellence</title>
+				<title>Personality of Sankara: The Work of Sankara</title>
+				<feature></feature>
+				<page>0026-0026</page>
+				<allauthors>
+					<author>Krishnaswami Aiyar C. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Teachings: Sri Sankara Bhagavatpada--Commentator <i>Par Excellence</i></title>
 				<feature></feature>
 				<page>0027-0030</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+					<author>Vedanarayanan K. N.</author>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11174,6 +11590,15 @@
 				<page>0033-0035</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Teachings: Adi Sankara and Bhakti</title>
+				<feature></feature>
+				<page>0035-0035</page>
+				<allauthors>
+					<author>Lalita Kuppuswamy, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11189,13 +11614,21 @@
 				<feature></feature>
 				<page>0039-0042</page>
 				<allauthors>
-					<author>Sengaku Mayeda</author>
+					<author>Sengaku Mayeda, Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Teachings: Reforms in Hinduism, Sankara's Method of Reconciliation</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author>Krishnaswami Aiyar C. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Teachings: Sankara's Teachings--Basic Tenets</title>
 				<feature></feature>
-				<page>0043-0048</page>
+				<page>0043-0045</page>
 				<allauthors>
 					<author>Sumitra M. Gautama</author>
 				</allauthors>
@@ -11204,14 +11637,24 @@
 				<title>Sankara Stotras: Acharya Prasasti--In Praise of Acharya</title>
 				<feature></feature>
 				<page>0049-0054</page>
-				<allauthors />
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sankara Stotras: Sri Sankaracharya Ashtottara Satanama Stotram</title>
 				<feature></feature>
-				<page>0055-0068</page>
+				<page>0055-0066</page>
 				<allauthors>
 					<author>Sri Vidyaranya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sankara's Prasna Uttara Ratnamalika (Excerpts)</title>
+				<feature></feature>
+				<page>0067-0067</page>
+				<allauthors>
+					<author>Krishnamurti Sastry R., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11220,6 +11663,14 @@
 				<page>0069-0072</page>
 				<allauthors>
 					<author>Subramanian N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Action and Inaction</title>
+				<feature></feature>
+				<page>0072-0072</page>
+				<allauthors>
+					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11255,7 +11706,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Prime Minister Visits Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0083-0085</page>
 				<allauthors>
@@ -11263,7 +11714,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>The Word Speaks to the Faustian Man-Som Raj Gupta</title>
 				<feature>Book Review</feature>
 				<page>0086-0087</page>
 				<allauthors>
@@ -11271,11 +11722,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Vedanta in Daily Life: The Greatness of Sankara</title>
 				<feature>Children's Corner</feature>
 				<page>0088-0096</page>
 				<allauthors>
 					<author>Vijay Venkateshwar</author>
+					<author>Ranganathananda Swami</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -11284,7 +11736,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -11295,9 +11749,17 @@
 			<entry>
 				<title>Ideals of Kalidasa: Kalidasa's Works in Modern Age</title>
 				<feature></feature>
-				<page>0007-0010</page>
+				<page>0007-0009</page>
 				<allauthors>
 					<author>Rama Bai E. R., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ideals of Kalidasa: Life of Kalidasa</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors>
+					<author>Karmarkar R. D.</author>
 				</allauthors>
 			</entry>
 			<entry>
