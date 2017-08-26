@@ -13194,7 +13194,16 @@
 			<entry>
 				<title>Vedanta in Daily Life: Supreme Divinity</title>
 				<feature></feature>
-				<page>0075-0079</page>
+				<page>0075-0077</page>
+				<allauthors>
+					<author>Yogananda Sarasvati Swami</author>
+					<author>Iyer G. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: The Plenitude of Brahman</title>
+				<feature></feature>
+				<page>0078-0078</page>
 				<allauthors>
 					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
@@ -13202,23 +13211,34 @@
 			<entry>
 				<title>Vedanta in Daily Life: Chariot Analogy</title>
 				<feature></feature>
-				<page>0080-0084</page>
+				<page>0080-0082</page>
 				<allauthors>
 					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>A Comparative History of Ideas-Hajime Nakamura</title>
 				<feature>Book Review</feature>
-				<page>0085-0088</page>
-				<allauthors />
+				<page>0085-0087</page>
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Children's Corner</title>
+				<title>Beyond the Mind-David Frawley</title>
+				<feature>Book Review</feature>
+				<page>0087-0087</page>
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Saint Dnyaneshwar</title>
 				<feature>Children's Corner</feature>
 				<page>0089-0096</page>
 				<allauthors>
 					<author>Vijay Venkateshwar</author>
+					<author>Rajesh Vishwanathan, Dr.</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -13227,7 +13247,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Hindu Samskaras: Introduction - Jagadguru Speaks...</title>
@@ -13268,9 +13290,17 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Major Samskaras: Saptapadi</title>
+				<feature></feature>
+				<page>0027-0027</page>
+				<allauthors>
+					<author>Hareesh Raja</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Major Samskaras: Vanaprastha</title>
 				<feature></feature>
-				<page>0029-0034</page>
+				<page>0029-0032</page>
 				<allauthors>
 					<author>Thiagarajan R., Dr.</author>
 				</allauthors>
@@ -13284,9 +13314,23 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Major Samskaras: Source Material</title>
+				<feature></feature>
+				<page>0036-0036</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Major Samskaras: Monastic Orders</title>
+				<feature></feature>
+				<page>0044-0044</page>
+				<allauthors>
+					<author>Hareesh Raja</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Major Samskaras: Antyesti</title>
 				<feature></feature>
-				<page>0045-0048</page>
+				<page>0045-0047</page>
 				<allauthors>
 					<author>Gangadharan N., Dr.</author>
 				</allauthors>
@@ -13294,7 +13338,7 @@
 			<entry>
 				<title>Minor Samskaras: Garbhadhana</title>
 				<feature></feature>
-				<page>0049-0052</page>
+				<page>0049-0050</page>
 				<allauthors>
 					<author>Asha R., Dr.</author>
 				</allauthors>
@@ -13310,9 +13354,17 @@
 			<entry>
 				<title>Minor Samskaras: Simantonayana</title>
 				<feature></feature>
-				<page>0055-0058</page>
+				<page>0055-0057</page>
 				<allauthors>
 					<author>Asha R., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Minor Samskaras: Nakshatras</title>
+				<feature></feature>
+				<page>0057-0057</page>
+				<allauthors>
+					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13324,7 +13376,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Minor Samskaras: Post-natal Samskaras</title>
+				<title>Minor Samskaras: Post-Natal Samskaras</title>
 				<feature></feature>
 				<page>0061-0064</page>
 				<allauthors>
@@ -13348,7 +13400,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Vedanta in Daily Life: News and Events (Jagadguru Performs Kumbhabhisheka of Bombay's Siddhi Vinayaka Temple)</title>
 				<feature>News and Events</feature>
 				<page>0071-0078</page>
 				<allauthors>
@@ -13366,7 +13418,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Vedanta in Daily Life: Source of Civilization</title>
+				<feature></feature>
+				<page>0086-0086</page>
+				<allauthors>
+					<author>David Frawley, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Gods, Sages and Kings (Vedic Secrets of Ancient Civilization)-Dr. David Frawley</title>
 				<feature>Book Review</feature>
 				<page>0087-0088</page>
 				<allauthors>
@@ -13374,9 +13434,25 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Index to Articles</title>
+				<title>Glimpses of a Great Yogi-Prof. V. Rangarajan</title>
+				<feature>Book Review</feature>
+				<page>0088-0088</page>
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Index of Articles which Appeared in <i>Tattvaloka</i> April 1992-February 1993</title>
 				<feature></feature>
-				<page>0089-0096</page>
+				<page>0089-0092</page>
+				<allauthors>
+					<author>Neelakantan M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Index of Articles which Appeared in <i>Tattvaloka</i> April 1993-February 1994</title>
+				<feature></feature>
+				<page>0093-0096</page>
 				<allauthors>
 					<author>Neelakantan M.</author>
 				</allauthors>
@@ -13387,7 +13463,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -13404,11 +13482,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Message of Sringeri: Excerpts from the Jagadguru's Anugraha Bhashanas</title>
+				<title>Message of Sringeri: Excerpts from the Jagadguru's <i>Anugraha Bhashanas</i></title>
 				<feature></feature>
 				<page>0016-0018</page>
 				<allauthors>
 					<author>Sumitra M. Gautama</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Message of Sringeri: Acharya Siddhanta</title>
+				<feature></feature>
+				<page>0018-0018</page>
+				<allauthors>
+					<author>Ganghanatha Jha, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13452,7 +13538,23 @@
 			<entry>
 				<title>Glorious Vistas: The Greatness of Vidyaranya</title>
 				<feature></feature>
-				<page>0065-0076</page>
+				<page>0065-0068</page>
+				<allauthors>
+					<author>Narayanan S. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Glorious Vistas: My Guru, a <i>Jivanmukta</i></title>
+				<feature></feature>
+				<page>0068-0068</page>
+				<allauthors>
+					<author>Ramaswamy A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Glorious Vistas: Guru Parampara</title>
+				<feature></feature>
+				<page>0070-0075</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -13461,6 +13563,14 @@
 				<page>0077-0078</page>
 				<allauthors>
 					<author>Sumitra M. Gautama</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Glorious Vistas: Fame of Sringeri Jagadgurus</title>
+				<feature></feature>
+				<page>0078-0078</page>
+				<allauthors>
+					<author>Arthur R. S. Roy, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13480,7 +13590,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: News and Events</title>
+				<title>Glorious Vistas: Main Works of Vidyaranya</title>
+				<feature></feature>
+				<page>0085-0085</page>
+				<allauthors>
+					<author>Gopalakrishnan P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Glorious Vistas: A Unique Monastery</title>
+				<feature></feature>
+				<page>0088-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: News and Events (Rousing Welcome to His Holiness on Way to Delhi)</title>
 				<feature></feature>
 				<page>0093-0096</page>
 				<allauthors>
@@ -13490,32 +13614,71 @@
 			<entry>
 				<title>Vedanta in Daily Life: A Day in the Life of the Jagadguru</title>
 				<feature></feature>
-				<page>0097-0101</page>
+				<page>0097-0099</page>
 				<allauthors>
 					<author>Sumitra M. Gautama</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: The <i>Paduka</i> Tradition</title>
+				<feature></feature>
+				<page>0099-0099</page>
+				<allauthors>
+					<author>Ramaswamy A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Sringeri Traditions</title>
+				<feature></feature>
+				<page>0101-0101</page>
+				<allauthors>
+					<author>Krishnaswamy S.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: Eventful History of Sringeri</title>
 				<feature></feature>
-				<page>0102-0109</page>
+				<page>0102-0105</page>
 				<allauthors>
 					<author>Sumitra M. Gautama</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: Book Review</title>
+				<title>Vedanta in Daily Life: Why Royal Insignia for Sringeri Jagadgurus?</title>
 				<feature></feature>
-				<page>0110-0114</page>
+				<page>0107-0107</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Hinduism: The Universal Truth-Dr. Bhupendra Kumar Modi</title>
+				<feature>Book Review</feature>
+				<page>0110-0111</page>
 				<allauthors>
 					<author>Patil N. B., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Ayurvedic Healing: A Comprehesive Guide-Dr. David Frawley</title>
+				<feature>Book Review</feature>
+				<page>0111-0112</page>
+				<allauthors>
+					<author>Patil N. B., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Hinduism: Its Contribution to Science and Civilization-Prabhakar Machwe</title>
+				<feature>Book Review</feature>
+				<page>0112-0112</page>
+				<allauthors>
 					<author>Indira Aiyar, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>The Guru Lineage: Sri Guru Parampara Stotra</title>
 				<feature></feature>
-				<page>0115-0126</page>
+				<page>0115-0124</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -13524,7 +13687,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Introduction - Jagadguru Speaks...</title>
@@ -13541,11 +13706,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Survey of Peethas: Adi Sankara and The Venerable Kashi Peetha</title>
+				<title>A Survey of Peethas: Adi Sankara and the Venerable Kashi Peetha</title>
 				<feature></feature>
 				<page>0012-0014</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Survey of Peethas: Shakti Peetha in Prayaga</title>
+				<feature></feature>
+				<page>0014-0014</page>
+				<allauthors>
+					<author>Hareesh Raja</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13565,11 +13738,27 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>A Survey of Peethas: Sri Sailam</title>
+				<feature></feature>
+				<page>0022-0022</page>
+				<allauthors>
+					<author>Asha R., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>A Survey of Peethas: Shakti Peetha in Kanyakumari</title>
 				<feature></feature>
 				<page>0023-0024</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Survey of Peethas: Devi Mookambika</title>
+				<feature></feature>
+				<page>0024-0024</page>
+				<allauthors>
+					<author>Indira S. Aiyar, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -13581,9 +13770,26 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>A Survey of Peethas: Ancient Peethas</title>
+				<feature></feature>
+				<page>0027-0027</page>
+				<allauthors>
+					<author>Indira S. Aiyar, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>A Survey of Peethas: Shakti Peetha in Baluchistan</title>
 				<feature></feature>
-				<page>0028-0031</page>
+				<page>0028-0029</page>
+				<allauthors>
+					<author>Hareesh Raja</author>
+					<author>Pandit Devadutt Shastri</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Survey of Peethas: Devi Tripura Sundari</title>
+				<feature></feature>
+				<page>0029-0029</page>
 				<allauthors>
 					<author>Hareesh Raja</author>
 				</allauthors>
