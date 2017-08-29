@@ -14637,7 +14637,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>K. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Theory of Rebirth: Introduction - Jagadguru Speaks...</title>
@@ -14651,6 +14653,14 @@
 				<page>0007-0012</page>
 				<allauthors>
 					<author>Vivekananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>General Introduction: Fear of Death</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14672,15 +14682,27 @@
 			<entry>
 				<title>General Introduction: The Great Divide in the Kathopanishad</title>
 				<feature></feature>
-				<page>0029-0034</page>
+				<page>0029-0033</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>General Introduction: Death, Be not Proud!</title>
+				<feature></feature>
+				<page>0033-0033</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>General Introduction: Bhagavan Ramana Answers</title>
+				<feature></feature>
+				<page>0034-0034</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>General Introduction: Brahma Sutras and Rebirth</title>
 				<feature></feature>
-				<page>0035-0038</page>
+				<page>0035-0037</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
@@ -14688,31 +14710,55 @@
 			<entry>
 				<title>Dynamics of Rebirth: Two Paths after Death</title>
 				<feature></feature>
-				<page>0039-0048</page>
+				<page>0039-0047</page>
 				<allauthors>
 					<author>Abhedananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Dynamics of Rebirth: Terminal Thought and Rebirth</title>
+				<title>Dynamics of Rebirth: Divine and the Soul</title>
 				<feature></feature>
-				<page>0049-0052</page>
+				<page>0042-0042</page>
+				<allauthors>
+					<author>Meister Eckhart</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Dynamics of Rebirth: Terminal thought and Rebirth</title>
+				<feature></feature>
+				<page>0049-0051</page>
 				<allauthors>
 					<author>Vanamala Parthasarathy, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Dynamics of Rebirth: Experience of Universality</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Dynamics of Rebirth: The Death Experience</title>
 				<feature></feature>
-				<page>0053-0060</page>
+				<page>0053-0058</page>
 				<allauthors>
 					<author>Indira S. Aiyar, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Dynamics of Rebirth: There is Life after Death</title>
+				<feature></feature>
+				<page>0059-0059</page>
+				<allauthors>
+					<author>Elisabeth Kubler-Ross, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Dynamics of Rebirth: Heaven and Hell</title>
 				<feature></feature>
-				<page>0061-0063</page>
+				<page>0061-0062</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
@@ -14720,7 +14766,15 @@
 			<entry>
 				<title>Dynamics of Rebirth: Law of Karma</title>
 				<feature></feature>
-				<page>0064-0068</page>
+				<page>0064-0066</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Dynamics of Rebirth: Departed Souls</title>
+				<feature></feature>
+				<page>0067-0067</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
@@ -14728,8 +14782,16 @@
 			<entry>
 				<title>Dynamics of Rebirth: A Worm Tells a Story</title>
 				<feature></feature>
-				<page>0069-0072</page>
+				<page>0069-0071</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>Dynamics of Rebirth: Reason for Re-Incarnation</title>
+				<feature></feature>
+				<page>0071-0071</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: You Don't Fear a Friend, Do You?</title>
@@ -14740,31 +14802,65 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Vedanta in Daily Life: Parable of a Blanket</title>
+				<feature></feature>
+				<page>0075-0075</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Saint Tukaram's Secret</title>
+				<feature></feature>
+				<page>0076-0076</page>
+				<allauthors>
+					<author>Suddhananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Vedanta in Daily Life: Sraddha Ceremony</title>
 				<feature></feature>
-				<page>0079-0086</page>
+				<page>0079-0085</page>
 				<allauthors>
 					<author>Kane P. V. Mahamahopadhyaya, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sri Abhinava Vidya Tirtha Discourse Hall at Ernakulam)</title>
 				<feature>News and Events</feature>
 				<page>0087-0089</page>
-				<allauthors />
+				<allauthors>
+					<author>Iyer T. S. V.</author>
+					<author>N. R. P.</author>
+					<author>Narayan J. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Vedic Hermeneutics-K. Satchidananda Murty</title>
 				<feature>Book Review</feature>
-				<page>0090-0093</page>
+				<page>0090-0091</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mysticism of the Devi Mahatmya (Worship of the Divine Mother)-Swami Jyotirmayananda</title>
+				<feature>Book Review</feature>
+				<page>0091-0092</page>
+				<allauthors>
 					<author>Indira S. Aiyar, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bahinabai (English Translation of her Autobiography and Verses)-Justin E. Abbott</title>
+				<feature>Book Review</feature>
+				<page>0092-0093</page>
+				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1994-February 1995</title>
 				<feature></feature>
 				<page>0094-0096</page>
 				<allauthors>
