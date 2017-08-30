@@ -14873,7 +14873,9 @@
 				<title>Preface</title>
 				<feature>Preface</feature>
 				<page>0004-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>K. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Pranava: Introduction - Jagadguru Speaks...</title>
@@ -14884,13 +14886,21 @@
 			<entry>
 				<title>Supremacy of Pranava: Vedic Pranava</title>
 				<feature></feature>
-				<page>0007-0010</page>
+				<page>0007-0009</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Supremacy of Pranava: Om and The Rg Veda</title>
+				<title>Supremacy of Pranava: The Basis of all Syllables</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors>
+					<author>Ramaratnam S., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Supremacy of Pranava: Om and the Rg Veda</title>
 				<feature></feature>
 				<page>0011-0013</page>
 				<allauthors>
@@ -14900,17 +14910,33 @@
 			<entry>
 				<title>Supremacy of Pranava: Pranava in Upanishads</title>
 				<feature></feature>
-				<page>0014-0017</page>
+				<page>0014-0016</page>
 				<allauthors>
 					<author>Ganesan V. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Supremacy of Pranava: Pranava in Sectarian Upanishads</title>
+				<feature></feature>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>Sumitra M. Gautama</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Supremacy of Pranava: Chaitanya Pranava</title>
 				<feature></feature>
-				<page>0018-0020</page>
+				<page>0018-0019</page>
 				<allauthors>
 					<author>Hareesh Raja</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Supremacy of Pranava: Swami Vivekananda on Pranava</title>
+				<feature></feature>
+				<page>0020-0020</page>
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14924,17 +14950,41 @@
 			<entry>
 				<title>Pranava in Various Texts: Pranava in Shakta Texts</title>
 				<feature></feature>
-				<page>0024-0028</page>
+				<page>0024-0027</page>
 				<allauthors>
 					<author>Indira S. Aiyar, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Pranava in Various Texts: Esoteric Om in Music</title>
+				<feature></feature>
+				<page>0027-0027</page>
+				<allauthors>
+					<author>Sundaresan M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Pranava in Various Texts: Om in the Puranas</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors>
+					<author>Gangadharan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Pranava in Various Texts: Pancha Pranavas</title>
 				<feature></feature>
-				<page>0029-0034</page>
+				<page>0029-0032</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Pranava in Various Texts: The Liberating Logos</title>
+				<feature></feature>
+				<page>0034-0034</page>
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14954,6 +15004,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Pranava in Various Texts: Pranava and Sama Veda</title>
+				<feature></feature>
+				<page>0043-0043</page>
+				<allauthors>
+					<author>Varadachari Sadagopan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Om as Symbol: Mandukya Upanishad</title>
 				<feature></feature>
 				<page>0044-0045</page>
@@ -14962,23 +15020,43 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Om as Symbol: Sanskrit Text with Meaning</title>
+				<title>Om as Symbol: Slokas with Meaning</title>
 				<feature></feature>
-				<page>0045-0050</page>
-				<allauthors />
+				<page>0045-0049</page>
+				<allauthors>
+					<author>Lokeswarananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Reaching Out to the U.S. Sringeri Jagadguru Blesses a New Foundation)</title>
 				<feature>News and Events</feature>
-				<page>0051-0063</page>
-				<allauthors />
+				<page>0051-0062</page>
+				<allauthors>
+					<author>Gowrishankar V. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: Om in Saguna Upasana</title>
 				<feature></feature>
-				<page>0064-0076</page>
+				<page>0064-0074</page>
 				<allauthors>
 					<author>Mukhyananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Homage to Sankara</title>
+				<feature></feature>
+				<page>0065-0065</page>
+				<allauthors>
+					<author>Sri Sureswaracharya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vedanta in Daily Life: Viswamitra Gayatri</title>
+				<feature></feature>
+				<page>0076-0076</page>
+				<allauthors>
+					<author>Bhat H. G.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -14990,20 +15068,47 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Vedanta in Daily Life: Realising Atman</title>
+				<feature></feature>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Arise Arjuna-Hinduism and the Modern World, Hinduism-The Eternal Tradition-Sanatana Dharma-David Frawley</title>
 				<feature>Book Review</feature>
-				<page>0081-0088</page>
+				<page>0081-0082</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Bhagavad Gita-Nataraja Guru and Nitya Chaitanya Yati</title>
+				<feature>Book Review</feature>
+				<page>0083-0086</page>
+				<allauthors>
+					<author>Indira S. Aiyar, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Hindu in Search of God-R. K. Sanyal</title>
+				<feature>Book Review</feature>
+				<page>0087-0088</page>
+				<allauthors>
 					<author>Indira S. Aiyar, Dr.</author>
 				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="10/11" year="1995">
 			<entry>
+				<title>A Letter to our Readers</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
-				<page>0004-0006</page>
+				<page>0004-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -15017,9 +15122,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Bhakta Mira</title>
+				<title>Spiritual Life: Providential Pearls</title>
 				<feature></feature>
-				<page>0010-0012</page>
+				<page>0009-0009</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Bhaktas and Saints: Bhakta Mira (1547-1614 A.D.)</title>
+				<feature></feature>
+				<page>0010-0011</page>
 				<allauthors>
 					<author>Subbarayan K.</author>
 				</allauthors>
@@ -15027,7 +15138,21 @@
 			<entry>
 				<title>Power of Positive Thinking</title>
 				<feature></feature>
-				<page>0013-0019</page>
+				<page>0013-0017</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Don't Own It</title>
+				<feature></feature>
+				<page>0017-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Arati: Waving of Light</title>
+				<feature></feature>
+				<page>0019-0019</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
@@ -15035,21 +15160,29 @@
 			<entry>
 				<title>On Guarding One's Speech</title>
 				<feature></feature>
-				<page>0020-0022</page>
+				<page>0020-0021</page>
 				<allauthors>
 					<author>Rajagopal Aiyar T. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Finding the Pathless Path</title>
+				<title>Finding the Pathless Path (A Conversation with Bartholomew)</title>
 				<feature></feature>
-				<page>0023-0030</page>
+				<page>0023-0028</page>
 				<allauthors>
 					<author>Mary Margaret Moore</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Slow Down and Live Longer</title>
+				<title>The Secret of Influencing Others</title>
+				<feature></feature>
+				<page>0028-0028</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Yoga Research: Slow Down and Live Longer</title>
 				<feature></feature>
 				<page>0031-0037</page>
 				<allauthors>
@@ -15057,17 +15190,25 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Wrenched into Detachment</title>
+				<title>Real Life Incident: Wrenched into Detachment</title>
 				<feature></feature>
-				<page>0038-0040</page>
+				<page>0038-0039</page>
 				<allauthors>
 					<author>Yamini Krishnamurti</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Discrimination</title>
+				<feature></feature>
+				<page>0039-0039</page>
+				<allauthors>
+					<author>James Allen</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Kalady--A Vibrant Centre for Sanatana Dharma</title>
 				<feature></feature>
-				<page>0041-0052</page>
+				<page>0041-0051</page>
 				<allauthors>
 					<author>Gowrishankar V. R.</author>
 				</allauthors>
@@ -15081,6 +15222,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Mental Exercise</title>
+				<feature></feature>
+				<page>0058-0058</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Tripura Rahasya</title>
 				<feature></feature>
 				<page>0059-0062</page>
@@ -15089,15 +15238,36 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Learn to Wait</title>
+				<feature></feature>
+				<page>0062-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Why Education?</title>
+				<feature></feature>
+				<page>0062-0062</page>
+				<allauthors>
+					<author>Herbert Spencer</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Book Condensation: Tantric Yoga and the Wisdom Goddesses</title>
 				<feature>Book Condensation</feature>
 				<page>0063-0096</page>
 				<allauthors>
 					<author>David Frawley, Dr.</author>
+					<author>Indira S. Aiyar, Dr.</author>
 				</allauthors>
 			</entry>
 		</part>
 		<part pnum="06" month="02/03" year="1996">
+			<entry>
+				<title>Readers Write....</title>
+				<feature></feature>
+				<page>0002-0002</page>
+				<allauthors />
+			</entry>
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
@@ -15109,17 +15279,27 @@
 			<entry>
 				<title>Glory of Guru</title>
 				<feature></feature>
-				<page>0006-0008</page>
+				<page>0006-0007</page>
 				<allauthors>
 					<author>Sant Jnaneswara</author>
+					<author>Gurudev Ranade R. D.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Lord Siva--The Exemplar</title>
 				<feature></feature>
-				<page>0009-0012</page>
+				<page>0009-0011</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+					<author>Ashok V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sahasra Linga Archana</title>
+				<feature></feature>
+				<page>0011-0011</page>
+				<allauthors>
+					<author>Yegnasubramanian S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15131,23 +15311,47 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kabirdas</title>
+				<title>Write with Care</title>
 				<feature></feature>
-				<page>0018-0020</page>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>Schopenhauer</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bhaktas and Saints: Kabirdas (1440-1518 A.D.)</title>
+				<feature></feature>
+				<page>0018-0019</page>
 				<allauthors>
 					<author>Subbarayan K.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Mystic of First Order</title>
+				<feature></feature>
+				<page>0019-0019</page>
+				<allauthors>
+					<author>Gurudev Ranade R. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>The Rishis</title>
 				<feature></feature>
-				<page>0021-0028</page>
+				<page>0021-0027</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Intellect: Good But Not Enough</title>
+				<title>Ready Wit Saves a Life</title>
+				<feature></feature>
+				<page>0024-0024</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Intellect: Good but not Enough</title>
 				<feature></feature>
 				<page>0029-0032</page>
 				<allauthors>
@@ -15155,11 +15359,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Word</title>
+				<title>A Story: The Word</title>
 				<feature></feature>
-				<page>0033-0038</page>
+				<page>0033-0037</page>
 				<allauthors>
 					<author>Nurit Oren</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Secret of Health and Longevity</title>
+				<feature></feature>
+				<page>0037-0037</page>
+				<allauthors>
+					<author>Gautama Buddha</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15171,25 +15383,43 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Singeri Vidya Bharati Foundation: Summer Camps in USA</title>
+				<title>Sringeri Vidya Bharati Foundation Inc., USA: Summer Camps in USA</title>
 				<feature></feature>
-				<page>0044-0046</page>
-				<allauthors />
+				<page>0044-0045</page>
+				<allauthors>
+					<author>Ramachandran T. R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Advaita for the Layman III</title>
 				<feature></feature>
-				<page>0047-0053</page>
+				<page>0047-0052</page>
 				<allauthors>
 					<author>Krishnaswamy Aiyar R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Why Sastras</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>1. The Doctrine of Vibration-Mark S. G. Dyczkowski 2. The Aphorisms of Siva-Mark S. G. Dyczkowski 3. Kashmir Shaivism-Swami Lakshman Jee</title>
 				<feature>Book Review</feature>
-				<page>0054-0061</page>
+				<page>0054-0056</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Study the Drama</title>
+				<feature></feature>
+				<page>0056-0056</page>
+				<allauthors>
+					<author>David Pryde</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15198,6 +15428,7 @@
 				<page>0062-0096</page>
 				<allauthors>
 					<author>Sarma D. S., Prof.</author>
+					<author>Subbarayan K.</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -15215,19 +15446,19 @@
 			<entry>
 				<title>Sri Bharati Tirtha Gururajashtakam</title>
 				<feature></feature>
-				<page>0004-0007</page>
+				<page>0004-0006</page>
 				<allauthors>
 					<author>Sankaran K. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Jagadguru Clears Doubts</title>
+				<title>Jagadguru Clears Doubts (Questions and Answers)</title>
 				<feature></feature>
 				<page>0008-0011</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Atri Maharshi</title>
+				<title>The Sapta Rishis: Atri Maharshi</title>
 				<feature></feature>
 				<page>0012-0013</page>
 				<allauthors>
@@ -15235,9 +15466,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vidyapati</title>
+				<title>Bhaktas and Saints: Vidyapati (Circa 1350 to 1460 A.D.)</title>
 				<feature></feature>
-				<page>0014-0016</page>
+				<page>0014-0015</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
@@ -15251,20 +15482,34 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Raikwa, The Cart-Driver</title>
+				<title>An Upanishads Story: Raikwa, the Cart-Driver</title>
 				<feature></feature>
-				<page>0021-0028</page>
+				<page>0021-0027</page>
 				<allauthors>
 					<author>Diwakar R. R., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Life is Worthwhile if.....</title>
+				<feature></feature>
+				<page>0024-0024</page>
+				<allauthors>
+					<author>Mary Cholmondeley</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Art: A Pathway to Ultimate Reality</title>
 				<feature></feature>
-				<page>0029-0034</page>
+				<page>0029-0033</page>
 				<allauthors>
-					<author>Srinivasan R.</author>
+					<author>Srinivasan R., Prof.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>True Music</title>
+				<feature></feature>
+				<page>0033-0033</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Advaita for the Layman-IV</title>
@@ -15275,9 +15520,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga: For Radiant Health and Well-being</title>
+				<title>Yoga: For Radiant Health and Well-Being</title>
 				<feature></feature>
-				<page>0041-0054</page>
+				<page>0041-0051</page>
 				<allauthors>
 					<author>Yogi Hari</author>
 				</allauthors>
@@ -15288,10 +15533,11 @@
 				<page>0055-0093</page>
 				<allauthors>
 					<author>Trevor Leggett</author>
+					<author>Indira S. Aiyar, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1995-February 1996</title>
 				<feature></feature>
 				<page>0094-0096</page>
 				<allauthors>
@@ -15301,7 +15547,7 @@
 		</part>
 		<part pnum="02" month="06/07" year="1996">
 			<entry>
-				<title>Readers Write</title>
+				<title>Readers Write....</title>
 				<feature></feature>
 				<page>0002-0002</page>
 				<allauthors />
@@ -15309,13 +15555,15 @@
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
-				<page>0003-0004</page>
-				<allauthors />
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Nectar of Devotion</title>
 				<feature></feature>
-				<page>0005-0009</page>
+				<page>0005-0008</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
@@ -15323,13 +15571,13 @@
 			<entry>
 				<title>Yoga Vasishtha: An Introduction</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0010-0013</page>
+				<page>0010-0012</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Samartha Ramadasa</title>
+				<title>Bhaktas and Saints: Samartha Ramadasa (1608-1681)</title>
 				<feature></feature>
 				<page>0014-0015</page>
 				<allauthors>
@@ -15339,23 +15587,32 @@
 			<entry>
 				<title>The Characteristics of a Saint</title>
 				<feature></feature>
-				<page>0016-0019</page>
+				<page>0016-0018</page>
 				<allauthors>
 					<author>Samartha Ramadasa</author>
+					<author>Gurudev Ranade R. D.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Bharadvaja</title>
+				<title>The Sapta Rishis: 3. Bharadvaja</title>
 				<feature></feature>
-				<page>0020-0023</page>
+				<page>0020-0022</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Lesson in Courage-building</title>
+				<title>How Much</title>
 				<feature></feature>
-				<page>0024-0029</page>
+				<page>0022-0022</page>
+				<allauthors>
+					<author>Trevor Leggett</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Lesson in Courage-Building</title>
+				<feature></feature>
+				<page>0024-0028</page>
 				<allauthors>
 					<author>Subbarayan K.</author>
 				</allauthors>
@@ -15369,9 +15626,17 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>True Greatness</title>
+				<feature></feature>
+				<page>0034-0034</page>
+				<allauthors>
+					<author>John Dryden</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Bhimasankara--Maharashtra's Glowing Siva Kshetra</title>
 				<feature></feature>
-				<page>0035-0044</page>
+				<page>0035-0043</page>
 				<allauthors>
 					<author>Vanamala Parthasarathy, Dr.</author>
 				</allauthors>
