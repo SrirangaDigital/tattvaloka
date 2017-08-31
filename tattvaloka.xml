@@ -15645,20 +15645,62 @@
 				<title>Advaita for the Layman V</title>
 				<feature></feature>
 				<page>0045-0049</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>The Blue Mountains</title>
+				<feature></feature>
+				<page>0049-0049</page>
+				<allauthors>
+					<author>Trevor Leggett</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Seven Spiritual Laws of Success-Dr. Deepak Chopra</title>
 				<feature>Book Review</feature>
-				<page>0050-0060</page>
+				<page>0050-0051</page>
+				<allauthors>
+					<author>Varadachari Sadagopan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Spiritual Lessons for Creating the Life you want: the Way of the Wizard-Dr. Deepak Chopra</title>
+				<feature>Book Review</feature>
+				<page>0051-0053</page>
+				<allauthors>
+					<author>Varadachari Sadagopan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Samnyasa Upanishads-Patrick Olivelle</title>
+				<feature>Book Review</feature>
+				<page>0053-0055</page>
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Story of the Vivekananda Rock Memorial-Eknath Ranade</title>
+				<feature>Book Review</feature>
+				<page>0055-0056</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Value, Intrinsic and Extrinsic</title>
+				<feature>Book Review</feature>
+				<page>0056-0056</page>
+				<allauthors>
+					<author>George Gore, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Simple Living High Thinking</title>
 				<feature></feature>
-				<page>0061-0065</page>
+				<page>0061-0064</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
@@ -15672,13 +15714,13 @@
 			<entry>
 				<title>Chidambaram--The Home of Nataraja</title>
 				<feature></feature>
-				<page>0068-0073</page>
+				<page>0068-0072</page>
 				<allauthors>
 					<author>Natarajarathina Deekshithar R. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Nanda, The Bhakta Extraordinary</title>
+				<title>Book Condensation: Nanda, the Bhakta Extraordinary</title>
 				<feature>Book Condensation</feature>
 				<page>0075-0096</page>
 				<allauthors>
@@ -15690,20 +15732,24 @@
 			<entry>
 				<title>Readers Write</title>
 				<feature></feature>
-				<page>0002-0004</page>
+				<page>0002-0003</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0005-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Fruits of Education</title>
 				<feature></feature>
-				<page>0006-0011</page>
-				<allauthors />
+				<page>0006-0010</page>
+				<allauthors>
+					<author>Ashok V.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha: Teaching Begins</title>
@@ -15714,7 +15760,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Laghu-vakya-vritti</title>
+				<title>Laghu-Vakya-Vritti of Adi Sankara</title>
 				<feature></feature>
 				<page>0014-0018</page>
 				<allauthors>
@@ -15722,12 +15768,26 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Books that Have Influenced Me</title>
+				<title>Not Both</title>
 				<feature></feature>
-				<page>0019-0028</page>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Books that have Influenced Me</title>
+				<feature></feature>
+				<page>0019-0027</page>
 				<allauthors>
 					<author>Srinivasa Sastri V. S. Hon.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Sastri in Sringeri</title>
+				<feature></feature>
+				<page>0024-0024</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Limits of Language</title>
@@ -15746,15 +15806,25 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Turtle</title>
+				<feature></feature>
+				<page>0038-0038</page>
+				<allauthors>
+					<author>Trevor Leggett</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Advaita for the Layman VI</title>
 				<feature></feature>
 				<page>0039-0043</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Ayurveda and Yoga Therapy-Prof. Dr. Subhash and Mrs. Sunanda Ranade</title>
 				<feature>Book Review</feature>
-				<page>0044-0048</page>
+				<page>0044-0044</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
@@ -15763,7 +15833,11 @@
 				<title>Book Condensation: Great Swan</title>
 				<feature>Book Condensation</feature>
 				<page>0049-0096</page>
-				<allauthors />
+				<allauthors>
+					<author>Lex Hixon</author>
+					<author>Nikhilananda Swami</author>
+					<author>Cassia Berman</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="10/11" year="1996">
@@ -15777,7 +15851,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Preparation for Vedantic Study</title>
@@ -15796,7 +15872,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Satyakama, the Truth-Seeker</title>
+				<title>An Upanishadic Story: Satyakama, the Truth-Seeker</title>
 				<feature></feature>
 				<page>0013-0016</page>
 				<allauthors>
@@ -15806,7 +15882,7 @@
 			<entry>
 				<title>Notes of an Unconventional Believer</title>
 				<feature></feature>
-				<page>0017-0028</page>
+				<page>0017-0027</page>
 				<allauthors>
 					<author>Anees Jung</author>
 				</allauthors>
@@ -15836,16 +15912,24 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Janardana Swami</title>
+				<title>Beyond the Wall of Reason</title>
 				<feature></feature>
-				<page>0042-0048</page>
+				<page>0041-0041</page>
+				<allauthors>
+					<author>Vivekananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bhaktas and Saints: Janardana Swami</title>
+				<feature></feature>
+				<page>0042-0047</page>
 				<allauthors>
 					<author>Subbarayan K.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha: On Creation-3</title>
-				<feature></feature>
+				<feature>Yoga Vasishtha</feature>
 				<page>0049-0052</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
@@ -15863,19 +15947,89 @@
 				<title>Advaita for the Layman VII</title>
 				<feature></feature>
 				<page>0057-0065</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Unbroken Wholeness</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors>
+					<author>Bohm D. J.</author>
+					<author>Hiley B. J.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events (New Center for Ancient Indian Values makes Progress in USA)</title>
 				<feature>News and Events</feature>
-				<page>0066-0072</page>
-				<allauthors />
+				<page>0066-0071</page>
+				<allauthors>
+					<author>Anjuli Dhindhwal</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Bhakti-rasamrta-sindhu</title>
+				<title>I Belong to All World</title>
+				<feature></feature>
+				<page>0068-0068</page>
+				<allauthors>
+					<author>Anjuli Dhindhwal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Condensation: Bhakti-Rasamrta-Sindhu</title>
 				<feature>Book Condensation</feature>
 				<page>0073-0096</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>Rare is Bhakti</title>
+				<feature></feature>
+				<page>0077-0077</page>
+				<allauthors>
+					<author>Sri Ramakrishna Paramahamsa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>If I had my Way!</title>
+				<feature></feature>
+				<page>0078-0078</page>
+				<allauthors>
+					<author>Sri Ramakrishna Paramahamsa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vision of Radha</title>
+				<feature></feature>
+				<page>0080-0080</page>
+				<allauthors>
+					<author>Sri Ramakrishna Paramahamsa</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Lovely Feet!</title>
+				<feature></feature>
+				<page>0083-0083</page>
+				<allauthors>
+					<author>Bankey Behari</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mother!, Here Comes!</title>
+				<feature></feature>
+				<page>0086-0087</page>
+				<allauthors>
+					<author>Lilasuka</author>
+					<author>Acharya M. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Wine of Bliss</title>
+				<feature></feature>
+				<page>0091-0091</page>
+				<allauthors>
+					<author>Ramprasad</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="05" month="12/01" year="1997">
@@ -15883,7 +16037,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Joy We Seek</title>
@@ -15896,9 +16052,17 @@
 			<entry>
 				<title>Efficacy of Prayer</title>
 				<feature></feature>
-				<page>0009-0014</page>
+				<page>0009-0013</page>
 				<allauthors>
 					<author>Swahananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Science and Prayer</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors>
+					<author>Alexis Carrel, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15910,47 +16074,88 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Secret of Inner Poise</title>
+				<title>Prayer</title>
 				<feature></feature>
-				<page>0018-0028</page>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>Prabhavananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Secret of Inner Poise</title>
+				<feature></feature>
+				<page>0018-0027</page>
 				<allauthors>
 					<author>Yatiswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Mental Liveliness--What Holds It Back?</title>
+				<title>Good Life</title>
 				<feature></feature>
-				<page>0029-0034</page>
+				<page>0024-0024</page>
 				<allauthors>
-					<author>Jules Willing Z.</author>
+					<author>Aldous Huxley</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Mental Liveliness--What Holds It Back?</title>
+				<feature></feature>
+				<page>0029-0033</page>
+				<allauthors>
+					<author>Jules Z. Willing</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Live for Something</title>
+				<feature></feature>
+				<page>0033-0033</page>
+				<allauthors>
+					<author>Chalmers</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events (Sri Sringeri Sharada Institute of Management Offers)</title>
 				<feature>News and Events</feature>
 				<page>0035-0038</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Sastras and Management</title>
+				<feature></feature>
+				<page>0036-0036</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Centenary Souvenir Commemorating the Advent of Bhagavan Sri Ramana at Arunachala</title>
 				<feature>Book Review</feature>
-				<page>0039-0043</page>
+				<page>0039-0041</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>New-born Ravi at Sringeri Deer Park</title>
+				<title>Self-The Truth Absolute-Dr. G. Subramanian</title>
+				<feature>Book Review</feature>
+				<page>0041-0043</page>
+				<allauthors>
+					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>New-Born Ravi at Sringeri Deer Park</title>
 				<feature></feature>
-				<page>0044-0048</page>
+				<page>0044-0047</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Advaita for the Layman VIII</title>
 				<feature></feature>
-				<page>0049-0056</page>
-				<allauthors />
-			</entry>
+				<page>0049-0055</page>
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			<entry>
 				<title>Mysterious Ways of Grace Divine</title>
 				<feature></feature>
@@ -15963,7 +16168,17 @@
 				<title>Book Condensation: Ramana Maharshi's Words of Grace</title>
 				<feature>Book Condensation</feature>
 				<page>0065-0096</page>
-				<allauthors />
+				<allauthors>
+					<author>Subbarayan K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bhakti Exclusive</title>
+				<feature>Book Condensation</feature>
+				<page>0082-0082</page>
+				<allauthors>
+					<author>Sarala Panchapakesan</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="06" month="02/03" year="1997">
@@ -15973,6 +16188,7 @@
 				<page>0003-0007</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+					<author>Ashok V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -15990,6 +16206,14 @@
 				<allauthors />
 			</entry>
 			<entry>
+				<title>The Value of Books</title>
+				<feature></feature>
+				<page>0016-0016</page>
+				<allauthors>
+					<author>George Gore, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>The Indian Goddess</title>
 				<feature></feature>
 				<page>0017-0021</page>
@@ -16000,7 +16224,7 @@
 			<entry>
 				<title>Is Vedanta for Western Man?</title>
 				<feature></feature>
-				<page>0022-0028</page>
+				<page>0022-0027</page>
 				<allauthors>
 					<author>Prabhavananda Swami</author>
 				</allauthors>
@@ -16014,15 +16238,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>How to Live to Be a Healthy Hundred</title>
+				<title>How to Live to be a Healthy Hundred</title>
 				<feature></feature>
-				<page>0031-0034</page>
+				<page>0031-0033</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Real Learning</title>
+				<feature></feature>
+				<page>0033-0033</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Dhanurmasa: Its Significance</title>
 				<feature></feature>
-				<page>0035-0040</page>
+				<page>0035-0039</page>
 				<allauthors>
 					<author>Vanamala Parthasarathy, Dr.</author>
 				</allauthors>
@@ -16038,7 +16268,7 @@
 			<entry>
 				<title>Yoga: An Integrated Philosophy of Life</title>
 				<feature></feature>
-				<page>0049-0054</page>
+				<page>0049-0053</page>
 				<allauthors>
 					<author>Karan Singh, Dr.</author>
 				</allauthors>
@@ -16047,7 +16277,9 @@
 				<title>Advaita for the Layman IX</title>
 				<feature></feature>
 				<page>0055-0060</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Book Condensation: Life: The Exquisite Art of Meaningfulness</title>
@@ -16055,6 +16287,7 @@
 				<page>0061-0096</page>
 				<allauthors>
 					<author>Robert Powell</author>
+					<author>Subbarayan K.</author>
 				</allauthors>
 			</entry>
 		</part>
