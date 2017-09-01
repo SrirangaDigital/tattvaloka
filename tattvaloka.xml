@@ -16298,20 +16298,22 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Where Censure is a Blessing</title>
 				<feature></feature>
-				<page>0004-0010</page>
+				<page>0004-0009</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Abhinava Vidyatirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: What They Tell Us</title>
+				<title>Upanishads: What they Tell us</title>
 				<feature></feature>
-				<page>0011-0014</page>
+				<page>0011-0013</page>
 				<allauthors>
 					<author>Prabhavananda Swami</author>
 				</allauthors>
@@ -16319,7 +16321,7 @@
 			<entry>
 				<title>Sacrifice: The Right Way</title>
 				<feature></feature>
-				<page>0015-0017</page>
+				<page>0015-0016</page>
 				<allauthors>
 					<author>Diwakar R. R., Dr.</author>
 				</allauthors>
@@ -16331,17 +16333,25 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Do Not Miss the Drama of Life</title>
+				<title>For our Young Readers: Do not Miss the Drama of Life</title>
 				<feature></feature>
-				<page>0020-0028</page>
+				<page>0020-0027</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>The Art of Spiritual Affirmation</title>
 				<feature></feature>
-				<page>0029-0032</page>
+				<page>0029-0031</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Temperance</title>
+				<feature></feature>
+				<page>0031-0031</page>
+				<allauthors>
+					<author>Plato</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16355,7 +16365,7 @@
 			<entry>
 				<title>What Vedanta Means to Me</title>
 				<feature></feature>
-				<page>0036-0041</page>
+				<page>0036-0040</page>
 				<allauthors>
 					<author>Gerald Heard</author>
 				</allauthors>
@@ -16363,13 +16373,13 @@
 			<entry>
 				<title>The Story of Jadabharata</title>
 				<feature></feature>
-				<page>0042-0048</page>
+				<page>0042-0047</page>
 				<allauthors>
 					<author>Suddha Chaitanya Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Mudra in Many Realms</title>
+				<title>Mudra in many Realms</title>
 				<feature></feature>
 				<page>0049-0052</page>
 				<allauthors>
@@ -16385,6 +16395,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Effective Method</title>
+				<feature></feature>
+				<page>0054-0054</page>
+				<allauthors>
+					<author>Alexis Carrel, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Advaita for the Layman X</title>
 				<feature></feature>
 				<page>0056-0060</page>
@@ -16393,10 +16411,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Vedic Thought and Western Psychology</title>
+				<title>Book Condensation: Vedic thought and Western Psychology</title>
 				<feature>Book Condensation</feature>
 				<page>0061-0096</page>
-				<allauthors />
+				<allauthors>
+					<author>Shivaram Karikal, Dr.</author>
+					<author>Subbarayan K.</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="02" month="06/07" year="1997">
@@ -16404,18 +16425,22 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Riddle of Fate and Free-Will Solved</title>
 				<feature></feature>
 				<page>0004-0010</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Hoary of Tradition of Celebrating Vardhanti</title>
 				<feature></feature>
-				<page>0011-0014</page>
+				<page>0011-0013</page>
 				<allauthors>
 					<author>Gowrishankar V. R.</author>
 				</allauthors>
@@ -16423,7 +16448,7 @@
 			<entry>
 				<title>Ethics and Morals in Bhakti</title>
 				<feature></feature>
-				<page>0015-0020</page>
+				<page>0015-0019</page>
 				<allauthors>
 					<author>Vasantananda Swami</author>
 				</allauthors>
@@ -16437,6 +16462,12 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Amba Bhavani Mandir</title>
+				<feature>Yoga Vasishtha</feature>
+				<page>0024-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>The Upanishads: Isavasya</title>
 				<feature></feature>
 				<page>0029-0032</page>
@@ -16445,15 +16476,21 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Vidya and Avidya-An Explanation</title>
+				<feature></feature>
+				<page>0031-0031</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>An Unusual Debate!</title>
 				<feature></feature>
-				<page>0033-0038</page>
+				<page>0033-0037</page>
 				<allauthors>
 					<author>Rajam Iyer B. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Kriya-yoga of Sage Patanjali</title>
+				<title>The Kriya-Yoga of Sage Patanjali</title>
 				<feature></feature>
 				<page>0039-0043</page>
 				<allauthors>
@@ -16461,13 +16498,23 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Advaita for the Layman-XI</title>
+				<title>How to Rest</title>
 				<feature></feature>
-				<page>0044-0052</page>
-				<allauthors />
+				<page>0043-0043</page>
+				<allauthors>
+					<author>Vivekananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Advaita for the Layman-XI</title>
+				<feature></feature>
+				<page>0044-0051</page>
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Collected Works of Ramana Maharshi, Conscious Immortality, Bhagavan Sri Ramana Smarana, Bhagavan Sri Ramanar Arunai Vijaya Nootrandu Malar</title>
 				<feature>Book Review</feature>
 				<page>0053-0056</page>
 				<allauthors>
@@ -16478,13 +16525,17 @@
 				<title>Book Condensation: Yogeeswara Yajnavalkya</title>
 				<feature>Book Condensation</feature>
 				<page>0057-0093</page>
-				<allauthors />
+				<allauthors>
+					<author>Subbarayan K.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles 1996-1997</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1996-February 1997</title>
 				<feature></feature>
 				<page>0094-0096</page>
-				<allauthors />
+				<allauthors>
+					<author>P. D.</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="03" month="08/09" year="1997">
@@ -16498,16 +16549,20 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Eight Great Qualities</title>
 				<feature></feature>
 				<page>0004-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Abhinava Vidyatirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Bhagavata Purana</title>
+				<title>Bhagavata Purana-An Overview</title>
 				<feature></feature>
 				<page>0009-0012</page>
 				<allauthors>
@@ -16515,9 +16570,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: Kenopanishad</title>
+				<title>Upanishads-2: Kenopanishad</title>
 				<feature></feature>
-				<page>0013-0016</page>
+				<page>0013-0015</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
@@ -16541,7 +16596,7 @@
 			<entry>
 				<title>Madhusudana Saraswati</title>
 				<feature></feature>
-				<page>0029-0032</page>
+				<page>0029-0031</page>
 				<allauthors>
 					<author>Uma Shanker, Dr.</author>
 				</allauthors>
@@ -16549,24 +16604,34 @@
 			<entry>
 				<title>Yoga Vasishtha-6: The Story of Karkati</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0033-0036</page>
+				<page>0033-0035</page>
 				<allauthors>
 					<author>Varadachari Sadagopan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Why Solitued?</title>
+				<feature></feature>
+				<page>0035-0035</page>
+				<allauthors>
+					<author>William Morris</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Tantra in Daily Life</title>
 				<feature></feature>
-				<page>0037-0048</page>
+				<page>0037-0047</page>
 				<allauthors>
-					<author>Gurudutt K.</author>
+					<author>Guru Dutt K.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Advaita for the Layman XII</title>
 				<feature></feature>
-				<page>0049-0054</page>
-				<allauthors />
+				<page>0049-0053</page>
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>How Our Ancients Measured Time</title>
@@ -16577,10 +16642,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sankara Jayanti in Kalady)</title>
 				<feature>News and Events</feature>
-				<page>0059-0064</page>
-				<allauthors />
+				<page>0059-0061</page>
+				<allauthors>
+					<author>Subramaniam A., Prof.</author>
+					<author>Gopalakrishnan A. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Book Condensation: Saint Eknath</title>
@@ -16588,7 +16656,34 @@
 				<page>0065-0096</page>
 				<allauthors>
 					<author>Savitribai Khanolkar</author>
+					<author>Subbarayan K.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Sankara and Eknath</title>
+				<feature></feature>
+				<page>0071-0071</page>
+				<allauthors>
+					<author>Gurudev Ranade R. D.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mind-Control: Easy Way</title>
+				<feature></feature>
+				<page>0091-0091</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Atman Unmodified</title>
+				<feature></feature>
+				<page>0092-0092</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>In Praise of Guru</title>
+				<feature></feature>
+				<page>0096-0096</page>
+				<allauthors />
 			</entry>
 		</part>
 		<part pnum="04" month="10/11" year="1997">
@@ -16601,7 +16696,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Pujya Padacharya Stavam</title>
+				<title>Sri Jagadguru Sankara Bhagavat Pujya Padacharya Stavam</title>
 				<feature></feature>
 				<page>0004-0006</page>
 				<allauthors>
@@ -16620,10 +16715,12 @@
 				<title>The Utility of God</title>
 				<feature></feature>
 				<page>0008-0014</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: Kathopanishad</title>
+				<title>Upanishads-3: Kathopanishad</title>
 				<feature></feature>
 				<page>0015-0019</page>
 				<allauthors>
@@ -16633,16 +16730,34 @@
 			<entry>
 				<title>Glory of Pandharpur</title>
 				<feature></feature>
-				<page>0020-0028</page>
+				<page>0020-0027</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Story of Pundalik</title>
+				<feature></feature>
+				<page>0021-0021</page>
+				<allauthors>
+					<author>Dave J. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Varkaris and Jnanesvar</title>
+				<feature></feature>
+				<page>0023-0023</page>
+				<allauthors>
+					<author>Dave J. H.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Advaita for the Layman XIII</title>
 				<feature></feature>
 				<page>0029-0032</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sound of Music</title>
@@ -16653,15 +16768,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>In Praise of Knowledge</title>
+				<title>For our Young Readers: In Praise of Knowledge</title>
 				<feature></feature>
-				<page>0040-0057</page>
+				<page>0040-0044</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Ati Rudra Maha Yajna in the US</title>
+				<feature></feature>
+				<page>0045-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Occidental Daughters of Mother India-Amruta Rao</title>
 				<feature>Book Review</feature>
-				<page>0058-0064</page>
+				<page>0058-0060</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
@@ -16670,6 +16791,27 @@
 				<title>Book Condensation: Maha Yoga</title>
 				<feature>Book Condensation</feature>
 				<page>0065-0096</page>
+				<allauthors>
+					<author>Lakshmana Sarma K.</author>
+					<author>Ganesan V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Time and Space</title>
+				<feature></feature>
+				<page>0077-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Concept of God</title>
+				<feature></feature>
+				<page>0082-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Samadhi and Sleep</title>
+				<feature></feature>
+				<page>0089-0089</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -16691,12 +16833,18 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: Prasana</title>
+				<title>Upanishads-4: Prasna Upanishad</title>
 				<feature></feature>
 				<page>0010-0013</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>God Chooses</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Siva Images of Khajuraho</title>
@@ -16707,15 +16855,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Immanence of Sakti</title>
+				<title>The Immanence of Sakti in <i>Rg</i> Veda</title>
 				<feature></feature>
-				<page>0020-0028</page>
+				<page>0020-0027</page>
 				<allauthors>
-					<author>Gurudutt K.</author>
+					<author>Guru Dutt K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Brahma Vaivarta Purana</title>
+				<title>Valour and Devotion in: The Brahma Vaivarta Purana</title>
 				<feature></feature>
 				<page>0029-0033</page>
 				<allauthors>
@@ -16725,25 +16873,37 @@
 			<entry>
 				<title>Advaita for the Layman XIV</title>
 				<feature></feature>
-				<page>0034-0048</page>
-				<allauthors />
+				<page>0034-0044</page>
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Practical Religion</title>
 				<feature></feature>
-				<page>0049-0051</page>
-				<allauthors />
+				<page>0049-0050</page>
+				<allauthors>
+					<author>Dilip Kumar Roy</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Glory of Mental Worship</title>
 				<feature></feature>
-				<page>0052-0055</page>
+				<page>0052-0053</page>
 				<allauthors>
 					<author>Rajam Iyer B. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Positive Thinking</title>
+				<feature></feature>
+				<page>0053-0053</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>1. Holy Geeta 2. Srimad Bhagavatam-B. Vivekanandam</title>
 				<feature>Book Review</feature>
 				<page>0056-0056</page>
 				<allauthors>
@@ -16751,10 +16911,20 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>The Habit of Analysis</title>
+				<feature></feature>
+				<page>0056-0056</page>
+				<allauthors>
+					<author>George Campbell</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Life Sketch: Personification of Perfection</title>
 				<feature></feature>
 				<page>0057-0096</page>
-				<allauthors />
+				<allauthors>
+					<author>Jayashankar V.</author>
+				</allauthors>
 			</entry>
 		</part>
 	</volume>
@@ -16764,7 +16934,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Power of Brahman</title>
@@ -16793,37 +16965,59 @@
 			<entry>
 				<title>Yoga Vasishtha - 8: The Aspects of Mind</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0023-0028</page>
+				<page>0023-0027</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>The Path to Ultimate Truth</title>
 				<feature></feature>
 				<page>0029-0033</page>
-				<allauthors />
+				<allauthors>
+					<author>Jayaraman T. K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Search Within!</title>
 				<feature></feature>
 				<page>0034-0038</page>
-				<allauthors />
+				<allauthors>
+					<author>Satprakashananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: Mandukya</title>
+				<title>Upanishads - 6: The Mandukya Upanishad</title>
 				<feature></feature>
-				<page>0039-0047</page>
+				<page>0039-0046</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Athesim is Impossible</title>
+				<feature></feature>
+				<page>0042-0042</page>
+				<allauthors>
+					<author>Rengappa K. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Advaita for the Layman - XVI</title>
 				<feature></feature>
 				<page>0048-0054</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Craving never Ages</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events (Selfless Service Extolled)</title>
 				<feature>News and Events</feature>
 				<page>0055-0056</page>
 				<allauthors />
@@ -16832,7 +17026,9 @@
 				<title>Book Feature: Mantra, Kirtana, Yantra and Tantra</title>
 				<feature>Book Feature</feature>
 				<page>0057-0092</page>
-				<allauthors />
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="02" month="07" year="1998">
