@@ -17036,10 +17036,12 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Om Upasana</title>
+				<title><i>Om</i> Upasana</title>
 				<feature></feature>
 				<page>0004-0007</page>
 				<allauthors>
@@ -17058,15 +17060,23 @@
 				<title>Yoga Vasishtha - 9: Mind and Mystery of Creation</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0010-0014</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: Taittiriya</title>
+				<title>Upanishads-7: Taittiriya Upanishad</title>
 				<feature></feature>
-				<page>0015-0021</page>
+				<page>0015-0020</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>The Five Sheaths</title>
+				<feature></feature>
+				<page>0020-0020</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Upanayana Explained</title>
@@ -17088,24 +17098,40 @@
 				<title>Advaita for the Layman - XVII</title>
 				<feature></feature>
 				<page>0031-0037</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Wise Verses</title>
 				<feature></feature>
 				<page>0038-0046</page>
 				<allauthors>
-					<author>Arthur Ryder</author>
+					<author>Arthur W. Ryder</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Life Sketch: Inspiring Saint</title>
 				<feature></feature>
 				<page>0047-0090</page>
+				<allauthors>
+					<author>Suresh Chandar K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Unfounded Objections</title>
+				<feature></feature>
+				<page>0080-0080</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Index of Articles (1997-98)</title>
+				<title>Admirer of Adi Sankara</title>
+				<feature></feature>
+				<page>0085-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1997-February 1998</title>
 				<feature></feature>
 				<page>0091-0092</page>
 				<allauthors />
@@ -17116,7 +17142,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Look Within</title>
@@ -17127,7 +17155,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Art, The Soundarya Yoga</title>
+				<title>Art, the Soundarya Yoga</title>
 				<feature></feature>
 				<page>0009-0011</page>
 				<allauthors>
@@ -17135,29 +17163,47 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: Aitareya</title>
+				<title>The Sooty Buddha</title>
 				<feature></feature>
-				<page>0012-0016</page>
+				<page>0011-0011</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Upanishads-8: The Aitareya Upanishad</title>
+				<feature></feature>
+				<page>0012-0015</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Acrostic Compositions: Shri Abhinava Vidyatheertha Aksharamala Stotram</title>
+				<feature></feature>
+				<page>0015-0015</page>
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Intellectualism: Aid to Spiritual Practice</title>
 				<feature></feature>
-				<page>0017-0019</page>
+				<page>0017-0018</page>
 				<allauthors>
 					<author>Makarand Paranjape</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha--10: The Ego-sense Trap</title>
+				<title>Yoga Vasishtha--10: The Ego-Sense Trap</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0020-0028</page>
-				<allauthors />
+				<page>0020-0025</page>
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Values in Life--I (For the Young Readers)</title>
+				<title>For the Young Readers: Values in Life--I (For the Young Readers)</title>
 				<feature></feature>
 				<page>0029-0036</page>
 				<allauthors>
@@ -17169,12 +17215,14 @@
 				<title>Advaita for the Layman--XVIII</title>
 				<feature></feature>
 				<page>0037-0048</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishnaswamy Aiyar R.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (A Hospital's Cry for Help)</title>
 				<feature></feature>
-				<page>0049-0054</page>
+				<page>0049-0051</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -17191,7 +17239,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Ideal Brother Idolised</title>
@@ -17202,7 +17252,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: Chandogya</title>
+				<title>Upanishads-9: The Chandogya Upanishad</title>
 				<feature></feature>
 				<page>0008-0014</page>
 				<allauthors>
@@ -17214,25 +17264,27 @@
 				<feature></feature>
 				<page>0015-0018</page>
 				<allauthors>
-					<author>Eknatheaswaran, Prof.</author>
+					<author>Eknath Easwaran, Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha--11: Attainment of Liberation</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0019-0023</page>
-				<allauthors />
+				<page>0019-0022</page>
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>A Westerner's Pilgrimage</title>
+				<title>Sringeri, A Westerner's Pilgrimage</title>
 				<feature></feature>
-				<page>0024-0031</page>
+				<page>0024-0030</page>
 				<allauthors>
 					<author>Bodhananda</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Values in Life--II (For the Young Readers)</title>
+				<title>For the Young Readers: Values in Life--II</title>
 				<feature></feature>
 				<page>0032-0039</page>
 				<allauthors>
@@ -17241,23 +17293,93 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Durga as Mahishasuramardini: A Dynomic Myth of Goddess-Indira S. Aiyar</title>
 				<feature>Book Review</feature>
 				<page>0040-0041</page>
-				<allauthors />
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Do not give up</title>
+				<feature></feature>
+				<page>0041-0041</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Yielding to the Storm of Kali</title>
 				<feature></feature>
 				<page>0042-0049</page>
 				<allauthors>
-					<author>Elizabeth Harding H.</author>
+					<author>Elizabeth U. Harding</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Siva-gita</title>
+				<title>In Kali's Sanctum</title>
+				<feature></feature>
+				<page>0046-0046</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Divine Mother</title>
+				<feature></feature>
+				<page>0048-0048</page>
+				<allauthors>
+					<author>Srivatsa Rao</author>
+					<author>Divya Rao</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Condensation: Siva-Gita</title>
 				<feature>Book Condensation</feature>
 				<page>0050-0092</page>
+				<allauthors>
+					<author>Venkatasubramanian K., Dr.</author>
+					<author></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Story of Kannappar</title>
+				<feature></feature>
+				<page>0058-0058</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Dream State</title>
+				<feature></feature>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Calculus of Joy</title>
+				<feature></feature>
+				<page>0083-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Importance of Listening</title>
+				<feature></feature>
+				<page>0086-0086</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Divine Witness</title>
+				<feature></feature>
+				<page>0090-0090</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Power of <i>Omkara</i></title>
+				<feature></feature>
+				<page>0091-0091</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Rudraksha and Vibhuti</title>
+				<feature></feature>
+				<page>0092-0092</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -17266,7 +17388,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Words as Pointers to Truth</title>
@@ -17277,9 +17401,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads: Brihadaranyaka</title>
+				<title>Upanishads-10: Brihadaranyaka Upanishad</title>
 				<feature></feature>
-				<page>0008-0012</page>
+				<page>0008-0011</page>
 				<allauthors>
 					<author>Sarma M. V. B. S.</author>
 				</allauthors>
@@ -17296,7 +17420,9 @@
 				<title>Yoga Vasishtha--12: Conquering the Mind</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0019-0022</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Bhakti, According to Bhattatiri</title>
@@ -17307,8 +17433,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
 				<page>0027-0034</page>
 				<allauthors>
 					<author>Divya Rao</author>
@@ -17317,19 +17443,53 @@
 			<entry>
 				<title>News and Events</title>
 				<feature>News and Events</feature>
-				<page>0035-0038</page>
+				<page>0035-0037</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>The Journal of Ayurveda, Poetry and Philosophy</title>
 				<feature>Book Review</feature>
-				<page>0039-0045</page>
+				<page>0039-0043</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Book Condensation: Anandamayi-- Her Life and Wisdom</title>
 				<feature>Book Condensation</feature>
 				<page>0046-0097</page>
+				<allauthors>
+					<author>Richard Lannoy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Dazzling Word-Play</title>
+				<feature></feature>
+				<page>0057-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>A Personal Description</title>
+				<feature></feature>
+				<page>0062-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Spontaneous Yoga</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Joy-Permeated Mother</title>
+				<feature></feature>
+				<page>0068-0068</page>
+				<allauthors>
+					<author>Paramahansa Yogananda</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ma's Hypersensitivity</title>
+				<feature></feature>
+				<page>0070-0070</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -17338,7 +17498,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Siva of Gigantic Form</title>
@@ -17352,10 +17514,12 @@
 				<title>Yoga Vasishtha--13: Knowledge of the Self</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0007-0010</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Unforgettable Meeting</title>
+				<title>An Unforgettable Meeting</title>
 				<feature></feature>
 				<page>0011-0013</page>
 				<allauthors>
@@ -17363,7 +17527,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sraddha and its Significance</title>
+				<title>Srãddha and its Significance</title>
 				<feature></feature>
 				<page>0014-0019</page>
 				<allauthors>
@@ -17379,15 +17543,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
+				<title>The Ethical Life</title>
 				<feature></feature>
+				<page>0025-0025</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
 				<page>0026-0033</page>
 				<allauthors>
 					<author>Divya Rao</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Meet on Murugan</title>
+				<title>A Meet on Murugan</title>
 				<feature></feature>
 				<page>0034-0044</page>
 				<allauthors>
@@ -17395,13 +17565,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sparkling Gold Chariot of Sharadamba Inaugurated by His Holiness)</title>
 				<feature>News and Events</feature>
 				<page>0045-0046</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Yoga, Enlightenment and Perfection of His Holiness Sri Abhinava Vidyatirtha Mahaswamigal-Sri R. M. Umesh</title>
 				<feature>Book Review</feature>
 				<page>0047-0050</page>
 				<allauthors />
@@ -17422,7 +17592,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Proclamation of Vedanta</title>
@@ -17443,8 +17615,10 @@
 			<entry>
 				<title>Yoga Vasishtha--14: Nature of Maya</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0016-0021</page>
-				<allauthors />
+				<page>0016-0020</page>
+				<allauthors>
+					<author>Narayanaswami Aiyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Teaching in Silence</title>
@@ -17455,15 +17629,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
 				<page>0026-0031</page>
 				<allauthors>
 					<author>Divya Rao</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Ideal of Self-sacrifice</title>
+				<title>For the Young Readers: The Ideal of Self-Sacrifice</title>
 				<feature></feature>
 				<page>0032-0033</page>
 				<allauthors>
@@ -17477,13 +17651,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (49th Vardhanti Mahotsava Celebrations of H. H. Sri Bharati Tirtha Mahaswamigal)</title>
 				<feature>News and Events</feature>
-				<page>0036-0044</page>
+				<page>0036-0040</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Myth, Symbol and Language-Ananda</title>
 				<feature>Book Review</feature>
 				<page>0045-0046</page>
 				<allauthors>
@@ -17493,9 +17667,23 @@
 			<entry>
 				<title>Book Feature: Defining Austerity--A Meditative Indulgence</title>
 				<feature>Book Feature</feature>
-				<page>0047-0084</page>
+				<page>0047-0082</page>
 				<allauthors>
 					<author>Suddhananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vilva Mangala</title>
+				<feature></feature>
+				<page>0074-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Kaupina Panchakam</title>
+				<feature></feature>
+				<page>0084-0084</page>
+				<allauthors>
+					<author>Sri Sankara Bhagavatpada</author>
 				</allauthors>
 			</entry>
 		</part>
@@ -17504,7 +17692,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedic Vision of Lord Indra</title>
@@ -17523,48 +17713,80 @@
 			<entry>
 				<title>Yoga Vasishtha--15: Bliss from Atmic Inquiry</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0013-0018</page>
-				<allauthors />
+				<page>0013-0017</page>
+				<allauthors>
+					<author>Narayanaswami Aiyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Gratitude of a True Disciple (For the Young Readers)</title>
+				<title>For the Young Readers: Gratitude of a True Disciple</title>
 				<feature></feature>
-				<page>0019-0024</page>
+				<page>0019-0021</page>
 				<allauthors>
 					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
-				<page>0025-0034</page>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
+				<page>0025-0033</page>
 				<allauthors>
 					<author>Divya Rao</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Kumbhabhisheka and Ati Rudra at K.R. Nagar, Mysore)</title>
 				<feature>News and Events</feature>
 				<page>0035-0040</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Ramana Gita-Sri Vasishta Ganapathi Muni, S. Sankaranarayanan</title>
 				<feature>Book Review</feature>
-				<page>0041-0046</page>
-				<allauthors />
+				<page>0041-0043</page>
+				<allauthors>
+					<author>Venkataramanan V. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Book Condensation: Jagadguru Sri Chandrasekhara Bharati Mahaswami-Mystic and Seer</title>
 				<feature>Book Condensation</feature>
-				<page>0047-0086</page>
+				<page>0045-0086</page>
+				<allauthors>
+					<author>Natarajan A. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Essence of Bhagavad Gita</title>
+				<feature></feature>
+				<page>0058-0058</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Index of Articles</title>
+				<title>Efficacy of Gayatri Mantra Japa</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Jagadguru and Music</title>
+				<feature></feature>
+				<page>0071-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Hanuman Temple in Kali Ghat</title>
+				<feature></feature>
+				<page>0072-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1998-March 1999</title>
 				<feature></feature>
 				<page>0087-0088</page>
-				<allauthors />
+				<allauthors>
+					<author>Neelakantan M.</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="03" month="09" year="1999">
@@ -17572,7 +17794,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Serpents in India</title>
@@ -17581,6 +17805,18 @@
 				<allauthors>
 					<author>Sivapriyananda</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Friends and Foes</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Royal Connections</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Vedas, at Work</title>
