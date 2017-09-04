@@ -17823,27 +17823,29 @@
 				<feature></feature>
 				<page>0012-0013</page>
 				<allauthors>
-					<author>Arthur Pais J.</author>
+					<author>Arthur J. Pais</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha--16: Quiescence of Mind</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0014-0018</page>
-				<allauthors />
+				<allauthors>
+					<author>Narayanaswami Aiyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Always Speak the Truth (For the Young Readers)</title>
+				<title>For the Young Readers: Always Speak the Truth</title>
 				<feature></feature>
-				<page>0019-0024</page>
+				<page>0019-0020</page>
 				<allauthors>
 					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
-				<page>0025-0030</page>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
+				<page>0025-0029</page>
 				<allauthors>
 					<author>Divya Rao</author>
 				</allauthors>
@@ -17859,19 +17861,21 @@
 			<entry>
 				<title>Hoary Lessons on Leadership</title>
 				<feature></feature>
-				<page>0034-0044</page>
+				<page>0034-0043</page>
 				<allauthors>
 					<author>Athreya M. B., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Srirudrabhasyam of Skanda Deva</title>
 				<feature>Book Review</feature>
-				<page>0045-0047</page>
-				<allauthors />
+				<page>0045-0046</page>
+				<allauthors>
+					<author>Ramaratnam S., Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Short Visit of Jagadguru Sri Bharati Tirtha Mahaswamigal to Neighbouring Villages)</title>
 				<feature>News and Events</feature>
 				<page>0048-0050</page>
 				<allauthors />
@@ -17879,8 +17883,46 @@
 			<entry>
 				<title>Book Condensation: Agnihotra--The Vedic Solution</title>
 				<feature>Book Condensation</feature>
-				<page>0051-0092</page>
+				<page>0051-0090</page>
+				<allauthors>
+					<author>Baburao Parkhe</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Holistic Healing</title>
+				<feature></feature>
+				<page>0071-0071</page>
+				<allauthors>
+					<author>Golechha G. R., Lt. Col.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Neuro-Physiological Parameters</title>
+				<feature></feature>
+				<page>0072-0072</page>
+				<allauthors>
+					<author>Selvamurthy W., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Effects on Germination of Seeds</title>
+				<feature></feature>
+				<page>0082-0082</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>Effects on Microbial Count</title>
+				<feature></feature>
+				<page>0086-0086</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Thanks-Giving Yajna</title>
+				<feature></feature>
+				<page>0092-0092</page>
+				<allauthors>
+					<author>Narayanaswamy P. V.</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="11" year="1999">
@@ -17888,7 +17930,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Managerial Leadership through Sastras</title>
@@ -17899,17 +17943,17 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
-				<page>0011-0020</page>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
+				<page>0011-0017</page>
 				<allauthors>
 					<author>Divya Rao</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>To Hallowed Varanasi (For the Young Readers)</title>
+				<title>For the Young Readers: To Hallowed Varanasi</title>
 				<feature></feature>
-				<page>0021-0024</page>
+				<page>0021-0023</page>
 				<allauthors>
 					<author>Sarala Panchapakesan</author>
 				</allauthors>
@@ -17918,18 +17962,20 @@
 				<title>Yoga Vasishtha--17: Minding the Mind</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0025-0026</page>
-				<allauthors />
+				<allauthors>
+					<author>Narayanaswami Aiyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Yama is the Guide--through Life and Death</title>
 				<feature></feature>
-				<page>0027-0032</page>
+				<page>0027-0031</page>
 				<allauthors>
-					<author>Meera Sashital S.</author>
+					<author>Meera S. Sashital</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Forest of Knowledge-bliss</title>
+				<title>Forest of Knowledge-Bliss</title>
 				<feature></feature>
 				<page>0033-0036</page>
 				<allauthors>
@@ -17937,21 +17983,43 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Vedic Heritage Teaching Programme-Sunita Ramaswamy and Dr. Sundar Ramaswamy</title>
 				<feature>Book Review</feature>
 				<page>0037-0038</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaranarayanan S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sringeri Hospital Gets ICU, Blood Bank)</title>
 				<feature>News and Events</feature>
 				<page>0039-0044</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Condensation: The Values of Values</title>
+				<title>Book Condensation: The Value of Values</title>
 				<feature>Book Condensation</feature>
 				<page>0045-0092</page>
+				<allauthors>
+					<author>Dayananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Facts to Facts</title>
+				<feature></feature>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Informed Quest for Freedom</title>
+				<feature></feature>
+				<page>0088-0088</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Truth of the Blind Men</title>
+				<feature></feature>
+				<page>0092-0092</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -17960,7 +18028,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Taking the Parliament House</title>
@@ -17969,7 +18039,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Interfaith Harmony in the Next Millennium</title>
+				<title>Third Parliament of World's Religions: Interfaith Harmony in the Next Millennium</title>
 				<feature></feature>
 				<page>0006-0010</page>
 				<allauthors>
@@ -17985,14 +18055,16 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha--18: Achieving Tattva-jnana</title>
+				<title>Yoga Vasishtha--18: Achieving <i>Tattva-Jnana</i></title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0016-0019</page>
-				<allauthors />
+				<allauthors>
+					<author>Narayanaswami Aiyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
 				<page>0020-0026</page>
 				<allauthors>
 					<author>Divya Rao</author>
@@ -18001,33 +18073,35 @@
 			<entry>
 				<title>Ayurveda and Mind</title>
 				<feature></feature>
-				<page>0027-0032</page>
+				<page>0027-0028</page>
 				<allauthors>
 					<author>David Frawley, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Visual Primer on Yoga</title>
-				<feature></feature>
-				<page>0033-0035</page>
+				<title>CD-ROM Review: Visual Primer on Yoga</title>
+				<feature>CD Review</feature>
+				<page>0033-0034</page>
 				<allauthors>
 					<author>Sridharan S.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Temple Treasure and Temple Jewellery-Smt. Dr. Choodamani Nandagopal and Smt. Vatsala Iyengar</title>
 				<feature>Book Review</feature>
-				<page>0036-0038</page>
-				<allauthors />
+				<page>0036-0037</page>
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (25th Anniversary of Sannyasa Sveekara of H. H. Sri Bharati Tirtha Mahaswamigal)</title>
 				<feature>News and Events</feature>
 				<page>0039-0044</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>To Forgive is Divine (For the Young Readers)</title>
+				<title>For the Young Readers: To Forgive is Divine</title>
 				<feature></feature>
 				<page>0045-0047</page>
 				<allauthors>
@@ -18035,9 +18109,65 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: The Spirit of Budo--Old Traditions for Present-day Life</title>
+				<title>Book Condensation: The Spirit of Budo-Old Traditions for Present-Day Life</title>
 				<feature>Book Condensation</feature>
 				<page>0048-0092</page>
+				<allauthors>
+					<author>Trevor Leggett</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Inner Training or Superior Technique?</title>
+				<feature></feature>
+				<page>0050-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Being Sincere or Being Right?</title>
+				<feature></feature>
+				<page>0053-0053</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Admiral Drake and Tadamasa</title>
+				<feature></feature>
+				<page>0056-0056</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title><i>Yin</i> and <i>Yang</i> Warrior</title>
+				<feature></feature>
+				<page>0057-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Happiness of Staff</title>
+				<feature></feature>
+				<page>0065-0065</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Life as a Laughing Matter</title>
+				<feature></feature>
+				<page>0070-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Proper Budo Man</title>
+				<feature></feature>
+				<page>0075-0075</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>What We Learn from Judo</title>
+				<feature></feature>
+				<page>0083-0083</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>What Judo Teaches Us</title>
+				<feature></feature>
+				<page>0086-0086</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -18045,15 +18175,25 @@
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
-				<page>0003-0004</page>
-				<allauthors />
+				<page>0003-0003</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Message for the Mellennium</title>
+				<title>Message for the Millennium</title>
 				<feature></feature>
 				<page>0005-0006</page>
 				<allauthors>
 					<author>Suddhananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Time and How to Transcend it</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author>V. G.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18067,13 +18207,13 @@
 			<entry>
 				<title>Building Traditions</title>
 				<feature></feature>
-				<page>0015-0020</page>
+				<page>0015-0019</page>
 				<allauthors>
 					<author>Jeanne Roby</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sruti versus Smriti?</title>
+				<title><i>Sruti</i> Versus <i>Smriti?</i></title>
 				<feature></feature>
 				<page>0021-0023</page>
 				<allauthors>
@@ -18081,7 +18221,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Agni's Indigestion (For the Young Readers)</title>
+				<title>For the Young Readers: Agni's Indigestion</title>
 				<feature></feature>
 				<page>0024-0025</page>
 				<allauthors>
@@ -18089,8 +18229,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
 				<page>0026-0031</page>
 				<allauthors>
 					<author>Divya Rao</author>
@@ -18102,13 +18242,16 @@
 				<page>0032-0036</page>
 				<allauthors>
 					<author>Lallitha V.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha--19: Quiescence of Universe</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0037-0038</page>
-				<allauthors />
+				<allauthors>
+					<author>Narayanaswami Aiyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Connecting with Secret Mind</title>
@@ -18119,21 +18262,75 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Puja Feast for Sringeri Devotees)</title>
 				<feature>News and Events</feature>
-				<page>0045-0050</page>
+				<page>0045-0047</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Upanishads: What do they Says?-Late Sri P. S. Narasimhan, Sri V. M. Lakshminarayan</title>
 				<feature>Book Review</feature>
-				<page>0051-0058</page>
-				<allauthors />
+				<page>0051-0054</page>
+				<allauthors>
+					<author>Narayanaswamy P. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Upanishads: What is Hindu Religion?-Late Sri P. S. Narasimhan, Sri V. M. Lakshminarayan</title>
+				<feature>Book Review</feature>
+				<page>0054-0054</page>
+				<allauthors>
+					<author>J. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Book Extract: The Secret of Success</title>
 				<feature></feature>
 				<page>0059-0088</page>
+				<allauthors>
+					<author>Rama Tirtha Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Names, Mere Names</title>
+				<feature></feature>
+				<page>0061-0061</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Work for Work's Sake</title>
+				<feature></feature>
+				<page>0065-0065</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Renunciation Versus Accumulation</title>
+				<feature></feature>
+				<page>0068-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>A Lesson for the King</title>
+				<feature></feature>
+				<page>0071-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Maxim of `Come'</title>
+				<feature></feature>
+				<page>0076-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Fearlessness Conquers All</title>
+				<feature></feature>
+				<page>0079-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Have a Living Faith in Your Divinity</title>
+				<feature></feature>
+				<page>0083-0083</page>
 				<allauthors />
 			</entry>
 		</part>
