@@ -11845,7 +11845,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Works of Kalidasa: Place of Origin</i></title>
+				<title>Works of Kalidasa: Place of Origin</title>
 				<feature></feature>
 				<page>0038-0038</page>
 				<allauthors>
@@ -12390,7 +12390,7 @@
 				<feature></feature>
 				<page>0055-0056</page>
 				<allauthors>
-					<author>Uday Koppikar V.</author>
+					<author>Uday Venkatesh Koppikar</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -12727,7 +12727,7 @@
 				<feature>Book Review</feature>
 				<page>0078-0078</page>
 				<allauthors>
-					<author>Uday Koppikar V.</author>
+					<author>Uday Venkatesh Koppikar</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -16156,6 +16156,7 @@
 				<allauthors>
 					<author>Krishnaswamy Aiyar R.</author>
 				</allauthors>
+			</entry>
 			<entry>
 				<title>Mysterious Ways of Grace Divine</title>
 				<feature></feature>
@@ -18341,7 +18342,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Kabir Saga</title>
@@ -18360,33 +18363,36 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha--20: Attain True Jnana</title>
+				<title>Yoga Vasishtha--20: Attain True <i>Jnana....</i></title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0012-0014</page>
-				<allauthors />
+				<allauthors>
+					<author>Narayanaswami Aiyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>A Lie is a Lie (For the Young Readers)</title>
+				<title>For the Young Readers: A Lie is a Lie</title>
 				<feature></feature>
-				<page>0015-0020</page>
+				<page>0015-0017</page>
 				<allauthors>
 					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
 				<page>0021-0025</page>
 				<allauthors>
 					<author>Divya Rao</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Jeevayatra--2: The Path to Moksha</title>
+				<title>Jeevayatra--2: The Path to <i>Moksha</i></title>
 				<feature></feature>
-				<page>0026-0032</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Lallitha V.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18398,25 +18404,71 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sringeri Pathasala Celebrates 105th Anniversary)</title>
 				<feature>News and Events</feature>
 				<page>0039-0042</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Matrupanchakam-Sri Satchidananda Tirtha</title>
 				<feature>Book Review</feature>
-				<page>0043-0044</page>
-				<allauthors />
+				<page>0043-0043</page>
+				<allauthors>
+					<author>Subbarayan K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Book Feature: A Journey to Heaven Kailash-Mansarovar</title>
 				<feature>Book Feature</feature>
-				<page>0045-0081</page>
+				<page>0045-0080</page>
+				<allauthors>
+					<author>Bhandari C. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ksheer Sagar</title>
+				<feature></feature>
+				<page>0049-0049</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Index of Articles 1999-2000</title>
+				<title>Cave Shrine of Patalbhuvanesvar</title>
+				<feature></feature>
+				<page>0050-0050</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Real Abode of Siva-Parvati</title>
+				<feature></feature>
+				<page>0059-0059</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Khojarnath-The Lord who Settled Down</title>
+				<feature></feature>
+				<page>0067-0067</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Garbhiang or the Sinking Village</title>
+				<feature></feature>
+				<page>0070-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Kali, the `Black' River</title>
+				<feature></feature>
+				<page>0078-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Taklakot Centre</title>
+				<feature></feature>
+				<page>0080-0080</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> May 1999-March 2000</title>
 				<feature></feature>
 				<page>0082-0084</page>
 				<allauthors />
@@ -18427,7 +18479,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Gleams from Sankara's Gita</title>
@@ -18438,31 +18492,33 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha--21: Mysteries of Turiyatita</title>
+				<title>Yoga Vasishtha--21: Mysteries of <i>Turiyatita</i></title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0009-0013</page>
-				<allauthors />
+				<allauthors>
+					<author>Narayanaswami Aiyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>The Power of Japa in Spiritual Struggle</title>
+				<title>The Power of <i>Japa</i> in Spiritual Struggle</title>
 				<feature></feature>
-				<page>0014-0020</page>
+				<page>0014-0017</page>
 				<allauthors>
 					<author>Yatiswarananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
-				<feature></feature>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
 				<page>0021-0025</page>
 				<allauthors>
 					<author>Divya Rao</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Secret of Godliness (For the Young Readers)</title>
+				<title>For the Young Readers: Secret of Godliness</title>
 				<feature></feature>
-				<page>0026-0032</page>
+				<page>0026-0028</page>
 				<allauthors>
 					<author>Jagadish Aiyar P. V.</author>
 				</allauthors>
@@ -18470,7 +18526,7 @@
 			<entry>
 				<title>Jeevayatra--3: Controlling the Mind</title>
 				<feature></feature>
-				<page>0033-0044</page>
+				<page>0033-0040</page>
 				<allauthors>
 					<author>Lallitha V.</author>
 				</allauthors>
@@ -18478,13 +18534,13 @@
 			<entry>
 				<title>Spirituality Combats Stress</title>
 				<feature></feature>
-				<page>0045-0050</page>
+				<page>0045-0049</page>
 				<allauthors>
 					<author>Rajesh Vishwanathan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sankara Jayanti at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0051-0058</page>
 				<allauthors />
@@ -18493,6 +18549,38 @@
 				<title>Book Condensation: Vedic Religion and Philosophy</title>
 				<feature>Book Condensation</feature>
 				<page>0059-0084</page>
+				<allauthors>
+					<author>Prabhavananda Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>How it all Began</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Legend of <i>Yajur veda</i></title>
+				<feature></feature>
+				<page>0066-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title><i>Tat Tvam Asi</i> Explained</title>
+				<feature></feature>
+				<page>0072-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Realise the Truth</title>
+				<feature></feature>
+				<page>0076-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Hints on Meditation</title>
+				<feature></feature>
+				<page>0080-0080</page>
 				<allauthors />
 			</entry>
 		</part>
@@ -18501,7 +18589,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Song Celestial</title>
@@ -18512,7 +18602,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Immature Pot (For the Young Readers)</title>
+				<title>For the Young Readers: Immature Pot</title>
 				<feature></feature>
 				<page>0008-0009</page>
 				<allauthors>
@@ -18522,7 +18612,7 @@
 			<entry>
 				<title>Words of Wisdom</title>
 				<feature></feature>
-				<page>0010-0020</page>
+				<page>0010-0016</page>
 				<allauthors>
 					<author>Divya Rao</author>
 				</allauthors>
@@ -18536,7 +18626,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Bhakti and Advaitic Realisation</title>
+				<title><i>Bhakti</i> and <i>Advaitic</i> Realisation</title>
 				<feature></feature>
 				<page>0023-0031</page>
 				<allauthors>
@@ -18546,19 +18636,21 @@
 			<entry>
 				<title>Yoga Vasishtha--22: Supreme Divinity Revealed</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0032-0040</page>
-				<allauthors />
+				<page>0032-0036</page>
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Deceptions Galore</title>
 				<feature></feature>
-				<page>0041-0045</page>
+				<page>0041-0044</page>
 				<allauthors>
 					<author>Suddhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>More Versions of Ramayana</title>
+				<title>More Versions of <i>Ramayana</i></title>
 				<feature></feature>
 				<page>0046-0051</page>
 				<allauthors>
@@ -18566,7 +18658,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Chaturmasya Sankalpa and Vyasa Puja 2000)</title>
 				<feature>News and Events</feature>
 				<page>0052-0056</page>
 				<allauthors />
@@ -18577,18 +18669,44 @@
 				<page>0057-0084</page>
 				<allauthors />
 			</entry>
+			<entry>
+				<title>Sri and the Concept of <i>Purushakara</i></title>
+				<feature></feature>
+				<page>0067-0067</page>
+				<allauthors>
+					<author>Venkatachari K. K. A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>In the Sculptural Art of Maharashtra</title>
+				<feature></feature>
+				<page>0076-0076</page>
+				<allauthors>
+					<author>Welankar Vaishali M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>In Tamil Songs</title>
+				<feature></feature>
+				<page>0082-0082</page>
+				<allauthors>
+					<author>Raman K. V.</author>
+				</allauthors>
+			</entry>
 		</part>
 		<part pnum="04" month="11" year="2000">
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Inner Transformation</title>
+				<title>Jagadguru Calls for Inner Transformation</title>
 				<feature></feature>
-				<page>0004-0007</page>
+				<page>0004-0006</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -18602,14 +18720,20 @@
 			<entry>
 				<title>Philosophy of Rituals</title>
 				<feature></feature>
-				<page>0010-0015</page>
+				<page>0010-0014</page>
 				<allauthors>
 					<author>Subbarayan K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gumpshu's Corner for Children</title>
+				<title>Psychology to Sadhaka's Aid</title>
 				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Gampshu's Corner for Children</title>
+				<feature>Gampshu's Corner for Children</feature>
 				<page>0016-0021</page>
 				<allauthors>
 					<author>Divya Rao</author>
@@ -18619,19 +18743,21 @@
 				<title>Yoga Vasishtha--23: Worship the Supreme Self</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0022-0028</page>
-				<allauthors />
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Pilgrims' Progress</title>
 				<feature></feature>
-				<page>0029-0036</page>
+				<page>0029-0035</page>
 				<allauthors>
-					<author>Paul</author>
+					<author>Paul G. Van Oyen</author>
 					<author>Dorine Van Oyen</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Dasasloki--I Who Are You?</title>
+				<title>Sankara's Dasasloki-I: Who Are You?</title>
 				<feature></feature>
 				<page>0037-0042</page>
 				<allauthors>
@@ -18647,9 +18773,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sri Maha Ganapati Vakyartha Sabha)</title>
 				<feature>News and Events</feature>
-				<page>0047-0052</page>
+				<page>0047-0051</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -18660,24 +18786,32 @@
 					<author>Suddhananda Swami</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>Meditation is going Back to Roots</title>
+				<feature></feature>
+				<page>0058-0058</page>
+				<allauthors />
+			</entry>
 		</part>
 		<part pnum="05" month="01" year="2001">
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Purna Kumbha Parva</title>
 				<feature></feature>
-				<page>0004-0007</page>
+				<page>0004-0006</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Dasasloki--II: The Meaning of Thou</title>
+				<title>Sankara's Dasasloki-II: The Meaning of <i>Thou</i></title>
 				<feature></feature>
 				<page>0008-0013</page>
 				<allauthors>
@@ -18685,22 +18819,26 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>False Turns True (For the Young Readers)</title>
+				<title>For the Young Readers: False Turns True</title>
 				<feature></feature>
-				<page>0014-0020</page>
+				<page>0014-0016</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Children's Corner</title>
 				<feature>Children's Corner</feature>
 				<page>0021-0029</page>
-				<allauthors />
+				<allauthors>
+					<author>Lalita Ramakrishna</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha--24: The State of No-mind</title>
+				<title>Yoga Vasishtha--24: The State of No-Mind</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0030-0036</page>
-				<allauthors />
+				<page>0030-0032</page>
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Shrine at Sabarimala</title>
@@ -18711,7 +18849,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sharannavaratri at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0043-0044</page>
 				<allauthors />
@@ -18719,7 +18857,7 @@
 			<entry>
 				<title>Jagadgurus' Compassion</title>
 				<feature></feature>
-				<page>0045-0047</page>
+				<page>0045-0046</page>
 				<allauthors>
 					<author>Krishna G. S.</author>
 				</allauthors>
@@ -18740,13 +18878,27 @@
 					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>Strange Event</title>
+				<feature></feature>
+				<page>0070-0070</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Message to Mother</title>
+				<feature></feature>
+				<page>0076-0076</page>
+				<allauthors />
+			</entry>
 		</part>
 		<part pnum="06" month="03" year="2001">
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Siva-Maha Mrtyunjaya Mantra</title>
@@ -18765,15 +18917,25 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>US Scenario 50 Years Ahead</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors>
+					<author>Chakrapani Ullal</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Yoga Vasishtha--25: Energy of Infinite Consciousness</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0012-0015</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Dasasloki--III The Meaning of That</title>
+				<title>Sankara's Dasasloki--III The Meaning of <i>That</i></title>
 				<feature></feature>
-				<page>0016-0025</page>
+				<page>0016-0023</page>
 				<allauthors>
 					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
@@ -18787,9 +18949,17 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Sapta Svara Devata Nada Mandapam</title>
+				<feature></feature>
+				<page>0030-0030</page>
+				<allauthors>
+					<author>Prasad H. V.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Children's Corner</title>
 				<feature>Children's Corner</feature>
-				<page>0034-0043</page>
+				<page>0034-0042</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -18797,7 +18967,7 @@
 			<entry>
 				<title>Saint of the North-East</title>
 				<feature></feature>
-				<page>0044-0049</page>
+				<page>0044-0048</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
@@ -18811,16 +18981,26 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Dakshina Bharata Veda Sammelana)</title>
 				<feature>News and Events</feature>
 				<page>0054-0056</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Thoughts from the Gita-Sri Jnanananda Bharati Swamigal, R. Krishnaswami Aiyar</title>
 				<feature>Book Review</feature>
-				<page>0057-0061</page>
-				<allauthors />
+				<page>0057-0060</page>
+				<allauthors>
+					<author>Venkataraman C. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Notes from a Flute (Face to Face with God)-Prem Sawhney</title>
+				<feature>Book Review</feature>
+				<page>0060-0061</page>
+				<allauthors>
+					<author>A Correspondent</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Special Feature: Say it with Flowers</title>
@@ -18830,6 +19010,18 @@
 					<author>Subramanian S.</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>Japanese Love for Flowers</title>
+				<feature></feature>
+				<page>0068-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Benefits of Flower Worship</title>
+				<feature></feature>
+				<page>0074-0074</page>
+				<allauthors />
+			</entry>
 		</part>
 	</volume>
 	<volume vnum="024">
@@ -18838,34 +19030,54 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Fighting Corruption through Dharma</title>
 				<feature></feature>
-				<page>0004-0007</page>
-				<allauthors />
+				<page>0004-0006</page>
+				<allauthors>
+					<author>Gowrishankar V. R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Uphold Dharma</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Spirituality in Management</title>
 				<feature></feature>
-				<page>0008-0011</page>
+				<page>0008-0010</page>
 				<allauthors>
 					<author>Varsha Iyengar</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Land Twice-blessed</title>
+				<title>A Land Twice-Blessed</title>
 				<feature></feature>
-				<page>0012-0017</page>
+				<page>0012-0016</page>
 				<allauthors>
 					<author>Srinivasan V. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Rameswaram and Sri Sringeri Math</title>
+				<feature></feature>
+				<page>0013-0013</page>
+				<allauthors>
+					<author>Gowrishankar V. R.</author>
+				</allauthors>
+			</entry>
+			<entry> 
 				<title>Sankara's Dasasloki--IV: Beyond Diversity</title>
 				<feature></feature>
-				<page>0018-0025</page>
+				<page>0018-0023</page>
 				<allauthors>
 					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
@@ -18873,8 +19085,10 @@
 			<entry>
 				<title>Yoga Vasishtha--26: Oneness of Consciousness</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0026-0031</page>
-				<allauthors />
+				<page>0026-0030</page>
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Children's Corner</title>
@@ -18893,19 +19107,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Edifying Parables of His Holiness Jagadguru Sri Abhinava Vidyatheertha Mahaswamigal</title>
 				<feature>Book Review</feature>
-				<page>0045-0049</page>
-				<allauthors />
+				<page>0045-0048</page>
+				<allauthors>
+					<author>Krishnaswamy S.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Kumbhabhishekam at Rameswaram)</title>
 				<feature>News and Events</feature>
 				<page>0050-0058</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Special Feature: Mira: Personification of God-love</title>
+				<title>Special Feature: Mira: Personification of God-Love</title>
 				<feature>Special Feature</feature>
 				<page>0059-0084</page>
 				<allauthors>
