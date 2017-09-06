@@ -17618,7 +17618,7 @@
 				<feature>Yoga Vasishtha</feature>
 				<page>0016-0020</page>
 				<allauthors>
-					<author>Narayanaswami Aiyer K.</author>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17716,7 +17716,7 @@
 				<feature>Yoga Vasishtha</feature>
 				<page>0013-0017</page>
 				<allauthors>
-					<author>Narayanaswami Aiyer K.</author>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17832,7 +17832,7 @@
 				<feature>Yoga Vasishtha</feature>
 				<page>0014-0018</page>
 				<allauthors>
-					<author>Narayanaswami Aiyer K.</author>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -17964,7 +17964,7 @@
 				<feature>Yoga Vasishtha</feature>
 				<page>0025-0026</page>
 				<allauthors>
-					<author>Narayanaswami Aiyer K.</author>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18060,7 +18060,7 @@
 				<feature>Yoga Vasishtha</feature>
 				<page>0016-0019</page>
 				<allauthors>
-					<author>Narayanaswami Aiyer K.</author>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18251,7 +18251,7 @@
 				<feature>Yoga Vasishtha</feature>
 				<page>0037-0038</page>
 				<allauthors>
-					<author>Narayanaswami Aiyer K.</author>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18367,7 +18367,7 @@
 				<feature>Yoga Vasishtha</feature>
 				<page>0012-0014</page>
 				<allauthors>
-					<author>Narayanaswami Aiyer K.</author>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -18496,7 +18496,7 @@
 				<feature>Yoga Vasishtha</feature>
 				<page>0009-0013</page>
 				<allauthors>
-					<author>Narayanaswami Aiyer K.</author>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19134,7 +19134,9 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0004</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Studying Sankara</title>
@@ -19150,6 +19152,14 @@
 				<page>0010-0013</page>
 				<allauthors>
 					<author>Panikkar K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Imbuing Life and Thought</title>
+				<feature></feature>
+				<page>0012-0012</page>
+				<allauthors>
+					<author>Sita Sundar Ram</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -19169,21 +19179,23 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha--27: Like Clay in Pots</title>
+				<title>Yoga Vasishtha--27: Like Clay in Pots....</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0023-0027</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Children's Corner</title>
 				<feature>Children's Corner</feature>
-				<page>0028-0036</page>
+				<page>0028-0034</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>God Everywhere (For the Young Readers)</title>
+				<title>For the Young Readers: God Everywhere</title>
 				<feature></feature>
 				<page>0037-0038</page>
 				<allauthors />
@@ -19197,6 +19209,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Karma-The Driving Force</title>
+				<feature></feature>
+				<page>0041-0041</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Abhinava Vidyatirtha Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Minor Upanishads--1: Secrets of Salvation</title>
 				<feature>Minor Upanishads</feature>
 				<page>0043-0048</page>
@@ -19205,24 +19225,42 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Arch-mother Sharada</title>
+				<title>Arch-Mother Sharada</title>
 				<feature></feature>
 				<page>0049-0052</page>
 				<allauthors>
-					<author>Yvonne Schaap L.</author>
+					<author>Yvonne Louise Schaap, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Golden Jubilee Birthday Celebrations)</title>
 				<feature>News and Events</feature>
 				<page>0053-0060</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Self-Knowledge-Swami Suddhananda</title>
 				<feature>Book Review</feature>
-				<page>0061-0064</page>
-				<allauthors />
+				<page>0061-0063</page>
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Contemporary Religious Movement in India-Ananda</title>
+				<feature>Book Review</feature>
+				<page>0063-0064</page>
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Unity of Religions</title>
+				<feature></feature>
+				<page>0064-0064</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Special Feature: Five Pillars of Sadhana</title>
@@ -19232,16 +19270,32 @@
 					<author>Veda Bharati Swami</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>Mantra as an Energy Force</title>
+				<feature></feature>
+				<page>0074-0074</page>
+				<allauthors>
+					<author>Veda Bharati Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Act of Truth</title>
+				<feature></feature>
+				<page>0081-0081</page>
+				<allauthors />
+			</entry>
 		</part>
 		<part pnum="03" month="06" year="2001">
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0004</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Achieving Super-consciousness</title>
+				<title>Achieving Super-Consciousness</title>
 				<feature></feature>
 				<page>0005-0008</page>
 				<allauthors>
@@ -19249,7 +19303,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--1: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--1: Learn Sanskrit....</title>
 				<feature>Wisdom Vehicle</feature>
 				<page>0009-0011</page>
 				<allauthors>
@@ -19260,7 +19314,9 @@
 				<title>Yoga Vasishtha--28: Reality and Appearance</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0012-0014</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>A Matter of Health--III: The Artist and Yoga</title>
@@ -19271,9 +19327,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Dasasloki--VI: Truth is Non-dual</title>
+				<title>Sankara's Dasasloki--VI: Truth is Non-Dual</title>
 				<feature></feature>
-				<page>0022-0029</page>
+				<page>0022-0028</page>
 				<allauthors>
 					<author>Yogananda Sarasvati Swami</author>
 				</allauthors>
@@ -19287,9 +19343,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Who is the Real Friend (For the Young Readers)</title>
+				<title>For the Young Readers: Who is the Real Friend</title>
 				<feature></feature>
-				<page>0038-0040</page>
+				<page>0038-0039</page>
 				<allauthors>
 					<author>Narayanan Kutty T., Dr.</author>
 				</allauthors>
@@ -19297,7 +19353,7 @@
 			<entry>
 				<title>God Loves You</title>
 				<feature></feature>
-				<page>0041-0044</page>
+				<page>0041-0042</page>
 				<allauthors>
 					<author>Veeraswamy G., Dr.</author>
 				</allauthors>
@@ -19305,7 +19361,7 @@
 			<entry>
 				<title>Minor Upanishads--2: Answers on Vedanta</title>
 				<feature>Minor Upanishads</feature>
-				<page>0045-0049</page>
+				<page>0045-0048</page>
 				<allauthors>
 					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
@@ -19313,25 +19369,40 @@
 			<entry>
 				<title>Improving the Individual</title>
 				<feature></feature>
-				<page>0050-0052</page>
+				<page>0050-0051</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sri Sankara Jayanti)</title>
 				<feature>News and Events</feature>
 				<page>0053-0056</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Condensation: The Marriage of Spirit, Leslie Temple-Thurston</title>
+				<title>Book Condensation: The Marriage of Spirit</title>
 				<feature>Book Condensation</feature>
 				<page>0057-0081</page>
+				<allauthors>
+					<author>Leslie Temple-Thurston</author>
+					<author>Brad Laughlin</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Example of Acting as if the Outside is You</title>
+				<feature></feature>
+				<page>0066-0066</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Index of Articles 2000-2001</title>
+				<title>The Story of Ariadne's Thread</title>
+				<feature></feature>
+				<page>0071-0071</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 2000-March 2001</title>
 				<feature></feature>
 				<page>0082-0084</page>
 				<allauthors />
@@ -19342,10 +19413,12 @@
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0004</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>How Useful Are Dreams?</title>
+				<title>How Useful Are Dreams? A Vedantic Perspective</title>
 				<feature></feature>
 				<page>0005-0008</page>
 				<allauthors>
@@ -19356,7 +19429,9 @@
 				<title>Yoga Vasishtha--29: Attain the Supreme State</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0009-0011</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>A Pilgrimage to Amarnath</title>
@@ -19375,9 +19450,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Minor Upanishads--3: Redeeming Answers</title>
+				<title>Minor Upanishads--3: Redeeming Answers to Everlasting Questions</title>
 				<feature>Minor Upanishads</feature>
-				<page>0021-0026</page>
+				<page>0021-0024</page>
 				<allauthors>
 					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
@@ -19391,7 +19466,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>How God was Fed... (For the Young Readers)</title>
+				<title>For the Young Readers: How God was Fed...</title>
 				<feature></feature>
 				<page>0034-0037</page>
 				<allauthors />
@@ -19407,31 +19482,41 @@
 			<entry>
 				<title>The Way to Happiness</title>
 				<feature></feature>
-				<page>0043-0048</page>
+				<page>0043-0047</page>
 				<allauthors>
 					<author>Pavitrananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--2: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--2: Learn Sanskrit ....with Cheers</title>
 				<feature>Wisdom Vehicle</feature>
-				<page>0049-0052</page>
+				<page>0049-0050</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 					<author>Sarala Panchapakesan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>World Sanskrit Conference</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>News and Events (Sharada Dhanvanthari Haemodialysis Centre Inaugurated)</title>
 				<feature>News and Events</feature>
 				<page>0053-0056</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>In Days of Great Peace-Mouni Sadhu (M. Sudouski)</title>
 				<feature>Book Review</feature>
 				<page>0057-0058</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkataramanan V. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Book Condensation: What Becomes of the Soul after Death</title>
@@ -19441,13 +19526,27 @@
 					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>Story of Nachiketas</title>
+				<feature></feature>
+				<page>0079-0079</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Story of Markandeya</title>
+				<feature></feature>
+				<page>0083-0083</page>
+				<allauthors />
+			</entry>
 		</part>
 		<part pnum="05" month="08" year="2001">
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
 				<page>0003-0003</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Symbolism of Sri Ganesa</title>
@@ -19460,7 +19559,7 @@
 			<entry>
 				<title>Coming into the Presence of a Holy Man</title>
 				<feature></feature>
-				<page>0007-0011</page>
+				<page>0007-0009</page>
 				<allauthors>
 					<author>Yvonne Louise Schaap, Dr.</author>
 				</allauthors>
@@ -19832,7 +19931,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Freeing the Mind - Minor Upanishads-7</title>
+				<title>Minor Upanishads--7: Freeing the Mind</title>
 				<feature>Minor Upanishads</feature>
 				<page>0037-0039</page>
 				<allauthors>
@@ -19941,7 +20040,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Seeking Nothing, Abide in Consciousness - Minor Upanishads-8</title>
+				<title>Minor Upanishads--8: Seeking Nothing, Abide in Consciousness</title>
 				<feature>Minor Upanishads</feature>
 				<page>0036-0037</page>
 				<allauthors>
@@ -19949,8 +20048,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta and Modern Challenges - Minor Upanishads-8</title>
-				<feature>Minor Upanishads</feature>
+				<title>Vedanta and Modern Challenges</title>
+				<feature></feature>
 				<page>0038-0041</page>
 				<allauthors>
 					<author>Karan Singh, Dr.</author>
@@ -20050,7 +20149,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kaivalya Unravelled - Minor Upanishads-9</title>
+				<title>Minor Upanishads--9: Kaivalya Unravelled</title>
 				<feature>Minor Upanishads</feature>
 				<page>0034-0037</page>
 				<allauthors>
@@ -20160,7 +20259,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Pure Enlightenment - Minor Upanishads-10</title>
+				<title>Minor Upanishads--10: Pure Enlightenment</title>
 				<feature>Minor Upanishads</feature>
 				<page>0038-0044</page>
 				<allauthors>
@@ -20168,8 +20267,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Test of Devotion - Minor Upanishads-10</title>
-				<feature>Minor Upanishads</feature>
+				<title>Test of Devotion</title>
+				<feature></feature>
 				<page>0045-0048</page>
 				<allauthors>
 					<author>Pravrajika Shuddhatmamata</author>
@@ -20282,7 +20381,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Knowledge of Prajna - Minor Upanishads-XI</title>
+				<title>Minor Upanishads--11: Knowledge of Prajna</title>
 				<feature>Minor Upanishads</feature>
 				<page>0038-0043</page>
 				<allauthors>
@@ -21196,9 +21295,17 @@
 			<entry>
 				<title>Tattva Bodha (A Summary)</title>
 				<feature></feature>
-				<page>0014-0018</page>
+				<page>0014-0016</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Minor Upanishads--19: Seeking Moksha from Womb</title>
+				<feature>Minor Upanishads</feature>
+				<page>0017-0018</page>
+				<allauthors>
+					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
 			</entry>
 			<entry>
