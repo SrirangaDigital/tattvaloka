@@ -20976,11 +20976,12 @@
 				<page>0004-0006</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Ganesa--6: Forms of Ganesa</title>
-				<feature></feature>
+				<feature>Ganesa</feature>
 				<page>0007-0011</page>
 				<allauthors>
 					<author>Paul Martin-Dubost</author>
@@ -20992,13 +20993,16 @@
 				<page>0012-0015</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha--41: Ending Disturbances</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0016-0019</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Minor Upanishads--15: Science of Sankara</title>
@@ -21011,14 +21015,14 @@
 			<entry>
 				<title>Guru Purnima</title>
 				<feature></feature>
-				<page>0023-0028</page>
+				<page>0023-0024</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Sankara's Satasloki--10: The Mind Shield</title>
-				<feature></feature>
+				<feature>Sankara's Satasloki</feature>
 				<page>0029-0033</page>
 				<allauthors>
 					<author>Venkataraman R., Dr.</author>
@@ -21035,7 +21039,7 @@
 			<entry>
 				<title>Children's Corner</title>
 				<feature>Children's Corner</feature>
-				<page>0037-0043</page>
+				<page>0037-0042</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -21049,21 +21053,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Matter of Health--XVI: Breathe Easy</title>
-				<feature></feature>
+				<title>A Matter of Health--XVI: Breathe Easy</title>
+				<feature>A Matter of Health</feature>
 				<page>0049-0056</page>
 				<allauthors>
 					<author>Krishna Raman, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sankara Jayanti Celebrations at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0057-0059</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--14: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--14: Learn Sanskrit....with Bhartruhari</title>
 				<feature>Wisdom Vehicle</feature>
 				<page>0060-0061</page>
 				<allauthors>
@@ -21071,7 +21075,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Glimpses of Grace-K. Suresh Chandar</title>
 				<feature>Book Review</feature>
 				<page>0062-0062</page>
 				<allauthors>
@@ -21082,7 +21086,9 @@
 				<title>Book Condensation: Mundakopanishad: From the Saunaka Branch of Atharva Veda</title>
 				<feature>Book Condensation</feature>
 				<page>0063-0084</page>
-				<allauthors />
+				<allauthors>
+					<author>Harikrishnadasa Goyandaka</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="05" month="08" year="2002">
@@ -21100,11 +21106,12 @@
 				<page>0004-0006</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Ganesa--7: Striking Postures</title>
-				<feature></feature>
+				<feature>Ganesa</feature>
 				<page>0007-0011</page>
 				<allauthors>
 					<author>Paul Martin-Dubost</author>
@@ -21116,13 +21123,16 @@
 				<page>0012-0014</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha--42 Sun-moon Phenomenon</title>
+				<title>Yoga Vasishtha--42: Sun-Moon Phenomenon</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0015-0017</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Minor Upanishads--16: Understanding Atma</title>
@@ -21135,7 +21145,7 @@
 			<entry>
 				<title>The Legend of Savitri</title>
 				<feature></feature>
-				<page>0022-0028</page>
+				<page>0022-0024</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
@@ -21149,7 +21159,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Corner</title>
+				<title>Children's Corner: Ashta Vasus</title>
 				<feature>Children's Corner</feature>
 				<page>0034-0040</page>
 				<allauthors>
@@ -21157,40 +21167,52 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Matter of Health--XVII: Back in Shape</title>
-				<feature></feature>
+				<title>A Matter of Health--XVII: Back in Shape</title>
+				<feature>A Matter of Health</feature>
 				<page>0041-0046</page>
 				<allauthors>
 					<author>Krishna Raman, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (His Holiness Visits Chitrapura)</title>
 				<feature>News and Events</feature>
-				<page>0047-0049</page>
+				<page>0047-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--15: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--15: Learn Sanskrit....with Bhartruhari</title>
 				<feature>Wisdom Vehicle</feature>
-				<page>0050-0052</page>
+				<page>0050-0051</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Srimad Acharyendra Vaibhavam-Sri Jnanananda Bharati Swamigal</title>
 				<feature>Book Review</feature>
 				<page>0053-0054</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Condensation: The Self-revealed Knowledge that Liberates the Spirit</title>
+				<title>Book Condensation: The Self-Revealed Knowledge that Liberates the Spirit</title>
 				<feature>Book Condensation</feature>
 				<page>0055-0084</page>
 				<allauthors>
 					<author>Roy Eugene Davis</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Answers to Questions about Reincarnation and the Causes of Personal Circumstances</title>
+				<feature></feature>
+				<page>0076-0077</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Attaining the Pinnacle</title>
+				<feature></feature>
+				<page>0080-0080</page>
+				<allauthors />
 			</entry>
 		</part>
 		<part pnum="06" month="09" year="2002">
@@ -21208,11 +21230,12 @@
 				<page>0004-0006</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Ganesa--8: What the Hands Hold</title>
-				<feature></feature>
+				<feature>Ganesa</feature>
 				<page>0007-0011</page>
 				<allauthors>
 					<author>Paul Martin-Dubost</author>
@@ -21221,9 +21244,10 @@
 			<entry>
 				<title>Abodes of Siva</title>
 				<feature></feature>
-				<page>0012-0020</page>
+				<page>0012-0016</page>
 				<allauthors>
 					<author>Shanmishtai</author>
+					<author>Srinivasan V. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21232,13 +21256,16 @@
 				<page>0021-0025</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha--43: Only Self Knows Self</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0026-0029</page>
-				<allauthors />
+				<page>0026-0028</page>
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Minor Upanishads--17: Who is Brahmana?</title>
@@ -21251,13 +21278,13 @@
 			<entry>
 				<title>Srimad Bhagavatam--2: Bhagavata Chatusloki</title>
 				<feature>Srimad Bhagavatam</feature>
-				<page>0032-0037</page>
+				<page>0032-0036</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Corner</title>
+				<title>Children's Corner: What is Puja?</title>
 				<feature>Children's Corner</feature>
 				<page>0038-0044</page>
 				<allauthors>
@@ -21265,9 +21292,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>For the Young Readers--The Thrice-blessed</title>
+				<title>For the Young Readers: The Thrice-Blessed</title>
 				<feature></feature>
-				<page>0045-0049</page>
+				<page>0045-0048</page>
 				<allauthors>
 					<author>Tattwananda Swami</author>
 				</allauthors>
@@ -21281,21 +21308,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Matter of Health--XVIII: Saving the Spine</title>
-				<feature></feature>
+				<title>A Matter of Health--XVIII: Saving the Spine</title>
+				<feature>A Matter of Health</feature>
 				<page>0053-0056</page>
 				<allauthors>
 					<author>Krishna Raman, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Chaturmasya Sankalpa)</title>
 				<feature>News and Events</feature>
 				<page>0057-0060</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--16: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--16: Learn Sanskrit....with Bhartruhari</title>
 				<feature>Wisdom Vehicle</feature>
 				<page>0061-0062</page>
 				<allauthors>
@@ -21303,7 +21330,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: What is Jivanmukti?</title>
+				<title>Book Condensation: What is <i>Jivanmukti?</i></title>
 				<feature>Book Condensation</feature>
 				<page>0063-0084</page>
 				<allauthors>
@@ -21315,7 +21342,7 @@
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
-				<page>0003-0004</page>
+				<page>0003-0003</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -21326,11 +21353,12 @@
 				<page>0005-0006</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Ganesa--9: The Divine Colours</title>
-				<feature></feature>
+				<feature>Ganesa</feature>
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Paul Martin-Dubost</author>
@@ -21339,7 +21367,7 @@
 			<entry>
 				<title>Yoga Vasishtha--44: Jnana versus Kriya</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0011-0014</page>
+				<page>0011-0013</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -21351,17 +21379,18 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Bhakti--a Perspective</title>
+				<title>Bhakti--A Perspective</title>
 				<feature></feature>
 				<page>0020-0022</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Minor Upanishads--18: The Body Story</title>
 				<feature>Minor Upanishads</feature>
-				<page>0023-0025</page>
+				<page>0023-0024</page>
 				<allauthors>
 					<author>Narayanasvami Iyer K.</author>
 				</allauthors>
@@ -21375,7 +21404,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Corner</title>
+				<title>Children's Corner: Chaitanya</title>
 				<feature>Children's Corner</feature>
 				<page>0030-0035</page>
 				<allauthors>
@@ -21383,7 +21412,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>For the Young Readers--Ordeal by Fire</title>
+				<title>For the Young Readers: Ordeal by Fire</title>
 				<feature></feature>
 				<page>0036-0038</page>
 				<allauthors>
@@ -21399,7 +21428,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Matter of Health--XIX: Straightening the Spine</title>
+				<title>A Matter of Health--XIX: Straightening the Spine</title>
 				<feature></feature>
 				<page>0042-0046</page>
 				<allauthors>
@@ -21407,13 +21436,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sravana at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0047-0052</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--17: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--17: Learn Sanskrit.....with Bhartruhari</title>
 				<feature>Wisdom Vehicle</feature>
 				<page>0053-0054</page>
 				<allauthors>
@@ -21421,7 +21450,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Kailash Mansarovar-Diary of a Pilgrim-Sri Nilesh D. Nathwani</title>
 				<feature>Book Review</feature>
 				<page>0055-0057</page>
 				<allauthors>
@@ -21429,12 +21458,18 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Mysticism of the Devi Mahatmya</title>
+				<title>Book Condensation: Mysticism of the Devi Mahatmya: The Glory of Mother Worship</title>
 				<feature>Book Condensation</feature>
 				<page>0058-0084</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Mysterious Ways of Maya</title>
+				<feature></feature>
+				<page>0081-0081</page>
+				<allauthors />
 			</entry>
 		</part>
 		<part pnum="08" month="11" year="2002">
@@ -21448,7 +21483,7 @@
 			</entry>
 			<entry>
 				<title>Ganesa--10: A Variety in Vahanas</title>
-				<feature></feature>
+				<feature>Ganesa</feature>
 				<page>0005-0007</page>
 				<allauthors>
 					<author>Paul Martin-Dubost</author>
@@ -21460,20 +21495,24 @@
 				<page>0008-0009</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha--45: Price of Ignorance</title>
 				<feature>Yoga Vasishtha</feature>
-				<page>0010-0013</page>
-				<allauthors />
+				<page>0010-0012</page>
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Tattva Bodha (A Summary)</title>
+				<title><i>Tattva Bodha</i> (A Summary)</title>
 				<feature></feature>
 				<page>0014-0016</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21487,21 +21526,27 @@
 			<entry>
 				<title>A Conversation Divine</title>
 				<feature></feature>
-				<page>0019-0022</page>
+				<page>0019-0021</page>
 				<allauthors>
 					<author>Mahesh M. C.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Philosophical Questions and Answers</title>
+				<feature></feature>
+				<page>0020-0020</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Srimad Bhagavatam--4: Tearing the Veil of Ignorance</title>
 				<feature>Srimad Bhagavatam</feature>
-				<page>0023-0027</page>
+				<page>0023-0026</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Corner</title>
+				<title>Children's Corner: The 12 Months</title>
 				<feature>Children's Corner</feature>
 				<page>0028-0033</page>
 				<allauthors>
@@ -21509,7 +21554,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>For the Young Readers--Svetaketu's Education</title>
+				<title>For the Young Readers: Svetaketu's Education</title>
 				<feature></feature>
 				<page>0034-0035</page>
 				<allauthors>
@@ -21525,15 +21570,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Matter of Health--XX: Keeping Joints in Shape</title>
-				<feature></feature>
-				<page>0038-0044</page>
+				<title>A Matter of Health--XX: Keeping Joints in Shape</title>
+				<feature>A Matter of Health</feature>
+				<page>0038-0041</page>
 				<allauthors>
 					<author>Krishna Raman, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--18: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--18: Learn Sanskrit....with Bhartruhari</title>
 				<feature>Wisdom Vehicle</feature>
 				<page>0045-0046</page>
 				<allauthors>
@@ -21541,19 +21586,29 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sri Ganapathi Vakyartha Sabha at Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0047-0052</page>
+				<page>0047-0051</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Self-Abidance (Sat-Darshanam)-Bhagavan Sri Ramana Maharshi, Kavyakantha Ganapati Muni, Jagadguru Shankaracharya Swami, Sri Swaroopananda Saraswati, G. Kameshwar</title>
 				<feature>Book Review</feature>
-				<page>0053-0056</page>
-				<allauthors />
+				<page>0053-0054</page>
+				<allauthors>
+					<author>Ramaratnam S., Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Special Feature: Forty Verses on Reality</title>
+				<title>The Supreme Wisdom of the Upanishads-Klaus G. Witz</title>
+				<feature>Book Review</feature>
+				<page>0055-0056</page>
+				<allauthors>
+					<author>Mahesh M. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Special Feature: Forty Verses on Reality (Ulladu Narpadu)</title>
 				<feature>Special Feature</feature>
 				<page>0057-0084</page>
 				<allauthors>
@@ -21572,7 +21627,7 @@
 			</entry>
 			<entry>
 				<title>Ganesa--11: Materials of God</title>
-				<feature></feature>
+				<feature>Ganesa</feature>
 				<page>0005-0008</page>
 				<allauthors>
 					<author>Paul Martin-Dubost</author>
@@ -21584,10 +21639,11 @@
 				<page>0009-0012</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Song of Self-enquiry</title>
+				<title>Song of Self-Enquiry</title>
 				<feature></feature>
 				<page>0013-0015</page>
 				<allauthors>
@@ -21598,7 +21654,9 @@
 				<title>Yoga Vasishtha--46: Wages of Ignorance</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0016-0018</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Understanding Upanishads</title>
@@ -21606,12 +21664,13 @@
 				<page>0019-0021</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Mother to the Rescue, Again</title>
 				<feature></feature>
-				<page>0022-0023</page>
+				<page>0022-0022</page>
 				<allauthors>
 					<author>Subramanian S.</author>
 				</allauthors>
@@ -21620,16 +21679,20 @@
 				<title>Srimad Bhagavatam--5: Dwarfing the Ego</title>
 				<feature>Srimad Bhagavatam</feature>
 				<page>0024-0028</page>
-				<allauthors />
+				<allauthors>
+					<author>Jyotirmayananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Minor Upanishads--20: Mukti in Eight Mantras</title>
 				<feature>Minor Upanishads</feature>
-				<page>0029-0031</page>
-				<allauthors />
+				<page>0029-0030</page>
+				<allauthors>
+					<author>Narayanasvami Iyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Corner</title>
+				<title>Children's Corner: Story of Pundarika</title>
 				<feature>Children's Corner</feature>
 				<page>0032-0038</page>
 				<allauthors>
@@ -21637,7 +21700,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>For the Young Readers: All-encompassing Brahman</title>
+				<title>For the Young Readers: All-Encompassing Brahman</title>
 				<feature></feature>
 				<page>0039-0041</page>
 				<allauthors>
@@ -21669,34 +21732,46 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--19: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--19: Learn Sanskrit....with Bhartruhari</title>
 				<feature>Wisdom Vehicle</feature>
-				<page>0051-0056</page>
+				<page>0051-0055</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Mahabhisheka of Sharadamba)</title>
 				<feature>News and Events</feature>
 				<page>0057-0058</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Svetasvatara Upanishad-Swami Vedananda</title>
 				<feature>Book Review</feature>
-				<page>0059-0061</page>
+				<page>0059-0060</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: An Easy Guide to Ayurveda: Natural Way to Wholeness</title>
+				<title>Book Condensation: An Easy Guide to Ayurveda: The Natural Way to Wholeness</title>
 				<feature>Book Condensation</feature>
 				<page>0062-0084</page>
 				<allauthors>
 					<author>Roy Eugene Davis</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>A Guide to Daily Meditation Practice</title>
+				<feature></feature>
+				<page>0072-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Elevating Patience</title>
+				<feature></feature>
+				<page>0083-0083</page>
+				<allauthors />
 			</entry>
 		</part>
 		<part pnum="10" month="01" year="2003">
@@ -21709,8 +21784,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Ganesa--12: Ganesa and His Ganas</title>
-				<feature></feature>
+				<title>Ganesa--12: Ganesa and His <i>Ganas</i></title>
+				<feature>Ganesa</feature>
 				<page>0005-0007</page>
 				<allauthors>
 					<author>Paul Martin-Dubost</author>
@@ -21722,6 +21797,7 @@
 				<page>0008-0011</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+					<author>Natarajan A. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -21730,13 +21806,16 @@
 				<page>0012-0014</page>
 				<allauthors>
 					<author>Shanmishtai</author>
+					<author>Srinivasan V. S.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha--47: Complete Renunciation</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0015-0017</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Knowledge of Ultimate</title>
@@ -21744,13 +21823,16 @@
 				<page>0018-0021</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Minor Upanishads--21: Narayana Upanishad</title>
 				<feature>Minor Upanishads</feature>
 				<page>0022-0023</page>
-				<allauthors />
+				<allauthors>
+					<author>Narayanasvami Iyer K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Srimad Bhagavatam--6: Power of Mind</title>
@@ -21761,7 +21843,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>For the Young Readers: The Akshini Purusha</title>
+				<title>For the Young Readers: The <i>Akshini Purusha</i></title>
 				<feature></feature>
 				<page>0028-0032</page>
 				<allauthors>
@@ -21769,7 +21851,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Corner</title>
+				<title>Children's Corner: The Legend of Sakshi Gopal</title>
 				<feature>Children's Corner</feature>
 				<page>0033-0039</page>
 				<allauthors>
@@ -21779,39 +21861,41 @@
 			<entry>
 				<title>The Glory of Bharatavarsha--4: A Nation of Seekers</title>
 				<feature></feature>
-				<page>0040-0046</page>
+				<page>0040-0042</page>
 				<allauthors>
 					<author>Sankaranarayanan S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Wisdom Vehicle--20: Learn Sanskrit</title>
+				<title>Wisdom Vehicle--20: Learn Sanskrit.....with Bhartruhari</title>
 				<feature>Wisdom Vehicle</feature>
-				<page>0047-0052</page>
+				<page>0047-0051</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Laksha Deepa Utsava at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0053-0054</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>The Ultimate Understanding-Ramesh S. Balsekar's</title>
 				<feature>Book Review</feature>
 				<page>0055-0056</page>
-				<allauthors />
+				<allauthors>
+					<author>Mahesh M. C.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>CD Review</title>
+				<title>CD Review: Vedic Way to a Healthy Heart</title>
 				<feature>CD Review</feature>
-				<page>0057-0059</page>
+				<page>0057-0058</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Condensation: Vedantic Meditation</title>
+				<title>Book Condensation: <i>Vedantic</i> Meditation: Lighting the Flame of Awareness</title>
 				<feature>Book Condensation</feature>
 				<page>0060-0084</page>
 				<allauthors>
