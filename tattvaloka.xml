@@ -23518,7 +23518,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Stree Shakti--9: Welcome the New Year</title>
+				<title>Stree Sakti--9: Welcome the New Year</title>
 				<feature></feature>
 				<page>0007-0010</page>
 				<allauthors>
@@ -23529,14 +23529,17 @@
 				<title>Brahmasutra-Sankara-Bhashya--1: A Spiritual Panacea for Human Ills</title>
 				<feature></feature>
 				<page>0011-0014</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Mandukya Karika: Advaita Prakaranam</title>
 				<feature></feature>
-				<page>0015-0020</page>
+				<page>0015-0018</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23551,7 +23554,9 @@
 				<title>Yoga Vasishtha--59: In Search of the Mind</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0023-0025</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Upadesa Panchaka--2: Steps to the Great Revelation</title>
@@ -23572,7 +23577,7 @@
 			<entry>
 				<title>Srimad Bhagavatam--17: Spiritual Significance of Krishna's Birth</title>
 				<feature>Srimad Bhagavatam</feature>
-				<page>0035-0040</page>
+				<page>0035-0038</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
@@ -23588,13 +23593,13 @@
 			<entry>
 				<title>Cover Story: Makara Sankranti</title>
 				<feature>Cover Story</feature>
-				<page>0043-0046</page>
+				<page>0043-0043</page>
 				<allauthors>
 					<author>Sudarsan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Jagadguru's Visit to Kolluru)</title>
 				<feature>News and Events</feature>
 				<page>0047-0052</page>
 				<allauthors />
@@ -23608,11 +23613,18 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>The Yoga Vasishta (Abridged Version)-K. N. Subramanian</title>
 				<feature>Book Review</feature>
-				<page>0056-0058</page>
+				<page>0056-0057</page>
 				<allauthors>
 					<author>Ramaswami S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Memorable Moments with a Magnificent Sage-K. Suresh chandar</title>
+				<feature>Book Review</feature>
+				<page>0058-0058</page>
+				<allauthors>
 					<author>Soujanya Prakash</author>
 				</allauthors>
 			</entry>
@@ -23625,7 +23637,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>King Learns Self-Reliance from a Girl</title>
+				<feature></feature>
+				<page>0068-0068</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Children's Treasure: A Pot with a Hole</title>
 				<feature>Children's Treasure</feature>
 				<page>0083-0090</page>
 				<allauthors>
@@ -23637,7 +23655,7 @@
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -23656,6 +23674,7 @@
 				<page>0010-0012</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23669,15 +23688,15 @@
 			<entry>
 				<title>Ashtavakra Samhita--13: Abiding in the Self</title>
 				<feature>Ashtavakra Samhita</feature>
-				<page>0017-0019</page>
+				<page>0017-0018</page>
 				<allauthors>
 					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Restoring Sanatana Dharma</title>
+				<title>Restoring <i>Sanatana Dharma</i></title>
 				<feature></feature>
-				<page>0020-0024</page>
+				<page>0020-0022</page>
 				<allauthors>
 					<author>Gowrishankar V. R.</author>
 				</allauthors>
@@ -23699,9 +23718,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Stree Shakti--10: Guru and God</title>
+				<title>Stree Sakti--10: Guru and God</title>
 				<feature></feature>
-				<page>0032-0035</page>
+				<page>0032-0034</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -23715,9 +23734,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (His Holiness Visits Shrines in and Around Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0039-0049</page>
+				<page>0039-0043</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -23729,24 +23748,31 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Sri Gurukripa Vilasam (in Tamil)-Sri Bhashya Swamigal</title>
 				<feature>Book Review</feature>
-				<page>0051-0052</page>
+				<page>0051-0051</page>
 				<allauthors>
 					<author>Venkataraman C. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Devi Prayers-Dr. V. V. Parthasarathy</title>
+				<feature>Book Review</feature>
+				<page>0052-0052</page>
+				<allauthors>
 					<author>Mahesh M. C.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Special Feature: Sastras for Shanti</title>
+				<title>Special Feature: Sastras for <i>Shanti</i></title>
 				<feature>Special Feature</feature>
-				<page>0053-0078</page>
+				<page>0053-0077</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Monkey's Wisdom</title>
 				<feature>Children's Treasure</feature>
-				<page>0079-0086</page>
+				<page>0079-0085</page>
 				<allauthors>
 					<author>Bala Mithran</author>
 				</allauthors>
@@ -23762,16 +23788,20 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Brahmasutra-Sankara-Bhashya--2 Texts in Search of Truth</title>
+				<title>Brahmasutra-Sankara-Bhashya--2: Texts in Search of Truth</title>
 				<feature></feature>
 				<page>0007-0010</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Yoga Vasishtha--60: The Story of Vipaschit's Life</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0011-0013</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Ashtavakra Samhita--14: Detachment beyond Renunciation</title>
@@ -23800,9 +23830,10 @@
 			<entry>
 				<title>Isavasya Upanishad</title>
 				<feature></feature>
-				<page>0024-0028</page>
+				<page>0024-0026</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23822,7 +23853,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Stree Shakti--11: Rhapsodies of Holi</title>
+				<title>Stree Sakti--11: Rhapsodies of <i>Holi</i></title>
 				<feature></feature>
 				<page>0036-0041</page>
 				<allauthors>
@@ -23840,13 +23871,13 @@
 			<entry>
 				<title>Karma Yogi Narayana Guru</title>
 				<feature></feature>
-				<page>0045-0052</page>
+				<page>0045-0051</page>
 				<allauthors>
 					<author>Krishna Kumar R. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Makarasankranti at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0053-0053</page>
 				<allauthors />
@@ -23860,15 +23891,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>The Silent Power, a Compendium of Articles Culled from `The Mountain Path and The Call Divine</title>
 				<feature>Book Review</feature>
-				<page>0055-0057</page>
+				<page>0055-0056</page>
 				<allauthors>
 					<author>Mahesh M. C.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: The Himalayan Tradition of Yoda and Meditation</title>
+				<title>Book Condensation: The Himalayan Tradition of Yoga and Meditation</title>
 				<feature>Book Condensation</feature>
 				<page>0058-0078</page>
 				<allauthors>
@@ -23876,7 +23907,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Give what you want</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -23888,18 +23919,20 @@
 	<volume vnum="027">
 		<part pnum="01" month="04" year="2004">
 			<entry>
-				<title>Jagadguru Speaks... "Waste Not Tapas"</title>
+				<title>Jagadguru Speaks... Waste not Tapas</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Brahmasutra--Absolute Monism</title>
+				<title>Brahmasutra-Sankara-Bhashya--3: Absolute Monism-Doctrine <i>Par Excellence</i></title>
 				<feature></feature>
 				<page>0007-0009</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Aitareya Upanishad</title>
@@ -23907,6 +23940,7 @@
 				<page>0010-0014</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -23918,6 +23952,12 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>A New Exemplary School</title>
+				<feature></feature>
+				<page>0017-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Cover Story: Sringeri</title>
 				<feature>Cover Story</feature>
 				<page>0019-0019</page>
@@ -23926,15 +23966,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Unknown Stories--13: Sudarsana Chakra</title>
-				<feature></feature>
+				<title>Known Puranas--Unknown Stories--13: Sudarsana Chakra Siva's Gift to Vishnu</title>
+				<feature>Known Puranas--Unknown Stories</feature>
 				<page>0020-0023</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Stree Sakti--12: Jayantis</title>
+				<title>Stree Sakti--12: A Season of <i>Jayantis</i></title>
 				<feature></feature>
 				<page>0024-0027</page>
 				<allauthors>
@@ -23942,33 +23982,41 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gita in Modern Life--11: Svadharma</title>
+				<title>Gita in Modern Life--11: Importance of Svadharma</title>
 				<feature></feature>
-				<page>0028-0032</page>
+				<page>0028-0031</page>
 				<allauthors>
 					<author>Rohini</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Adi Sankaracharya Special Folder</title>
+				<title>Adi Sankaracharya Special Folder: The Great Colossus</title>
 				<feature></feature>
 				<page>0033-0042</page>
-				<allauthors />
+				<allauthors>
+					<author>Pandit Jawaharlal Nehru</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Kallas-Manasarovar Pilgrimage</title>
+				<title>The Realm of the Lord</title>
 				<feature></feature>
-				<page>0043-0047</page>
+				<page>0043-0046</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>Kailas-Manasarovar Pilgrimage</title>
+				<feature></feature>
+				<page>0047-0047</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>News and Events (Jagadguru Consecrates Temples)</title>
 				<feature>News and Events</feature>
-				<page>0048-0054</page>
+				<page>0048-0053</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Yogi Ramsuratkumar, under the Punnai Tree-M. Young</title>
 				<feature>Book Review</feature>
 				<page>0055-0055</page>
 				<allauthors>
@@ -23976,7 +24024,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Ellam Ondre</title>
+				<title>Book Condensation: <i>Ellam Ondre</i> All is One</title>
 				<feature>Book Condensation</feature>
 				<page>0056-0078</page>
 				<allauthors>
@@ -23984,7 +24032,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Who is most Powerful?</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -23994,9 +24042,9 @@
 		</part>
 		<part pnum="02" month="05" year="2004">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks... Real Meditation</title>
 				<feature></feature>
-				<page>0007-0008</page>
+				<page>0007-0007</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -24005,7 +24053,9 @@
 				<title>Brahmasutra-Sankara-Bhashya--4: What is Soul?</title>
 				<feature></feature>
 				<page>0009-0011</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Ashtavakra Samhita--15: Men of Illumination</title>
@@ -24021,6 +24071,7 @@
 				<page>0014-0018</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24042,7 +24093,7 @@
 			<entry>
 				<title>Be One with Truth</title>
 				<feature></feature>
-				<page>0026-0028</page>
+				<page>0026-0027</page>
 				<allauthors>
 					<author>Paul G. Van Oyen</author>
 				</allauthors>
@@ -24050,13 +24101,13 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--14: Krishna's Headache</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0029-0036</page>
+				<page>0029-0032</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Stree Sakti--13: The Grhalakshmi</title>
+				<title>Stree Sakti--13: The <i>Grhalakshmi</i></title>
 				<feature></feature>
 				<page>0037-0039</page>
 				<allauthors>
@@ -24072,7 +24123,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Cover Story: Sri Narasimha Jayanti</title>
+				<title>Cover Story: Sri Narasimha <i>Jayanti</i></title>
 				<feature>Cover Story</feature>
 				<page>0043-0043</page>
 				<allauthors>
@@ -24088,7 +24139,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (His Holiness Showers Blessings on Vardhanti Day)</title>
 				<feature>News and Events</feature>
 				<page>0046-0051</page>
 				<allauthors />
@@ -24096,7 +24147,7 @@
 			<entry>
 				<title>Vajrakirita--An Inspired Offering</title>
 				<feature></feature>
-				<page>0052-0054</page>
+				<page>0052-0053</page>
 				<allauthors>
 					<author>Mani Narayanswami</author>
 				</allauthors>
@@ -24110,11 +24161,11 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Illuminating Interactions with His Holiness Jagadguru Sri Bharati Tirtha Mahaswamigal-K. Suresh Chandar</title>
 				<feature>Book Review</feature>
 				<page>0057-0057</page>
 				<allauthors>
-					<author>Tharini Viswanath Ms.</author>
+					<author>Tharini Viswanath</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24126,7 +24177,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Unlucky Face</title>
 				<feature>Children's Treasure</feature>
 				<page>0081-0088</page>
 				<allauthors>
@@ -24136,9 +24187,9 @@
 		</part>
 		<part pnum="03" month="06" year="2004">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Importance of Humility</title>
 				<feature></feature>
-				<page>0007-0008</page>
+				<page>0007-0007</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -24147,7 +24198,9 @@
 				<title>Brahmasutra-Sankara-Bhashya--5: Attributes of Soul</title>
 				<feature></feature>
 				<page>0009-0012</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Chandogyopanishad: Song that Seeks</title>
@@ -24155,12 +24208,13 @@
 				<page>0013-0017</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Ashtavakra Samhita--16: True Nature of Self</title>
 				<feature>Ashtavakra Samhita</feature>
-				<page>0018-0022</page>
+				<page>0018-0020</page>
 				<allauthors>
 					<author>Nityaswarupananda Swami</author>
 				</allauthors>
@@ -24206,21 +24260,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Cover Story: Divine Justice</title>
+				<title>Cover Story: Divine Justice-The Grace of Lord Subrahmanya</title>
 				<feature>Cover Story</feature>
-				<page>0052-0056</page>
+				<page>0052-0055</page>
 				<allauthors>
 					<author>Sudarsan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (His Holiness Performs Kanakabhisheka to Adi Sankara)</title>
 				<feature>News and Events</feature>
 				<page>0057-0057</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>The Illusions of Life-Dr. Vijay Sankar</title>
 				<feature>Book Review</feature>
 				<page>0058-0058</page>
 				<allauthors>
@@ -24228,15 +24282,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Gitamrta Mahima</title>
-				<feature>Book Condensation</feature>
+				<title>Special Feature: Gitamrta Mahima</title>
+				<feature>Special Feature</feature>
 				<page>0059-0080</page>
 				<allauthors>
 					<author>Ananthalakshmi Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: The Palanquin Bearers</title>
 				<feature>Children's Treasure</feature>
 				<page>0081-0088</page>
 				<allauthors>
@@ -24246,7 +24300,7 @@
 		</part>
 		<part pnum="04" month="07" year="2004">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Maintain Equanimity</title>
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
@@ -24254,10 +24308,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Brahmasutra-Sankara-Bhashya--6: Immortality Is Natural</title>
+				<title>Brahmasutra-Sankara-Bhashya--6: Immortality is Natural</title>
 				<feature></feature>
 				<page>0009-0012</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Chandogyopanishad: Independent Meditation</title>
@@ -24265,10 +24321,11 @@
 				<page>0013-0016</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Srimad Bhagavatam--22: Slaying of Tamas</title>
+				<title>Srimad Bhagavatam--22: Slaying of <i>Tamas</i></title>
 				<feature>Srimad Bhagavatam</feature>
 				<page>0017-0020</page>
 				<allauthors>
@@ -24284,9 +24341,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Music Divine: Gandharva Veda</title>
+				<title>Music Divine--1: Gandharva Veda</title>
 				<feature></feature>
-				<page>0024-0032</page>
+				<page>0024-0028</page>
 				<allauthors>
 					<author>Rohini</author>
 				</allauthors>
@@ -24332,7 +24389,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Power of Tulsi Mata</title>
+				<title>The Power of <i>Tulsi Mata</i></title>
 				<feature></feature>
 				<page>0049-0050</page>
 				<allauthors>
@@ -24340,7 +24397,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Mallikarjuna Temple Kumbhabhishekam near Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0051-0051</page>
 				<allauthors />
@@ -24348,13 +24405,19 @@
 			<entry>
 				<title>Special Feature: Gitamrta Mahima</title>
 				<feature>Special Feature</feature>
-				<page>0052-0074</page>
+				<page>0052-0072</page>
 				<allauthors>
 					<author>Ananthalakshmi Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Benefits of Chanting the <i>Bhagavad Gita</i></title>
+				<feature></feature>
+				<page>0073-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Children's Treasure: The Tongue and the Teeth</title>
 				<feature>Children's Treasure</feature>
 				<page>0075-0082</page>
 				<allauthors>
@@ -24362,7 +24425,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles (2003-04)</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 2003-March 2004</title>
 				<feature></feature>
 				<page>0083-0088</page>
 				<allauthors />
@@ -24370,9 +24433,9 @@
 		</part>
 		<part pnum="05" month="08" year="2004">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Innate Qualities for Ideal Life</title>
 				<feature></feature>
-				<page>0007-0008</page>
+				<page>0007-0007</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -24381,7 +24444,9 @@
 				<title>Brahmasutra-Sankara-Bhashya--7: Knowledge is Innate, Absolute</title>
 				<feature></feature>
 				<page>0009-0012</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Chandogya Upanishad: Primacy of Prana</title>
@@ -24389,6 +24454,7 @@
 				<page>0013-0018</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24418,13 +24484,13 @@
 			<entry>
 				<title>Music Divine--2: Embodiment of Melody</title>
 				<feature></feature>
-				<page>0030-0036</page>
+				<page>0030-0032</page>
 				<allauthors>
 					<author>Rohini</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Stree Sakti--16: The Ramayana for the Common Man</title>
+				<title>Stree Sakti--16: The <i>Ramayana</i> for the Common Man</title>
 				<feature></feature>
 				<page>0037-0041</page>
 				<allauthors>
@@ -24448,7 +24514,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Save, Do not Hoard:</title>
+				<title>Save, Do not Hoard</title>
 				<feature></feature>
 				<page>0047-0048</page>
 				<allauthors>
@@ -24458,17 +24524,17 @@
 			<entry>
 				<title>Medicare at Sringeri</title>
 				<feature></feature>
-				<page>0049-0056</page>
+				<page>0049-0055</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Vyasa Puja at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0057-0057</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>CD Review</title>
+				<title>Ojas Life Energy</title>
 				<feature>CD Review</feature>
 				<page>0058-0058</page>
 				<allauthors />
@@ -24482,7 +24548,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Cat on the Cotton Bale</title>
 				<feature>Children's Treasure</feature>
 				<page>0081-0088</page>
 				<allauthors>
@@ -24492,9 +24558,9 @@
 		</part>
 		<part pnum="06" month="09" year="2004">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Be Discreet</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -24511,7 +24577,9 @@
 				<title>Brahmasutra-Sankara-Bhashya--8: Boundless Joy, not Sorrow, Is Our Natural State</title>
 				<feature></feature>
 				<page>0012-0015</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Chandogya Upanishad: Bhuma Vidya Prakaranam</title>
@@ -24519,6 +24587,7 @@
 				<page>0016-0020</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24540,13 +24609,13 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--18: Was Rukmini's Action Righteous?</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0031-0040</page>
+				<page>0031-0034</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Cover Story: Sri Krishna Janmashtami</title>
+				<title>Cover Story: Sri Krishna <i>Janmashtami</i></title>
 				<feature>Cover Story</feature>
 				<page>0041-0041</page>
 				<allauthors>
@@ -24562,15 +24631,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Stree Sakti--17: Varalakshmi Vrata and Raksha Bandan</title>
+				<title>Stree Sakti--17: Varalakshmi <i>Vrata</i> and <i>Raksha Bandan</i></title>
 				<feature></feature>
-				<page>0046-0052</page>
+				<page>0046-0051</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Chaturmasya at Sringeri</title>
+				<title>News and Events: (Chaturmasya at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0053-0054</page>
 				<allauthors />
@@ -24578,13 +24647,13 @@
 			<entry>
 				<title>Special Feature: Personality Development</title>
 				<feature>Special Feature</feature>
-				<page>0055-0080</page>
+				<page>0055-0079</page>
 				<allauthors>
 					<author>Vivekananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Do what I say</title>
 				<feature>Children's Treasure</feature>
 				<page>0081-0088</page>
 				<allauthors>
@@ -24594,9 +24663,9 @@
 		</part>
 		<part pnum="07" month="10" year="2004">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Lead Life with Detachment</title>
 				<feature></feature>
-				<page>0007-0008</page>
+				<page>0007-0007</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -24605,18 +24674,21 @@
 				<title>Brahmasutra-Sankara-Bhashya--9: Oneness behind Multiplicity</title>
 				<feature></feature>
 				<page>0009-0013</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Chandogya Upanishad: Prajapati Vidya</title>
+				<title>Chandogya Upanishad: Prajapati <i>Vidya</i></title>
 				<feature></feature>
 				<page>0014-0016</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Ashtavakra Samhita--20: Wise Need No Liberation</title>
+				<title>Ashtavakra Samhita--20: Wise Need no Liberation</title>
 				<feature>Ashtavakra Samhita</feature>
 				<page>0017-0020</page>
 				<allauthors>
@@ -24627,10 +24699,12 @@
 				<title>Yoga Vasishtha--61: Mind and Prana</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0021-0023</page>
-				<allauthors />
+				<allauthors>
+					<author>Venkatesananda Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Srimad Bhagavatam--25: Dharmic Rains Wash Away Sufferings</title>
+				<title>Srimad Bhagavatam--25: Dharmic Rains Wash away Sufferings</title>
 				<feature>Srimad Bhagavatam</feature>
 				<page>0024-0028</page>
 				<allauthors>
@@ -24640,7 +24714,7 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--19: Losing Is also Winning</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0029-0036</page>
+				<page>0029-0032</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -24664,25 +24738,35 @@
 			<entry>
 				<title>Cover Story: Durga Puja</title>
 				<feature>Cover Story</feature>
-				<page>0044-0048</page>
+				<page>0044-0047</page>
 				<allauthors>
 					<author>Sudarsan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Medical Camp at Sringeri</title>
+				<title>News and Events: Two-Day Medical Camp at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0049-0050</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Hanuman, The Most Sagacious-K. N. Subramanian</title>
 				<feature>Book Review</feature>
-				<page>0051-0053</page>
-				<allauthors />
+				<page>0051-0052</page>
+				<allauthors>
+					<author>Venkataraman K. S.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: The Essence and Purposeof Yoga</title>
+				<title>Yajurveda Trikala Sandhyavandanam-A. R. Parthasarathy</title>
+				<feature>Book Review</feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author>Prasad Krishnan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Condensation: The Essence and Purpose of Yoga: The Initiatory Pathways to the Transcendent</title>
 				<feature>Book Condensation</feature>
 				<page>0054-0076</page>
 				<allauthors>
@@ -24690,7 +24774,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: God is Great</title>
 				<feature>Children's Treasure</feature>
 				<page>0077-0084</page>
 				<allauthors>
@@ -24700,7 +24784,7 @@
 		</part>
 		<part pnum="08" month="11" year="2004">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Purity of Mind Supreme</title>
 				<feature></feature>
 				<page>0007-0008</page>
 				<allauthors>
@@ -24711,7 +24795,9 @@
 				<title>Brahmasutra-Sankara-Bhashya--10: Monism--The Logical Conclusion</title>
 				<feature></feature>
 				<page>0009-0013</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Imagery of Adi Sankara</title>
@@ -24727,6 +24813,7 @@
 				<page>0019-0023</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24740,7 +24827,7 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--20: When God Is with You...</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0029-0038</page>
+				<page>0029-0032</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -24764,13 +24851,13 @@
 			<entry>
 				<title>Cover Story: Revering Gurus</title>
 				<feature>Cover Story</feature>
-				<page>0050-0052</page>
+				<page>0050-0051</page>
 				<allauthors>
 					<author>Sudarsan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Special Pujas at Sringeri</title>
+				<title>News and Events: (Special Pujas at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0053-0055</page>
 				<allauthors />
@@ -24778,13 +24865,19 @@
 			<entry>
 				<title>Book Condensation: The Path of Light</title>
 				<feature>Book Condensation</feature>
-				<page>0056-0082</page>
+				<page>0056-0081</page>
 				<allauthors>
 					<author>Roy Eugene Davis</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>How to do it</title>
+				<feature></feature>
+				<page>0072-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Children's Treasure: Everything has a Purpose</title>
 				<feature>Children's Treasure</feature>
 				<page>0083-0090</page>
 				<allauthors>
@@ -24794,9 +24887,9 @@
 		</part>
 		<part pnum="09" month="12" year="2004">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Waste not your Life</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -24805,14 +24898,17 @@
 				<title>Brahmasutra-Sankara-Bhashya--11: God's Omnipresence--Proof of Monism</title>
 				<feature></feature>
 				<page>0007-0009</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Bharati Krishna Teerthaji Maharaj</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>The Universality of The Brihadaranyaka Upanishad</title>
+				<title>The Universality of the <i>Brihadaranyaka Upanishad</i></title>
 				<feature></feature>
 				<page>0010-0013</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -24824,7 +24920,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Prajna Yoga--7: Remote Control Mudras</title>
+				<title>Prajna Yoga--7: Remote Control <i>Mudras</i></title>
 				<feature>Prajna Yoga</feature>
 				<page>0017-0023</page>
 				<allauthors>
@@ -24832,7 +24928,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Known Puranas--Unknown Stories--21: Will Hanuman Ever Confront Rama?</title>
+				<title>Known Puranas--Unknown Stories--21: Will Hanuman ever Confront Rama?</title>
 				<feature>Known Puranas--Unknown Stories</feature>
 				<page>0024-0027</page>
 				<allauthors>
@@ -24842,7 +24938,7 @@
 			<entry>
 				<title>Srimad Bhagavatam--27: Rasa Lila: Dance of Eternal Delight</title>
 				<feature>Srimad Bhagavatam</feature>
-				<page>0028-0036</page>
+				<page>0028-0032</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
@@ -24872,30 +24968,37 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Aradhanas of Two Gurus</title>
+				<title>News and Events: (Aradhanas of Two Gurus)</title>
 				<feature>News and Events</feature>
-				<page>0049-0051</page>
+				<page>0049-0050</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Power Thyself-Strive for Excellence for Better Future-Dr. R. Venkataraman</title>
 				<feature>Book Review</feature>
-				<page>0052-0054</page>
+				<page>0052-0053</page>
 				<allauthors>
 					<author>Subramanian T. V., Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Isa Upanisad Revisited-N. Srinivasagopalan</title>
+				<feature>Book Review</feature>
+				<page>0053-0053</page>
+				<allauthors>
 					<author>Ramaswami S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Book Condensation: The Song of Silence</title>
 				<feature>Book Condensation</feature>
-				<page>0055-0078</page>
+				<page>0055-0077</page>
 				<allauthors>
 					<author>Nochur Venkataraman</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Filling up a Blank Space</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
