@@ -26817,17 +26817,18 @@
 			<entry>
 				<title>Jagadguru Speaks</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maneesha Panchakam--1: There Is Only One Consciousness</title>
+				<title>Maneesha Panchakam--1: There is Only One Consciousness</title>
 				<feature></feature>
 				<page>0007-0009</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26855,7 +26856,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Temples and Art--2: Rituals and Ritual Utensils</title>
+				<title>Temples and Art--2: Rituals and Ritual Utensils: Abhisheka Ceremonial Bath</title>
 				<feature></feature>
 				<page>0028-0035</page>
 				<allauthors />
@@ -26879,25 +26880,27 @@
 			<entry>
 				<title>Cover Story: Bhadrachala Ramadas</title>
 				<feature>Cover Story</feature>
-				<page>0046-0050</page>
+				<page>0046-0049</page>
 				<allauthors>
 					<author>Sudarsan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Maha Sivaratri at Sringeri</title>
+				<title>News and Events (Maha Sivaratri at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0051-0053</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Special Feature: Nature of the Self</title>
+				<title>Special Feature: The Nature of the Self</title>
 				<feature>Special Feature</feature>
-				<page>0054-0078</page>
-				<allauthors />
+				<page>0054-0077</page>
+				<allauthors>
+					<author>Gopal</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Horse in the Stable</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -26907,19 +26910,20 @@
 		</part>
 		<part pnum="02" month="05" year="2006">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Do not Blame God for Your Misery</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maneesha Panchakam--2: Consciousness Is the Life Spark</title>
+				<title>Maneesha Panchakam--2: Consciousness is the Life Spark</title>
 				<feature></feature>
 				<page>0007-0009</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -26931,9 +26935,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Ancient Greats--4: Panini</title>
+				<title>Ancient Greats--4: Panini: The Renowned Grammarian</title>
 				<feature>Ancient Greats</feature>
-				<page>0016-0021</page>
+				<page>0016-0020</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -26949,11 +26953,11 @@
 			<entry>
 				<title>Temples and Art--3: Rituals and Ritual Utensils</title>
 				<feature></feature>
-				<page>0026-0034</page>
+				<page>0026-0030</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Adi Sankara's Aparokshanubhuti</title>
+				<title>Adi Sankara's <i>Aparokshanubhuti</i></title>
 				<feature></feature>
 				<page>0035-0040</page>
 				<allauthors>
@@ -26961,7 +26965,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Cover Story: 'I Am Brahman'</title>
+				<title>Cover Story: `I Am Brahman'</title>
 				<feature>Cover Story</feature>
 				<page>0041-0041</page>
 				<allauthors>
@@ -26983,19 +26987,23 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review: Jivanmuktabharani</title>
+				<title>Jivanmuktabharati-His Holiness Sri Chandrasekhara Bharati Mahaswamigal</title>
 				<feature>Book Review</feature>
 				<page>0052-0054</page>
-				<allauthors />
+				<allauthors>
+					<author>Ramaswami S., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Yogi in the Lab</title>
+				<title>Book Condensation: Yogi in the Lab: The Ins and Outs of Mind-Body Energy</title>
 				<feature>Book Condensation</feature>
 				<page>0055-0078</page>
-				<allauthors />
+				<allauthors>
+					<author>Veda Bharati Swami</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Elephant in a Pot</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -27005,19 +27013,20 @@
 		</part>
 		<part pnum="03" month="06" year="2006">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Solitude Ideal for Sadhakas</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maneesha Panchakam--3: Universe--a Play of Pure Consciousness</title>
+				<title>Maneesha Panchakam--3: Universe--A Play of Pure Consciousness</title>
 				<feature></feature>
 				<page>0007-0009</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27031,7 +27040,7 @@
 			<entry>
 				<title>Sites of Sanctity--6: Famous Shrines Dot this Region</title>
 				<feature></feature>
-				<page>0016-0021</page>
+				<page>0016-0020</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -27083,7 +27092,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review: Essential Wisdom and Holy Gita, Ready Reference</title>
+				<title>Essential Wisdom of the Bhagavad Gita-Jack Hawley</title>
 				<feature>Book Review</feature>
 				<page>0053-0054</page>
 				<allauthors>
@@ -27091,13 +27100,23 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Special Feature: The Upanishads and the Gita</title>
-				<feature>Special Feature</feature>
-				<page>0055-0078</page>
-				<allauthors />
+				<title>Holy Gita, Ready Reference</title>
+				<feature>Book Review</feature>
+				<page>0054-0054</page>
+				<allauthors>
+					<author>Lalita Ramakrishna</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Special Feature: The <i>Upanishads</i> and the <i>Gita</i></title>
+				<feature>Special Feature</feature>
+				<page>0055-0078</page>
+				<allauthors>
+					<author>Karan Singh, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Children's Treasure: Precious Plate</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -27107,9 +27126,9 @@
 		</part>
 		<part pnum="04" month="07" year="2006">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Seek not the Impossible; Weep not over Loss</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -27120,6 +27139,7 @@
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27149,7 +27169,7 @@
 			<entry>
 				<title>Kapilopakhyana</title>
 				<feature></feature>
-				<page>0026-0034</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Goda Venkateswara Sastri, Dr.</author>
 				</allauthors>
@@ -27171,13 +27191,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: His Holiness Visits Hassan District</title>
+				<title>News and Events (His Holiness Visits Hassan District)</title>
 				<feature>News and Events</feature>
 				<page>0042-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review: Hinduism in Daily Life</title>
+				<title>Hinduism in Daily Life-M. R. Pai</title>
 				<feature>Book Review</feature>
 				<page>0049-0049</page>
 				<allauthors>
@@ -27187,13 +27207,13 @@
 			<entry>
 				<title>Feature for the Young Readers: Students' Success in Life</title>
 				<feature></feature>
-				<page>0050-0072</page>
+				<page>0050-0071</page>
 				<allauthors>
 					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Less Luggage, more Comfort</title>
 				<feature>Children's Treasure</feature>
 				<page>0073-0080</page>
 				<allauthors>
@@ -27201,7 +27221,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles (April 2005-March 06)</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 2005-March 2006</title>
 				<feature></feature>
 				<page>0081-0086</page>
 				<allauthors />
@@ -27209,9 +27229,9 @@
 		</part>
 		<part pnum="05" month="08" year="2006">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Avoid Seeking Help; Conquer Lust</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -27222,6 +27242,7 @@
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27251,7 +27272,7 @@
 			<entry>
 				<title>Narayaniyam--A Masterpiece of Encapsulation</title>
 				<feature></feature>
-				<page>0027-0034</page>
+				<page>0027-0030</page>
 				<allauthors>
 					<author>Vaideeswaran N.</author>
 				</allauthors>
@@ -27259,7 +27280,7 @@
 			<entry>
 				<title>Ancient Values Spur Today's Management</title>
 				<feature></feature>
-				<page>0035-0041</page>
+				<page>0035-0040</page>
 				<allauthors>
 					<author>Jagan Mohan Reddy A., Dr.</author>
 				</allauthors>
@@ -27273,17 +27294,24 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Chaturmasya Vrata of His Holiness</title>
+				<title>News and Events (Chaturmasya Vrata of His Holiness)</title>
 				<feature>News and Events</feature>
 				<page>0047-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review: Luminous Kashi to Virant Kashi The Upanishads: Spiritual Awakening</title>
+				<title>Luminous Kashi to Vibrant Kashi-K. Chandramouli</title>
 				<feature>Book Review</feature>
-				<page>0049-0051</page>
+				<page>0049-0050</page>
 				<allauthors>
 					<author>Arudra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Upanishads: Spiritual Awakening-R. B. Athreya</title>
+				<feature>Book Review</feature>
+				<page>0050-0050</page>
+				<allauthors>
 					<author>Ramaswami S., Prof.</author>
 				</allauthors>
 			</entry>
@@ -27291,10 +27319,12 @@
 				<title>Book Condensation: Yoga 1 to 10</title>
 				<feature>Book Condensation</feature>
 				<page>0052-0078</page>
-				<allauthors />
+				<allauthors>
+					<author>Ananda Balayogi Bhavanani, Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Self-Help is the Best Help</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -27304,19 +27334,20 @@
 		</part>
 		<part pnum="06" month="09" year="2006">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Importance of character</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Hasthamalakiyam--1: Knowledge In a Nutshell</title>
+				<title>Hasthamalakiyam--1: Knowledge in a Nutshell</title>
 				<feature></feature>
 				<page>0007-0009</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27328,9 +27359,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Exalted Position of Women in the Ramayana</title>
+				<title>Exalted Position of Women in the <i>Ramayana</i></title>
 				<feature></feature>
-				<page>0016-0020</page>
+				<page>0016-0019</page>
 				<allauthors>
 					<author>Sivananda Vijayalakshmi</author>
 				</allauthors>
@@ -27346,7 +27377,7 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--42: Is Lakshmi Goddess of Wealth Alone?</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0026-0034</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -27360,7 +27391,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Bharata Muni, Father of Natya Sastra</title>
+				<title>Bharata Muni, Father of <i>Natya Sastra</i></title>
 				<feature></feature>
 				<page>0040-0044</page>
 				<allauthors>
@@ -27378,13 +27409,13 @@
 			<entry>
 				<title>Science, Spirituality and Role of Youth</title>
 				<feature></feature>
-				<page>0046-0054</page>
+				<page>0046-0053</page>
 				<allauthors>
 					<author>Misra K. P., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Guru Darsan at Sringeri during Chaturmasya</title>
+				<title>News and Events (Guru Darsan at Sringeri during Chaturmasya)</title>
 				<feature>News and Events</feature>
 				<page>0055-0056</page>
 				<allauthors />
@@ -27393,10 +27424,12 @@
 				<title>Book Condensation: Yoga 1 to 10</title>
 				<feature>Book Condensation</feature>
 				<page>0057-0078</page>
-				<allauthors />
+				<allauthors>
+					<author>Ananda Balayogi Bhavanani, Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Message of the Mango Tree</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -27406,23 +27439,24 @@
 		</part>
 		<part pnum="07" month="10" year="2006">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Use Human Birth to Attain <i>Mukti</i></title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Hastamalakiyam--2: Atma Is All-pervasive, Yet Free</title>
+				<title>Hastamalakiyam--2: Atma is All-Pervasive, Yet Free</title>
 				<feature></feature>
 				<page>0007-0009</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sakti, the All-pervading Power</title>
+				<title>Sakti, the All-Pervading Power</title>
 				<feature></feature>
 				<page>0010-0013</page>
 				<allauthors>
@@ -27440,7 +27474,7 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--43: Sitayanam</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0019-0024</page>
+				<page>0019-0023</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -27448,7 +27482,7 @@
 			<entry>
 				<title>Sacred Sites in Madhya Pradesh</title>
 				<feature></feature>
-				<page>0025-0036</page>
+				<page>0025-0030</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -27470,7 +27504,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: His Holiness Concludes Chaturmasya Vrata</title>
+				<title>News and Events (His Holiness Concludes Chaturmasya Vrata)</title>
 				<feature>News and Events</feature>
 				<page>0049-0050</page>
 				<allauthors />
@@ -27486,13 +27520,13 @@
 			<entry>
 				<title>Book Condensation: Ramprasad, the Melodious Mystic</title>
 				<feature>Book Condensation</feature>
-				<page>0052-0080</page>
+				<page>0052-0079</page>
 				<allauthors>
 					<author>Budhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Walking on Water</title>
 				<feature>Children's Treasure</feature>
 				<page>0081-0088</page>
 				<allauthors>
@@ -27502,19 +27536,20 @@
 		</part>
 		<part pnum="08" month="11" year="2006">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...What the Tree Teaches</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Hastamalakiyam--3: Consciousness Is Nature of Self</title>
+				<title>Hastamalakiyam--3: Consciousness is Nature of Self</title>
 				<feature></feature>
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27534,7 +27569,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Ram Charit Manas</title>
+				<title>Ram Charit Manas: An Immortal Classic</title>
 				<feature></feature>
 				<page>0022-0025</page>
 				<allauthors>
@@ -27542,9 +27577,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Known Puranas--Unknown Stories--44: Who Killed Karna?</title>
+				<title>Known Puranas--Unknown Stories--45: Who Killed Karna?</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0026-0036</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -27574,13 +27609,13 @@
 			<entry>
 				<title>Bhakti Yoga in a Nutshell</title>
 				<feature></feature>
-				<page>0052-0056</page>
+				<page>0052-0055</page>
 				<allauthors>
 					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Navaratri Celebrations at Sringeri</title>
+				<title>News and Events (Navaratri Celebrations at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0057-0059</page>
 				<allauthors />
@@ -27594,7 +27629,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Small Desire and Big Desire</title>
 				<feature>Children's Treasure</feature>
 				<page>0081-0088</page>
 				<allauthors>
@@ -27604,19 +27639,20 @@
 		</part>
 		<part pnum="09" month="12" year="2006">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Advise only those Inclined to Accept</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Hastamalakiyam--4: Reflected Consciousness Has No Reality</title>
+				<title>Hastamalakiyam--4: Reflected Consciousness has no Reality</title>
 				<feature></feature>
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27636,9 +27672,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Known Puranas--Unknown Stories--45: Did Rama Have A Sister?</title>
+				<title>Known Puranas--Unknown Stories--45: Did Rama have a Sister?</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0020-0025</page>
+				<page>0020-0024</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -27646,7 +27682,7 @@
 			<entry>
 				<title>Andhra Pradesh's Siva Shrines</title>
 				<feature></feature>
-				<page>0026-0036</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -27662,13 +27698,13 @@
 			<entry>
 				<title>Cover Story: Vayu (Energy of Life)</title>
 				<feature>Cover Story</feature>
-				<page>0042-0048</page>
+				<page>0042-0047</page>
 				<allauthors>
 					<author>Sudarsan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: His Holiness Visits Kigga</title>
+				<title>News and Events (His Holiness Visits Kigga)</title>
 				<feature>News and Events</feature>
 				<page>0049-0050</page>
 				<allauthors />
@@ -27676,13 +27712,13 @@
 			<entry>
 				<title>Book Condensation: Overcoming Anger--A Holistic Approach</title>
 				<feature>Book Condensation</feature>
-				<page>0051-0080</page>
+				<page>0051-0079</page>
 				<allauthors>
 					<author>Budhananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Faith must not be Foolish</title>
 				<feature>Children's Treasure</feature>
 				<page>0081-0088</page>
 				<allauthors>
@@ -27692,19 +27728,20 @@
 		</part>
 		<part pnum="10" month="01" year="2007">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Attain Knowledge with Determination</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Hastamalakiyam--5: Atma Is Behind All Cognitions</title>
+				<title>Hastamalakiyam--5: Atma is Behind all Cognitions</title>
 				<feature></feature>
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27732,7 +27769,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Known Puranas--Unknown Stories--46: Why A Charioteer for Surya?</title>
+				<title>Known Puranas--Unknown Stories--46: Why a Charioteer for Surya?</title>
 				<feature>Known Puranas--Unknown Stories</feature>
 				<page>0025-0028</page>
 				<allauthors>
@@ -27742,7 +27779,7 @@
 			<entry>
 				<title>When the Light Dawns</title>
 				<feature></feature>
-				<page>0029-0034</page>
+				<page>0029-0030</page>
 				<allauthors>
 					<author>Paul G. Van Oyen</author>
 				</allauthors>
@@ -27758,21 +27795,29 @@
 			<entry>
 				<title>Anjana Nidanam--1: Disturbance of Balance of Humors</title>
 				<feature></feature>
-				<page>0040-0046</page>
+				<page>0040-0045</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Ati Rudra Maha Yajnam at Sringeri</title>
+				<title>News and Events (Ati Rudra Maha Yajnam at Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0047-0049</page>
+				<page>0047-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review: Kaivalya Gita (Vol. I) A Bird's Eyeview of Srimad Bhagavatam</title>
+				<title>Kaivalya Gita (Vol. I)-Dr. Vijay S. Sankar</title>
 				<feature>Book Review</feature>
-				<page>0050-0053</page>
+				<page>0050-0051</page>
+				<allauthors>
+					<author>Peter Julian Capper</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Bird's Eyeview of Srimad Bhagavatam-Swami (Devi) Vasantananda</title>
+				<feature>Book Review</feature>
+				<page>0051-0052</page>
 				<allauthors>
 					<author>Arudra</author>
 				</allauthors>
@@ -27780,13 +27825,13 @@
 			<entry>
 				<title>Book Condensation: Ramalinga: Poet and Prophet</title>
 				<feature>Book Condensation</feature>
-				<page>0054-0078</page>
+				<page>0054-0077</page>
 				<allauthors>
 					<author>Purasu Balakrishnan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Search and Research</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -27796,19 +27841,20 @@
 		</part>
 		<part pnum="11" month="02" year="2007">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Be Steady even in Hardship</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Hastamalakiyam--6: Bondage of Jiva Is Apparent</title>
+				<title>Hastamalakiyam--6: Bondage of Jiva is Apparent</title>
 				<feature></feature>
 				<page>0007-0009</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27830,7 +27876,7 @@
 			<entry>
 				<title>CSR: A Step Beyond Profit Maximisation</title>
 				<feature></feature>
-				<page>0019-0024</page>
+				<page>0019-0022</page>
 				<allauthors>
 					<author>Jagan Mohan Reddy A., Dr.</author>
 				</allauthors>
@@ -27846,7 +27892,7 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--47: Is Vishnu a Devotee of Siva?</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0029-0034</page>
+				<page>0029-0032</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -27868,21 +27914,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Kalabhairavashtami at Sringeri</title>
+				<title>News and Events (Kalabhairavashtami at Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0045-0050</page>
+				<page>0045-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Book Condensation: Some Guidelines to Inner Life</title>
 				<feature>Book Condensation</feature>
-				<page>0051-0078</page>
+				<page>0051-0077</page>
 				<allauthors>
 					<author>Gokulananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Think only Twice</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -27892,19 +27938,20 @@
 		</part>
 		<part pnum="12" month="03" year="2007">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Company of <i>Mahans</i> Elevates People</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upadesa Saram--1: Isvara Alone Is Dispenser of Results</title>
+				<title>Upadesa Saram--1: Isvara alone is Dispenser of Results</title>
 				<feature>Upadesa Saram</feature>
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -27924,7 +27971,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Managing People: Ancient Values Relevant Todya</title>
+				<title>Managing People: Ancient Values Relevant Today</title>
 				<feature></feature>
 				<page>0019-0025</page>
 				<allauthors>
@@ -27958,19 +28005,19 @@
 			<entry>
 				<title>Anjana Nidanam--2: How to Identify Diseases</title>
 				<feature></feature>
-				<page>0042-0044</page>
+				<page>0042-0043</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: His Holiness Tours Karnataka Districts</title>
+				<title>News and Events (His Holiness Tours Karnataka Districts)</title>
 				<feature>News and Events</feature>
-				<page>0045-0050</page>
+				<page>0045-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review: Temple Towns of Tamil Nadu</title>
+				<title>Temple Towns of Tamil Nadu</title>
 				<feature>Book Review</feature>
 				<page>0051-0052</page>
 				<allauthors>
@@ -27986,7 +28033,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Origin of Footwear</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -27996,15 +28043,31 @@
 		</part>
 		<part pnum="99" month="0" year="">
 			<entry>
+				<title>Trends and People</title>
+				<feature>Editorial</feature>
+				<page>0002-0002</page>
+				<allauthors>
+					<author>Mohan Sivanand</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>It Talks, It Thinks, It Can Drive Itself</title>
 				<feature></feature>
-				<page>0004-0033</page>
+				<page>0004-0017</page>
 				<allauthors>
 					<author>Michelle Krebs</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Power Up Your Home Computer</title>
+				<title>Special Feature: Hunt for the Hacker Spy</title>
+				<feature>Special Feature</feature>
+				<page>0018-0033;0143-0160</page>
+				<allauthors>
+					<author>Lawrence Elliott</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Power Up your Home Computer</title>
 				<feature></feature>
 				<page>0034-0058</page>
 				<allauthors>
@@ -28028,7 +28091,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>10 Ways to Be a Power Surfer</title>
+				<title>10 Ways to be a Power Surfer</title>
 				<feature></feature>
 				<page>0070-0072</page>
 				<allauthors>
@@ -28036,7 +28099,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Ramanujan: The Man</title>
+				<title>Srinivasa Ramanujan: The Man behind the Mathematician</title>
 				<feature></feature>
 				<page>0073-0079</page>
 				<allauthors>
@@ -28085,7 +28148,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Eat What You Want</title>
+				<title>Eat what you Want</title>
 				<feature></feature>
 				<page>0110-0113</page>
 				<allauthors>
@@ -28111,18 +28174,30 @@
 			<entry>
 				<title>Humanity's Debt to Louis Pasteur</title>
 				<feature></feature>
-				<page>0124-0135</page>
+				<page>0124-0128</page>
 				<allauthors>
 					<author>Michel Rodet</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Laughter, the best Medicine</title>
+				<feature></feature>
+				<page>0129-0135</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>High-Tech Conquers Kidney Stones</title>
 				<feature></feature>
-				<page>0136-0160</page>
+				<page>0136-0140</page>
 				<allauthors>
 					<author>Stanley Englebardt</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Word Power</title>
+				<feature></feature>
+				<page>0141-0142</page>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
