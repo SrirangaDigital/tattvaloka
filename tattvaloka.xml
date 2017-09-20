@@ -20158,7 +20158,7 @@
 				<feature></feature>
 				<page>0050-0056</page>
 				<allauthors>
-					<author>Swami Nityaswarupananda</author>
+					<author>Nityaswarupananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -20469,7 +20469,7 @@
 				<feature>Special Feature</feature>
 				<page>0066-0084</page>
 				<allauthors>
-					<author>Swami Akhandananda</author>
+					<author>Akhandananda Swami</author>
 					<author>Narendranath B. Patil, Dr.</author>
 				</allauthors>
 			</entry>
@@ -29671,9 +29671,9 @@
 		</part>
 		<part pnum="03" month="06" year="2008">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Sankara's Striking Qualities</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -29681,7 +29681,7 @@
 			<entry>
 				<title>Sankaracharya Vaibhavam--1: The Life and Philosophy of Adi Sankara</title>
 				<feature>Sankaracharya Vaibhavam</feature>
-				<page>0007-0011</page>
+				<page>0007-0010</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -29689,13 +29689,14 @@
 			<entry>
 				<title>Advaita Makaranda--4: Glory of the Self</title>
 				<feature></feature>
-				<page>0012-0022</page>
+				<page>0012-0018</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Tips for Leading A Stress-free Life</title>
+				<title>Tips for Leading: A Stress-Free Life</title>
 				<feature></feature>
 				<page>0023-0028</page>
 				<allauthors>
@@ -29703,9 +29704,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Infinite Bliss</title>
+				<title>Soar beyond the Finite to Enjoy: Infinite Bliss</title>
 				<feature></feature>
-				<page>0029-0034</page>
+				<page>0029-0030</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
@@ -29727,22 +29728,29 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Sringeri Acharya Performs Kumbhabhishekam at Shakatapuram</title>
+				<title>News and Events (Sringeri Acharya Performs Kumbhabhishekam at Shakatapuram)</title>
 				<feature>News and Events</feature>
 				<page>0043-0046</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Reviews: The Art of Listening, Sri Babaji</title>
+				<title>The Art of Listening (Vol 1)-J. Krishna Murti</title>
 				<feature>Book Review</feature>
-				<page>0047-0049</page>
+				<page>0047-0048</page>
 				<allauthors>
 					<author>Arudra</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sri Babaji: Immortal Yogi of the Himalayas-Romola Butalia</title>
+				<feature>Book Review</feature>
+				<page>0049-0049</page>
+				<allauthors>
 					<author>Balasubramanian N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Forget Hurts, Remember Help</title>
 				<feature>Children's Treasure</feature>
 				<page>0050-0057</page>
 				<allauthors>
@@ -29764,7 +29772,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Editor's Note</title>
+				<title>Editor's Note: Herbs, O Mother, are your Forms</title>
 				<feature>Editorial</feature>
 				<page>0060-0060</page>
 				<allauthors />
@@ -29806,19 +29814,35 @@
 				<feature></feature>
 				<page>0084-0089</page>
 				<allauthors>
-					<author>Rama Jayasunder, Dr.</author>
+					<author>Rama Jayasundar, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Aushadhi in Kavyas</title>
+				<feature></feature>
+				<page>0089-0089</page>
+				<allauthors>
+					<author>Sarala Panchapakesan</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Herbs for Health</title>
 				<feature></feature>
-				<page>0090-0092</page>
+				<page>0090-0091</page>
 				<allauthors>
 					<author>Mahadevan L., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Multi-uses of Herbal Colours</title>
+				<title>Yoga and Ayurveda</title>
+				<feature></feature>
+				<page>0092-0092</page>
+				<allauthors>
+					<author>Veda Bharati Swami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Multi-Uses of Herbal Colours</title>
 				<feature></feature>
 				<page>0093-0095</page>
 				<allauthors>
@@ -29826,8 +29850,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Dhanvantari, the God of Health</title>
-				<feature></feature>
+				<title>Known Puranas--Unknown Stories--63: Dhanvantari, the God of Health</title>
+				<feature>Known Puranas--Unknown Stories</feature>
 				<page>0096-0099</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
@@ -29842,39 +29866,43 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Patanjali Yogpeeth for a Disease-free World (Case Study)</title>
+				<title>A Case Study: Patanjali Yogpeeth for a Disease-Free World</title>
 				<feature></feature>
 				<page>0103-0106</page>
-				<allauthors />
+				<allauthors>
+					<author>Meera Srikanth</author>
+				</allauthors>
 			</entry>
 		</part>
 		<part pnum="04" month="07" year="2008">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Equanimity Needed in Life</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankaracharya Vaibhavam--2: 'Shed Your Identity'</title>
+				<title>Sankaracharya Vaibhavam--2: `Shed Your Identity'</title>
 				<feature>Sankaracharya Vaibhavam</feature>
 				<page>0007-0011</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
+					<author>Nochur Venkataraman</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Advaita Makaranda--5: Self Has No Problems</title>
+				<title>Advaita Makaranda--5: Self has no Problems</title>
 				<feature></feature>
-				<page>0012-0018</page>
+				<page>0012-0016</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Success Sutras for Today's Managers</title>
+				<title>Success <i>Sutras</i> for Today's Managers</title>
 				<feature></feature>
 				<page>0019-0025</page>
 				<allauthors>
@@ -29900,35 +29928,35 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--64: Krishna's Kingdom</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0032-0037</page>
+				<page>0032-0036</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Vijaya Yatra to Goa and Mysore</title>
+				<title>News and Events (Vijaya Yatra to Goa and Mysore)</title>
 				<feature>News and Events</feature>
 				<page>0038-0041</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Nation Honours a Dedicated Administrator</title>
+				<title>Nation Honours: A Dedicated Administrator</title>
 				<feature></feature>
-				<page>0042-0048</page>
+				<page>0042-0047</page>
 				<allauthors>
 					<author>Subramanian C. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: Sadhanas according to Tripura Rahasyam</title>
+				<title>Book Condensation: Sadhanas According to Tripura Rahasyam</title>
 				<feature>Book Condensation</feature>
-				<page>0049-0074</page>
+				<page>0049-0073</page>
 				<allauthors>
 					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Flower for Mother</title>
 				<feature>Children's Treasure</feature>
 				<page>0075-0082</page>
 				<allauthors>
@@ -29936,7 +29964,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles (April 2007-March 2008)</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 2007-March 2008</title>
 				<feature></feature>
 				<page>0083-0088</page>
 				<allauthors />
@@ -29944,15 +29972,15 @@
 		</part>
 		<part pnum="05" month="08" year="2008">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Insulting Others, Self-Praise--Both are Sins</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>As You Sow... So You Reap</title>
+				<title>As you Sow... So you Reap</title>
 				<feature></feature>
 				<page>0007-0011</page>
 				<allauthors>
@@ -29960,27 +29988,29 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankaracharya Vaibhavam--3: Adi Sankara Takes to Sannyasa</title>
+				<title>Sankaracharya Vaibhavam--3: Adi Sankara Takes to <i>Sannyasa</i></title>
 				<feature>Sankaracharya Vaibhavam</feature>
 				<page>0012-0017</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
+					<author>Nochur Venkataraman</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Advaita Makaranda--6: Consciousness Is a Constant Factor</title>
+				<title>Advaita Makaranda--6: Consciousness is a Constant Factor</title>
 				<feature></feature>
 				<page>0018-0021</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Thou Shalt Not Identify Thyself with the Body</title>
+				<title>Thou Shalt not Identify Thyself with the Body</title>
 				<feature></feature>
 				<page>0022-0025</page>
 				<allauthors>
-					<author>Dada Vaswani J. P.</author>
+					<author>Dada J. P. Vaswani</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30002,13 +30032,13 @@
 			<entry>
 				<title>Prajna Yoga--34: The Ascent of Life</title>
 				<feature>Prajna Yoga</feature>
-				<page>0035-0042</page>
+				<page>0035-0038</page>
 				<allauthors>
 					<author>Hareesh Raja</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>He Can, Who Thinks He Can</title>
+				<title>He can, who Thinks he can</title>
 				<feature></feature>
 				<page>0043-0047</page>
 				<allauthors>
@@ -30024,21 +30054,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Charity Marks Sankara Jayanti</title>
+				<title>News and Events (Charity Marks Sankara Jayanti)</title>
 				<feature>News and Events</feature>
-				<page>0049-0054</page>
+				<page>0049-0052</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Special Feature: Hampi--Grandeur of an Ancient Hindu Kingdom</title>
 				<feature>Special Feature</feature>
-				<page>0055-0078</page>
+				<page>0055-0077</page>
 				<allauthors>
 					<author>Chithra Madhavan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Reward for Bad Work</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -30048,9 +30078,9 @@
 		</part>
 		<part pnum="06" month="09" year="2008">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Do Good, be Grateful</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -30064,23 +30094,24 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankaracharya Vaibhavam--4: Truth Accessible Only In Transcendental State</title>
+				<title>Sankaracharya Vaibhavam--4: Truth is Accessible Only in Transcendental State</title>
 				<feature>Sankaracharya Vaibhavam</feature>
-				<page>0012-0022</page>
+				<page>0012-0018</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Advaita Makaranda--7: Ignorance of Self Is a Form of Sleep</title>
+				<title>Advaita Makaranda--7: Ignorance of Self is a Form of Sleep</title>
 				<feature></feature>
 				<page>0023-0030</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Kumbhabhishekam of Sharada Temple at Stroudsburg, Pa, USA</title>
+				<title>News and Events (Kumbhabhishekam of Sharada Temple at Stroudsburg, Pa, USA)</title>
 				<feature>News and Events</feature>
 				<page>0031-0038</page>
 				<allauthors />
@@ -30094,9 +30125,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: God's Whisper in a Brickbat</title>
 				<feature>Children's Treasure</feature>
-				<page>0045-0054</page>
+				<page>0045-0052</page>
 				<allauthors>
 					<author>Bala Mithran</author>
 				</allauthors>
@@ -30138,7 +30169,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Holistic Way to Complete Well-being</title>
+				<title>Holistic Way to Complete Well-Being</title>
 				<feature></feature>
 				<page>0078-0080</page>
 				<allauthors>
@@ -30149,10 +30180,12 @@
 				<title>Ayurveda and Green Medicine</title>
 				<feature></feature>
 				<page>0081-0085</page>
-				<allauthors />
+				<allauthors>
+					<author>Rama Jayasundar, Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Panchakarma (Bio-purification Therapy)</title>
+				<title>Panchakarma (Bio-Purification Therapy)</title>
 				<feature></feature>
 				<page>0086-0086</page>
 				<allauthors />
@@ -30184,9 +30217,9 @@
 		</part>
 		<part pnum="07" month="10" year="2008">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...<i>Jnana Danam</i> is Supreme</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -30200,7 +30233,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Nothing Is Impossible</title>
+				<title>Nothing is Impossible</title>
 				<feature></feature>
 				<page>0011-0015</page>
 				<allauthors>
@@ -30208,11 +30241,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Advaita Makaranda--8: Sat, Chit, Ananda Is Sheer Nature of Self</title>
+				<title>Advaita Makaranda--8: Sat, Chit, Ananda is Sheer Nature of Self</title>
 				<feature></feature>
-				<page>0016-0026</page>
+				<page>0016-0022</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30238,6 +30272,14 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Contentment, the Secret of Happiness</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Kundalini Meditation</title>
 				<feature></feature>
 				<page>0041-0043</page>
@@ -30254,9 +30296,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Chaturmasya Vrata and Pujas at Sringeri</title>
+				<title>News and Events (Chaturmasya Vrata and Pujas at Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0045-0050</page>
+				<page>0045-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -30266,7 +30308,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Review: Jayanteya Gita</title>
+				<title>Jayanteya Gita (Nimi-Navayogi-Samvada)</title>
 				<feature>Book Review</feature>
 				<page>0054-0055</page>
 				<allauthors>
@@ -30282,7 +30324,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: My Pet Puppy</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -30292,9 +30334,9 @@
 		</part>
 		<part pnum="08" month="11" year="2008">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Faith is Important</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -30313,6 +30355,7 @@
 				<page>0012-0015</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30332,7 +30375,7 @@
 			<entry>
 				<title>Sri and Lakshmi: Two Aspects of the Goddess</title>
 				<feature></feature>
-				<page>0026-0034</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Rohini</author>
 				</allauthors>
@@ -30340,7 +30383,7 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--68: Ravana's Forerunner</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0035-0040</page>
+				<page>0035-0038</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -30362,7 +30405,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review: Panchadasi</title>
+				<title>Panchadasi (Tamil-2 Volumes)-Sri V. Kuppuswamy Raju</title>
 				<feature>Book Review</feature>
 				<page>0049-0050</page>
 				<allauthors>
@@ -30370,7 +30413,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Mahaganapati Vakyarta Vidvat Sabha</title>
+				<title>News and Events (Mahaganapati Vakyarta Vidvat Sabha)</title>
 				<feature>News and Events</feature>
 				<page>0051-0055</page>
 				<allauthors />
@@ -30382,6 +30425,14 @@
 				<allauthors />
 			</entry>
 			<entry>
+				<title>Some Alarming Facts....</title>
+				<feature></feature>
+				<page>0057-0057</page>
+				<allauthors>
+					<author>Rajesh Vishwanathan, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Book Condensation: Gita's Sthita Prajna Darshan</title>
 				<feature>Book Condensation</feature>
 				<page>0058-0078</page>
@@ -30390,7 +30441,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Habit and Character</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -30400,9 +30451,9 @@
 		</part>
 		<part pnum="09" month="12" year="2008">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Pride is Man's First Enemy</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -30416,11 +30467,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Narada Bhakti Sutra--2: Bhakti Is Exclusive Love for God</title>
+				<title>Narada Bhakti Sutra--2: Bhakti is Exclusive Love for God</title>
 				<feature>Narada Bhakti Sutras</feature>
 				<page>0011-0013</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30432,13 +30484,13 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--69: The Mystic Forest Fire</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0019-0026</page>
+				<page>0019-0022</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>To Control Greed Is the Need of the Hour</title>
+				<title>To Control Greed is the Need of the Hour</title>
 				<feature></feature>
 				<page>0027-0031</page>
 				<allauthors>
@@ -30448,27 +30500,27 @@
 			<entry>
 				<title>The World--an Illusion of Light and Sound</title>
 				<feature></feature>
-				<page>0032-0036</page>
+				<page>0032-0035</page>
 				<allauthors>
 					<author>Vijai S. Shankar, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review: Punya Kshetra Sringeri</title>
+				<title>Punya Kshetra Sringeri-T. V. Shiva Kumara Sharma</title>
 				<feature>Book Review</feature>
-				<page>0037-0039</page>
+				<page>0037-0038</page>
 				<allauthors>
 					<author>Gopalakrishna V., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Sharannavaratri Alankars at Sringeri</title>
+				<title>News and Events (Sharannavaratri Alankars at Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0040-0046</page>
+				<page>0040-0044</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Impossible is also Possible</title>
 				<feature>Children's Treasure</feature>
 				<page>0047-0054</page>
 				<allauthors>
@@ -30476,13 +30528,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Green Supplement 4:</title>
+				<title>The Green Supplement 4</title>
 				<feature></feature>
 				<page>0055-0055</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Editor's Note</title>
+				<title>Editor's Note: O Forests, Fragrant with Spices and Full of Nourishment!</title>
 				<feature>Editorial</feature>
 				<page>0056-0056</page>
 				<allauthors />
@@ -30517,6 +30569,7 @@
 				<page>0071-0075</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
+					<author>David Frawley, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30536,13 +30589,19 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Benefits of Flower Worship</title>
+				<feature></feature>
+				<page>0087-0087</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>International Postage Stamps</title>
 				<feature></feature>
 				<page>0090-0091</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sustainable Management, a Great Challenge</title>
+				<title>A Case Study--IIT-M Campus: Sustainable Management, a Great Challenge</title>
 				<feature></feature>
 				<page>0092-0094</page>
 				<allauthors />
@@ -30550,9 +30609,9 @@
 		</part>
 		<part pnum="10" month="01" year="2009">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Face Hurdles with Courage</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -30566,17 +30625,18 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Narada Bhakti Sutra--3:  Highest Form of Devotion Is Nectar-like</title>
+				<title>Narada Bhakti Sutra--3:  Highest Form of Devotion is Nectar-Like</title>
 				<feature>Narada Bhakti Sutras</feature>
 				<page>0011-0014</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>No Gain Without Pain</title>
+				<title>No Gain without Pain</title>
 				<feature></feature>
-				<page>0015-0020</page>
+				<page>0015-0018</page>
 				<allauthors>
 					<author>Jagan Mohan Reddy A., Dr.</author>
 				</allauthors>
@@ -30606,7 +30666,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Mayura Satakam--A Prayer to Sun-god</title>
+				<title>Mayura Satakam--A Prayer to Sun-God</title>
 				<feature></feature>
 				<page>0032-0035</page>
 				<allauthors>
@@ -30628,7 +30688,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Laksha Deepotsava at Sringeri</title>
+				<title>News and Events (Laksha Deepotsava at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0047-0048</page>
 				<allauthors />
@@ -30648,22 +30708,37 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Reviews: Sri Guru Gauravagatha, Endrum Iraiyunarvil Vazhvadhu Eppadi? and Naan Arindha Paramahamsa Yoganandar</title>
+				<title>Sri Guru Gauravagatha (Sanskrit-Kavyam)-Sri Anant Gopal Deshpande</title>
 				<feature>Book Review</feature>
-				<page>0054-0055</page>
+				<page>0054-0054</page>
 				<allauthors>
 					<author>Narendranath B. Patil, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Endrum Iraiyunarvil Vazhvadhu Eppadi? and Naan Arindha Paramahamsa Yoganandar-Dr. L. Mahadevan</title>
+				<feature>Book Review</feature>
+				<page>0055-0055</page>
+				<allauthors>
 					<author>Subramanian C. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Special Feature: All About Meditation</title>
 				<feature>Special Feature</feature>
-				<page>0056-0082</page>
+				<page>0056-0081</page>
+				<allauthors>
+					<author>Satguru Sivaya Subramuniyaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Fourteen Secrets for Serious Meditators</title>
+				<feature></feature>
+				<page>0071-0071</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: What Echo Teaches</title>
 				<feature>Children's Treasure</feature>
 				<page>0083-0090</page>
 				<allauthors>
@@ -30673,15 +30748,15 @@
 		</part>
 		<part pnum="11" month="02" year="2009">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Be Good, do not Harm Others</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankaracharya Vaibhavam--9: Sankara Performs Samskaras for Mother</title>
+				<title>Sankaracharya Vaibhavam--9: Sankara Performs <i>Samskaras</i> for Mother</title>
 				<feature>Sankaracharya Vaibhavam</feature>
 				<page>0007-0011</page>
 				<allauthors>
@@ -30689,11 +30764,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Narada Bhakti Sutras--4: A Wise Man Is Free of Ego, Desire or Hatred</title>
+				<title>Narada Bhakti Sutras--4: A Wise Man is Free of Ego, Desire or Hatred</title>
 				<feature>Narada Bhakti Sutras</feature>
 				<page>0012-0015</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30705,7 +30781,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Advaita Pancharatnam--2: Jiva Is None Other than Siva</title>
+				<title>Advaita Pancharatnam--2: Jiva is None Other than Siva</title>
 				<feature></feature>
 				<page>0020-0021</page>
 				<allauthors>
@@ -30715,7 +30791,7 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--71: The Greatness of Atri Maharshi</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0022-0026</page>
+				<page>0022-0025</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -30723,13 +30799,13 @@
 			<entry>
 				<title>Traditions and Rituals--1: Samskaras, Then and Now</title>
 				<feature></feature>
-				<page>0027-0032</page>
+				<page>0027-0030</page>
 				<allauthors>
 					<author>Muthuswami Varadarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Time Is Precious</title>
+				<title>Time is Precious</title>
 				<feature></feature>
 				<page>0033-0037</page>
 				<allauthors>
@@ -30739,21 +30815,21 @@
 			<entry>
 				<title>Catching Up on Ethical Values</title>
 				<feature></feature>
-				<page>0038-0041</page>
+				<page>0038-0040</page>
 				<allauthors>
 					<author>Padmini P.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Help Your Body Heal Faster</title>
+				<title>Help your Body Heal Faster</title>
 				<feature></feature>
 				<page>0042-0046</page>
 				<allauthors>
-					<author>Julie Silver K., Dr.</author>
+					<author>Julie K. Silver, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Sringeri Community Centre in Canada</title>
+				<title>News and Events (Sringeri Community Centre in Canada)</title>
 				<feature>News and Events</feature>
 				<page>0047-0054</page>
 				<allauthors />
@@ -30767,7 +30843,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Control of Body and Mind</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0086</page>
 				<allauthors>
@@ -30777,15 +30853,15 @@
 		</part>
 		<part pnum="12" month="03" year="2009">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Contentment is Wealth</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankaracharya Vaibhavam--10: Victory Over Cults</title>
+				<title>Sankaracharya Vaibhavam--10: Victory over Cults</title>
 				<feature>Sankaracharya Vaibhavam</feature>
 				<page>0007-0010</page>
 				<allauthors>
@@ -30795,9 +30871,10 @@
 			<entry>
 				<title>Narada Bhakti Sutras--5: A True Devotee Seeks Nothing in Return</title>
 				<feature>Narada Bhakti Sutras</feature>
-				<page>0011-0016</page>
+				<page>0011-0014</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30827,27 +30904,27 @@
 			<entry>
 				<title>Traditions and Rituals--2: Vivaha... What God Hath Joined</title>
 				<feature></feature>
-				<page>0026-0034</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Muthuswami Varadarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Humility Is Manliness</title>
+				<title>Humility is Manliness</title>
 				<feature></feature>
-				<page>0035-0040</page>
+				<page>0035-0039</page>
 				<allauthors>
 					<author>Jagan Mohan Reddy A., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Peetham conducts Vedic Sammelans</title>
+				<title>News and Events (Peetham Conducts Vedic Sammelans)</title>
 				<feature>News and Events</feature>
 				<page>0041-0046</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Who is most Beautiful?</title>
 				<feature>Children's Treasure</feature>
 				<page>0047-0054</page>
 				<allauthors>
@@ -30861,7 +30938,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Editor's Note</title>
+				<title>Editor's Note: Water is the Form of Devi. Within Water is Nector.</title>
 				<feature>Editorial</feature>
 				<page>0056-0056</page>
 				<allauthors />
@@ -30930,20 +31007,26 @@
 					<author>Sivananda Swami</author>
 				</allauthors>
 			</entry>
+			<entry>
+				<title>Purity of Ganga Water</title>
+				<feature></feature>
+				<page>0085-0085</page>
+				<allauthors />
+			</entry>
 		</part>
 	</volume>
 	<volume vnum="032">
 		<part pnum="01" month="04" year="2009">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Limit Desires, be Happy</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankaracharya Vaibhavam--11: Convincing Victory Over Bhaskara Bhatta</title>
+				<title>Sankaracharya Vaibhavam--11: Convincing Victory over Bhaskara Bhatta</title>
 				<feature>Sankaracharya Vaibhavam</feature>
 				<page>0007-0010</page>
 				<allauthors>
@@ -30953,9 +31036,10 @@
 			<entry>
 				<title>Narada Bhakti Sutras--6: The Wise Man is a Role Model</title>
 				<feature>Narada Bhakti Sutras</feature>
-				<page>0011-0016</page>
+				<page>0011-0014</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -31023,17 +31107,17 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Dr. Abdul Kalam Visits Sringeri</title>
+				<title>News and Events (Dr. Abdul Kalam Visits Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0047-0054</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Condensation: Burn Anger before Anger Burns You</title>
+				<title>Book Condensation: Burn Anger before Anger Burns you</title>
 				<feature>Book Condensation</feature>
 				<page>0055-0078</page>
 				<allauthors>
-					<author>Dada Vaswani J. P.</author>
+					<author>Dada J. P. Vaswani</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -31047,9 +31131,9 @@
 		</part>
 		<part pnum="02" month="05" year="2009">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Observe Prescribed <i>Dharma</i></title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -31068,18 +31152,25 @@
 				<page>0011-0014</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>The Teaching of Rishabha</title>
 				<feature></feature>
-				<page>0015-0018</page>
+				<page>0015-0016</page>
 				<allauthors>
 					<author>Ganesan V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Advaita Pancharatnam--5: World Appears in Non-dual Self through Illusion</title>
+				<title>Nitisatakam</title>
+				<feature></feature>
+				<page>0018-0018</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Advaita Pancharatnam--5: World Appears in Non-Dual Self through Illusion</title>
 				<feature></feature>
 				<page>0019-0021</page>
 				<allauthors>
@@ -31097,7 +31188,7 @@
 			<entry>
 				<title>Traditions and Rituals--4: Upanayana and Gurukulavasa</title>
 				<feature></feature>
-				<page>0026-0034</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Muthuswami Varadarajan</author>
 				</allauthors>
@@ -31127,7 +31218,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review: Abhirami Bhattarin Pathikangal</title>
+				<title>Abhirami Bhattarin Pathikangal-Meenakshisundaram Mohan</title>
 				<feature>Book Review</feature>
 				<page>0047-0048</page>
 				<allauthors>
@@ -31135,7 +31226,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Grand 59th Vardhanti at Sringeri</title>
+				<title>News and Events (Grand 59th Vardhanti at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0049-0056</page>
 				<allauthors />
@@ -31149,7 +31240,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Greed Leads to Misery</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0090</page>
 				<allauthors>
@@ -31159,19 +31250,20 @@
 		</part>
 		<part pnum="03" month="06" year="2009">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Honour your Word</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Narada Bhakti Sutra--8: Total Dedication and Surrender</title>
+				<title>Narada Bhakti Sutras--8: Total Dedication and Surrender</title>
 				<feature>Narada Bhakti Sutras</feature>
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -31191,7 +31283,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sway of Emotions in the Ramayana</title>
+				<title>Sway of Emotions in the <i>Ramayana</i></title>
 				<feature></feature>
 				<page>0020-0021</page>
 				<allauthors>
@@ -31201,7 +31293,7 @@
 			<entry>
 				<title>Nothing for Myself</title>
 				<feature></feature>
-				<page>0022-0026</page>
+				<page>0022-0022</page>
 				<allauthors>
 					<author>Vaswani J. P.</author>
 				</allauthors>
@@ -31215,7 +31307,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review: Hinduism--Path of Ancient Wisdom</title>
+				<title>Hinduism--Path of Ancient Wisdom-Dr. Hiro G. Badlani</title>
 				<feature>Book Review</feature>
 				<page>0032-0033</page>
 				<allauthors>
@@ -31223,13 +31315,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: President has Darsan at Sringeri</title>
+				<title>News and Events (President has Darsan at Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0034-0042</page>
+				<page>0034-0041</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Poetic Beauty</title>
 				<feature>Children's Treasure</feature>
 				<page>0043-0054</page>
 				<allauthors>
@@ -31243,7 +31335,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Editor's Note</title>
+				<title>Editor's Note: Agni Transmits our Offerings to the Devas</title>
 				<feature>Editorial</feature>
 				<page>0056-0056</page>
 				<allauthors />
@@ -31281,7 +31373,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Agni, God of Well-being</title>
+				<title>Agni, God of Well-Being</title>
 				<feature></feature>
 				<page>0071-0072</page>
 				<allauthors>
@@ -31297,7 +31389,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Agnihotra--A Moden Scientific Phenomenon</title>
+				<title>Agnihotra--A Modern Scientific Phenomenon</title>
 				<feature></feature>
 				<page>0077-0084</page>
 				<allauthors>
@@ -31323,9 +31415,9 @@
 		</part>
 		<part pnum="04" month="07" year="2009">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Sastras alone Guide to our Actions</title>
 				<feature></feature>
-				<page>0005-0006</page>
+				<page>0005-0005</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
 				</allauthors>
@@ -31336,12 +31428,13 @@
 				<page>0007-0011</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Satyavratananda Saraswati Swamini</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Naimisaranya--Land of Penance</title>
 				<feature></feature>
-				<page>0012-0016</page>
+				<page>0012-0014</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
@@ -31365,10 +31458,16 @@
 			<entry>
 				<title>Known Puranas--Unknown Stories--76: The First Battle at Kurukshetra</title>
 				<feature>Known Puranas--Unknown Stories</feature>
-				<page>0025-0029</page>
+				<page>0025-0028</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Nitisatakam</title>
+				<feature></feature>
+				<page>0029-0029</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Traditions and Rituals--5: Sandhyavandana</title>
@@ -31379,7 +31478,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Shed Worry, Be Happy</title>
+				<title>Shed Worry, be Happy</title>
 				<feature></feature>
 				<page>0034-0042</page>
 				<allauthors>
@@ -31387,7 +31486,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: Kalasesvara Temple Kumbhabhishekam</title>
+				<title>News and Events (Kalasesvara Temple Kumbhabhishekam)</title>
 				<feature>News and Events</feature>
 				<page>0043-0044</page>
 				<allauthors />
@@ -31395,13 +31494,13 @@
 			<entry>
 				<title>Special Feature: The Four Gatekeepers at the Palace of Liberation</title>
 				<feature>Special Feature</feature>
-				<page>0045-0068</page>
+				<page>0045-0067</page>
 				<allauthors>
 					<author>Jyotirmayananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Artistic Reality</title>
 				<feature>Children's Treasure</feature>
 				<page>0069-0080</page>
 				<allauthors>
@@ -31409,7 +31508,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles (April 2008 - March 2009)</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 2008-March 2009</title>
 				<feature></feature>
 				<page>0081-0086</page>
 				<allauthors />
@@ -36297,7 +36396,7 @@
 				<feature></feature>
 				<page>0061-0078</page>
 				<allauthors>
-					<author>Dada Vaswani J. P.</author>
+					<author>Dada J. P. Vaswani</author>
 				</allauthors>
 			</entry>
 			<entry>
