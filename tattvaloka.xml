@@ -35773,17 +35773,17 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Life Is Role-playing</title>
+				<title>Life is Role-Playing</title>
 				<feature></feature>
-				<page>0014-0019</page>
+				<page>0014-0018</page>
 				<allauthors>
 					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Promise Less, Perform More</title>
+				<title>Values for Management: Promise Less, Perform more</title>
 				<feature></feature>
-				<page>0020-0025</page>
+				<page>0020-0024</page>
 				<allauthors>
 					<author>Krishnamurthy R.</author>
 				</allauthors>
@@ -35791,9 +35791,29 @@
 			<entry>
 				<title>Youth Forum--3: Guna--Behavioural Tendency</title>
 				<feature>Youth Forum</feature>
-				<page>0026-0032</page>
+				<page>0026-0028</page>
 				<allauthors>
 					<author>Mrityunjay Athreya, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>True Story: An Inspiring Legacy</title>
+				<feature>Youth Forum</feature>
+				<page>0028-0028</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Youth Questions</title>
+				<feature>Youth Forum</feature>
+				<page>0029-0030</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>What do I want to do with my Life?</title>
+				<feature>Youth Forum</feature>
+				<page>0031-0031</page>
+				<allauthors>
+					<author>Aashray Harishankar</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -35805,7 +35825,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Anger Is the Cause for Destruction</title>
+				<title>Anger is the Cause for Destruction</title>
 				<feature></feature>
 				<page>0035-0038</page>
 				<allauthors>
@@ -35813,15 +35833,23 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: His Holiness Visits Karkala Kalabhairava Ashtami at Sringeri</title>
+				<title>News and Events (His Holiness Visits Karkala Kalabhairava Ashtami at Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0039-0045</page>
+				<page>0039-0044</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>Holistic Culinary Art--43: Lentil</title>
 				<feature>Holistic Culinary Art</feature>
-				<page>0046-0049</page>
+				<page>0046-0047</page>
+				<allauthors>
+					<author>Padmini Natarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Holistic Culinary Art--43: Eucalyptus</title>
+				<feature>Holistic Culinary Art</feature>
+				<page>0048-0048</page>
 				<allauthors>
 					<author>Padmini Natarajan</author>
 				</allauthors>
@@ -35837,29 +35865,43 @@
 			<entry>
 				<title>Bhakti and Emancipation</title>
 				<feature></feature>
-				<page>0051-0057</page>
+				<page>0051-0055</page>
 				<allauthors>
 					<author>Mee Rajagopal</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review: 1. Vedic Mind, 2. Happiness @ Work</title>
+				<title>Vedic Mind-Ram K. Piparaiya</title>
 				<feature>Book Review</feature>
-				<page>0058-0060</page>
+				<page>0058-0059</page>
 				<allauthors>
 					<author>Rishi</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Condensation: A Dream Life: Your How-To Gudie for Success and Happiness</title>
+				<title>Happiness @ Work-Sai R. Vaidyanathan</title>
+				<feature>Book Review</feature>
+				<page>0059-0060</page>
+				<allauthors>
+					<author>Rishi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Books Received</title>
+				<feature></feature>
+				<page>0060-0060</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Condensation: A Dream Life: Your how-to Guide for Success and Happiness</title>
 				<feature>Book Condensation</feature>
-				<page>0061-0086</page>
+				<page>0061-0085</page>
 				<allauthors>
 					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Story Time: Use Things and Love People</title>
 				<feature>Children's Treasure</feature>
 				<page>0087-0098</page>
 				<allauthors>
@@ -35901,17 +35943,23 @@
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Monkey with a Master-Mind</title>
+				<feature></feature>
+				<page>0017-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Values for Management: Do not Disparage Competition</title>
 				<feature></feature>
-				<page>0018-0023</page>
+				<page>0018-0022</page>
 				<allauthors>
 					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Being Yourself: Are You a Saint or a Scorpion?</title>
+				<title>Being yourself: Are you a Saint or a Scorpion?</title>
 				<feature></feature>
-				<page>0024-0027</page>
+				<page>0024-0026</page>
 				<allauthors>
 					<author>Om Swami</author>
 				</allauthors>
@@ -35919,19 +35967,41 @@
 			<entry>
 				<title>Youth Forum--4: Three Types of Capability</title>
 				<feature>Youth Forum</feature>
-				<page>0028-0034</page>
+				<page>0028-0029</page>
 				<allauthors>
 					<author>Mrityunjay Athreya, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Motivational Story: Self Appraisal</title>
+				<feature>Youth Forum</feature>
+				<page>0030-0030</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Youth Questions</title>
+				<feature>Youth Forum</feature>
+				<page>0031-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>What my Parents have Taught me</title>
+				<feature>Youth Forum</feature>
+				<page>0033-0033</page>
+				<allauthors>
+					<author>Mahasvetha Murali</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Indology Quiz--9</title>
 				<feature></feature>
 				<page>0035-0036</page>
-				<allauthors />
+				<allauthors>
+					<author>Ramamurthy N., Dr.</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events: His Holiness' Advice to Pravachanakaras</title>
+				<title>News and Events (His Holiness' Advice to Pravachanakaras)</title>
 				<feature>News and Events</feature>
 				<page>0037-0045</page>
 				<allauthors />
@@ -35953,7 +36023,15 @@
 			<entry>
 				<title>Holistic Culinary Art--44: Arrowroot</title>
 				<feature>Holistic Culinary Art</feature>
-				<page>0054-0057</page>
+				<page>0054-0055</page>
+				<allauthors>
+					<author>Padmini Natarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Holistic Culinary Art--44: Salt</title>
+				<feature>Holistic Culinary Art</feature>
+				<page>0056-0056</page>
 				<allauthors>
 					<author>Padmini Natarajan</author>
 				</allauthors>
@@ -35961,7 +36039,7 @@
 			<entry>
 				<title>Karma and Dharma: The Immutable Laws</title>
 				<feature></feature>
-				<page>0058-0062</page>
+				<page>0058-0061</page>
 				<allauthors>
 					<author>Sureshwara B., Dr.</author>
 				</allauthors>
@@ -35975,7 +36053,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Mahatma Gandhi on Idol Worship</title>
+				<feature></feature>
+				<page>0086-0086</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Children's Treasure: Story Time: Emperor and the Hermit</title>
 				<feature>Children's Treasure</feature>
 				<page>0087-0098</page>
 				<allauthors>
@@ -35987,7 +36071,7 @@
 	<volume vnum="037">
 		<part pnum="02" month="05" year="2014">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Celebrate Sankara Jayanti in a Fitting Manner</title>
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
@@ -36003,7 +36087,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Many Forms of Siva--25</title>
+				<title>Many Forms of Siva--25: Siva is known as Arindama</title>
 				<feature>Many Forms of Siva</feature>
 				<page>0012-0016</page>
 				<allauthors>
@@ -36011,7 +36095,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Maya in Work Place</title>
+				<title>Values for Management: Maya in Work Place</title>
 				<feature></feature>
 				<page>0017-0021</page>
 				<allauthors>
@@ -36021,7 +36105,7 @@
 			<entry>
 				<title>The Art of Attention</title>
 				<feature></feature>
-				<page>0022-0025</page>
+				<page>0022-0024</page>
 				<allauthors>
 					<author>Om Swami</author>
 				</allauthors>
@@ -36035,17 +36119,39 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Youth Section--6</title>
-				<feature></feature>
-				<page>0031-0036</page>
+				<title>Youth Forum--6: Nine Aspects of <i>Dharma</i></title>
+				<feature>Youth Forum</feature>
+				<page>0031-0032</page>
 				<allauthors>
 					<author>Mrityunjay Athreya, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Motivational Story: Alexander and Diogenes</title>
+				<feature>Youth Forum</feature>
+				<page>0033-0033</page>
+				<allauthors>
+					<author>Gombrich E. H.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Youth Questions</title>
+				<feature>Youth Forum</feature>
+				<page>0034-0035</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Cultivating a Devoted Mind Starts Early</title>
+				<feature>Youth Forum</feature>
+				<page>0036-0036</page>
+				<allauthors>
+					<author>Iswarya Anandhaaraaman</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Indology Quiz--11</title>
 				<feature>Indology Quiz</feature>
-				<page>0037-0039</page>
+				<page>0037-0038</page>
 				<allauthors>
 					<author>Ramamurthy N., Dr.</author>
 				</allauthors>
@@ -36075,27 +36181,48 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Grand Vardhanti at Sringeri)</title>
 				<feature>News and Events</feature>
 				<page>0049-0054</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Holistic Food--46: Betel Leaves</title>
-				<feature></feature>
-				<page>0055-0057</page>
+				<title>Holistic Culinary Art--46: Betel Leaves</title>
+				<feature>Holistic Culinary Art</feature>
+				<page>0055-0056</page>
 				<allauthors>
 					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
-				<feature>Book Review</feature>
-				<page>0058-0060</page>
+				<title>Holistic Food--46: Fruits in the Summer Season</title>
+				<feature>Holistic Culinary Art</feature>
+				<page>0057-0057</page>
 				<allauthors>
-					<author>Vasant Gadgil A. Pt.</author>
+					<author>Padmini Natarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Isavasyopanishad with 51 Sanskrit Commentaries, Part 1-2</title>
+				<feature>Book Review</feature>
+				<page>0058-0059</page>
+				<allauthors>
+					<author>Vasant A. Gadgil, Pt.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sanatana Dharma and its Special Features</title>
+				<feature>Book Review</feature>
+				<page>0059-0060</page>
+				<allauthors>
 					<author>Ramamurthy N., Dr.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>Do not take Advantage of a Genuine Mistake</title>
+				<feature></feature>
+				<page>0060-0060</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Book Condensation: The Secret of Right Action</title>
@@ -36106,7 +36233,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: War Story: True Friend</title>
 				<feature>Children's Treasure</feature>
 				<page>0087-0098</page>
 				<allauthors>
@@ -36116,7 +36243,7 @@
 		</part>
 		<part pnum="03" month="06" year="2014">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...A <i>Jnani</i> is Dear to God</title>
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
@@ -36124,7 +36251,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Many Forms of Siva--26</title>
+				<title>Many Forms of Siva--26: The Five Faces of Lord Siva</title>
 				<feature>Many Forms of Siva</feature>
 				<page>0007-0010</page>
 				<allauthors>
@@ -36132,15 +36259,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Naishkarmya Siddhi</title>
+				<title>Naishkarmya Siddhi--1</title>
 				<feature></feature>
-				<page>0011-0017</page>
+				<page>0011-0015</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>It Is Not Your Fault</title>
+				<title>It is not your Fault</title>
 				<feature></feature>
 				<page>0018-0021</page>
 				<allauthors>
@@ -36148,15 +36275,23 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Spiritual Quotient and Business Education</title>
+				<title>Nature of Happiness</title>
 				<feature></feature>
-				<page>0022-0027</page>
+				<page>0021-0021</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Chandrashekhara Bharati Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Values for Management: Spiritual Quotient and Business Education</title>
+				<feature></feature>
+				<page>0022-0026</page>
 				<allauthors>
 					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Person Is Free</title>
+				<title>The Person is Free</title>
 				<feature></feature>
 				<page>0028-0031</page>
 				<allauthors>
@@ -36164,25 +36299,39 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Professional Dharma--2</title>
+				<title>Professional Dharma--2: The <i>Dharma</i> of an Educationist</title>
 				<feature></feature>
-				<page>0032-0037</page>
+				<page>0032-0036</page>
 				<allauthors>
 					<author>Lakshmi K. S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Youth Forum--7</title>
+				<title>Special Qualities</title>
+				<feature></feature>
+				<page>0036-0036</page>
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Youth Forum--7: How to be Happy</title>
 				<feature>Youth Forum</feature>
-				<page>0038-0042</page>
+				<page>0038-0040</page>
 				<allauthors>
 					<author>Mrityunjay Athreya, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Epic Summer Camp</title>
+				<title>Youth Questions</title>
+				<feature>Youth Forum</feature>
+				<page>0041-0042</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>An Epic Summer Camp</title>
 				<feature></feature>
-				<page>0043-0046</page>
+				<page>0043-0045</page>
 				<allauthors>
 					<author>Vidya Ramani</author>
 				</allauthors>
@@ -36204,29 +36353,37 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Sankara Jayanti at Sringeri)</title>
 				<feature>News and Events</feature>
-				<page>0053-0062</page>
+				<page>0053-0061</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Holistic Culinary Art--47</title>
+				<title>Holistic Culinary Art--47: Grapes</title>
 				<feature>Holistic Culinary Art</feature>
-				<page>0063-0066</page>
+				<page>0063-0064</page>
 				<allauthors>
 					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Eternal Law</title>
-				<feature></feature>
+				<title>Holistic Culinary Art--47: Nuts in your Diet! Nuts for Health</title>
+				<feature>Holistic Culinary Art</feature>
+				<page>0065-0065</page>
+				<allauthors>
+					<author>Padmini Natarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Condensation: The Eternal Law</title>
+				<feature>Book Condensation</feature>
 				<page>0067-0086</page>
 				<allauthors>
 					<author>Jnanananda Bharati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: House with the Golden Windows</title>
 				<feature>Children's Treasure</feature>
 				<page>0087-0098</page>
 				<allauthors>
@@ -36236,7 +36393,7 @@
 		</part>
 		<part pnum="04" month="07" year="2014">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...<i>Sattvic</i> Life alone Leads to Happiness</title>
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
@@ -36249,10 +36406,11 @@
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Many Forms of Siva--27</title>
+				<title>Many Forms of Siva--27: Siva's Five-Syllable Mantra</title>
 				<feature>Many Forms of Siva</feature>
 				<page>0011-0014</page>
 				<allauthors>
@@ -36260,7 +36418,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>How to Be at Peace</title>
+				<title>How to be at Peace</title>
 				<feature></feature>
 				<page>0015-0017</page>
 				<allauthors>
@@ -36268,27 +36426,49 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Money Saved Is Money Earned</title>
+				<title>Memory is a Burden</title>
 				<feature></feature>
-				<page>0018-0022</page>
+				<page>0017-0017</page>
+				<allauthors>
+					<author>David Frawley, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Values for Management: Money Saved is Money Earned</title>
+				<feature></feature>
+				<page>0018-0021</page>
 				<allauthors>
 					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Professional Dharma--3</title>
+				<title>Professional Dharma--3: <i>Dharma</i> in Medical Practice</title>
 				<feature></feature>
-				<page>0023-0027</page>
+				<page>0023-0026</page>
 				<allauthors>
 					<author>Ramesh A. G., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Youth Forum--8</title>
+				<title>Youth Forum--8: Positivity</title>
 				<feature>Youth Forum</feature>
-				<page>0028-0033</page>
+				<page>0028-0030</page>
 				<allauthors>
 					<author>Mrityunjay Athreya, Dr.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Youth Questions</title>
+				<feature>Youth Forum</feature>
+				<page>0031-0032</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Lighting a Lamp</title>
+				<feature>Youth Forum</feature>
+				<page>0033-0033</page>
+				<allauthors>
+					<author>Abinaya Ramakrishnan</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -36308,9 +36488,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (Historic Kumbhabhishekam-Sringeri Rajagopuram)</title>
 				<feature>News and Events</feature>
-				<page>0039-0048</page>
+				<page>0039-0047</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -36320,21 +36500,29 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Opening of Sringeri Math at Nerur</title>
+				<title>The Opening of Sringeri Math at Nerur</title>
 				<feature></feature>
-				<page>0051-0053</page>
+				<page>0051-0052</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Holistic Culinary Art--48</title>
+				<title>Holistic Culinary Art--48: Mango--King of Fruits</title>
 				<feature>Holistic Culinary Art</feature>
-				<page>0054-0057</page>
+				<page>0054-0055</page>
 				<allauthors>
 					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Complementary Therapy--19</title>
+				<title>Holistic Culinary Art--48: Walnuts</title>
+				<feature>Holistic Culinary Art</feature>
+				<page>0056-0056</page>
+				<allauthors>
+					<author>Padmini Natarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Complementary Therapy--19: The Peepal Tree</title>
 				<feature>Complementary Therapy</feature>
 				<page>0058-0058</page>
 				<allauthors>
@@ -36350,15 +36538,15 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: The Story of a Woodcutter</title>
 				<feature>Children's Treasure</feature>
-				<page>0079-0091</page>
+				<page>0079-0090</page>
 				<allauthors>
 					<author>Narayana Swamy T. S., Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles (April 2013 - March 2014)</title>
+				<title>Index of Articles in <i>Tattvaloka</i> April 2013-March 2014</title>
 				<feature></feature>
 				<page>0092-0098</page>
 				<allauthors />
@@ -36366,7 +36554,7 @@
 		</part>
 		<part pnum="05" month="08" year="2014">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Accept Happenings with Equanimity</title>
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
@@ -36379,12 +36567,13 @@
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Many Forms of Siva--28</title>
+				<title>Many Forms of Siva--28: Siva, the Outsider</title>
 				<feature>Many Forms of Siva</feature>
-				<page>0011-0015</page>
+				<page>0011-0014</page>
 				<allauthors>
 					<author>Lalita Ramakrishna</author>
 				</allauthors>
@@ -36392,39 +36581,59 @@
 			<entry>
 				<title>Nine States of Attention</title>
 				<feature></feature>
-				<page>0016-0020</page>
+				<page>0016-0019</page>
 				<allauthors>
 					<author>Om Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Your Reputation Precedes You</title>
+				<title>A Well of Pride and Forgiving</title>
 				<feature></feature>
-				<page>0021-0025</page>
+				<page>0019-0019</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Values for Management: Your Reputation Precedes you</title>
+				<feature></feature>
+				<page>0021-0024</page>
 				<allauthors>
 					<author>Krishnamurthy R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Professional Dharma--4</title>
+				<title>Professional Dharma--4: Dharma of a Civil Servant</title>
 				<feature></feature>
-				<page>0026-0031</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Krishnamurthy T. S., Prof.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Youth Forum--9</title>
+				<title>Youth Forum--9: Devotion</title>
 				<feature>Youth Forum</feature>
-				<page>0032-0037</page>
+				<page>0032-0034</page>
 				<allauthors>
 					<author>Mrityunjay Athreya, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Youth Questions</title>
+				<feature>Youth Forum</feature>
+				<page>0035-0036</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Choose Worthy Role Models</title>
+				<feature>Youth Forum</feature>
+				<page>0037-0037</page>
+				<allauthors>
+					<author>Surekha Kothari</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Indology Quiz--14</title>
 				<feature>Indology Quiz</feature>
-				<page>0038-0042</page>
+				<page>0038-0039</page>
 				<allauthors>
 					<author>Ramamurthy N., Dr.</author>
 				</allauthors>
@@ -36438,29 +36647,37 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Jagadguru Takes up Chaturmasya Sankalpa</title>
-				<feature></feature>
-				<page>0047-0055</page>
+				<title>News and Events (Jagadguru takes up Chaturmasya Sankalpa)</title>
+				<feature>News and Events</feature>
+				<page>0047-0054</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Holistic Culinary Art--49</title>
+				<title>Holistic Culinary Art--49: Kiwi--the Wonder Fruit</title>
 				<feature>Holistic Culinary Art</feature>
-				<page>0056-0058</page>
+				<page>0056-0057</page>
 				<allauthors>
 					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sadhanas from Guru Vachaka Kovai</title>
-				<feature></feature>
-				<page>0059-0080</page>
+				<title>Holistic Culinary Art--49: Ten Kitchen Ingredients Work as Medicines</title>
+				<feature>Holistic Culinary Art</feature>
+				<page>0058-0058</page>
+				<allauthors>
+					<author>Padmini Natarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Book Condensation: Sadhanas from Guru Vachaka Kovai</title>
+				<feature>Book Condensation</feature>
+				<page>0059-0079</page>
 				<allauthors>
 					<author>Shantananda Puri Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Inspirational Story: God's Grace</title>
 				<feature>Children's Treasure</feature>
 				<page>0081-0090</page>
 				<allauthors>
@@ -36470,7 +36687,7 @@
 		</part>
 		<part pnum="06" month="09" year="2014">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Follow Dharma Marga at all Costs</title>
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
@@ -36483,10 +36700,11 @@
 				<page>0007-0010</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Many Forms of Siva--29</title>
+				<title>Many Forms of Siva--29: White Radiance of Siva</title>
 				<feature>Many Forms of Siva</feature>
 				<page>0011-0014</page>
 				<allauthors>
@@ -36502,7 +36720,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Secret of Business Turnaround</title>
+				<title>Lord Bowring's Tribute to Sringeri Acharya</title>
+				<feature></feature>
+				<page>0017-0017</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Values for Management: The Secret of Business Turnaround</title>
 				<feature></feature>
 				<page>0018-0021</page>
 				<allauthors>
@@ -36510,25 +36734,39 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Professional Dharma--5</title>
+				<title>Professional Dharma--5: Dharma of a Journalist</title>
 				<feature></feature>
-				<page>0022-0025</page>
+				<page>0022-0024</page>
 				<allauthors>
 					<author>Srinivasan J.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Youth Forum--10</title>
+				<title>Youth Forum--10: Respecting One's Seniors</title>
 				<feature>Youth Forum</feature>
-				<page>0026-0031</page>
+				<page>0026-0028</page>
 				<allauthors>
 					<author>Mrityunjay Athreya, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Youth Questions</title>
+				<feature>Youth Forum</feature>
+				<page>0029-0030</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Motivation: The Key to Success</title>
+				<feature>Youth Forum</feature>
+				<page>0031-0031</page>
+				<allauthors>
+					<author>Surekha Kothari</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Indology Quiz--15</title>
 				<feature>Indology Quiz</feature>
-				<page>0032-0034</page>
+				<page>0032-0033</page>
 				<allauthors>
 					<author>Ramamurthy N., Dr.</author>
 				</allauthors>
@@ -36536,19 +36774,19 @@
 			<entry>
 				<title>Gaya, the Nirvana Bhumi</title>
 				<feature></feature>
-				<page>0035-0040</page>
+				<page>0035-0039</page>
 				<allauthors>
 					<author>Rajesh Sahay</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (His Holiness Performs Ganga Puja)</title>
 				<feature>News and Events</feature>
-				<page>0041-0046</page>
+				<page>0041-0045</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sringeri Help for Autism-afflicted</title>
+				<title>Sringeri Help for Autism-Afflicted</title>
 				<feature></feature>
 				<page>0047-0049</page>
 				<allauthors>
@@ -36556,15 +36794,23 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Holistic Culinary Art--50</title>
+				<title>Holistic Culinary Art--50: Avocado</title>
 				<feature>Holistic Culinary Art</feature>
-				<page>0050-0053</page>
+				<page>0050-0051</page>
 				<allauthors>
 					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Complementary Therapy--20</title>
+				<title>Home Remedies for Cough, Cold</title>
+				<feature></feature>
+				<page>0052-0052</page>
+				<allauthors>
+					<author>Padmini Natarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Complementary Therapy--20: The Neem Tree</title>
 				<feature>Complementary Therapy</feature>
 				<page>0054-0054</page>
 				<allauthors>
@@ -36572,7 +36818,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Keep Your Brain Ticking</title>
+				<title>Keep your Brain Ticking</title>
 				<feature></feature>
 				<page>0055-0058</page>
 				<allauthors>
@@ -36580,7 +36826,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Review</title>
+				<title>Ramadas and Tyagaraja-A. Prasanna Kumar</title>
 				<feature>Book Review</feature>
 				<page>0059-0060</page>
 				<allauthors>
@@ -36588,15 +36834,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Living Intellingently</title>
+				<title>Books Received</title>
 				<feature></feature>
-				<page>0061-0078</page>
+				<page>0060-0060</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Book Condensation: Living Intelligently--Public Talks</title>
+				<feature>Book Condensation</feature>
+				<page>0061-0077</page>
 				<allauthors>
 					<author>Dayananda Saraswati Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: Inspirational Story: A Bowl of Noodles from a Stranger</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0090</page>
 				<allauthors>
@@ -36606,7 +36858,7 @@
 		</part>
 		<part pnum="07" month="10" year="2014">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Avoid Bad Company</title>
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
@@ -36619,10 +36871,11 @@
 				<page>0007-0011</page>
 				<allauthors>
 					<author>Athreya R. B.</author>
+					<author>Paramarthananda Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Many Forms of Siva--30</title>
+				<title>Many Forms of Siva--30: Colours of the Trinity</title>
 				<feature>Many Forms of Siva</feature>
 				<page>0012-0016</page>
 				<allauthors>
@@ -36638,9 +36891,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Art of Disagreement</title>
+				<title>Values for Management: The Art of Disagreement</title>
 				<feature></feature>
-				<page>0020-0025</page>
+				<page>0020-0024</page>
 				<allauthors>
 					<author>Krishnamurthy R.</author>
 				</allauthors>
@@ -36648,23 +36901,37 @@
 			<entry>
 				<title>The Magic Spell of Earrings</title>
 				<feature></feature>
-				<page>0026-0031</page>
+				<page>0026-0030</page>
 				<allauthors>
 					<author>Balakrishnan K. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Youth Forum--11</title>
+				<title>Youth Forum--11: Some Lessons from a Yoga Guru</title>
 				<feature>Youth Forum</feature>
-				<page>0032-0037</page>
+				<page>0032-0034</page>
 				<allauthors>
 					<author>Mrityunjay Athreya, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Youth Questions</title>
+				<feature>Youth Forum</feature>
+				<page>0035-0036</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Face to Face with Challenges</title>
+				<feature>Youth Forum</feature>
+				<page>0037-0037</page>
+				<allauthors>
+					<author>Surekha Kothari</author>
+				</allauthors>
+			</entry>
+			<entry>
 				<title>Indology Quiz--16</title>
 				<feature>Indology Quiz</feature>
-				<page>0038-0040</page>
+				<page>0038-0039</page>
 				<allauthors>
 					<author>Ramamurthy N., Dr.</author>
 				</allauthors>
@@ -36678,9 +36945,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events (His Holiness Completes 40th Chaturmasya)</title>
 				<feature>News and Events</feature>
-				<page>0045-0052</page>
+				<page>0045-0050</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -36692,31 +36959,39 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Holistic Culinary Art--51</title>
+				<title>Holistic Culinary Art--51: Bhringaraj, the Nutritious Spinach</title>
 				<feature>Holistic Culinary Art</feature>
-				<page>0054-0056</page>
+				<page>0054-0055</page>
 				<allauthors>
 					<author>Padmini Natarajan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Complementary Therapy--21</title>
+				<title>Holistic Culinary Art--51: Apple</title>
+				<feature>Holistic Culinary Art</feature>
+				<page>0056-0056</page>
+				<allauthors>
+					<author>Padmini Natarajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Complementary Therapy--21: Naturopathy</title>
 				<feature>Complementary Therapy</feature>
-				<page>0057-0062</page>
+				<page>0057-0067</page>
 				<allauthors>
 					<author>Rajesh Vishwanathan, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Kaivalya Navaneeta</title>
-				<feature></feature>
-				<page>0063-0078</page>
+				<title>Book Condensation: Kaivalya Navaneeta, the Cream of Emancipation</title>
+				<feature>Book Condensation</feature>
+				<page>0063-0077</page>
 				<allauthors>
 					<author>Tandavaraya Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Children's Treasure</title>
+				<title>Children's Treasure: A Donkey's Trick</title>
 				<feature>Children's Treasure</feature>
 				<page>0079-0090</page>
 				<allauthors>
