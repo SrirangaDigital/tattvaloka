@@ -78,7 +78,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of the Sadguru - Discourses of Sri Sri Abhinava Vidyatheertha Mahaswamigal, Jagadguru of Sri Sarada Peetam, Sringeri</title>
+				<title>Discourses of Sri Sri Abhinava Vidyatheertha Mahaswamigal, Jagadguru of Sri Sarada Peetam, Sringeri</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0062-0064</page>
 				<allauthors />
@@ -96,7 +96,8 @@
 				<feature>Book Review</feature>
 				<page>0071-0074</page>
 				<allauthors>
-					<author>V. S. R. and D. S. G.</author>
+					<author>V. S. R.</author>
+					<author>D. S. G.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -113,6 +114,12 @@
 				<page>0078-0078</page>
 				<allauthors />
 			</entry>
+			<entry>
+				<title>Erratta</title>
+				<feature></feature>
+				<page>0083-0083</page>
+				<allauthors />
+			</entry>
 		</part>
 		<part pnum="02" month="06" year="1978">
 			<entry>
@@ -122,7 +129,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes: Release of ``Tattvaloka"</title>
+				<title>News and Notes (Release of ``Tattvaloka")</title>
 				<feature>News and Notes</feature>
 				<page>0005-0008b</page>
 				<allauthors />
@@ -152,7 +159,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sayings of the Sadguru - Discourses of Sri Sri Abhinava Vidyatheertha Mahaswamigal, Jagadguru of Sri Sarada Peetam, Sringeri</title>
+				<title>Discourses of Sri Sri Abhinava Vidyatheertha Mahaswamigal, Jagadguru of Sri Sarada Peetam, Sringeri</title>
 				<feature>Sayings of Sadguru</feature>
 				<page>0037-0040</page>
 				<allauthors />
@@ -189,7 +196,7 @@
 			</entry>
 			<entry>
 				<title>Our new Contributors</title>
-				<feature></feature>
+				<feature>Our Contributors</feature>
 				<page>0061-0061</page>
 				<allauthors />
 			</entry>
@@ -198,11 +205,17 @@
 			<entry>
 				<title>Prayer</title>
 				<feature>Prayer</feature>
-				<page>0001-0004</page>
+				<page>0001-0003</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sankara His Life and Works</title>
+				<title>By-Ways of Wisdom</title>
+				<feature></feature>
+				<page>0004-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>Sankara - His Life and Works</title>
 				<feature></feature>
 				<page>0005-0018</page>
 				<allauthors>
@@ -269,12 +282,12 @@
 			</entry>
 			<entry>
 				<title>Our New Contributors</title>
-				<feature></feature>
+				<feature>Our Contributors</feature>
 				<page>0070-0070</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>The Quintessence of Wisdom or The Thirty Verses of Sri Ramana- M. Ananthanarayanan</title>
+				<title>The Quintessence of Wisdom or The Thirty Verses of Sri Ramana-M. Ananthanarayanan</title>
 				<feature>Book Review</feature>
 				<page>0071-0072</page>
 				<allauthors>
@@ -282,7 +295,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Who Am I- Prof. Seshadri</title>
+				<title>Who Am I-Prof. Seshadri</title>
 				<feature>Book Review</feature>
 				<page>0072-0073</page>
 				<allauthors>
@@ -388,7 +401,7 @@
 			<entry>
 				<title>Vedic Exegesis-A New Look</title>
 				<feature></feature>
-				<page>0024-0030</page>
+				<page>0024-0030a</page>
 				<allauthors>
 					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
