@@ -421,7 +421,13 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>The Maxim of the Blind Man and the Cow's Tail</title>
+				<feature></feature>
+				<page>0040-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>As others See us</title>
 				<feature></feature>
 				<page>0041-0043</page>
 				<allauthors>
@@ -485,7 +491,7 @@
 			<entry>
 				<title>Prayer</title>
 				<feature>Prayer</feature>
-				<page>0001-0002</page>
+				<page>0001-0003</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -509,7 +515,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>As others See us</title>
 				<feature></feature>
 				<page>0012-0013</page>
 				<allauthors />
@@ -593,8 +599,16 @@
 			<entry>
 				<title>Prayer</title>
 				<feature>Prayer</feature>
-				<page>0001-0004e</page>
+				<page>0001-0004c</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>श्रीजगद्गुरुपदपङ्कजषट्पदी</title>
+				<feature></feature>
+				<page>0004d-0004d</page>
+				<allauthors>
+					<author>Ramachandra Rao S. K., Prof.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Silver Jubilee of the Peetarohanam of his Holiness Sri Sri Abhinava Vidyatheertha Mahaswamiji</title>
@@ -615,7 +629,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>As others See us</title>
 				<feature></feature>
 				<page>0015-0015</page>
 				<allauthors>
@@ -703,7 +717,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Mahashivaratri and other Celebrations at Sringeri</title>
 				<feature>News and notes</feature>
 				<page>0068-0071</page>
 				<allauthors />
@@ -723,7 +737,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>A note on Samkshepa Sariraka</title>
+				<title>A Note on Samkshepa Sariraka</title>
 				<feature></feature>
 				<page>0008-0012</page>
 				<allauthors>
@@ -759,7 +773,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Srividya : A Synoptic Exposition</title>
+				<title>Shrividya : A Synoptic Exposition</title>
 				<feature></feature>
 				<page>0036-0045</page>
 				<allauthors>
@@ -781,13 +795,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>As others See us</title>
 				<feature></feature>
 				<page>0055-0055</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>The Samkhya-Sutras of pancasikha and the Samkhyatattva Loka-Swami Hariharananda Aranya</title>
+				<title>The Samkhya-Sutras of Pancasikha and the Samkhyatattva Loka-Swami Hariharananda Aranya</title>
 				<feature>Book Review</feature>
 				<page>0056-0057</page>
 				<allauthors>
@@ -797,13 +811,13 @@
 			<entry>
 				<title>Jivanamukti in Advaita-Vidyalankara Prof. S. K. Ramachandra Rao</title>
 				<feature>Book Review</feature>
-				<page>0057-0058b</page>
+				<page>0057-0058</page>
 				<allauthors>
 					<author>Krishnaswamy S. Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Sringeri Summit, a Historic Event</title>
 				<feature>News and notes</feature>
 				<page>0059-0065</page>
 				<allauthors />
@@ -839,7 +853,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>As others See us</title>
 				<feature></feature>
 				<page>0024-0025</page>
 				<allauthors>
@@ -903,7 +917,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Address by the Governor of Karnataka</title>
 				<feature>News and notes</feature>
 				<page>0073-0076</page>
 				<allauthors />
@@ -961,7 +975,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Poetic Beauty and Devotional Fervour in Sankara's works</title>
+				<title>Poetic Beauty and Devotional Fervour in Sankara's Works</title>
 				<feature></feature>
 				<page>0036-0046</page>
 				<allauthors>
@@ -975,7 +989,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>As others See us</title>
 				<feature></feature>
 				<page>0049-0051</page>
 				<allauthors />
@@ -1047,7 +1061,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>As others See us: University Education in Early India</title>
 				<feature></feature>
 				<page>0047-0048</page>
 				<allauthors>
@@ -1168,7 +1182,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>As others See us: Indian Art</title>
 				<feature></feature>
 				<page>0047-0047</page>
 				<allauthors>
@@ -1176,7 +1190,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Their Holiness at Bangalore</title>
 				<feature>News and notes</feature>
 				<page>0048-0061</page>
 				<allauthors />
@@ -1305,26 +1319,40 @@
 				<title>Shatpadi Stotram</title>
 				<feature></feature>
 				<page>0002-0002</page>
-				<allauthors />
+				<allauthors>
+					<author>Sri Sankara Bhagavatpada</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Shankara and The Human Predicament</title>
+				<title>Shankara and the Human Predicament</title>
 				<feature></feature>
-				<page>0003-0010</page>
+				<page>0003-0009</page>
 				<allauthors>
 					<author>Srithandaveswara</author>
 				</allauthors>
 			</entry>
 			<entry>
+				<title>Words of Wisdom</title>
+				<feature></feature>
+				<page>0010-0010</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Nityabodha Ghanacharya and Sarvajnatman</title>
 				<feature></feature>
-				<page>0011-0024</page>
+				<page>0011-0023</page>
 				<allauthors>
 					<author>Srinivasan K. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Idea of Avidya : A Historical Survey</title>
+				<title>Words of Wisdom</title>
+				<feature></feature>
+				<page>0024-0024</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>The Idea of Avidya: A Historical Survey</title>
 				<feature></feature>
 				<page>0025-0028</page>
 				<allauthors>
@@ -1342,7 +1370,7 @@
 			<entry>
 				<title>Advaita Vedanta of Shankaracharya</title>
 				<feature></feature>
-				<page>0037-0045</page>
+				<page>0037-0046</page>
 				<allauthors>
 					<author>Arthur Isenberg, Prof.</author>
 				</allauthors>
@@ -1360,7 +1388,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>As others see us</title>
+				<title>As others See us: Hinduism and its Goal</title>
 				<feature></feature>
 				<page>0049-0050</page>
 				<allauthors>
@@ -1368,13 +1396,21 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Tour of their Holinesses</title>
 				<feature>News and notes</feature>
 				<page>0051-0053</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>श्रीविष्णुसहस्त्रनामस्तोत्र होममन्त्रनिरूपणम् ।, Atma-Nakshatra Mala-Dr. H. J. Achar</title>
+				<title>श्रीविष्णुसहस्रनामस्तोत्र होममन्त्रनिरूपणम् ।-निरूपकः-हो. जनार्दनाचार्यः</title>
+				<feature>Book Review</feature>
+				<page>0054-0055</page>
+				<allauthors>
+					<author>Ramachandra Sastry S., Prof.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Atma-Nakshatra Mala-Dr. H. J. Achar</title>
 				<feature>Book Review</feature>
 				<page>0054-0055</page>
 				<allauthors>
@@ -1412,7 +1448,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Shankara and The Brahma-Sutras</title>
+				<title>Sri Shankara and the Brahma-Sutras</title>
 				<feature></feature>
 				<page>0005-0017</page>
 				<allauthors>
@@ -1420,7 +1456,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vasana Chatushtaya According to Vidyaranya</title>
+				<title>Vasana Chatushtaya according to Vidyaranya</title>
 				<feature></feature>
 				<page>0018-0021</page>
 				<allauthors>
@@ -1468,7 +1504,7 @@
 			<entry>
 				<title>News and Notes</title>
 				<feature>News and notes</feature>
-				<page>0047-0047</page>
+				<page>0047-0048</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -1510,7 +1546,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Locus of Nescience</title>
+				<title>Locus of Nescience (Towards a Solution)</title>
 				<feature></feature>
 				<page>0005-0012</page>
 				<allauthors>
@@ -1518,7 +1554,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vachaspathi on Avidya</title>
+				<title>Vacaspati on Avidya</title>
 				<feature></feature>
 				<page>0013-0017</page>
 				<allauthors>
@@ -1564,7 +1600,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Ganapathi Vidwat Sabha at Sringeri</title>
 				<feature>News and notes</feature>
 				<page>0049-0052</page>
 				<allauthors />
@@ -1622,7 +1658,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Man, The Unknown</title>
+				<title>Man, the Unknown</title>
 				<feature></feature>
 				<page>0021-0029</page>
 				<allauthors>
@@ -1644,7 +1680,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A True Guide to Devotees His Holiness The Mahasannidhanam</title>
+				<title>A True Guide to Devotees His Holiness the Maha Sannidhanam</title>
 				<feature></feature>
 				<page>0041-0045</page>
 				<allauthors>
@@ -1652,7 +1688,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Sixty-Fourth Birth-Day Celebrations of His Holiness Sri Abhinava Vidyathirtha Mahaswamigal</title>
 				<feature>News and notes</feature>
 				<page>0046-0049</page>
 				<allauthors />
@@ -1698,6 +1734,12 @@
 		</part>
 		<part pnum="06" month="02" year="1981">
 			<entry>
+				<title>Editors' Note</title>
+				<feature>Editorial</feature>
+				<page>0000h-0000h</page>
+				<allauthors />
+			</entry>
+			<entry>
 				<title>Prayer</title>
 				<feature>Prayer</feature>
 				<page>0001-0001</page>
@@ -1710,7 +1752,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Indian Tradition</title>
+				<title>Indian Tradition (Authenticity and Development)</title>
 				<feature></feature>
 				<page>0004-0009</page>
 				<allauthors>
