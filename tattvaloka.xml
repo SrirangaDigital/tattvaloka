@@ -321,7 +321,7 @@
 		</part>
 		<part pnum="04" month="10" year="1978">
 			<entry>
-				<title>Prayer</title>
+				<title>Prayer: गौरीदशकम्</title>
 				<feature>Prayer</feature>
 				<page>0001-0005</page>
 				<allauthors />
@@ -335,7 +335,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedic Exegesis-A New Look</title>
+				<title>Vedic Exegesis - A New Look</title>
 				<feature></feature>
 				<page>0021-0032</page>
 				<allauthors>
@@ -351,7 +351,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vakya vs. Drik Ganita Panchangam</title>
+				<title>Vakya Vs. Drik Ganita Panchangam</title>
 				<feature></feature>
 				<page>0049-0054</page>
 				<allauthors>
@@ -359,10 +359,20 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>Tamil-Sanskrit and other Languages Institute, Madras-8</title>
 				<feature>Book Review</feature>
-				<page>0055-0061</page>
-				<allauthors />
+				<page>0055-0058</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Social Institutions among the Hindus-S. K. Ramachandra Rao</title>
+				<feature>Book Review</feature>
+				<page>0058-0061</page>
+				<allauthors>
+					<author>Krishnaswamy S. Y.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>News and Notes</title>
@@ -1203,12 +1213,14 @@
 				<title>Prayer</title>
 				<feature>Prayer</feature>
 				<page>0001-0001</page>
-				<allauthors />
+				<allauthors>
+					<author>Sri Sankara Bhagavatpada</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Sadasivendra Pancharatna Stotram</title>
 				<feature></feature>
-				<page>0002-0002b</page>
+				<page>0002-0002a</page>
 				<allauthors />
 			</entry>
 			<entry>
@@ -1244,7 +1256,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Sadasiva Brahmam and The Jagadgurus of Sringeri</title>
+				<title>Sri Sadasiva Brahmam and the Jagadgurus of Sringeri</title>
 				<feature></feature>
 				<page>0031-0032</page>
 				<allauthors>
@@ -1260,7 +1272,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Karunarasa In English Literature</title>
+				<title>Karunarasa in English Literature</title>
 				<feature></feature>
 				<page>0039-0048</page>
 				<allauthors>
@@ -1290,19 +1302,19 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>God Above God</title>
+				<title>God above God</title>
 				<feature></feature>
 				<page>0066-0067</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title>News and Notes</title>
-				<feature>News and notes</feature>
+				<feature>News and Notes</feature>
 				<page>0068-0072</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Reviews</title>
+				<title>Book Review</title>
 				<feature>Book Review</feature>
 				<page>0073-0076</page>
 				<allauthors />
@@ -3439,7 +3451,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Discovering the Self: Christopher Isherwood's <it>Down there on a Visit</it> As a Religious Novel</title>
+				<title>Discovering the Self: Christopher Isherwood's <it>Down there on a Visit</it> as a Religious Novel</title>
 				<feature></feature>
 				<page>0013-0027</page>
 				<allauthors>
@@ -3469,7 +3481,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Traditions of the Seven Rsis-John E. Mitchiner</title>
+				<title>Traditions of the Seven Risis-John E. Mitchiner</title>
 				<feature>Book Review</feature>
 				<page>0053-0053</page>
 				<allauthors>
@@ -3691,7 +3703,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Manoniyamanam of Sadasivendra</title>
+				<title>मनोनियमनम् of Sadasivendra (Control of the Mind)</title>
 				<feature></feature>
 				<page>0104-0105</page>
 				<allauthors>
@@ -3841,7 +3853,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Theme of Self in Modern Writing in English in the Light of Adi Shankaracharya's 'Hastamalakiyam'</title>
+				<title>The Theme of Self in Modern Writing in English in the Light of Adi Shankaracharya's '<i>Hastamalakiyam</i>'</title>
 				<feature></feature>
 				<page>0038-0046</page>
 				<allauthors>
@@ -3871,10 +3883,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Chaturmasyam of Sringeri Acharyas</title>
 				<feature>News and notes</feature>
 				<page>0064-0065</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaran K. K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta Darshan and the Future of Man-Dr. R. C. Badwe</title>
@@ -4049,7 +4063,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: Sixty-Ninth Vardhanti Celebrations of His Holiness Jagadguru Sri Abhinava Vidyateertha Mahaswamigalavaru of Sringeri Sharada Peetham</title>
 				<feature>News and notes</feature>
 				<page>0084-0088</page>
 				<allauthors />
@@ -4121,8 +4135,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes</title>
-				<feature>News and notes</feature>
+				<title>News and Notes: Laying of the Foundation Stone of Shankara Mutt at Kollur by His Holiness Jagadguru Sri Sri Abhinava Vidyatheertha Mahaswamigal of Sringeri Sharada Peetam</title>
+				<feature>News and Notes</feature>
 				<page>0055-0058</page>
 				<allauthors />
 			</entry>
@@ -4187,10 +4201,18 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes</title>
+				<title>News and Notes: His Holiness Sri Bharathi Teertha Swamigal at Hyderabad</title>
 				<feature>News and Notes</feature>
 				<page>0045-0050</page>
 				<allauthors />
+			</entry>
+			<entry>
+				<title>Peetharohanam Celebration of H. H. Swami Narayananda Bharathi as Head of Nelemau Math by H. H. Sri Sri Bharathi Theertha Swamigal Jagadguru Shankaracharya of Sringeri Sharada Peetam</title>
+				<feature></feature>
+				<page>0051-0051</page>
+				<allauthors>
+					<author>Krishnan V. K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -4231,7 +4253,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Analysis of the Contents of the Rgvidhana</title>
+				<title>Analysis of the Contents of the Rigvidhana</title>
 				<feature></feature>
 				<page>0025-0030</page>
 				<allauthors>
@@ -4261,10 +4283,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes</title>
-				<feature>News and notes</feature>
-				<page>0047-0050b</page>
-				<allauthors />
+				<title>News and Notes: A Report on Sri Sankara Jayanthi Celebrations at Kalady 1986</title>
+				<feature>News and Notes</feature>
+				<page>0047-0050a</page>
+				<allauthors>
+					<author>Sankaran K. K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -4284,7 +4308,9 @@
 				<title>गोविन्दाष्टकम्</title>
 				<feature></feature>
 				<page>0002-0005</page>
-				<allauthors />
+				<allauthors>
+					<author>Krishna Jois K., Vidwan</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Upasana</title>
@@ -4309,7 +4335,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Grounds for different interpretations of Brahmasutras</title>
+				<title>Grounds for Different Interpretations of Brahmasutras</title>
 				<feature></feature>
 				<page>0028-0030</page>
 				<allauthors>
@@ -4317,7 +4343,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Humour in the works of Bhasa</title>
+				<title>Humour in the Works of Bhasa</title>
 				<feature></feature>
 				<page>0031-0044</page>
 				<allauthors>
@@ -4339,8 +4365,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes</title>
-				<feature>News and notes</feature>
+				<title>News and Notes: Report on the Visit to and Stay of His Holiness Jagadguru Sri Sri Abhinava Vidyatheertha Mahaswamigal of Sringeri Sharada Peetam at Mysore from 31st May 1986 to 12th June 1986</title>
+				<feature>News and Notes</feature>
 				<page>0059-0060</page>
 				<allauthors />
 			</entry>
@@ -4379,7 +4405,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Namaka and Camaka Chapters of The Yajurveda</title>
+				<title>Namaka and Camaka Chapters of the Yajurveda</title>
 				<feature></feature>
 				<page>0021-0029</page>
 				<allauthors>
@@ -4395,7 +4421,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>On the Renunciation of the Non-self: Christopher Isherwood's "A Meeting by the River"</title>
+				<title>On the Renunciation of the Non-Self: Christopher Isherwood's "A Meeting by the River"</title>
 				<feature></feature>
 				<page>0033-0043</page>
 				<allauthors>
@@ -4435,10 +4461,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Notes</title>
-				<feature>News and notes</feature>
+				<title>News and Notes: A Report on Sri Sankara Jayanthi Celebrations at Kalady, 1986</title>
+				<feature>News and Notes</feature>
 				<page>0058-0063</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaran K. K.</author>
+					<author>Sundaresan M.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Samakaleena Pascatya Tattvasastra (Kannada)-Prof. G. Srinivasan</title>
@@ -4472,7 +4501,9 @@
 				<title>श्री विद्यातीर्थगुरुपञ्चकम्</title>
 				<feature></feature>
 				<page>0004-0004</page>
-				<allauthors />
+				<allauthors>
+					<author>Sankaran K. K.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Dakshinamurthi Stotram</title>
@@ -4537,8 +4568,8 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Notes</title>
-				<feature>News and notes</feature>
+				<title>News and Notes: 70th Vardhanthi Celebrations of His Holiness Sri Mahasannidhanam</title>
+				<feature>News and Notes</feature>
 				<page>0073-0074</page>
 				<allauthors />
 			</entry>
@@ -4565,7 +4596,7 @@
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0004-0004c</page>
+				<page>0004-0004b</page>
 				<allauthors>
 					<author>Ramaswamy S., Dr.</author>
 				</allauthors>
@@ -4627,10 +4658,16 @@
 			<entry>
 				<title>Obituary</title>
 				<feature>Obituary</feature>
-				<page>0072-0075</page>
+				<page>0072-0074</page>
 				<allauthors>
 					<author>Hariharan P. R.</author>
 				</allauthors>
+			</entry>
+			<entry>
+				<title>An Announcement: The Call of Sringeri</title>
+				<feature></feature>
+				<page>0075-0075</page>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>Our Contributors</title>
@@ -7541,21 +7578,23 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Abhinava Vidyatirtha Mahaswamigal</title>
 				<feature></feature>
 				<page>0009-0009</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality: Our Great Guru</title>
+				<title>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality: Our Great Guru: Sri Abhinava Vidyatirtha Mahaswami</title>
 				<feature></feature>
 				<page>0010-0023</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+					<author>Giridhara Sastry C. V.</author>
+					<author>Venkataramana D. R.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality: Perfect Embodiment of All Virtues</title>
+				<title>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality: A Perfect Embodiment of all Virtues</title>
 				<feature></feature>
 				<page>0024-0039</page>
 				<allauthors>
@@ -7568,6 +7607,14 @@
 				<page>0040-0041</page>
 				<allauthors>
 					<author>Trevor Leggett</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Potent Medicine</title>
+				<feature></feature>
+				<page>0041-0041</page>
+				<allauthors>
+					<author>Krishnan K. V.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7595,7 +7642,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality: He Could Be Angry Too at Times</title>
+				<title>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality: He could be Angry Too at Times</title>
 				<feature></feature>
 				<page>0054-0059</page>
 				<allauthors>
@@ -7603,11 +7650,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Achievements and Vijaya Yatra: Peerless Ascetic and Administrator</title>
+				<title>Achievements and Vijaya Yatra: Peerless Ascetic and Meticulous Administrator</title>
 				<feature></feature>
 				<page>0060-0067</page>
 				<allauthors>
 					<author>Ramaswamy A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Guru who came to give Darsan</title>
+				<feature></feature>
+				<page>0067-0067</page>
+				<allauthors>
+					<author>Viswanathan S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7624,6 +7679,14 @@
 				<page>0071-0073</page>
 				<allauthors>
 					<author>Subramanyam P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Old Portraits</title>
+				<feature></feature>
+				<page>0073-0073</page>
+				<allauthors>
+					<author>Ramamurthi S.</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -7667,27 +7730,27 @@
 			<entry>
 				<title>Guru Stuti: Sri Abhinava Vidyatirtha Stavah</title>
 				<feature></feature>
-				<page>0088-0092</page>
+				<page>0088-0089</page>
 				<allauthors>
 					<author>Krishna Jois K., Vidwan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Coronation of H. H. Sri Bharati Tirtha Sannidhanam: Bharati Tirtha Takes Over as Jagadguru</title>
+				<title>Coronation of H. H. Sri Bharati Tirtha Sannidhanam: Sri Bharati Tirtha takes over as Jagadguru</title>
 				<feature></feature>
-				<page>0093-0094</page>
+				<page>0093-0100</page>
 				<allauthors>
-					<author>Marthi Subrahmanyam</author>
+					<author>Subrahmanyam M. M.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Coronation of H. H. Sri Bharati Tirtha Sannidhanam: Messages from VIPs</title>
+				<title>Coronation of H. H. Sri Bharati Tirtha Sannidhanam: Messages from President and many others</title>
 				<feature></feature>
-				<page>0095-0100</page>
+				<page>0095-0096</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Coronation of H. H. Sri Bharati Tirtha Sannidhanam: When Bharati Tirtha Met His Guru</title>
+				<title>Coronation of H. H. Sri Bharati Tirtha Sannidhanam: When Bharati Tirtha First Met His Guru</title>
 				<feature></feature>
 				<page>0101-0102</page>
 				<allauthors />
@@ -7698,6 +7761,7 @@
 				<page>0103-0112</page>
 				<allauthors>
 					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+					<author>Venkataramana D. R.</author>
 				</allauthors>
 			</entry>
 		</part>
