@@ -4688,7 +4688,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Anugraha Bhashana</title>
 				<feature></feature>
 				<page>0009-0009</page>
 				<allauthors />
@@ -4702,7 +4702,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Adi Sankara : His Personality: Sankara Lives Today</title>
+				<title>Adi Sankara: His Personality: Sankara Lives Today</title>
 				<feature></feature>
 				<page>0013-0014</page>
 				<allauthors>
@@ -4710,7 +4710,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Adi Sankara : His Personality: Relevance of Adi Sankara to Modern Times</title>
+				<title>Adi Sankara: His Personality: Relevance of Adi Sankara to Modern Times</title>
 				<feature></feature>
 				<page>0015-0018</page>
 				<allauthors>
@@ -4718,7 +4718,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Adi Sankara : His Personality: Face to Face with Sankara</title>
+				<title>Adi Sankara: His Personality: Face to Face with Sankara</title>
 				<feature></feature>
 				<page>0019-0022</page>
 				<allauthors>
@@ -4726,7 +4726,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Adi Sankara : His Personality: Sankara and Western Spiritual Tradition</title>
+				<title>Adi Sankara: His Personality: Sankara and Western Spiritual Tradition</title>
 				<feature></feature>
 				<page>0023-0026</page>
 				<allauthors>
@@ -4734,7 +4734,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Adi Sankara : His Personality: Sringeri and Sankara</title>
+				<title>Adi Sankara: His Personality: Sringeri and Sankara</title>
 				<feature></feature>
 				<page>0027-0030</page>
 				<allauthors>
@@ -4892,10 +4892,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Jivanmukti</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>What is Jivanmukti?: Attributes of a Jivanmukta</title>
@@ -4972,7 +4974,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Saints and their Sayings: Suka : A Jivanmukta Par Excellence</title>
+				<title>Saints and their Sayings: Suka: A Jivanmukta Par Excellence</title>
 				<feature></feature>
 				<page>0053-0055</page>
 				<allauthors>
@@ -5053,10 +5055,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks</title>
+				<title>Introduction - His Holiness Speaks ...Nadopasana</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Nadopasana: Worship of Nada Brahman</title>
@@ -5241,7 +5245,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events: The Chaturmasya Vow</title>
 				<feature>News and Events</feature>
 				<page>0094-0096</page>
 				<allauthors />
@@ -5257,10 +5261,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Sri Chakra Upasana</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Chakra Upasana: The Creation Formula</title>
@@ -5400,7 +5406,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: When Is a Mantra Effective?</title>
+				<title>Vedanta in Daily Life: When is a Mantra Effective?</title>
 				<feature></feature>
 				<page>0078-0079</page>
 				<allauthors>
@@ -5424,7 +5430,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events: A Week-Long Felicitation</title>
 				<feature>News and Events</feature>
 				<page>0085-0090</page>
 				<allauthors />
@@ -5446,10 +5452,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...The Bhagavad Gita</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Bhagavad Gita: The Message of the Gita</title>
@@ -5540,7 +5548,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gita Hymns - A Selection: Viswa-rupa (Universal Form)</title>
+				<title>Gita Hymns - A Selection: Viswa-Rupa (Universal Form)</title>
 				<feature></feature>
 				<page>0058-0060</page>
 				<allauthors>
@@ -5636,7 +5644,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events: Sri Maha Sannidhanam's 71st Vardhanti</title>
 				<feature>News and Events</feature>
 				<page>0089-0096</page>
 				<allauthors />
@@ -5652,10 +5660,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Maha Sivaratri</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Siva the Great: The Holy Night of Siva</title>
@@ -5867,7 +5877,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events: New Sankara Mutt for Tirupur</title>
 				<feature>News and Events</feature>
 				<page>0098-0100</page>
 				<allauthors />
@@ -5885,10 +5895,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Bhagavatpada: The Universal Benefactor</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sankara Jayanti: Sri Sankara Bhagavatpada - Commentator <i>Par Excellence</i></title>
@@ -6069,7 +6081,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events: New Veda Pathasala for Coimbatore</title>
 				<feature>News and Events</feature>
 				<page>0094-0096</page>
 				<allauthors />
@@ -6093,10 +6105,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Bhagavan Veda Vyasa</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Bhagavan Veda Vyasa - Personality and Achievements: The Greatness of Veda Vyasa</title>
@@ -6220,7 +6234,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: News and Events</title>
+				<title>News and Events: Highlights of Sankara Jayanti Celebrations</title>
 				<feature>News and Events</feature>
 				<page>0069-0082</page>
 				<allauthors />
@@ -6282,7 +6296,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles in <i>Tattvaloka</i> (1987-88)</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1987-February 1988</title>
 				<feature></feature>
 				<page>0095-0100</page>
 				<allauthors />
@@ -6298,10 +6312,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Sri Vidyaranya</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Saint Vidyaranya: Sri Vidyaranya</title>
@@ -6447,7 +6463,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events: Koti Archana at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0091-0100</page>
 				<allauthors />
@@ -6463,10 +6479,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Devi Mahatmyam</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Devi Mahatmyam: The Glory of the Goddess</title>
@@ -6623,10 +6641,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Dattatreya</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Dattatreya - An Incarnation: Adi Guru Dattatreya</title>
@@ -6768,10 +6788,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events: Special Celebrations at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0067-0075</page>
-				<allauthors />
+				<allauthors>
+					<author>Mahabala Bayari</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Vedanta in Daily Life: Vedanta in a Stressful Life</title>
@@ -6800,10 +6822,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Sri Narasimha Bharati</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>H. H. Sri Sacchidananda Sivabhinava Narasimha Bharati Swami: Chapter 1 - Ancestry, Parentage and Early Life</title>
@@ -6963,7 +6987,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events</title>
+				<title>News and Events: Sivaratri at Srisailam</title>
 				<feature>News and Events</feature>
 				<page>0091-0095</page>
 				<allauthors />
@@ -6989,10 +7013,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Sri Rama</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Rama: Hero of the Epic: Rama's Business</title>
@@ -7124,7 +7150,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Jayanti Celebrations)</title>
+				<title>News and Events: Sankara Jayanti Celebrations</title>
 				<feature>News and Events</feature>
 				<page>0076-0082</page>
 				<allauthors />
@@ -7138,7 +7164,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1988 - February 1989</title>
+				<title>Index of Articles which Appeared in <i>Tattvaloka</i> April 1988-February 1989</title>
 				<feature></feature>
 				<page>0091-0096</page>
 				<allauthors>
@@ -7157,10 +7183,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Sri Krishna</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Krishna-The Purna Avatar: Historicity of Krishna</title>
@@ -7334,7 +7362,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: News and Events (Vyasa Puja Celebrations)</title>
+				<title>Vedanta in Daily Life: News and Events: Vyasa Puja Celebrations</title>
 				<feature>News and Events</feature>
 				<page>0080-0085</page>
 				<allauthors>
@@ -7388,10 +7416,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - His Holiness Speaks...</title>
+				<title>Introduction - His Holiness Speaks...Sakta Upanishads</title>
 				<feature></feature>
 				<page>0018-0018</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sakta Upanishads: Wisdom of the Upanishads</title>
@@ -7581,7 +7611,9 @@
 				<title>Introduction - Jagadguru Speaks...Sri Abhinava Vidyatirtha Mahaswamigal</title>
 				<feature></feature>
 				<page>0009-0009</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>H. H. Sri Abhinava Vidyatirtha Maha sannidhanam Personality: Our Great Guru: Sri Abhinava Vidyatirtha Mahaswami</title>
@@ -7773,10 +7805,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Ganesa</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Ganesa-Forms and Symbols: Rationale Behind Ganesa</title>
@@ -7938,7 +7972,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Samadhi Shrine Work begins at Sringeri)</title>
+				<title>News and Events: Samadhi Shrine Work begins at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0083-0084</page>
 				<allauthors>
@@ -7976,10 +8010,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Adi Sankara a Yogi</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Adi Sankara as a Yogi: New Sankara Commentary</title>
@@ -8148,7 +8184,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (40th Vardhanti of Sri Sannidhanam)</title>
+				<title>News and Events: 40th Vardhanti of Sri Sannidhanam</title>
 				<feature>News and Events</feature>
 				<page>0073-0077</page>
 				<allauthors />
@@ -8178,10 +8214,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Subrahmanya</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Greatness of Lord Subrahmanya: Subrahmanya</title>
@@ -8294,7 +8332,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (Bridge Across Tunga Opened)</title>
+				<title>News and Events: Bridge Across Tunga Opened</title>
 				<feature>News and Events</feature>
 				<page>0065-0066</page>
 				<allauthors />
@@ -8367,10 +8405,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Gayatri</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Gayatri, The Supreme Mother: The Gayatri Mantra</title>
@@ -8389,7 +8429,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gayatri, The Supreme Mother: May He Direct our Intellects!</title>
+				<title>Gayatri, The Supreme Mother: May he Direct our Intellects!</title>
 				<feature></feature>
 				<page>0024-0026</page>
 				<allauthors>
@@ -8493,7 +8533,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: News and Events (Lifetime Allowance for Shastra Pandits)</title>
+				<title>Vedanta in Daily Life: News and Events: Lifetime Allowance for Shastra Pandits</title>
 				<feature>News and Events</feature>
 				<page>0082-0088</page>
 				<allauthors />
@@ -8517,10 +8557,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Lalita</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sri Lalita: Name and Form</title>
@@ -8652,7 +8694,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Grand Navaratri at Sringeri)</title>
+				<title>News and Events: Grand Navaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0083-0092</page>
 				<allauthors />
@@ -8674,10 +8716,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...The Ganga</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Goddess Ganga: The Ganga</title>
@@ -8847,7 +8891,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: News and Events (Sahasra Chandi Maha Yaga)</title>
+				<title>Vedanta in Daily Life: News and Events: Sahasra Chandi Maha Yaga</title>
 				<feature>News and Events</feature>
 				<page>0081-0082</page>
 				<allauthors />
@@ -8893,10 +8937,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...The Twelve Jyotirlingas</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Jyotirlingas: Somnath</title>
@@ -9005,7 +9051,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Performs Grand Sivaratri Puja)</title>
+				<title>News and Events: His Holiness Performs Grand Sivaratri Puja</title>
 				<feature>News and Events</feature>
 				<page>0076-0078</page>
 				<allauthors />
@@ -9045,10 +9091,12 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sankara, the Ocean of Mercy</title>
 				<feature></feature>
 				<page>0013-0014</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sankara's Life: Sankara: His Merciful Life</title>
@@ -9198,7 +9246,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Devotees Celebrate Jagadguru's 41st Birthday)</title>
+				<title>News and Events: Devotees Celebrate Jagadguru's 41st Birthday</title>
 				<feature>News and Events</feature>
 				<page>0075-0076</page>
 				<allauthors />
@@ -9246,10 +9294,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Balaji</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>In Praise of Balaji: Lord Venkateswara of the Seven Hills</title>
@@ -9421,10 +9471,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Yoga Sadhana</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Principles of Yoga: Yoga and Vedic Heritage</title>
@@ -9601,7 +9653,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (VIPs at Sringeri)</title>
+				<title>News and Events: VIPs at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0084-0084</page>
 				<allauthors />
@@ -9633,10 +9685,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Mahalakshmi</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Mahalakshmi in Scriptures: Sri Lakshmi's Origin in the Vedas</title>
@@ -9798,7 +9852,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Special Pujas at Sringeri)</title>
+				<title>News and Events: Special Pujas at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0079-0081</page>
 				<allauthors />
@@ -9822,10 +9876,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sastras and Management</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sastric Principles of Management: Ancient Wisdom for Human Resource Management</title>
@@ -9962,7 +10018,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Modernisation at Sringeri Hospital)</title>
+				<title>News and Events: Modernisation at Sringeri Hospital</title>
 				<feature>News and Events</feature>
 				<page>0085-0086</page>
 				<allauthors />
@@ -9976,7 +10032,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Throne of Transcendental Wisdom-K.R. Venkataraman</title>
+				<title>The Throne of Transcendental Wisdom-K. R. Venkataraman</title>
 				<feature>Book Review</feature>
 				<page>0089-0090</page>
 				<allauthors>
@@ -10002,10 +10058,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Lord Nataraja</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Attributes of Nataraja: Tandava--Victory Dance by Nataraja</title>
@@ -10136,7 +10194,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sanskrit University taking Shape in Kalady)</title>
+				<title>News and Events: Sanskrit University taking Shape in Kalady</title>
 				<feature>News and Events</feature>
 				<page>0072-0077</page>
 				<allauthors />
@@ -10194,10 +10252,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sankara, the Brilliant Leader</title>
 				<feature></feature>
 				<page>0006-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Spiritual Leadership: Adi Sankara: Excellence in Leadership</title>
@@ -10344,13 +10404,13 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (President of India in Sringeri)</title>
+				<title>News and Events: President of India in Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0075-0077</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Sri Dakshinamurthy Stotram-D.S. Subbaramaiya</title>
+				<title>Sri Dakshinamurthy Stotram-D. S. Subbaramaiya</title>
 				<feature>Book Review</feature>
 				<page>0078-0079</page>
 				<allauthors>
@@ -10400,10 +10460,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Bhagavan Narasimha</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Avatara of Narasimha: Narasimha Avatara in Bhagavata</title>
@@ -10560,7 +10622,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (New Sarada Temple for Bombay)</title>
+				<title>News and Events: New Sarada Temple for Bombay</title>
 				<feature>News and Events</feature>
 				<page>0074-0076</page>
 				<allauthors>
@@ -10595,10 +10657,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...His Holiness Sri Chandrasekhara Bharati</title>
 				<feature></feature>
 				<page>0006-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Personality of Jagadguru: Jagadguru Sri Chandrasekhara Bharati Mahaswami</title>
@@ -10820,10 +10884,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Goddess Sarasvati</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Sarasvati in Scriptures: Sarasvati: Development in the Vedas</title>
@@ -11000,7 +11066,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness' Glorious Bombay Visit Draws to a Close)</title>
+				<title>News and Events: His Holiness' Glorious Bombay Visit Draws to a Close</title>
 				<feature>News and Events</feature>
 				<page>0065-0067</page>
 				<allauthors>
@@ -11072,10 +11138,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Dharma in the Mahabharata</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Guidelines for Righteousness: The Mahabharata in Today's India</title>
@@ -11247,7 +11315,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Navaratri at Kolhapur)</title>
+				<title>News and Events: Navaratri at Kolhapur</title>
 				<feature>News and Events</feature>
 				<page>0068-0073</page>
 				<allauthors>
@@ -11334,10 +11402,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Siva Purana</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Aspects of Siva: Siva Purana--An Overview</title>
@@ -11583,7 +11653,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Vijaya Yatra in Andhra Pradesh)</title>
+				<title>News and Events: Vijaya Yatra in Andhra Pradesh</title>
 				<feature>News and Events</feature>
 				<page>0085-0087</page>
 				<allauthors>
@@ -11632,10 +11702,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sankara, the World Teacher</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Personality of Sankara: Adi Sankara, The World Teacher</title>
@@ -11833,7 +11905,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Prime Minister Visits Sringeri)</title>
+				<title>News and Events: Prime Minister Visits Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0083-0085</page>
 				<allauthors>
@@ -11868,10 +11940,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Kalidasa, an Advaitic Poet</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Ideals of Kalidasa: Kalidasa's Works in Modern Age</title>
@@ -12026,7 +12100,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Unanimous Call by Sankaracharyas)</title>
+				<title>News and Events: Unanimous Call by Sankaracharyas</title>
 				<feature>News and Events</feature>
 				<page>0065-0071</page>
 				<allauthors />
@@ -12090,10 +12164,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Srimad Bhagavata: Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Srimad Bhagavata</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Teachings: Srimad Bhagavata--Its Origin</title>
@@ -12325,7 +12401,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya and Pujas at Sringeri)</title>
+				<title>News and Events: Chaturmasya and Pujas at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0095-0095</page>
 				<allauthors>
@@ -12351,10 +12427,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Maha Kali</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Kali--The Significance: Worship of Maha Kali</title>
@@ -12627,10 +12705,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Dharma Sasta</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Mystique of Sasta: Lord Ayyappa</title>
@@ -12877,10 +12957,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sun Worship: Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Surya Upasana</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Importance of Surya: Surya, The Vedic God</title>
@@ -13099,7 +13181,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sacred Festivals at Sringeri)</title>
+				<title>News and Events: Sacred Festivals at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0093-0094</page>
 				<allauthors>
@@ -13135,10 +13217,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sankara Digvijaya</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Genius of Sankara: Avatara Rahasya of Sankara</title>
@@ -13295,7 +13379,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Devotees Celebrate 44th Vardhanti of His Holiness Sri Bharati Tirtha Mahaswamigal)</title>
+				<title>News and Events: Devotees Celebrate 44th Vardhanti of His Holiness Sri Bharati Tirtha Mahaswamigal</title>
 				<feature>News and Events</feature>
 				<page>0065-0068</page>
 				<allauthors>
@@ -13379,10 +13463,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Hindu Samskaras: Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Hindu Samskaras</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>What are Samskaras?: Hindu Samskaras</title>
@@ -13527,7 +13613,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: News and Events (Jagadguru Performs Kumbhabhisheka of Bombay's Siddhi Vinayaka Temple)</title>
+				<title>Vedanta in Daily Life: News and Events: Jagadguru Performs Kumbhabhisheka of Bombay's Siddhi Vinayaka Temple</title>
 				<feature>News and Events</feature>
 				<page>0071-0078</page>
 				<allauthors>
@@ -13595,10 +13681,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sringeri and its Traditions</title>
 				<feature></feature>
 				<page>0007-0008</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Message of Sringeri: An Interview with the Jagadguru</title>
@@ -13731,7 +13819,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Vedanta in Daily Life: News and Events (Rousing Welcome to His Holiness on Way to Delhi)</title>
+				<title>Vedanta in Daily Life: News and Events: Rousing Welcome to His Holiness on Way to Delhi</title>
 				<feature></feature>
 				<page>0093-0096</page>
 				<allauthors>
@@ -13819,10 +13907,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Shakti Peethas</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>A Survey of Peethas: Shakti Peethas--An Overview</title>
@@ -14043,7 +14133,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Continues his North Indian Vijaya Yatra)</title>
+				<title>News and Events: His Holiness Continues his North Indian Vijaya Yatra</title>
 				<feature>News and Events</feature>
 				<page>0082-0085</page>
 				<allauthors>
@@ -14077,10 +14167,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Dhyana/Meditation</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>What is Meditation?: The Greatness of Meditation</title>
@@ -14264,7 +14356,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits the States of Uttar Pradesh, Bihar and Orissa)</title>
+				<title>News and Events: His Holiness Visits the States of Uttar Pradesh, Bihar and Orissa</title>
 				<feature>News and Events</feature>
 				<page>0087-0088</page>
 				<allauthors>
@@ -14314,10 +14406,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sri Hanuman: Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Sri Hanuman</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Personality of Hanuman: Birth and Childhood of Hanuman</title>
@@ -14479,7 +14573,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Consecration of Grand Temple Complex at Anantapur)</title>
+				<title>News and Events: Consecration of Grand Temple Complex at Anantapur</title>
 				<feature>News and Events</feature>
 				<page>0071-0083</page>
 				<allauthors>
@@ -14542,10 +14636,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Viveka Chudamani: Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Viveka Chudamani</title>
 				<feature></feature>
 				<page>0007-0007</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>The Essentials: Import of Atmatattva</title>
@@ -14716,7 +14812,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Jagadguru's 45th Vardhanti Celebrated)</title>
+				<title>News and Events: Jagadguru's 45th Vardhanti Celebrated</title>
 				<feature>News and Events</feature>
 				<page>0066-0072</page>
 				<allauthors>
@@ -14769,10 +14865,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Theory of Rebirth: Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Theory of Rebirth</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>General Introduction: Reincarnation: A Historical Review</title>
@@ -14953,7 +15051,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sri Abhinava Vidya Tirtha Discourse Hall at Ernakulam)</title>
+				<title>News and Events: Sri Abhinava Vidya Tirtha Discourse Hall at Ernakulam</title>
 				<feature>News and Events</feature>
 				<page>0087-0089</page>
 				<allauthors>
@@ -15005,10 +15103,12 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Pranava: Introduction - Jagadguru Speaks...</title>
+				<title>Introduction - Jagadguru Speaks...Pranava</title>
 				<feature></feature>
 				<page>0006-0006</page>
-				<allauthors />
+				<allauthors>
+					<author>Jagadguru Shankaracharya Sri Sri Bharati Tirtha Mahaswami</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title>Supremacy of Pranava: Vedic Pranava</title>
@@ -15155,7 +15255,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Reaching Out to the U.S. Sringeri Jagadguru Blesses a New Foundation)</title>
+				<title>News and Events: Reaching Out to the U.S. Sringeri Jagadguru Blesses a New Foundation</title>
 				<feature>News and Events</feature>
 				<page>0051-0062</page>
 				<allauthors>
@@ -15233,7 +15333,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Human Birth--An Invaluable Asset</title>
 				<feature></feature>
 				<page>0004-0005</page>
 				<allauthors>
@@ -15396,7 +15496,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Contentment--Hallmark of Happiness</title>
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
@@ -15563,7 +15663,7 @@
 	<volume vnum="019">
 		<part pnum="01" month="04/05" year="1996">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Dana or Charity</title>
 				<feature></feature>
 				<page>0002-0002</page>
 				<allauthors>
@@ -15680,7 +15780,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Dharma</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -15863,7 +15963,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Harm not, Love all</title>
 				<feature></feature>
 				<page>0005-0005</page>
 				<allauthors>
@@ -15975,7 +16075,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Leading a Good Life</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -16088,7 +16188,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (New Center for Ancient Indian Values makes Progress in USA)</title>
+				<title>News and Events: New Center for Ancient Indian Values makes Progress in USA</title>
 				<feature>News and Events</feature>
 				<page>0066-0071</page>
 				<allauthors>
@@ -16161,7 +16261,7 @@
 		</part>
 		<part pnum="05" month="12/01" year="1997">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Cultivate Right Qualities</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -16241,7 +16341,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sri Sringeri Sharada Institute of Management Offers)</title>
+				<title>News and Events: Sri Sringeri Sharada Institute of Management Offers</title>
 				<feature>News and Events</feature>
 				<page>0035-0038</page>
 				<allauthors />
@@ -16423,7 +16523,7 @@
 	<volume vnum="020">
 		<part pnum="01" month="04/05" year="1997">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Do Right Deeds with Courage</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -16550,7 +16650,7 @@
 		</part>
 		<part pnum="02" month="06/07" year="1997">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Wish Well for all</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -16674,7 +16774,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Have Faith in Sastras: Desist from Sin</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -16698,7 +16798,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads-2: Kenopanishad</title>
+				<title>Upanishads--2: Kenopanishad</title>
 				<feature></feature>
 				<page>0013-0015</page>
 				<allauthors>
@@ -16730,7 +16830,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha-6: The Story of Karkati</title>
+				<title>Yoga Vasishtha--6: The Story of Karkati</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0033-0035</page>
 				<allauthors>
@@ -16770,7 +16870,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Jayanti in Kalady)</title>
+				<title>News and Events: Sankara Jayanti in Kalady</title>
 				<feature>News and Events</feature>
 				<page>0059-0061</page>
 				<allauthors>
@@ -16816,7 +16916,7 @@
 		</part>
 		<part pnum="04" month="10/11" year="1997">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Say no to Greed</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -16945,7 +17045,7 @@
 		</part>
 		<part pnum="05" month="01" year="1998">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Ego is your Enemy</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17059,7 +17159,7 @@
 	<volume vnum="021">
 		<part pnum="01" month="05" year="1998">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Avoid Likes and Dislikes</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17091,7 +17191,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha - 8: The Aspects of Mind</title>
+				<title>Yoga Vasishtha--8: The Aspects of Mind</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0023-0027</page>
 				<allauthors />
@@ -17113,7 +17213,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads - 6: The Mandukya Upanishad</title>
+				<title>Upanishads--6: The Mandukya Upanishad</title>
 				<feature></feature>
 				<page>0039-0046</page>
 				<allauthors>
@@ -17145,7 +17245,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Selfless Service Extolled)</title>
+				<title>News and Events: Selfless Service Extolled</title>
 				<feature>News and Events</feature>
 				<page>0055-0056</page>
 				<allauthors />
@@ -17161,7 +17261,7 @@
 		</part>
 		<part pnum="02" month="07" year="1998">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Honour Thy Word</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17185,7 +17285,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yoga Vasishtha - 9: Mind and Mystery of Creation</title>
+				<title>Yoga Vasishtha--9: Mind and Mystery of Creation</title>
 				<feature>Yoga Vasishtha</feature>
 				<page>0010-0014</page>
 				<allauthors>
@@ -17193,7 +17293,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads-7: Taittiriya Upanishad</title>
+				<title>Upanishads--7: Taittiriya Upanishad</title>
 				<feature></feature>
 				<page>0015-0020</page>
 				<allauthors>
@@ -17267,7 +17367,7 @@
 		</part>
 		<part pnum="03" month="09" year="1998">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Avoid Insulting Others</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17299,7 +17399,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads-8: The Aitareya Upanishad</title>
+				<title>Upanishads--8: The Aitareya Upanishad</title>
 				<feature></feature>
 				<page>0012-0015</page>
 				<allauthors>
@@ -17348,7 +17448,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (A Hospital's Cry for Help)</title>
+				<title>News and Events: A Hospital's Cry for Help</title>
 				<feature></feature>
 				<page>0049-0051</page>
 				<allauthors />
@@ -17364,7 +17464,7 @@
 		</part>
 		<part pnum="04" month="11" year="1998">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Faith Begets Wisdom</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17380,7 +17480,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads-9: The Chandogya Upanishad</title>
+				<title>Upanishads--9: The Chandogya Upanishad</title>
 				<feature></feature>
 				<page>0008-0014</page>
 				<allauthors>
@@ -17513,7 +17613,7 @@
 		</part>
 		<part pnum="05" month="01" year="1999">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Self-Help is the Best Help</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17529,7 +17629,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Upanishads-10: Brihadaranyaka Upanishad</title>
+				<title>Upanishads--10: Brihadaranyaka Upanishad</title>
 				<feature></feature>
 				<page>0008-0011</page>
 				<allauthors>
@@ -17581,7 +17681,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>Book Condensation: Anandamayi-- Her Life and Wisdom</title>
+				<title>Book Condensation: Anandamayi--Her Life and Wisdom</title>
 				<feature>Book Condensation</feature>
 				<page>0046-0097</page>
 				<allauthors>
@@ -17623,7 +17723,7 @@
 		</part>
 		<part pnum="06" month="03" year="1999">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Prerequisites for Learning Vedanta</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17693,7 +17793,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sparkling Gold Chariot of Sharadamba Inaugurated by His Holiness)</title>
+				<title>News and Events: Sparkling Gold Chariot of Sharadamba Inaugurated by His Holiness</title>
 				<feature>News and Events</feature>
 				<page>0045-0046</page>
 				<allauthors />
@@ -17717,7 +17817,7 @@
 	<volume vnum="022">
 		<part pnum="01" month="05" year="1999">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Glory of the Guru</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17779,7 +17879,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (49th Vardhanti Mahotsava Celebrations of H. H. Sri Bharati Tirtha Mahaswamigal)</title>
+				<title>News and Events: 49th Vardhanti Mahotsava Celebrations of H. H. Sri Bharati Tirtha Mahaswamigal</title>
 				<feature>News and Events</feature>
 				<page>0036-0040</page>
 				<allauthors />
@@ -17817,7 +17917,7 @@
 		</part>
 		<part pnum="02" month="07" year="1999">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Waste not a Minute</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -17863,7 +17963,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Kumbhabhisheka and Ati Rudra at K.R. Nagar, Mysore)</title>
+				<title>News and Events: Kumbhabhisheka and Ati Rudra at K.R. Nagar, Mysore</title>
 				<feature>News and Events</feature>
 				<page>0035-0040</page>
 				<allauthors />
@@ -17919,7 +18019,7 @@
 		</part>
 		<part pnum="03" month="09" year="1999">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Blessings for Victory</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18003,7 +18103,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Short Visit of Jagadguru Sri Bharati Tirtha Mahaswamigal to Neighbouring Villages)</title>
+				<title>News and Events: Short Visit of Jagadguru Sri Bharati Tirtha Mahaswamigal to Neighbouring Villages</title>
 				<feature>News and Events</feature>
 				<page>0048-0050</page>
 				<allauthors />
@@ -18055,7 +18155,7 @@
 		</part>
 		<part pnum="04" month="11" year="1999">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Learn from the Environment</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18119,7 +18219,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sringeri Hospital Gets ICU, Blood Bank)</title>
+				<title>News and Events: Sringeri Hospital Gets ICU, Blood Bank</title>
 				<feature>News and Events</feature>
 				<page>0039-0044</page>
 				<allauthors />
@@ -18153,7 +18253,7 @@
 		</part>
 		<part pnum="05" month="01" year="2000">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Align your thought, Word and Deed</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18223,7 +18323,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (25th Anniversary of Sannyasa Sveekara of H. H. Sri Bharati Tirtha Mahaswamigal)</title>
+				<title>News and Events: 25th Anniversary of Sannyasa Sveekara of H. H. Sri Bharati Tirtha Mahaswamigal</title>
 				<feature>News and Events</feature>
 				<page>0039-0044</page>
 				<allauthors />
@@ -18301,7 +18401,7 @@
 		</part>
 		<part pnum="06" month="03" year="2000">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Holy Company</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18390,7 +18490,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Puja Feast for Sringeri Devotees)</title>
+				<title>News and Events: Puja Feast for Sringeri Devotees</title>
 				<feature>News and Events</feature>
 				<page>0045-0047</page>
 				<allauthors />
@@ -18466,7 +18566,7 @@
 	<volume vnum="023">
 		<part pnum="01" month="05" year="2000">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Practise before you Preach</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18531,7 +18631,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sringeri Pathasala Celebrates 105th Anniversary)</title>
+				<title>News and Events: Sringeri Pathasala Celebrates 105th Anniversary</title>
 				<feature>News and Events</feature>
 				<page>0039-0042</page>
 				<allauthors />
@@ -18603,7 +18703,7 @@
 		</part>
 		<part pnum="02" month="07" year="2000">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Qualities that make Man Better</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18667,7 +18767,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Jayanti at Sringeri)</title>
+				<title>News and Events: Sankara Jayanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0051-0058</page>
 				<allauthors />
@@ -18713,7 +18813,7 @@
 		</part>
 		<part pnum="03" month="09" year="2000">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...The Way to Liberation</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18785,7 +18885,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya Sankalpa and Vyasa Puja 2000)</title>
+				<title>News and Events: Chaturmasya Sankalpa and Vyasa Puja 2000</title>
 				<feature>News and Events</feature>
 				<page>0052-0056</page>
 				<allauthors />
@@ -18823,7 +18923,7 @@
 		</part>
 		<part pnum="04" month="11" year="2000">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Importance of Svadharma</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18900,7 +19000,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sri Maha Ganapati Vakyartha Sabha)</title>
+				<title>News and Events: Sri Maha Ganapati Vakyartha Sabha</title>
 				<feature>News and Events</feature>
 				<page>0047-0051</page>
 				<allauthors />
@@ -18922,7 +19022,7 @@
 		</part>
 		<part pnum="05" month="01" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Good always Triumphs</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -18938,7 +19038,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Dasasloki-II: The Meaning of <i>Thou</i></title>
+				<title>Sankara's Dasasloki--II: The Meaning of <i>Thou</i></title>
 				<feature></feature>
 				<page>0008-0013</page>
 				<allauthors>
@@ -18976,7 +19076,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sharannavaratri at Sringeri)</title>
+				<title>News and Events: Sharannavaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0043-0044</page>
 				<allauthors />
@@ -19020,7 +19120,7 @@
 		</part>
 		<part pnum="06" month="03" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Surrender the Mind</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -19108,7 +19208,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Dakshina Bharata Veda Sammelana)</title>
+				<title>News and Events: Dakshina Bharata Veda Sammelana</title>
 				<feature>News and Events</feature>
 				<page>0054-0056</page>
 				<allauthors />
@@ -19154,7 +19254,7 @@
 	<volume vnum="024">
 		<part pnum="01" month="04" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Sense of Duty</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -19242,7 +19342,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Kumbhabhishekam at Rameswaram)</title>
+				<title>News and Events: Kumbhabhishekam at Rameswaram</title>
 				<feature>News and Events</feature>
 				<page>0050-0058</page>
 				<allauthors />
@@ -19258,7 +19358,7 @@
 		</part>
 		<part pnum="02" month="05" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...The Seed of Sin</title>
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
@@ -19298,7 +19398,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Matter of Health-II: The Sport of Yoga</title>
+				<title>A Matter of Health--II: The Sport of Yoga</title>
 				<feature></feature>
 				<page>0018-0022</page>
 				<allauthors>
@@ -19360,7 +19460,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Golden Jubilee Birthday Celebrations)</title>
+				<title>News and Events: Golden Jubilee Birthday Celebrations</title>
 				<feature>News and Events</feature>
 				<page>0053-0060</page>
 				<allauthors />
@@ -19414,7 +19514,7 @@
 		</part>
 		<part pnum="03" month="06" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Greatness of Adi Sankara</title>
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
@@ -19502,7 +19602,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sri Sankara Jayanti)</title>
+				<title>News and Events: Sri Sankara Jayanti</title>
 				<feature>News and Events</feature>
 				<page>0053-0056</page>
 				<allauthors />
@@ -19537,7 +19637,7 @@
 		</part>
 		<part pnum="04" month="07" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Commitment to Dharma in Life Essential</title>
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
@@ -19632,7 +19732,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sharada Dhanvanthari Haemodialysis Centre Inaugurated)</title>
+				<title>News and Events: Sharada Dhanvanthari Haemodialysis Centre Inaugurated</title>
 				<feature>News and Events</feature>
 				<page>0053-0056</page>
 				<allauthors />
@@ -19668,7 +19768,7 @@
 		</part>
 		<part pnum="05" month="08" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Twin Dangers of Desire and Anger</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -19761,7 +19861,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Inaugurates Senior Citizens' Complex near Sringeri)</title>
+				<title>News and Events: His Holiness Inaugurates Senior Citizens' Complex near Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0051-0055</page>
 				<allauthors />
@@ -19802,7 +19902,7 @@
 		</part>
 		<part pnum="06" month="09" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Worship of Ganapati</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -19924,7 +20024,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya at Sringeri)</title>
+				<title>News and Events: Chaturmasya at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0061-0066</page>
 				<allauthors />
@@ -19952,7 +20052,7 @@
 		</part>
 		<part pnum="07" month="10" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Right Attitude to Suffering</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -20049,7 +20149,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Maha Ganapati Vakyartha Sabha)</title>
+				<title>News and Events: Maha Ganapati Vakyartha Sabha</title>
 				<feature>News and Events</feature>
 				<page>0055-0058</page>
 				<allauthors />
@@ -20065,7 +20165,7 @@
 		</part>
 		<part pnum="08" month="11" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Good End does not Justify Wrong Means</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -20089,7 +20189,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>There is No Substitute for Jnana-II</title>
+				<title>There is no Substitute for Jnana-II</title>
 				<feature></feature>
 				<page>0007-0010</page>
 				<allauthors>
@@ -20160,7 +20260,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Samaroha at Sringeri)</title>
+				<title>News and Events: Sankara Samaroha at Sringeri</title>
 				<feature></feature>
 				<page>0050-0054</page>
 				<allauthors />
@@ -20184,7 +20284,7 @@
 		</part>
 		<part pnum="09" month="12" year="2001">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Tapas at Home Equally Effective</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -20216,7 +20316,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Satasloki-3: Minding the Mind</title>
+				<title>Sankara's Satasloki--3: Minding the Mind</title>
 				<feature>Sankara's Satasloki</feature>
 				<page>0014-0018</page>
 				<allauthors>
@@ -20289,7 +20389,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sarannavaratri....a Colourful Spectacle at Sringeri)</title>
+				<title>News and Events: Sarannavaratri....a Colourful Spectacle at Sringeri</title>
 				<feature></feature>
 				<page>0057-0058</page>
 				<allauthors />
@@ -20333,7 +20433,7 @@
 		</part>
 		<part pnum="10" month="01" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Think before you Act</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -20382,7 +20482,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sankara's Satasloki-4: Yearning and Happiness</title>
+				<title>Sankara's Satasloki--4: Yearning and Happiness</title>
 				<feature>Sankara's Satasloki</feature>
 				<page>0019-0025</page>
 				<allauthors>
@@ -20438,7 +20538,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Kadur for Kumbhabhisheka)</title>
+				<title>News and Events: His Holiness Visits Kadur for Kumbhabhisheka</title>
 				<feature></feature>
 				<page>0055-0059</page>
 				<allauthors />
@@ -20466,7 +20566,7 @@
 		</part>
 		<part pnum="11" month="02" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Sraddha in Sastras Essential</title>
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
@@ -20474,7 +20574,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Ganesa-1: The Universal God</title>
+				<title>Ganesa--1: The Universal God</title>
 				<feature>Ganesa</feature>
 				<page>0005-0008</page>
 				<allauthors>
@@ -20555,7 +20655,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Matter of Health-XI: Yoga as Medicine</title>
+				<title>A Matter of Health--XI: Yoga as Medicine</title>
 				<feature>A Matter of Health</feature>
 				<page>0049-0052</page>
 				<allauthors>
@@ -20580,7 +20680,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Udipi)</title>
+				<title>News and Events: His Holiness Visits Udipi</title>
 				<feature></feature>
 				<page>0059-0063</page>
 				<allauthors />
@@ -20603,7 +20703,7 @@
 		</part>
 		<part pnum="12" month="03" year="2002">
 			<entry>
-				<title>Jagadguru Speaks...</title>
+				<title>Jagadguru Speaks...Righteousness Triumphs, Always</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -20611,7 +20711,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Ganesa-2: Stories of Birth</title>
+				<title>Ganesa--2: Stories of Birth</title>
 				<feature>Ganesa</feature>
 				<page>0004-0008</page>
 				<allauthors>
@@ -20669,7 +20769,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>A Matter of Health-XII: Heart of the Matter</title>
+				<title>A Matter of Health--XII: Heart of the Matter</title>
 				<feature>A Matter of Health</feature>
 				<page>0044-0049</page>
 				<allauthors>
@@ -20683,7 +20783,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (Sringeri Bharathi Vidyashram, Chennai, Celebrates Annual Event)</title>
+				<title>News and Events: Sringeri Bharathi Vidyashram, Chennai, Celebrates Annual Event</title>
 				<feature></feature>
 				<page>0052-0057</page>
 				<allauthors />
@@ -20709,7 +20809,7 @@
 	<volume vnum="025">
 		<part pnum="01" month="04" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Control Desire and Anger</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -20806,7 +20906,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (New Rs.2 crore Guru Mandir at Sringeri)</title>
+				<title>News and Events: New Rs.2 crore Guru Mandir at Sringeri</title>
 				<feature></feature>
 				<page>0059-0060</page>
 				<allauthors />
@@ -20830,7 +20930,7 @@
 		</part>
 		<part pnum="02" month="05" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Purity in Life Essential</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -20934,7 +21034,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Mahasivaratri at Sringeri)</title>
+				<title>News and Events: Mahasivaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0051-0054</page>
 				<allauthors />
@@ -20964,7 +21064,7 @@
 		</part>
 		<part pnum="03" month="06" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Temples of Peace</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -21062,7 +21162,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Grand Vardhanti Celebrations at Sringeri)</title>
+				<title>News and Events: Grand Vardhanti Celebrations at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0057-0061</page>
 				<allauthors />
@@ -21090,7 +21190,7 @@
 		</part>
 		<part pnum="04" month="07" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Anticipate and Solve Problems</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -21188,7 +21288,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Jayanti Celebrations at Sringeri)</title>
+				<title>News and Events: Sankara Jayanti Celebrations at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0057-0059</page>
 				<allauthors />
@@ -21220,7 +21320,7 @@
 		</part>
 		<part pnum="05" month="08" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...The True Tapas</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -21302,7 +21402,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Chitrapura)</title>
+				<title>News and Events: His Holiness Visits Chitrapura</title>
 				<feature>News and Events</feature>
 				<page>0047-0048</page>
 				<allauthors />
@@ -21344,7 +21444,7 @@
 		</part>
 		<part pnum="06" month="09" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Education and Right Living</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -21443,7 +21543,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya Sankalpa)</title>
+				<title>News and Events: Chaturmasya Sankalpa</title>
 				<feature>News and Events</feature>
 				<page>0057-0060</page>
 				<allauthors />
@@ -21467,7 +21567,7 @@
 		</part>
 		<part pnum="07" month="10" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Uphold Truth in Life</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -21556,14 +21656,14 @@
 			</entry>
 			<entry>
 				<title>A Matter of Health--XIX: Straightening the Spine</title>
-				<feature></feature>
+				<feature>A Matter of Health</feature>
 				<page>0042-0046</page>
 				<allauthors>
 					<author>Krishna Raman, Dr.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sravana at Sringeri)</title>
+				<title>News and Events: Sravana at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0052</page>
 				<allauthors />
@@ -21601,7 +21701,7 @@
 		</part>
 		<part pnum="08" month="11" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Practise Patience</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -21713,7 +21813,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sri Ganapathi Vakyartha Sabha at Sringeri)</title>
+				<title>News and Events: Sri Ganapathi Vakyartha Sabha at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0051</page>
 				<allauthors />
@@ -21745,7 +21845,7 @@
 		</part>
 		<part pnum="09" month="12" year="2002">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Really Valuable Treasures</title>
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
@@ -21867,7 +21967,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Mahabhisheka of Sharadamba)</title>
+				<title>News and Events: Mahabhisheka of Sharadamba</title>
 				<feature>News and Events</feature>
 				<page>0057-0058</page>
 				<allauthors />
@@ -21903,7 +22003,7 @@
 		</part>
 		<part pnum="10" month="01" year="2003">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Control of Desires Leads to Happiness</title>
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
@@ -22002,7 +22102,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Laksha Deepa Utsava at Sringeri)</title>
+				<title>News and Events: Laksha Deepa Utsava at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0053-0054</page>
 				<allauthors />
@@ -22032,7 +22132,7 @@
 		</part>
 		<part pnum="11" month="02" year="2003">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...The Power of Faith</title>
 				<feature></feature>
 				<page>0003-0004</page>
 				<allauthors>
@@ -22058,7 +22158,7 @@
 			</entry>
 			<entry>
 				<title>Yog Vasishtha--48: Mindless Joy</title>
-				<feature></feature>
+				<feature>Yoga Vasishtha</feature>
 				<page>0010-0013</page>
 				<allauthors>
 					<author>Venkatesananda Swami</author>
@@ -22120,7 +22220,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Rs.3.5-crore Gurubhavanam at Sringeri Nearing Completion)</title>
+				<title>News and Events: Rs.3.5-crore Gurubhavanam at Sringeri Nearing Completion</title>
 				<feature>News and Events</feature>
 				<page>0041-0047</page>
 				<allauthors />
@@ -22151,7 +22251,7 @@
 		</part>
 		<part pnum="12" month="03" year="2003">
 			<entry>
-				<title>Jagadguru Speaks</title>
+				<title>Jagadguru Speaks...Four Steps towards Liberation</title>
 				<feature></feature>
 				<page>0003-0003</page>
 				<allauthors>
@@ -22277,7 +22377,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Lalita Sahasranama Parayana at Srirangam Sankara Math)</title>
+				<title>News and Events: Lalita Sahasranama Parayana at Srirangam Sankara Math</title>
 				<feature>News and Events</feature>
 				<page>0061-0062</page>
 				<allauthors />
@@ -22471,7 +22571,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Belur and Horanadu Temples)</title>
+				<title>News and Events: His Holiness Visits Belur and Horanadu Temples</title>
 				<feature>News and Events</feature>
 				<page>0077-0078</page>
 				<allauthors />
@@ -22632,7 +22732,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Yatisamavesha)</title>
+				<title>News and Events: Sankara Yatisamavesha</title>
 				<feature>News and Events</feature>
 				<page>0054-0059</page>
 				<allauthors />
@@ -22785,7 +22885,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Guru Nivas Inaugurated at Sringeri)</title>
+				<title>News and Events: Guru Nivas Inaugurated at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0053-0056</page>
 				<allauthors />
@@ -22904,7 +23004,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Special Aradhana to the 32nd Jagadguru at Sringeri)</title>
+				<title>News and Events: Special Aradhana to the 32nd Jagadguru at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0044-0044</page>
 				<allauthors />
@@ -23051,7 +23151,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Puja Starts at Guru Bhavanam)</title>
+				<title>News and Events: Puja Starts at Guru Bhavanam</title>
 				<feature>News and Events</feature>
 				<page>0049-0049</page>
 				<allauthors />
@@ -23208,7 +23308,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya at Sringeri)</title>
+				<title>News and Events: Chaturmasya at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0050-0053</page>
 				<allauthors />
@@ -23305,7 +23405,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Ganapati Vakyartha Sabha at Sringeri)</title>
+				<title>News and Events: Ganapati Vakyartha Sabha at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0059-0060</page>
 				<allauthors />
@@ -23462,7 +23562,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Navaratri at Sringeri)</title>
+				<title>News and Events: Navaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0051-0053</page>
 				<allauthors />
@@ -23605,7 +23705,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Foundation Stone Laid for Centre for Orphan Cows)</title>
+				<title>News and Events: Foundation Stone Laid for Centre for Orphan Cows</title>
 				<feature>News and Events</feature>
 				<page>0050-0051;0054-0054</page>
 				<allauthors />
@@ -23726,7 +23826,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Jagadguru's Visit to Kolluru)</title>
+				<title>News and Events: Jagadguru's Visit to Kolluru</title>
 				<feature>News and Events</feature>
 				<page>0047-0052</page>
 				<allauthors />
@@ -23861,7 +23961,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Shrines in and Around Sringeri)</title>
+				<title>News and Events: His Holiness Visits Shrines in and Around Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0039-0043</page>
 				<allauthors />
@@ -24004,7 +24104,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Makarasankranti at Sringeri)</title>
+				<title>News and Events: Makarasankranti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0053-0053</page>
 				<allauthors />
@@ -24137,7 +24237,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (Jagadguru Consecrates Temples)</title>
+				<title>News and Events: Jagadguru Consecrates Temples</title>
 				<feature>News and Events</feature>
 				<page>0048-0053</page>
 				<allauthors />
@@ -24266,7 +24366,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Showers Blessings on Vardhanti Day)</title>
+				<title>News and Events: His Holiness Showers Blessings on Vardhanti Day</title>
 				<feature>News and Events</feature>
 				<page>0046-0051</page>
 				<allauthors />
@@ -24395,7 +24495,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Performs Kanakabhisheka to Adi Sankara)</title>
+				<title>News and Events: His Holiness Performs Kanakabhisheka to Adi Sankara</title>
 				<feature>News and Events</feature>
 				<page>0057-0057</page>
 				<allauthors />
@@ -24524,7 +24624,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Mallikarjuna Temple Kumbhabhishekam near Sringeri)</title>
+				<title>News and Events: Mallikarjuna Temple Kumbhabhishekam near Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0051-0051</page>
 				<allauthors />
@@ -24655,7 +24755,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (Vyasa Puja at Sringeri)</title>
+				<title>News and Events: Vyasa Puja at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0057-0057</page>
 				<allauthors />
@@ -25200,7 +25300,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Events Galore at Sringeri)</title>
+				<title>News and Events: Events Galore at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0041-0046</page>
 				<allauthors />
@@ -25504,7 +25604,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Gold Chariot Dedicated to Mookambika)</title>
+				<title>News and Events: Gold Chariot Dedicated to Mookambika</title>
 				<feature>News and Events</feature>
 				<page>0055-0055</page>
 				<allauthors />
@@ -25649,7 +25749,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (Ratha Saptami at Sringeri)</title>
+				<title>News and Events: Ratha Saptami at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0057-0058</page>
 				<allauthors />
@@ -25877,7 +25977,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Jayanti at Sringeri)</title>
+				<title>News and Events: Sankara Jayanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0044-0048</page>
 				<allauthors />
@@ -25995,7 +26095,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Mysore, Mandya)</title>
+				<title>News and Events: His Holiness Visits Mysore, Mandya</title>
 				<feature>News and Events</feature>
 				<page>0044-0049</page>
 				<allauthors />
@@ -26108,7 +26208,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya Vrata from July 21)</title>
+				<title>News and Events: Chaturmasya Vrata from July 21</title>
 				<feature>News and Events</feature>
 				<page>0045-0048</page>
 				<allauthors />
@@ -26227,7 +26327,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (President Visits Kalady Sankara Matha)</title>
+				<title>News and Events: President Visits Kalady Sankara Matha</title>
 				<feature>News and Events</feature>
 				<page>0053-0056</page>
 				<allauthors />
@@ -26358,7 +26458,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Matha in USA to be Elevated)</title>
+				<title>News and Events: Sankara Matha in USA to be Elevated</title>
 				<feature>News and Events</feature>
 				<page>0049-0056</page>
 				<allauthors />
@@ -26469,7 +26569,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Vakyartha Sabha at Sringeri)</title>
+				<title>News and Events: Vakyartha Sabha at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0051-0056</page>
 				<allauthors />
@@ -26574,7 +26674,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Releases Rama Nama Book)</title>
+				<title>News and Events: His Holiness Releases Rama Nama Book</title>
 				<feature>News and Events</feature>
 				<page>0047-0048</page>
 				<allauthors />
@@ -26679,7 +26779,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Vedic Sammelans in Three Cities)</title>
+				<title>News and Events: Vedic Sammelans in Three Cities</title>
 				<feature>News and Events</feature>
 				<page>0043-0046</page>
 				<allauthors />
@@ -26817,7 +26917,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Kalabhairavashtami at Sringeri)</title>
+				<title>News and Events: Kalabhairavashtami at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0049-0052</page>
 				<allauthors />
@@ -26912,7 +27012,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Rata Saptami at Sringeri)</title>
+				<title>News and Events: Rata Saptami at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0048-0055</page>
 				<allauthors />
@@ -27013,7 +27113,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Maha Sivaratri at Sringeri)</title>
+				<title>News and Events: Maha Sivaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0051-0053</page>
 				<allauthors />
@@ -27318,7 +27418,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Hassan District)</title>
+				<title>News and Events: His Holiness Visits Hassan District</title>
 				<feature>News and Events</feature>
 				<page>0042-0048</page>
 				<allauthors />
@@ -27421,7 +27521,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya Vrata of His Holiness)</title>
+				<title>News and Events: Chaturmasya Vrata of His Holiness</title>
 				<feature>News and Events</feature>
 				<page>0047-0048</page>
 				<allauthors />
@@ -27542,7 +27642,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Guru Darsan at Sringeri during Chaturmasya)</title>
+				<title>News and Events: Guru Darsan at Sringeri during Chaturmasya</title>
 				<feature>News and Events</feature>
 				<page>0055-0056</page>
 				<allauthors />
@@ -27631,7 +27731,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Concludes Chaturmasya Vrata)</title>
+				<title>News and Events: His Holiness Concludes Chaturmasya Vrata</title>
 				<feature>News and Events</feature>
 				<page>0049-0050</page>
 				<allauthors />
@@ -27742,7 +27842,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Navaratri Celebrations at Sringeri)</title>
+				<title>News and Events: Navaratri Celebrations at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0057-0059</page>
 				<allauthors />
@@ -27831,7 +27931,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Kigga)</title>
+				<title>News and Events: His Holiness Visits Kigga</title>
 				<feature>News and Events</feature>
 				<page>0049-0050</page>
 				<allauthors />
@@ -27928,7 +28028,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Ati Rudra Maha Yajnam at Sringeri)</title>
+				<title>News and Events: Ati Rudra Maha Yajnam at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0048</page>
 				<allauthors />
@@ -28041,7 +28141,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Kalabhairavashtami at Sringeri)</title>
+				<title>News and Events: Kalabhairavashtami at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0045-0048</page>
 				<allauthors />
@@ -28138,7 +28238,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Tours Karnataka Districts)</title>
+				<title>News and Events: His Holiness Tours Karnataka Districts</title>
 				<feature>News and Events</feature>
 				<page>0045-0048</page>
 				<allauthors />
@@ -28428,7 +28528,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Mahasivaratri at Sringeri)</title>
+				<title>News and Events: Mahasivaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0051</page>
 				<allauthors />
@@ -28533,7 +28633,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (57th Vardhanti of His Holiness at Sringeri)</title>
+				<title>News and Events: 57th Vardhanti of His Holiness at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0049-0054</page>
 				<allauthors />
@@ -28645,7 +28745,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness at Bangalore)</title>
+				<title>News and Events: His Holiness at Bangalore</title>
 				<feature>News and Events</feature>
 				<page>0055-0057</page>
 				<allauthors />
@@ -28741,7 +28841,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturamnaya Peetha Sammelan)</title>
+				<title>News and Events: Chaturamnaya Peetha Sammelan</title>
 				<feature>News and Events</feature>
 				<page>0040-0045</page>
 				<allauthors />
@@ -28867,7 +28967,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Enters Maharashtra)</title>
+				<title>News and Events: His Holiness Enters Maharashtra</title>
 				<feature>News and Events</feature>
 				<page>0051-0054</page>
 				<allauthors />
@@ -28974,7 +29074,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Reverential Welcome to His Holiness in Mumbai)</title>
+				<title>News and Events: Reverential Welcome to His Holiness in Mumbai</title>
 				<feature>News and Events</feature>
 				<page>0051-0052</page>
 				<allauthors />
@@ -29178,7 +29278,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Vinayaka Chaturti Puja by His Holiness)</title>
+				<title>News and Events: Vinayaka Chaturti Puja by His Holiness</title>
 				<feature>News and Events</feature>
 				<page>0045-0049</page>
 				<allauthors />
@@ -29283,7 +29383,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sharannavaratri in Mumbai)</title>
+				<title>News and Events: Sharannavaratri in Mumbai</title>
 				<feature>News and Events</feature>
 				<page>0044-0048</page>
 				<allauthors />
@@ -29387,7 +29487,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Vidyaranyapura)</title>
+				<title>News and Events: His Holiness Visits Vidyaranyapura</title>
 				<feature>News and Events</feature>
 				<page>0049-0050</page>
 				<allauthors />
@@ -29484,7 +29584,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Uttarayana Punyakala Puja at Sringeri)</title>
+				<title>News and Events: Uttarayana Punyakala Puja at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0053-0056</page>
 				<allauthors />
@@ -29677,7 +29777,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Mahasivaratri at Sringeri)</title>
+				<title>News and Events: Mahasivaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0050</page>
 				<allauthors />
@@ -29774,7 +29874,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Grand Vardhanti at Sringeri)</title>
+				<title>News and Events: Grand Vardhanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0052</page>
 				<allauthors />
@@ -29855,7 +29955,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sringeri Acharya Performs Kumbhabhishekam at Shakatapuram)</title>
+				<title>News and Events: Sringeri Acharya Performs Kumbhabhishekam at Shakatapuram</title>
 				<feature>News and Events</feature>
 				<page>0043-0046</page>
 				<allauthors />
@@ -30061,7 +30161,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Vijaya Yatra to Goa and Mysore)</title>
+				<title>News and Events: Vijaya Yatra to Goa and Mysore</title>
 				<feature>News and Events</feature>
 				<page>0038-0041</page>
 				<allauthors />
@@ -30181,7 +30281,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Charity Marks Sankara Jayanti)</title>
+				<title>News and Events: Charity Marks Sankara Jayanti</title>
 				<feature>News and Events</feature>
 				<page>0049-0052</page>
 				<allauthors />
@@ -30238,7 +30338,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Kumbhabhishekam of Sharada Temple at Stroudsburg, Pa, USA)</title>
+				<title>News and Events: Kumbhabhishekam of Sharada Temple at Stroudsburg, Pa, USA</title>
 				<feature>News and Events</feature>
 				<page>0031-0038</page>
 				<allauthors />
@@ -30423,7 +30523,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya Vrata and Pujas at Sringeri)</title>
+				<title>News and Events: Chaturmasya Vrata and Pujas at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0045-0048</page>
 				<allauthors />
@@ -30540,7 +30640,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Mahaganapati Vakyarta Vidvat Sabha)</title>
+				<title>News and Events: Mahaganapati Vakyarta Vidvat Sabha</title>
 				<feature>News and Events</feature>
 				<page>0051-0055</page>
 				<allauthors />
@@ -30641,7 +30741,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sharannavaratri Alankars at Sringeri)</title>
+				<title>News and Events: Sharannavaratri Alankars at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0040-0044</page>
 				<allauthors />
@@ -30815,7 +30915,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Laksha Deepotsava at Sringeri)</title>
+				<title>News and Events: Laksha Deepotsava at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0048</page>
 				<allauthors />
@@ -30956,7 +31056,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sringeri Community Centre in Canada)</title>
+				<title>News and Events: Sringeri Community Centre in Canada</title>
 				<feature>News and Events</feature>
 				<page>0047-0054</page>
 				<allauthors />
@@ -31045,7 +31145,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Peetham Conducts Vedic Sammelans)</title>
+				<title>News and Events: Peetham Conducts Vedic Sammelans</title>
 				<feature>News and Events</feature>
 				<page>0041-0046</page>
 				<allauthors />
@@ -31234,7 +31334,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Dr. Abdul Kalam Visits Sringeri)</title>
+				<title>News and Events: Dr. Abdul Kalam Visits Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0054</page>
 				<allauthors />
@@ -31353,7 +31453,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Grand 59th Vardhanti at Sringeri)</title>
+				<title>News and Events: Grand 59th Vardhanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0049-0056</page>
 				<allauthors />
@@ -31442,7 +31542,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (President has Darsan at Sringeri)</title>
+				<title>News and Events: President has Darsan at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0034-0041</page>
 				<allauthors />
@@ -31613,7 +31713,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Kalasesvara Temple Kumbhabhishekam)</title>
+				<title>News and Events: Kalasesvara Temple Kumbhabhishekam</title>
 				<feature>News and Events</feature>
 				<page>0043-0044</page>
 				<allauthors />
@@ -31724,7 +31824,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Chaturmasya Vrata of His Holiness)</title>
+				<title>News and Events: Chaturmasya Vrata of His Holiness</title>
 				<feature>News and Events</feature>
 				<page>0047-0050</page>
 				<allauthors />
@@ -31821,7 +31921,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Ganga Puja in the midst of Floods)</title>
+				<title>News and Events: Ganga Puja in the midst of Floods</title>
 				<feature>News and Events</feature>
 				<page>0043-0046</page>
 				<allauthors />
@@ -31991,7 +32091,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Concludes Chaturmasya Vrata)</title>
+				<title>News and Events: His Holiness Concludes Chaturmasya Vrata</title>
 				<feature>News and Events</feature>
 				<page>0045-0052</page>
 				<allauthors />
@@ -32102,7 +32202,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Tirthahalli, Mangalore</title>
+				<title>News and Events: His Holiness Visits Tirthahalli, Mangalore</title>
 				<feature>News and Events</feature>
 				<page>0045-0048</page>
 				<allauthors />
@@ -32223,7 +32323,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Graces Music Sammelan)</title>
+				<title>News and Events: His Holiness Graces Music Sammelan</title>
 				<feature>News and Events</feature>
 				<page>0046-0052</page>
 				<allauthors />
@@ -32338,7 +32438,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (61st Vardhanti of His Holiness at Sringeri)</title>
+				<title>News and Events: 61st Vardhanti of His Holiness at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0045-0050</page>
 				<allauthors />
@@ -32475,7 +32575,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Jayanti at Sringeri)</title>
+				<title>News and Events: Sankara Jayanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0058-0064</page>
 				<allauthors />
@@ -32580,7 +32680,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Karnataka Yatra of His Holiness)</title>
+				<title>News and Events: Karnataka Yatra of His Holiness</title>
 				<feature>News and Events</feature>
 				<page>0041-0052</page>
 				<allauthors />
@@ -32669,7 +32769,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Tirupati)</title>
+				<title>News and Events: His Holiness Visits Tirupati</title>
 				<feature>News and Events</feature>
 				<page>0040-0047</page>
 				<allauthors />
@@ -32796,7 +32896,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Maha Ganapati Vakyartha Sabha)</title>
+				<title>News and Events: Maha Ganapati Vakyartha Sabha</title>
 				<feature>News and Events</feature>
 				<page>0045-0051</page>
 				<allauthors />
@@ -32901,7 +33001,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Grand Navaratri at Sringeri)</title>
+				<title>News and Events: Grand Navaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0035-0041</page>
 				<allauthors />
@@ -33063,7 +33163,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (Kirtankar Sammelan at Sringeri)</title>
+				<title>News and Events: Kirtankar Sammelan at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0052-0058</page>
 				<allauthors />
@@ -33160,7 +33260,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sadas Commemorates Scholar's Centenary)</title>
+				<title>News and Events: Sadas Commemorates Scholar's Centenary</title>
 				<feature>News and Events</feature>
 				<page>0046-0052</page>
 				<allauthors />
@@ -33296,7 +33396,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sanskrit Teachers Meet at Sringeri)</title>
+				<title>News and Events: Sanskrit Teachers Meet at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0045-0048</page>
 				<allauthors />
@@ -33423,7 +33523,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness begins Vijaya Yatra)</title>
+				<title>News and Events: His Holiness begins Vijaya Yatra</title>
 				<feature>News and Events</feature>
 				<page>0048-0057</page>
 				<allauthors />
@@ -33532,7 +33632,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Undertakes Vijaya Yatra in Tamilnadu)</title>
+				<title>News and Events: His Holiness Undertakes Vijaya Yatra in Tamilnadu</title>
 				<feature>News and Events</feature>
 				<page>0040-0058</page>
 				<allauthors />
@@ -33635,7 +33735,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Graces Kerala, Southern Tamilnadu)</title>
+				<title>News and Events: His Holiness Graces Kerala, Southern Tamilnadu</title>
 				<feature>News and Events</feature>
 				<page>0038-0057</page>
 				<allauthors />
@@ -33744,7 +33844,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Ancient Madurai)</title>
+				<title>News and Events: His Holiness Visits Ancient Madurai</title>
 				<feature>News and Events</feature>
 				<page>0039-0050</page>
 				<allauthors />
@@ -33839,7 +33939,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Completes Visit to TN Districts)</title>
+				<title>News and Events: His Holiness Completes Visit to TN Districts</title>
 				<feature>News and Events</feature>
 				<page>0029-0039</page>
 				<allauthors />
@@ -33942,7 +34042,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Observes Chaturmasya in Chennai)</title>
+				<title>News and Events: His Holiness Observes Chaturmasya in Chennai</title>
 				<feature>News and Events</feature>
 				<page>0041-0049</page>
 				<allauthors />
@@ -34055,7 +34155,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Jagadguru's Words of Wisdom during Chaturmasya in Chennai)</title>
+				<title>News and Events: Jagadguru's Words of Wisdom during Chaturmasya in Chennai</title>
 				<feature>News and Events</feature>
 				<page>0039-0051</page>
 				<allauthors />
@@ -34198,7 +34298,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Grand Vandana to His Holiness in Chennai)</title>
+				<title>News and Events: Grand Vandana to His Holiness in Chennai</title>
 				<feature>News and Events</feature>
 				<page>0043-0049</page>
 				<allauthors />
@@ -34303,7 +34403,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Spectacular Navaratri Marks Chennai Visit of His Holiness)</title>
+				<title>News and Events: Spectacular Navaratri Marks Chennai Visit of His Holiness</title>
 				<feature>News and Events</feature>
 				<page>0037-0045</page>
 				<allauthors />
@@ -34416,7 +34516,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness in Andhra Pradesh)</title>
+				<title>News and Events: His Holiness in Andhra Pradesh</title>
 				<feature>News and Events</feature>
 				<page>0035-0042</page>
 				<allauthors />
@@ -34567,7 +34667,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness at Srisailam)</title>
+				<title>News and Events: His Holiness at Srisailam</title>
 				<feature>News and Events</feature>
 				<page>0043-0049</page>
 				<allauthors />
@@ -34714,7 +34814,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Vijaya Yatra in Andhra Pradesh)</title>
+				<title>News and Events: His Holiness Vijaya Yatra in Andhra Pradesh</title>
 				<feature>News and Events</feature>
 				<page>0043-0049</page>
 				<allauthors />
@@ -34837,7 +34937,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Back in Sringeri)</title>
+				<title>News and Events: His Holiness Back in Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0039-0049</page>
 				<allauthors />
@@ -34956,7 +35056,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (63rd Vardhanti at Sringeri)</title>
+				<title>News and Events: 63rd Vardhanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0039-0045</page>
 				<allauthors />
@@ -35102,7 +35202,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Jayanti at Sringeri)</title>
+				<title>News and Events: Sankara Jayanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0037-0045</page>
 				<allauthors />
@@ -35239,7 +35339,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Bhagavata Saptaham at Sringeri)</title>
+				<title>News and Events: Bhagavata Saptaham at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0045-0050</page>
 				<allauthors />
@@ -35392,7 +35492,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Commences 39th Chaturmasya Vrata at Sringeri)</title>
+				<title>News and Events: His Holiness Commences 39th Chaturmasya Vrata at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0047-0051</page>
 				<allauthors />
@@ -35548,7 +35648,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness on Sanskrit as Deva Bhasha)</title>
+				<title>News and Events: His Holiness on Sanskrit as Deva Bhasha</title>
 				<feature>News and Events</feature>
 				<page>0043-0049</page>
 				<allauthors />
@@ -35666,7 +35766,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Completes 39th Chaturmasya at Sringeri)</title>
+				<title>News and Events: His Holiness Completes 39th Chaturmasya at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0039-0047</page>
 				<allauthors />
@@ -35820,7 +35920,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (An Eventful Month in Sringeri)</title>
+				<title>News and Events: An Eventful Month in Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0043-0048</page>
 				<allauthors />
@@ -35960,7 +36060,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Visits Karkala Kalabhairava Ashtami at Sringeri)</title>
+				<title>News and Events: His Holiness Visits Karkala Kalabhairava Ashtami at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0039-0044</page>
 				<allauthors />
@@ -36128,7 +36228,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness' Advice to Pravachanakaras)</title>
+				<title>News and Events: His Holiness' Advice to Pravachanakaras</title>
 				<feature>News and Events</feature>
 				<page>0037-0045</page>
 				<allauthors />
@@ -36308,7 +36408,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Grand Vardhanti at Sringeri)</title>
+				<title>News and Events: Grand Vardhanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0049-0054</page>
 				<allauthors />
@@ -36480,7 +36580,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sankara Jayanti at Sringeri)</title>
+				<title>News and Events: Sankara Jayanti at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0053-0061</page>
 				<allauthors />
@@ -36615,7 +36715,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Historic Kumbhabhishekam-Sringeri Rajagopuram)</title>
+				<title>News and Events: Historic Kumbhabhishekam-Sringeri Rajagopuram</title>
 				<feature>News and Events</feature>
 				<page>0039-0047</page>
 				<allauthors />
@@ -36774,7 +36874,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Jagadguru takes up Chaturmasya Sankalpa)</title>
+				<title>News and Events: Jagadguru takes up Chaturmasya Sankalpa</title>
 				<feature>News and Events</feature>
 				<page>0047-0054</page>
 				<allauthors />
@@ -36907,7 +37007,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Performs Ganga Puja)</title>
+				<title>News and Events: His Holiness Performs Ganga Puja</title>
 				<feature>News and Events</feature>
 				<page>0041-0045</page>
 				<allauthors />
@@ -37072,7 +37172,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Completes 40th Chaturmasya)</title>
+				<title>News and Events: His Holiness Completes 40th Chaturmasya</title>
 				<feature>News and Events</feature>
 				<page>0045-0050</page>
 				<allauthors />
@@ -37376,7 +37476,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Pattabhisheka Day of His Holiness)</title>
+				<title>News and Events: Pattabhisheka Day of His Holiness</title>
 				<feature>News and Events</feature>
 				<page>0043-0047</page>
 				<allauthors />
@@ -37541,7 +37641,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>News and Events (Deepotsava at Sringeri)</title>
+				<title>News and Events: Deepotsava at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0041-0045</page>
 				<allauthors />
@@ -37686,7 +37786,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (His Holiness Nominates Successor-Designate)</title>
+				<title>News and Events: His Holiness Nominates Successor-Designate</title>
 				<feature>News and Events</feature>
 				<page>0043-0053</page>
 				<allauthors />
@@ -37808,7 +37908,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Sishya Sveekara at Sringeri)</title>
+				<title>News and Events: Sishya Sveekara at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0037-0052</page>
 				<allauthors />
@@ -37975,7 +38075,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>News and Events (Mahasivaratri at Sringeri)</title>
+				<title>News and Events: Mahasivaratri at Sringeri</title>
 				<feature>News and Events</feature>
 				<page>0050-0057</page>
 				<allauthors />
