@@ -195,6 +195,7 @@ Modules - reusable parts of our design
 
 .archiveIcon a{
   display: inline-block;
+  color: #BBB;
   transition: color 0.3s ease-out;
 }
 

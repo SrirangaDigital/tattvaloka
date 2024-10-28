@@ -173,7 +173,7 @@ if($num_rows > 0)
             echo ($row3['feat_name'] != '') ? '     <span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span> | ' : '';
             echo '      <span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . ' ' . $row['year'] . '  (Volume ' . intval($row['volume']) . ', Issue ' . $dpart . ')</a></span>';
             echo '  </div>';
-            echo '  <span class="aTitle"><a target="_blank" href="../Volumes/djvu/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span>';
+            echo '  <span class="aTitle"><a target="_blank" href="bookreader/templates/book.php?volume=' . $row['volume'] . '&part=' . $row['part'] . '&page=' . $row['page'] . '">' . $row['title'] . '</a></span>';
             if($row['authid'] != 0) {
 
                 echo '  <br /><span class="aAuthor itl">by ';
@@ -188,11 +188,10 @@ if($num_rows > 0)
 				
                 echo '  </span>';
             }
-            echo "<br/><span class=\"download\"><a href=\"downloadPdf.php?titleid=" . $row['titleid'] . "\" target=\"_blank\">Download Pdf</a></span>";
             if($text != '')
             {
                 echo '<br /><span class="aIssue">Text match found at page(s) : </span>';
-                echo '<span class="aIssue"><a href="../Volumes/djvu/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['cur_page'] . '.djvu&amp;zoom=page&amp;find=' . $dtext . '/r" target="_blank">' . intval($row['cur_page']) . '</a> </span>';
+                echo '<span class="aIssue"><a target="_blank" href="bookreader/templates/book.php?volume=' . $row['volume'] . '&part=' . $row['part'] . '&page=' . $row['cur_page'] . '">' . intval($row['cur_page']) . '</a></span>';
             }
             $id = $row['titleid'];
         }
@@ -200,7 +199,7 @@ if($num_rows > 0)
 
             if($text != '')
             {
-                echo '&nbsp;<span class="aIssue"><a href="../Volumes/djvu/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['cur_page'] . '.djvu&amp;zoom=page&amp;find=' . $dtext . '/r" target="_blank">' . intval($row['cur_page']) . '</a> </span>';
+                echo '&nbsp;<span class="aIssue"><a target="_blank" href="bookreader/templates/book.php?volume=' . $row['volume'] . '&part=' . $row['part'] . '&page=' . $row['cur_page'] . '">' . intval($row['cur_page']) . '</a></span>';
             }
             $id = $row['titleid'];
         }
