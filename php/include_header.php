@@ -58,6 +58,9 @@
 		          </ul>
         	</li>
 			<li class="nav-item">
+			  <a class="nav-link" href="php/search.php">Search</a>
+			</li>
+			<li class="nav-item">
 			  <a class="nav-link" href="help.php">Help</a>
 			</li>
 		  </ul>
