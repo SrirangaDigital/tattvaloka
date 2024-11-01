@@ -12,7 +12,7 @@ include("connect.php");
 require_once("common.php");
 
 ?>
-                <div class="archive_search">
+                <div class="archive_search gapAboveLarge">
                     <form method="get" action="search-result.php">
                         <table>
                             <tr>
