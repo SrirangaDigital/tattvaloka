@@ -1,7 +1,7 @@
 <?php include("include_header.php");?>
-<main class="cd-main-content">
-		<div class="cd-scrolling-bg cd-color-2">
-			<div class="cd-container">
+<main class="container-fluid maincontent">
+		<div class="row justify-content-center gapAboveLarge">
+			<div class="col-sm-12 col-md-8">
 <?php
 
 include("connect.php");
@@ -14,18 +14,25 @@ $dpart = preg_replace("/^0/", "", $part);
 $dpart = preg_replace("/\-0/", "-", $dpart);
 
 $yearMonth = getYearMonth($volume, $part);
+
+echo '<div class="extra-info-bar fixed-top">';
+
 if($part == '99')
 {
-	echo '<h1 class="clr1 gapBelowSmall">Archive &gt; Special Issue' . ' (Volume ' . intval($volume) . ')</h1>';
+	echo '<h1 class="clr1 pt-5">Archive &gt; Special Issue' . ' (Volume ' . intval($volume) . ')</h1>';
 }
 else
 {
-	echo '<h1 class="clr1 gapBelowSmall">Archive &gt; ' . getMonth($yearMonth['month']) . ' ' . $yearMonth['year'] . ' (Volume ' . intval($volume) . ', Issue ' . $dpart . ')</h1>';
+	echo '<h1 class="clr1 pt-5">Archive &gt; ' . getMonth($yearMonth['month']) . ' ' . $yearMonth['year'] . ' (Volume ' . intval($volume) . ', Issue ' . $dpart . ')</h1>';
 }
+include("include_secondary_nav.php");
+echo '</div>';
+echo '</div>';
 
 if(!(isValidVolume($volume) && isValidPart($part)))
 {
-	echo '<span class="aFeature clr2">Invalid URL</span>';
+	echo '<div class="col-sm-12 col-md-8">';
+	echo '<p class="aFeature clr2 text-center gapAboveLarge">Invalid URL</p>';
 	echo '</div> <!-- cd-container -->';
 	echo '</div> <!-- cd-scrolling-bg -->';
 	echo '</main> <!-- cd-main-content -->';
@@ -42,6 +49,8 @@ $num_rows = $result ? $result->num_rows : 0;
 
 if($num_rows > 0)
 {
+	echo '<div class="col-sm-12 col-md-8 gapAboveLarge">';
+
 	while($row = $result->fetch_assoc())
 	{
 		$query3 = 'select feat_name from feature where featid=\'' . $row['featid'] . '\'';

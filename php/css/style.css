@@ -36,6 +36,12 @@ a {
   text-decoration: none;
 }
 
+.maincontent{
+  font-size: 20px !important;
+  line-height: 1.75;
+}
+
+
 /* -------------------------------- 
 
 Modules - reusable parts of our design
@@ -185,7 +191,7 @@ Modules - reusable parts of our design
 }
 
 .archiveIcon{
-  width: 175px;
+  width: 140px;
   color: #BBB;
   line-height: 0px;
   margin-bottom: 60px;
@@ -195,8 +201,9 @@ Modules - reusable parts of our design
 
 .archiveIcon a{
   display: inline-block;
-  color: #BBB;
+  color: #AAA;
   transition: color 0.3s ease-out;
+  text-decoration: none;
 }
 
 .archiveIcon a:HOVER{
@@ -356,6 +363,11 @@ Modules - reusable parts of our design
   margin-right: 10px;
 }
 
+.alphabet .letter a:HOVER{
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 .issue{
   display: flex;
   flex-direction: row;
@@ -450,6 +462,161 @@ Modules - reusable parts of our design
 .count{
   font-style: italic;
 }
+
+
+header #head{
+  background: #f4f4f4 url(../img/bg.png) top right;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(150, 75, 0, 0.5);
+  height: 100vh;
+  position: relative;
+}
+
+.headbanner{
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 254, 204, 0.9); /* Optional dark overlay */
+}
+
+.parallax-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  color: white;
+  margin-top: 45vh;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.parallax-content h3{
+  text-align: center;
+  color: brown !important;
+  font-size: 3em;
+  text-shadow: 0 0px 0px rgba(0,0,0,0.3);
+}
+
+.volumes .card{
+  width: auto;
+  padding: 0px 0px;
+  margin: 10px 4px;
+}
+
+.volumes .card a img{
+  height: 140px;
+}
+
+.volumes .card-body{
+  font-size: 16px;
+  padding: 0px 0px;
+  text-align: center;
+}
+
+nav.cd-sec-main-nav ul{
+  margin-top: 10px;
+}
+
+nav.cd-sec-main-nav ul li{
+  display: inline !important;
+  margin-right: 20px; 
+}
+
+nav.cd-sec-main-nav ul li a{
+  font-size: 16px;
+}
+
+nav.cd-sec-main-nav ul li a:HOVER{
+  color: #9c581b;
+  line-height: normal;
+  background: transparent;
+  transition: color 0.3s ease-out;
+}
+
+@media (min-width: 768px) { 
+
+  header nav ul.navbar-nav li a{
+    margin-left: 2.5em;
+  }  
+
+
+  header nav a.navbar-brand{
+    margin-left: 1.5em;
+  }
+
+  .headbanner{
+    margin-left: 60%;
+    width: 400px;
+  }
+
+  .archiveIcon{
+    width: 175px !important;
+  }
+
+  .volumes .card{
+    padding: 0px 0px;
+    margin: 10px 4px;
+  }
+
+  .volumes .card a img{
+    height: 180px;
+  }
+
+}
+
+header nav a.navbar-brand img{
+  height: 55px;
+}
+
+header nav ul.navbar-nav{
+  margin-right: 2em;
+}
+
+header nav ul.navbar-nav li a{
+  display: inline-block;
+  height: auto;
+  line-height: normal;
+  background: transparent;
+  padding: .6em 0em;
+  border-top: none;
+  color: #3d3536;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.875rem;
+}
+
+header nav ul.navbar-nav li.dropdown ul{
+  padding: 1em 1em;
+}  
+
+header nav ul.navbar-nav li a.dropdown-item{
+  margin-left: 0.1em !important;
+}
+
+header nav ul.navbar-nav li a.dropdown-item:HOVER{
+  color: #9c581b;
+  line-height: normal;
+  background: transparent;
+  transition: color 0.3s ease-out;
+}
+
+.extra-info-bar{
+  position: fixed;
+  top: 56px; /* Adjust based on navbar height */
+  width: 100%;
+  padding: 10px;
+  z-index: 9; /* Lower than navbar */
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #FFF;
+  text-align: center;
+}
+
 
 /* -------------------------------- 
 

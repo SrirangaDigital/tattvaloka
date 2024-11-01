@@ -1,8 +1,11 @@
 <?php include("include_header.php");?>
-<main class="cd-main-content">
-        <div class="cd-scrolling-bg cd-color-2">
-            <div class="cd-container">
-                <h1 class="clr1 gapBelow">Archive &gt; Search</h1>
+<main class="container-fluid maincontent">
+        <div class="row justify-content-center gapAboveLarge">
+            <div class="col-sm-12 col-md-8">
+                <div class="extra-info-bar fixed-top">  
+                    <h1 class="clr1 pt-5">Archive &gt; Search</h1>
+<?php include("include_secondary_nav.php");?>
+                </div>    
 <?php
 
 include("connect.php");

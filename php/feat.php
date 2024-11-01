@@ -1,7 +1,7 @@
 <?php include("include_header.php");?>
-<main class="cd-main-content">
-		<div class="cd-scrolling-bg cd-color-2">
-			<div class="cd-container">
+<main class="container-fluid maincontent">
+		<div class="row justify-content-center gapAboveLarge">
+
 <?php
 
 include("connect.php");
@@ -10,13 +10,19 @@ require_once("common.php");
 if(isset($_GET['feature'])){$feat_name = $_GET['feature'];}else{$feat_name = '';}
 if(isset($_GET['featid'])){$featid = $_GET['featid'];}else{$featid = '';}
 
-echo '<h1 class="clr1 gapBelowSmall">Archive &gt; Features &gt; ' . $feat_name . '</h1>';
+echo '<div class="col-sm-12 col-md-8">';
+echo '<div class="extra-info-bar fixed-top">';	
+echo '<h1 class="clr1 pt-5">Archive &gt; Features &gt; ' . $feat_name . '</h1>';
+include("include_secondary_nav.php");
+echo '</div>';
+echo '</div>';
 
 $feat_name = entityReferenceReplace($feat_name);
 
 if(!(isValidFeature($feat_name) && isValidFeatid($featid)))
 {
-	echo '<span class="aFeature clr2">Invalid URL</span>';
+	echo '<div class="col-sm-12 col-md-8">';
+	echo '<p class="aFeature clr2 text-center gapAboveLarge">Invalid URL</p>';
 	echo '</div> <!-- cd-container -->';
 	echo '</div> <!-- cd-scrolling-bg -->';
 	echo '</main> <!-- cd-main-content -->';
@@ -29,6 +35,8 @@ $query = 'select * from article where featid=\'' . $featid . '\' order by volume
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
+
+echo '<div class="col-sm-12 col-md-8 gapAbove">';
 
 if($num_rows > 0)
 {

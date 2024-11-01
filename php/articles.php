@@ -1,37 +1,42 @@
 <?php include("include_header.php");?>
-<main class="cd-main-content">
-		<div class="cd-scrolling-bg cd-color-2">
-			<div class="cd-container">
-				<h1 class="clr1">Archive &gt; Titles</h1>
-				<div class="alphabet gapBelowSmall gapAboveSmall">
-					<span class="letter"><a href="articles.php?letter=A">A</a></span>
-					<span class="letter"><a href="articles.php?letter=B">B</a></span>
-					<span class="letter"><a href="articles.php?letter=C">C</a></span>
-					<span class="letter"><a href="articles.php?letter=D">D</a></span>
-					<span class="letter"><a href="articles.php?letter=E">E</a></span>
-					<span class="letter"><a href="articles.php?letter=F">F</a></span>
-					<span class="letter"><a href="articles.php?letter=G">G</a></span>
-					<span class="letter"><a href="articles.php?letter=H">H</a></span>
-					<span class="letter"><a href="articles.php?letter=I">I</a></span>
-					<span class="letter"><a href="articles.php?letter=J">J</a></span>
-					<span class="letter"><a href="articles.php?letter=K">K</a></span>
-					<span class="letter"><a href="articles.php?letter=L">L</a></span>
-					<span class="letter"><a href="articles.php?letter=M">M</a></span>
-					<span class="letter"><a href="articles.php?letter=N">N</a></span>
-					<span class="letter"><a href="articles.php?letter=O">O</a></span>
-					<span class="letter"><a href="articles.php?letter=P">P</a></span>
-					<span class="letter"><a href="articles.php?letter=Q">Q</a></span>
-					<span class="letter"><a href="articles.php?letter=R">R</a></span>
-					<span class="letter"><a href="articles.php?letter=S">S</a></span>
-					<span class="letter"><a href="articles.php?letter=T">T</a></span>
-					<span class="letter"><a href="articles.php?letter=U">U</a></span>
-					<span class="letter"><a href="articles.php?letter=V">V</a></span>
-					<span class="letter"><a href="articles.php?letter=W">W</a></span>
-					<span class="letter"><a href="articles.php?letter=X">X</a></span>
-					<span class="letter"><a href="articles.php?letter=Y">Y</a></span>
-					<span class="letter"><a href="articles.php?letter=Z">Z</a></span>
-					<span class="letter"><a href="articles.php?letter=Special">#</a></span>
+<main class="container-fluid maincontent">
+		<div class="row justify-content-center gapAboveLarge">
+			<div class="col-sm-12 col-md-8">
+				<div class="extra-info-bar fixed-top">	
+					<h1 class="clr1 pt-5">Archive &gt; Titles</h1>
+					<div class="alphabet mt-2">
+						<span class="letter"><a href="articles.php?letter=A">A</a></span>
+						<span class="letter"><a href="articles.php?letter=B">B</a></span>
+						<span class="letter"><a href="articles.php?letter=C">C</a></span>
+						<span class="letter"><a href="articles.php?letter=D">D</a></span>
+						<span class="letter"><a href="articles.php?letter=E">E</a></span>
+						<span class="letter"><a href="articles.php?letter=F">F</a></span>
+						<span class="letter"><a href="articles.php?letter=G">G</a></span>
+						<span class="letter"><a href="articles.php?letter=H">H</a></span>
+						<span class="letter"><a href="articles.php?letter=I">I</a></span>
+						<span class="letter"><a href="articles.php?letter=J">J</a></span>
+						<span class="letter"><a href="articles.php?letter=K">K</a></span>
+						<span class="letter"><a href="articles.php?letter=L">L</a></span>
+						<span class="letter"><a href="articles.php?letter=M">M</a></span>
+						<span class="letter"><a href="articles.php?letter=N">N</a></span>
+						<span class="letter"><a href="articles.php?letter=O">O</a></span>
+						<span class="letter"><a href="articles.php?letter=P">P</a></span>
+						<span class="letter"><a href="articles.php?letter=Q">Q</a></span>
+						<span class="letter"><a href="articles.php?letter=R">R</a></span>
+						<span class="letter"><a href="articles.php?letter=S">S</a></span>
+						<span class="letter"><a href="articles.php?letter=T">T</a></span>
+						<span class="letter"><a href="articles.php?letter=U">U</a></span>
+						<span class="letter"><a href="articles.php?letter=V">V</a></span>
+						<span class="letter"><a href="articles.php?letter=W">W</a></span>
+						<span class="letter"><a href="articles.php?letter=X">X</a></span>
+						<span class="letter"><a href="articles.php?letter=Y">Y</a></span>
+						<span class="letter"><a href="articles.php?letter=Z">Z</a></span>
+						<span class="letter"><a href="articles.php?letter=Special">#</a></span>
+					</div>
+<?php include("include_secondary_nav.php");?>
 				</div>
+			</div>
+			<div class="col-sm-12 col-md-8 gapAboveLarge">		
 <?php
 
 include("connect.php");
@@ -43,7 +48,7 @@ if(isset($_GET['letter']))
 	
 	if(!(isValidLetter($letter)))
 	{
-		echo '<span class="aFeature clr2">Invalid URL</span>';
+		echo '<p class="aFeature clr2 mt-5 text-center">Invalid URL</p>';
 		echo '</div> <!-- cd-container -->';
 		echo '</div> <!-- cd-scrolling-bg -->';
 		echo '</main> <!-- cd-main-content -->';
@@ -111,7 +116,7 @@ if($num_rows > 0)
 }
 else
 {
-	echo '<span class="sml">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in Tattvaloka</span>';
+	echo '<p class="sml mt-5 text-center">Sorry! No articles were found to begin with the letter \'' . $letter . '\' in Tattvaloka</p>';
 }
 
 if($result){$result->free();}

@@ -1,8 +1,11 @@
 <?php include("include_header.php");?>
-<main class="cd-main-content">
-        <div class="cd-scrolling-bg cd-color-2">
-            <div class="cd-container">
-                <h1 class="clr1 gapBelowSmall">Archive &gt; Search Results</h1>
+<main class="container-fluid maincontent">
+        <div class="row justify-content-center gapAboveLarge">
+            <div class="col-sm-12 col-md-8">
+                <div class="extra-info-bar fixed-top">  
+                    <h1 class="clr1 pt-5">Archive &gt; Search Results</h1>
+<?php include("include_secondary_nav.php");?>
+                </div>    
 <?php
 
 include("connect.php");
@@ -143,7 +146,7 @@ $num_results = $result ? $result->num_rows : 0;
 
 if ($num_results > 0)
 {
-    echo '<div class="count">' . $num_results;
+    echo '<div class="count gapAboveLarge">' . $num_results;
     echo ($num_results > 1) ? ' results' : ' result';
     echo '</div>';
 }
@@ -207,7 +210,7 @@ if($num_rows > 0)
 }
 else
 {
-    echo '<a href="search.php" class="sml clr2">Sorry! No results. Hit the back button or click here to try again.</a>';
+    echo '<p class="gapAboveLarge text-center mt-5"><a href="search.php" class="sml clr2">Sorry! No results. Hit the back button or click here to try again.</a></p>';
 }
 
 if($result){$result->free();}

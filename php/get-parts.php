@@ -1,3 +1,15 @@
+<?php include("include_header.php");?>
+<main class="container mt-5 maincontent">
+		<div class="row justify-content-center gapAboveLarge">
+			<div class="col-sm-12 col-md-8">
+				<div class="extra-info-bar fixed-top">	
+					<h1 class="clr1 pt-5">Archive &gt; Issues</h1>
+<?php include("include_secondary_nav.php");?>
+				</div>		
+			</div>
+		</div>	
+		<div class="row justify-content-center volumes gapAboveLarge">
+
 <?php
 
 include("connect.php");
@@ -7,6 +19,14 @@ if(isset($_GET['volume'])){$volume = $_GET['volume'];}else{$volume = '';}
 
 if(!(isValidVolume($volume)))
 {
+
+	echo '<div class="col-sm-12 col-md-8">';
+	echo '<p class="aFeature clr2 text-center gapAboveLarge">Invalid URL</p>';
+	echo '</div> <!-- cd-container -->';
+	echo '</div> <!-- cd-scrolling-bg -->';
+	echo '</main> <!-- cd-main-content -->';
+	include("include_footer.php");
+
 	exit(1);
 }
 
@@ -14,34 +34,50 @@ $query = "select distinct part,month,year from article where volume='$volume' or
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 
-echo '<div id="issueHolder" class="issueHolder"><div class="issue">';
+
 
 if($num_rows > 0)
 {
-	$isFirst = 1;
+	// $isFirst = 1;
 	while($row = $result->fetch_assoc())
 	{
 		$part = $row['part'];
 		$dpart = preg_replace("/^0/", "", $part);
 		$dpart = preg_replace("/\-0/", "-", $dpart);
-		echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
+		//echo (($row['month'] == '01') && ($isFirst == 0)) ? '<div class="deLimiter">|</div>' : '';
 		$monthdetails = getMonth($row['month']) . ", " . $row['year'];
 		$monthdetails = preg_replace('/^,/', '', $monthdetails);
-		if($row['part'] == '99')
-		{
-			echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title=Special Issue>Special Issue</a></div>';
-		}
-		else
-		{
-			echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">Issue ' . $dpart . '</a></div>';
-		}
-		$isFirst = 0;
+		$imgName = $volume . '_' . $row['part'] . '.jpg';
+		$partName = ($row['part'] == '99' )? 'Special Issue' : 'Issue '. $dpart;
+		$monthdetails = ($row['part'] == '99' )? 'Special Issue' : $monthdetails;
+
+		echo '<div class="card col-1">';
+		echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'"><img src="img/covers/i/' . $imgName . '" class="img-fluid" alt="issue '. $dpart .'" /></a>';
+		echo '<div class="card-body">';
+		echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">'. $partName  .'</a>';
+		echo '</div>';
+		echo '</div>';
+
+
+		// if($row['part'] == '99')
+		// {
+		// 	echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title=Special Issue>Special Issue</a></div>';
+		// }
+		// else
+		// {
+		// 	echo '<div class="aIssue"><a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">Issue ' . $dpart . '</a></div>';
+		// }
+		// $isFirst = 0;
 	}
 }
 
-echo '</div></div>';
 
 if($result){$result->free();}
 $db->close();
 
 ?>
+
+		</div> <!-- cd-scrolling-bg -->
+	</main> <!-- cd-main-content -->
+
+<?php include("include_footer.php");?>
