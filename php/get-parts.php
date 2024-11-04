@@ -22,9 +22,9 @@ if(!(isValidVolume($volume)))
 
 	echo '<div class="col-sm-12 col-md-8">';
 	echo '<p class="aFeature clr2 text-center gapAboveLarge">Invalid URL</p>';
-	echo '</div> <!-- cd-container -->';
-	echo '</div> <!-- cd-scrolling-bg -->';
-	echo '</main> <!-- cd-main-content -->';
+	echo '</div>';
+	echo '</div>';
+	echo '</main>';
 	include("include_footer.php");
 
 	exit(1);
@@ -77,7 +77,7 @@ $db->close();
 
 ?>
 
-		</div> <!-- cd-scrolling-bg -->
-	</main> <!-- cd-main-content -->
+		</div>
+	</main>
 
 <?php include("include_footer.php");?>

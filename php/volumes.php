@@ -42,6 +42,6 @@ if($result){$result->free();}
 $db->close();
 
 ?>
-		</div> <!-- cd-scrolling-bg -->
-	</main> <!-- cd-main-content -->
+		</div> 
+	</main> 
 <?php include("include_footer.php");?>

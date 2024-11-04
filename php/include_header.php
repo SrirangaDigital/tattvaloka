@@ -10,15 +10,14 @@
 
 	<link rel="stylesheet" href="css/font.css"> <!-- Font style -->
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<link rel="stylesheet" href="css/style.css?v=1.1"> <!-- Resource style -->
 	<link rel="stylesheet" href="css/jquery-ui.css" /> <!-- jQuery UI style -->
 	<link rel="shortcut icon" type="image/ico" href="img/favicon.ico" />
 
 	<link href="css/font-awesome-4.1.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css" /> <!-- Icon gallery (fontAwesome) style -->
 
 
-	<script src="js/modernizr.js"></script> <!-- Modernizr -->
-	<script src="js/jquery-2.1.1.js"></script>
+	<script src="js/jquery-2.1.1.js"></script> 
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>  	
 	<title>Tattvaloka</title>
@@ -61,7 +60,7 @@
 			  <a class="nav-link" href="search.php">Search</a>
 			</li>
 			<li class="nav-item">
-			  <a class="nav-link" href="help.php">Help</a>
+			  <a class="nav-link" href="#">Help</a>
 			</li>
 		  </ul>
 		</div>

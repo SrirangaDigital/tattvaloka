@@ -1,5 +1,5 @@
 <?php include("include_header.php");?>
-<main class="container-fluid maincontent">
+<main class="container-fluid maincontent" data-bs-theme="dark">
 		<div class="row justify-content-center gapAboveLarge">
 			<div class="col-sm-12 col-md-8">
 				<div class="extra-info-bar fixed-top">	
@@ -49,9 +49,9 @@ if(isset($_GET['letter']))
 	if(!(isValidLetter($letter)))
 	{
 		echo '<p class="aFeature clr2 mt-5 text-center">Invalid URL</p>';
-		echo '</div> <!-- cd-container -->';
-		echo '</div> <!-- cd-scrolling-bg -->';
-		echo '</main> <!-- cd-main-content -->';
+		echo '</div>';
+		echo '</div>';
+		echo '</main>';
 		include("include_footer.php");
 
         exit(1);
@@ -123,7 +123,7 @@ if($result){$result->free();}
 $db->close();
 
 ?>
-			</div> <!-- cd-container -->
-		</div> <!-- cd-scrolling-bg -->
-	</main> <!-- cd-main-content -->
+			</div> 
+		</div> 
+	</main> 
 <?php include("include_footer.php");?>

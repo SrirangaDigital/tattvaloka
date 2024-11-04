@@ -218,7 +218,7 @@ $db->close();
 
 ?>
                 </div> <!-- article card -->
-            </div> <!-- cd-container -->
-        </div> <!-- cd-scrolling-bg -->
-    </main> <!-- cd-main-content -->
+            </div>
+        </div>
+    </main>
 <?php include("include_footer.php");?>

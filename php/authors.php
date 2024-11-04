@@ -52,9 +52,9 @@ if(isset($_GET['letter']))
 	if(!(isValidLetter($letter)))
 	{
 		echo '<span class="aFeature clr2">Invalid URL</span>';
-		echo '</div> <!-- cd-container -->';
-		echo '</div> <!-- cd-scrolling-bg -->';
-		echo '</main> <!-- cd-main-content -->';
+		echo '</div>';
+		echo '</div>';
+		echo '</main>';
 		include("include_footer.php");
 
 		exit(1);
@@ -100,6 +100,6 @@ if($result){$result->free();}
 $db->close();
 
 ?>
-		</div> <!-- cd-scrolling-bg -->
-	</main> <!-- cd-main-content -->
+		</div> 
+	</main> 
 <?php include("include_footer.php");?>
