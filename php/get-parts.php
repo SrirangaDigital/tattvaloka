@@ -51,7 +51,7 @@ if($num_rows > 0)
 		$partName = ($row['part'] == '99' )? 'Special Issue' : 'Issue '. $dpart;
 		$monthdetails = ($row['part'] == '99' )? 'Special Issue' : $monthdetails;
 
-		echo '<div class="card col-1">';
+		echo '<div class="card shadow col-1">';
 		echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'"><img src="img/covers/i/' . $imgName . '" class="img-fluid" alt="issue '. $dpart .'" /></a>';
 		echo '<div class="card-body">';
 		echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">'. $partName  .'</a>';

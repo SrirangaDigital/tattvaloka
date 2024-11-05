@@ -28,7 +28,7 @@ if($num_rows > 0)
 	while($row = $result->fetch_assoc())
 	{
 
-		echo '<div class="card col-sm-4 col-md-1">';
+		echo '<div class="card shadow col-sm-4 col-md-1">';
 		echo '<a href="get-parts.php?volume=' . $row['volume'] . '"><img src="img/covers/v/' . $row['volume'] . '.jpg" class="img-fluid" alt="volume '. intval($row['volume']) .'" /></a>';
 		echo '<div class="card-body">';
 		echo '<a href="get-parts.php?volume=' . $row['volume'] . '">Vol '. intval($row['volume']) .'</a>';
