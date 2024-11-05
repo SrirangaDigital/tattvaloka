@@ -114,7 +114,7 @@ $db->close();
 ?>
                                     </select>
                                 </div> 
-                                <div class="btn-group mt-4 text-right">
+                                <div class="btn-group mt-4 float-end">
                                     <input name="searchform" type="submit" class="btn btn-primary me-4" id="button_search" value="Search"/>
                                     <input name="resetform" type="reset" class="btn btn-primary" id="button_reset" value="Reset"/>
                                 </div>
