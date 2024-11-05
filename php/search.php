@@ -13,17 +13,13 @@ require_once("common.php");
 
 ?>
                 <div class="archive_search gapAboveLarge">
-                    <form method="get" action="search-result.php">
-                        <table>
-                            <tr>
-                                <td class="left"><label for="textfield2" class="titlespan">Title</label></td>
-                                <td class="right"><input name="title" type="text" class="titlespan wide" id="textfield2" maxlength="150"/></td>
-                            </tr>
-                            <tr>
-                                <td class="left"><label for="autocomplete" class="titlespan">Author</label></td>
-                                <td class="right"><input name="author" type="text" class="titlespan wide" id="autocomplete" maxlength="150" />
+                    <form method="get" action="search-result.php" class="row justify-content-center">
+                        <div class="col-11 col-md-5">
+                            <label for="textfield2" class="titlespan form-label">Title</label>
+                            <input name="title" type="text" class="form-control titlespan wide" id="textfield2" maxlength="150"/>
+                            <label for="autocomplete" class="form-label titlespan mt-2">Author</label>
+                            <input name="author" type="text" class="form-control titlespan wide" id="autocomplete" maxlength="150" />
 <?php
-
 $query_ac = "select * from author order by authorname";
 $result_ac = $db->query($query_ac);
 $num_rows_ac = $result_ac ? $result_ac->num_rows : 0;
@@ -39,16 +35,13 @@ if($num_rows_ac > 0)
     $source_ac = preg_replace("/^\, /", "", $source_ac);
 }
 
-echo $source_ac . ']});</script></td>';
-echo '</tr>';
+echo $source_ac . ']});</script>';
 if($result_ac){$result_ac->free();}
 
 ?>
-                            <tr>
-                                <td class="left"><label class="titlespan">Category</label></td>
-                                <td class="right">
-                                    <select name="featid" class="titlespan wide">
-                                        <option value="">&nbsp;</option>
+                        <label class="titlespan form-label mt-2">Category</label>
+                        <select name="featid" class="form-select titlespan wide">
+                            <option value="">&nbsp;</option>
 <?php
 
 $query = "select * from feature where feat_name != '' order by feat_name";
@@ -70,18 +63,13 @@ if($num_rows > 0)
 if($result){$result->free();}
 
 ?>
-                                    </select>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="left"><label for="textfield3" class="titlespan">Words</label></td>
-                                <td class="right"><input name="text" type="text" class="titlespan wide" id="textfield3" maxlength="150"/></td>
-                            </tr>
-                            <tr>
-                                <td class="left"><label class="titlespan">Year</label></td>
-                                <td class="right">
-                                    <select name="year1" class="titlespan">
-                                        <option value="">&nbsp;</option>
+                        </select>
+                        <label for="textfield3" class="titlespan form-label mt-2">Words</label>
+                        <input name="text" type="text" class="form-control titlespan wide" id="textfield3" maxlength="150"/>
+                        <label class="titlespan form-label mt-4">Year</label>
+                        <div class="input-group">
+                            <select name="year1" class="form-select">
+                                <option value="">&nbsp;</option>
 <?php
 
 $query = "select distinct year from article order by year";
@@ -103,8 +91,8 @@ if($result){$result->free();}
 
 ?>
                                     </select>
-                                    <span class="clr1">&nbsp;to&nbsp;</span>
-                                    <select name="year2" class="titlespan">
+                                    <span class="small">&nbsp;to&nbsp;</span>
+                                    <select name="year2" class="form-select">
                                         <option value="">&nbsp;</option>
 
 <?php
@@ -125,16 +113,12 @@ if($result){$result->free();}
 $db->close();
 ?>
                                     </select>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="left">&nbsp;</td>
-                                <td class="right">
-                                    <input name="searchform" type="submit" class="clr1 med" id="button_search" value="Search"/>
-                                    <input name="resetform" type="reset" class="clr1 med" id="button_reset" value="Reset"/>
-                                </td>
-                            </tr>
-                        </table>
+                                </div> 
+                                <div class="btn-group mt-4 text-right">
+                                    <input name="searchform" type="submit" class="btn btn-primary me-4" id="button_search" value="Search"/>
+                                    <input name="resetform" type="reset" class="btn btn-primary" id="button_reset" value="Reset"/>
+                                </div>
+                        </div>    
                     </form>
                 </div>
             </div> 
