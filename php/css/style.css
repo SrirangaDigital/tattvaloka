@@ -259,7 +259,7 @@ Modules - reusable parts of our design
   display: inline-block;
 }
 
-.archive_search {
+/*.archive_search {
   margin: 0em 0em 0em 3em;
   min-height: 30em;
   line-height: 1.5em;
@@ -301,7 +301,7 @@ Modules - reusable parts of our design
 
 .archive_search .med{
   width: 7em;
-}
+}*/
 
 .count{
   font-style: italic;
@@ -519,4 +519,8 @@ header nav ul.navbar-nav li a.dropdown-item:HOVER{
 
 .alignRight{
   text-align: right !important;
+}
+
+label{
+  font-size: 16px;
 }

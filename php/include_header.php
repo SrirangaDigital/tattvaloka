@@ -10,7 +10,7 @@
 
 	<link rel="stylesheet" href="css/font.css"> <!-- Font style -->
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="css/style.css?v=1.1"> <!-- Resource style -->
+	<link rel="stylesheet" href="css/style.css?v=1.2"> <!-- Resource style -->
 	<link rel="stylesheet" href="css/jquery-ui.css" /> <!-- jQuery UI style -->
 	<link rel="shortcut icon" type="image/ico" href="img/favicon.ico" />
 
