@@ -1,4 +1,4 @@
-<?php include("include_header.php");?>
+<?php include("../inc/include_header.php");?>
 <main class="container-fluid maincontent">
 		<div class="row justify-content-center gapAboveLarge">
 
@@ -77,4 +77,4 @@ $db->close();
 			</div>
 		</div>
 	</main>
-<?php include("include_footer.php");?>
+<?php include("../inc/include_footer.php");?>

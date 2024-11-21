@@ -3,10 +3,26 @@
 Primary style
 
 -------------------------------- */
+:root{
+  --main-text-color: #3d3536;
+  --navlink-hover-color: #9c581b;
+  --head-background-color: rgba(150, 75, 0, 0.5);
+  --site-background-color: #FFF;
+  --archive-icon-color: #AAA;
+  --article-download-color: #3372df;
+  --second-nav-background-color: #EEE;
+  --homepage-banner-background-color:rgba(255, 254, 204, 0.9);
+  --paralax-heading-h3: brown;
+  --breadcrumb-bar-color: #3372df;
+  --article-feature-color: #be0709;
+  --issue-color: #777;
+}
+
 @font-face {
  font-family: 'Siddhantaa';
  src: url('siddhanta.ttf');
 }
+
 
 html * {
   -webkit-font-smoothing: antialiased;
@@ -22,8 +38,8 @@ html * {
 body {
   font-size: 100%;
   font-family: "Roboto", sans-serif;
-  color: #3d3536;
-  background-color: white;
+  color: var(--main-text-color);
+  background-color: var(--site-background-color);
 }
 
 body, html {
@@ -49,23 +65,23 @@ Modules - reusable parts of our design
 -------------------------------- */
 
 .clr1{
-  color: #3372df !important;
+  color: var(--breadcrumb-bar-color) !important;
 }
 
 .clr2{
-  color: #be0709 !important;
+  color: var(--article-feature-color) !important;
 }
 
 .clr3{
-  color: #3d3536 !important;
+  color: var(--main-text-color) !important;
 }
 
 .clr4{
-  color: #9c581b !important;
+  color: var(--navlink-hover-color) !important;
 }
 
 .clr5{
-  color: #777 !important;
+  color: var(--issue-color)  !important;
 }
 
 
@@ -98,7 +114,6 @@ Modules - reusable parts of our design
 
 .archiveIcon{
   width: 140px;
-  color: #BBB;
   line-height: 0px;
   margin-bottom: 60px;
   text-align: center;
@@ -107,13 +122,13 @@ Modules - reusable parts of our design
 
 .archiveIcon a{
   display: inline-block;
-  color: #AAA;
+  color: var(--archive-icon-color);
   transition: color 0.3s ease-out;
   text-decoration: none;
 }
 
 .archiveIcon a:HOVER{
-  color: #9c581b;
+  color: var(--navlink-hover-color);
   transition: color 0.3s ease-out;
 }
 
@@ -145,7 +160,7 @@ Modules - reusable parts of our design
 }
 .article .download{
 	font-size:15px;
-	color: #3372df;
+	color: var(--article-download-color);
 }
 .article .aAuthor{
   font-size: 16px;
@@ -177,30 +192,6 @@ Modules - reusable parts of our design
   font-size: 16px;
 }
 
-.year{
-  margin: 30px 0 0 0;
-  box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
-  line-height: 1.5;
-  min-height: 30px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.year .aIssue{
-  font-size: 16px;
-  padding: 10px;
-  min-width: 80px;
-  text-align: center;
-}
-
-.year .aIssue:hover, .year .active{
-  background-color: #EEE;
-  border-radius: 10px 10px 0 0;
-  cursor: pointer;
-  box-shadow: 0px -1px 2px rgba(34, 25, 25, 0.4);
-}
 
 .alphabet .letter{
   font-size: 16px;
@@ -212,108 +203,23 @@ Modules - reusable parts of our design
   text-decoration: underline;
 }
 
-.issue{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  background-color: #EEE;  
-}
 
-.issueHolder{
-  margin: 0px auto 0 auto;
-  box-shadow: 0px 0px 2px rgba(34, 25, 25, 0.4);
-  line-height: 1.5;
-  display: none;
-}
-
-.issue .aIssue{
-  font-size: 14px;
-  font-weight: bold;
-  padding: 10px;
-}
-
-.issue .deLimiter{
-  font-size: 14px;
-  padding: 10px 0 10px 0;
-}
-
-.arrow-scroll {
-  bottom: 100px;
-  right: 40px;
-  cursor: pointer;
-  position: static;
-  position: absolute;
-  text-align: center;
-  background-color: white;
-  font-size: 40px;
-  border-radius: 50%;
-  min-width: 40px;
-  min-height: 40px;
-  opacity: 0.9;
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.4);
-  line-height: 1;
-}
 
 .moreNav{
   display: inline-block;
 }
-
-/*.archive_search {
-  margin: 0em 0em 0em 3em;
-  min-height: 30em;
-  line-height: 1.5em;
-  font-size: 0.9em;  
-}
-
-.archive_search table .left{
-  width: 67px;
-  height: 30px;
-  text-align: right;
-  padding: 1em 2em 1em 0;
-  vertical-align: middle;
-  border-right: 1px solid #CCCCCC;
-  color: #3372df !important;
-  font-weight: 400;
-}
-
-.archive_search table .right{
-  width: 180px;
-  text-align: left;
-  vertical-align: middle;
-  padding: 1em 0 1em 2em;
-}
-
-.archive_search input, .archive_search select{
-  background: none;
-  border: 1px solid #CCCCCC;
-  border-radius: 5px;
-  font-size: 16px;
-  font-family: "Roboto", sans-serif;
-  color: #555;
-  outline: none;
-  padding: 10px;
-}
-
-.archive_search .wide{
-  width: 20em;
-}
-
-.archive_search .med{
-  width: 7em;
-}*/
 
 .count{
   font-style: italic;
 }
 
 
-header #head{
-  background: #f4f4f4 url(../img/bg.png) top right;
+#head{
+  background-image: url(../img/bg.png);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: rgba(150, 75, 0, 0.5);
+  background-color: var(--head-background-color);
   height: 100vh;
   position: relative;
 }
@@ -325,14 +231,13 @@ header #head{
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(255, 254, 204, 0.9); /* Optional dark overlay */
+  background-color: var(--homepage-banner-background-color);
 }
 
 .parallax-content {
   position: relative;
   z-index: 2;
   text-align: center;
-  color: white;
   margin-top: 45vh;
   vertical-align: middle;
   height: 100%;
@@ -340,7 +245,7 @@ header #head{
 
 .parallax-content h3{
   text-align: center;
-  color: brown !important;
+  color: var(--paralax-heading-h3) !important;
   font-size: 3em;
   text-shadow: 0 0px 0px rgba(0,0,0,0.3);
 }
@@ -375,7 +280,7 @@ nav.cd-sec-main-nav ul li a{
 }
 
 nav.cd-sec-main-nav ul li a:HOVER{
-  color: #9c581b;
+  color: var(--navlink-hover-color);
   line-height: normal;
   background: transparent;
   transition: color 0.3s ease-out;
@@ -427,10 +332,14 @@ header nav ul.navbar-nav li a{
   background: transparent;
   padding: .6em 0em;
   border-top: none;
-  color: #3d3536;
+  color: var(--main-text-color);
   text-transform: uppercase;
   font-weight: bold;
   font-size: 0.875rem;
+}
+
+header nav ul.navbar-nav li a:HOVER{
+  color: var(--navlink-hover-color);
 }
 
 header nav ul.navbar-nav li.dropdown ul{
@@ -442,7 +351,7 @@ header nav ul.navbar-nav li a.dropdown-item{
 }
 
 header nav ul.navbar-nav li a.dropdown-item:HOVER{
-  color: #9c581b;
+  color: var(--navlink-hover-color);
   line-height: normal;
   background: transparent;
   transition: color 0.3s ease-out;
@@ -457,51 +366,12 @@ header nav ul.navbar-nav li a.dropdown-item:HOVER{
   text-align: center;
   border-bottom: 1px solid #ccc;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  background-color: #FFF;
+  background-color: var(--second-nav-background-color);
   text-align: center;
-}
-
-
-.bgClr1{
-  opacity: 0.5;
-  background-color: #f2c472;
-}
-
-.bgClr2{
-  opacity: 0.7;
-  background-color: #518FD9;
-}
-
-.bgClr3{
-  opacity: 0.7;
-  background-color: #ffffff;
-}
-
-.bgClr4{
-  opacity: 0.5;
-  background-color: #f2c472;
-}
-
-.bgClr5{
-  opacity: 0.7;
-  background-color: #BEDCFF;
-}
-
-.bgClr6{
-  opacity: 0.75;
-  background-color: #fff;
 }
 
 .itl{
   font-style: italic;
-}
-
-.fRight{
-  float: right;  
-}
-
-.fSan{
-  font-family: Siddhanta;
 }
 
 .sml{
@@ -512,15 +382,13 @@ header nav ul.navbar-nav li a.dropdown-item:HOVER{
   font-weight: bold !important;
 }
 
-.alignLeft{
-  text-align: left !important;
-  padding-left: 50px;
-}
-
-.alignRight{
-  text-align: right !important;
-}
-
 label{
   font-size: 16px;
+}
+
+footer {
+  font-size: 14px;
+  margin-top: 50px !important;
+  margin-bottom: 16px !important;
+  text-align: center; 
 }

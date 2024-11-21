@@ -1,4 +1,4 @@
-<?php include("include_header.php");?>
+<?php include("../inc/include_header.php");?>
 <main class="cd-main-content">
 		<div class="cd-scrolling-bg cd-color-2">
 			<div class="cd-container sml">
@@ -110,4 +110,4 @@
 			</div>
 		</div>
 	</main>
-<?php include("include_footer.php");?>
+<?php include("../inc/include_footer.php");?>
