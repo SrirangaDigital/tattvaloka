@@ -12,7 +12,7 @@
 	<div class="container-fluid mt-5 maincontent">
 		<div class="row justify-content-center">
 			<div class="col-md-8">
-				<h2 class="clr4 my-5">The Archive</h2>
+				<h2 class="clr2 my-5">The Archive</h2>
 			</div>
 			<div class="col-md-8">
 

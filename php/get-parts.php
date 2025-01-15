@@ -54,7 +54,7 @@ if($num_rows > 0)
 		echo '<div class="card shadow col-1">';
 		echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'"><img src="img/covers/i/' . $imgName . '" class="img-fluid" alt="issue '. $dpart .'" /></a>';
 		echo '<div class="card-body">';
-		echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">'. $partName  .'</a>';
+		echo '<a href="toc.php?vol=' . $volume . '&amp;part=' . $row['part'] . '" title="'. $monthdetails .'">' . $partName  . '<br /><span class="monthdisplay badge text-bg-secondary">' . getMonth($row['month']) . '</span><br /><span class="small badge text-bg-warning">' .  $row['year']  . '</span></a>';
 		echo '</div>';
 		echo '</div>';
 

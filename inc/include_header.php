@@ -11,15 +11,25 @@
 
 	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/font.css"> <!-- Font style -->
 	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/style.css?v=1.2"> <!-- Resource style -->
+	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/style.css?v=1.3"> <!-- Resource style -->
 	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/jquery-ui.css" /> <!-- jQuery UI style -->
 	<link rel="shortcut icon" type="image/ico" href="<?php echo $base_url; ?>php/img/favicon.ico" />
 
 	<link href="<?php echo $base_url; ?>php/css/font-awesome-4.1.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css" /> <!-- Icon gallery (fontAwesome) style -->
 
+	<script>
+
+        if(localStorage.getItem('darkMode') === 'false' || localStorage.getItem('darkMode') === undefined || localStorage.getItem('darkMode') === null)
+			document.body.classList.remove('dark-mode');
+		else
+			document.body.classList.add('dark-mode');
+
+    </script>
+
 
 	<script type="text/javascript" src="<?php echo $base_url; ?>php/js/jquery-2.1.1.js"></script> 
 	<script type="text/javascript" src="<?php echo $base_url; ?>php/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="<?php echo $base_url; ?>php/js/main.js?v=1.1"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>  	
 	<title>Tattvaloka</title>
 </head>
@@ -27,7 +37,7 @@
 
 <header>
 
-	<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+	<nav class="navbar navbar-expand-lg fixed-top">
 	  <div class="container-fluid">
 		<a class="navbar-brand" href="#">
 		      <img src="<?php echo $base_url; ?>php/img/logo.gif" class="img-fluid" alt="Tattvaloka logo" />
@@ -38,7 +48,7 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		  <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 			<li class="nav-item">
-			  <a class="nav-link active" aria-current="page" href="../index.php">Home</a>
+			  <a class="nav-link active" aria-current="page" href="<?php echo $base_url; ?>index.php">Home</a>
 			</li>
 			<li class="nav-item">
 			  <a class="nav-link" href="#">About</a>
@@ -59,6 +69,9 @@
         	</li>
 			<li class="nav-item">
 			  <a class="nav-link" href="<?php echo $base_url; ?>php/search.php">Search</a>
+			</li>
+			<li class="nav-item">
+			  <a><i id="theme-toggler" class="fa fa-sun-o" aria-hidden="true"></i></a>
 			</li>
 		  </ul>
 		</div>

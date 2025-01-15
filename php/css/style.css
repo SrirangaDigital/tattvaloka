@@ -11,17 +11,31 @@ Primary style
   --archive-icon-color: #AAA;
   --article-download-color: #3372df;
   --second-nav-background-color: #EEE;
+  --second-nav-links-color: #3d3536;
   --homepage-banner-background-color:rgba(255, 254, 204, 0.9);
   --paralax-heading-h3: brown;
-  --breadcrumb-bar-color: #3372df;
+  --breadcrumb-bar-color: #3372df;  
+  --article-border-color: #3372df;
   --article-feature-color: #be0709;
   --issue-color: #777;
+  --nav-bg-color: rgb(248, 249, 250);
 }
 
 @font-face {
  font-family: 'Siddhantaa';
  src: url('siddhanta.ttf');
 }
+
+.dark-mode{
+  --site-background-color: #818589;
+  --main-text-color: #FFF;  
+  --head-background-color: rgba(96, 130, 182, 0.5);
+  --article-border-color: #d3dff5;
+  --article-feature-color: #f5c4c5;
+  --issue-color: #bff5eb;
+  --nav-bg-color: rgb(206, 212, 218);
+}
+
 
 
 html * {
@@ -148,7 +162,7 @@ Modules - reusable parts of our design
   box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
   line-height: 1.5;
   min-height: 50px;
-  border-left: 5px solid #3372df;
+  border-left: 5px solid var(--article-border-color);
 }
 
 .article:hover{
@@ -194,6 +208,7 @@ Modules - reusable parts of our design
 
 
 .alphabet .letter{
+  color: var(--second-nav-links-color);
   font-size: 16px;
   margin-right: 10px;
 }
@@ -262,8 +277,18 @@ Modules - reusable parts of our design
 
 .volumes .card-body{
   font-size: 16px;
-  padding: 0px 0px;
+  padding: 4px 0px;
   text-align: center;
+  line-height: 1.3;
+}
+
+.monthdisplay{
+  font-size: 13px !important;
+}
+
+
+nav.navbar{
+  background-color: var(--nav-bg-color);
 }
 
 nav.cd-sec-main-nav ul{
@@ -277,6 +302,7 @@ nav.cd-sec-main-nav ul li{
 
 nav.cd-sec-main-nav ul li a{
   font-size: 16px;
+  color: var(--second-nav-links-color);
 }
 
 nav.cd-sec-main-nav ul li a:HOVER{
@@ -332,7 +358,7 @@ header nav ul.navbar-nav li a{
   background: transparent;
   padding: .6em 0em;
   border-top: none;
-  color: var(--main-text-color);
+/*  color: var(--main-text-color);*/
   text-transform: uppercase;
   font-weight: bold;
   font-size: 0.875rem;
@@ -341,6 +367,14 @@ header nav ul.navbar-nav li a{
 header nav ul.navbar-nav li a:HOVER{
   color: var(--navlink-hover-color);
 }
+
+
+i#theme-toggler{
+  color: #000;
+  font-size: 24px;
+}
+
+.dropdown-menu { background-color: #CCC !important; }
 
 header nav ul.navbar-nav li.dropdown ul{
   padding: 1em 1em;

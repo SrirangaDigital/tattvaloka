@@ -28,10 +28,17 @@ if($num_rows > 0)
 	while($row = $result->fetch_assoc())
 	{
 
+		$yearString = getYear($row['volume']);
+
 		echo '<div class="card shadow col-sm-4 col-md-1">';
 		echo '<a href="get-parts.php?volume=' . $row['volume'] . '"><img src="img/covers/v/' . $row['volume'] . '.jpg" class="img-fluid" alt="volume '. intval($row['volume']) .'" /></a>';
 		echo '<div class="card-body">';
-		echo '<a href="get-parts.php?volume=' . $row['volume'] . '">Vol '. intval($row['volume']) .'</a>';
+		
+		if($yearString)	
+			echo '<a href="get-parts.php?volume=' . $row['volume'] . '">Vol '. intval($row['volume']) .'<br /><span class="small badge text-bg-warning">('. $yearString .')</span></a>';
+		else
+			echo '<a href="get-parts.php?volume=' . $row['volume'] . '">Vol '. intval($row['volume']) .'</a>';
+
 		echo '</div>';
 		echo '</div>';
 
