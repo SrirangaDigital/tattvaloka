@@ -11,7 +11,7 @@
 
 	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/font.css"> <!-- Font style -->
 	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/style.css?v=1.3"> <!-- Resource style -->
+	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/style.css?v=1.4"> <!-- Resource style -->
 	<link rel="stylesheet" href="<?php echo $base_url; ?>php/css/jquery-ui.css" /> <!-- jQuery UI style -->
 	<link rel="shortcut icon" type="image/ico" href="<?php echo $base_url; ?>php/img/favicon.ico" />
 
