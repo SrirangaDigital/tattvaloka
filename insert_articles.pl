@@ -18,7 +18,7 @@ $sth11d=$dbh->prepare("DROP TABLE IF EXISTS article");
 $sth11d->execute();
 $sth11d->finish();
 
-$sth_enc=$dbh->prepare("set names utf8");
+$sth_enc=$dbh->prepare("set names utf8mb4");
 $sth_enc->execute();
 $sth_enc->finish();
 
@@ -32,7 +32,7 @@ volume varchar(3),
 part varchar(10),
 year varchar(10), 
 month varchar(10),
-titleid varchar(30), primary key(titleid)) ENGINE=MyISAM character set utf8 collate utf8_general_ci;");
+titleid varchar(30), primary key(titleid)) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4;");
 $sth11r->execute();
 $sth11r->finish();
 
