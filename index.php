@@ -4,10 +4,14 @@
 		<div class="headbanner">
 			<div class="parallax-content">
 				<img src="php/img/logo.gif" alt="" />
-				<h3>The Archive</h3>
+				<h3>The Archives</h3>
+				<p></p>
+				<br />
+				<p class="fKan"  style="font-size: 25px;line-height: 1.5; color: #8B0000;"><a href="https://tattvaloka.com/subscription">Subscription</a></p>
 			</div>
 		</div>
 	</div>
+	
 
 	<div class="container-fluid mt-5 maincontent">
 		<div class="row justify-content-center">
